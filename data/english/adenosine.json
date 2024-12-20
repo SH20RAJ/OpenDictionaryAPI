@@ -1,0 +1,37 @@
+[
+    {
+        "word": "adenosine",
+        "phonetic": "/\u0259\u02c8d\u025bn\u0259(\u028a)si\u02d0n/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8d\u025bn\u0259(\u028a)si\u02d0n/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8d\u025bn\u0259s\u0259n/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A nucleoside derived from adenine and ribose, found in striated muscle tissue.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adenosine"
+        ]
+    }
+]

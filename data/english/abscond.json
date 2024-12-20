@@ -1,0 +1,70 @@
+[
+    {
+        "word": "abscond",
+        "phonetic": "/\u0259b\u02c8sk\u0252nd/",
+        "phonetics": [
+            {
+                "text": "/\u0259b\u02c8sk\u0252nd/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259b\u02c8sk\u0251nd/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To flee, often secretly; to steal away, particularly to avoid arrest or prosecution.",
+                        "synonyms": [
+                            "flee",
+                            "run away",
+                            "steal away"
+                        ],
+                        "antonyms": [],
+                        "example": "The thieves absconded with our property."
+                    },
+                    {
+                        "definition": "To withdraw from.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To evade, to hide or flee from.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The captain absconded his responsibility."
+                    },
+                    {
+                        "definition": "To conceal; to take away.",
+                        "synonyms": [
+                            "conceal"
+                        ],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To hide, to be in hiding or concealment.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "conceal",
+                    "flee",
+                    "run away",
+                    "steal away"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abscond"
+        ]
+    }
+]

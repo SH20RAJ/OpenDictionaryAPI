@@ -1,0 +1,28 @@
+[
+    {
+        "word": "acari",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "(acarology) Any member of the subclass Acari (aka Acarina): thus, a mite or a tick; specifically, any mite of the genus Acarus.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acari",
+            "https://en.wiktionary.org/wiki/acarus"
+        ]
+    }
+]

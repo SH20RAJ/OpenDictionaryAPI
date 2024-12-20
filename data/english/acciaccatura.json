@@ -1,0 +1,37 @@
+[
+    {
+        "word": "acciaccatura",
+        "phonetic": "/\u0259\u02cct\u0283\u00e6k\u0259\u02c8tj\u028a\u0259\u0279\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02cct\u0283\u00e6k\u0259\u02c8tj\u028a\u0259\u0279\u0259/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02cct\u0283\u0251k\u0259\u02c8t\u028a\u0279\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A short grace note (theoretically taking no time at all), occurring on the beat occupied by the main note to which it is prefixed, one scale-step higher or lower than that main note. (Sometimes equivalent, therefore, to a short appoggiatura, but in Baroque music interpreted differently and more strictly.) Written as a note lighter in appearance, typically a quaver (eighth note), with an oblique stroke through the stem.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acciaccatura"
+        ]
+    }
+]

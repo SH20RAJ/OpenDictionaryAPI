@@ -1,0 +1,75 @@
+[
+    {
+        "word": "abundant",
+        "phonetic": "/\u0259\u02c8b\u028cn.dn\u0329t/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8b\u028cn.dn\u0329t/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8bn\u0329.dn\u0329t/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abundant-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1755054",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Fully sufficient; found in copious supply; in great quantity; overflowing.",
+                        "synonyms": [],
+                        "antonyms": [
+                            "rare",
+                            "scarce"
+                        ],
+                        "example": "[W]ith their magical words they [poets] bring forth to our eyesight the abundant images and beauties of creation. \u2014 Leigh Hunt, On the Realities of Imagination"
+                    },
+                    {
+                        "definition": "Richly supplied; wealthy; possessing in great quantity.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Abundant in goodness and truth. \u2014 Exodus, 34:6"
+                    },
+                    {
+                        "definition": "Being an abundant number, i.e. less than the sum of all of its divisors except itself.",
+                        "synonyms": [],
+                        "antonyms": [
+                            "deficient"
+                        ]
+                    }
+                ],
+                "synonyms": [
+                    "ample",
+                    "bountiful",
+                    "copious",
+                    "exuberant",
+                    "liberal",
+                    "overflowing",
+                    "plenteous",
+                    "plentiful",
+                    "profuse",
+                    "rich",
+                    "teeming"
+                ],
+                "antonyms": [
+                    "deficient",
+                    "rare",
+                    "scarce"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abundant"
+        ]
+    }
+]

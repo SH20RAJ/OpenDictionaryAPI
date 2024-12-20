@@ -1,0 +1,41 @@
+[
+    {
+        "word": "acanthus",
+        "phonetic": "/\u0259\u02c8k\u00e6n.\u03b8\u0259s/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8k\u00e6n.\u03b8\u0259s/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8k\u00e6n.\u03b8\u0259s/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A member of the genus Acanthus of herbaceous prickly plants with toothed leaves, (family Acanthaceae, order Scrophulariales) found in the south of Europe, Asia Minor, and India.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "bear's breech",
+                    "bear's breeches",
+                    "bear's-breech"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acanthus"
+        ]
+    }
+]

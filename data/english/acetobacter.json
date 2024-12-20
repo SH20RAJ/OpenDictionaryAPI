@@ -1,0 +1,27 @@
+[
+    {
+        "word": "acetobacter",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any of the genus Acetobacter of acetic acid bacteria characterized by the ability to convert ethanol to acetic acid in the presence of oxygen, and used in the commercial production of vinegar.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acetobacter"
+        ]
+    }
+]

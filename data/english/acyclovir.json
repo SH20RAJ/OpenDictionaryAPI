@@ -1,0 +1,39 @@
+[
+    {
+        "word": "acyclovir",
+        "phonetic": "/e\u026a\u02c8s\u026akl\u0259v\u026a\u0259/",
+        "phonetics": [
+            {
+                "text": "/e\u026a\u02c8s\u026akl\u0259v\u026a\u0259/",
+                "audio": ""
+            },
+            {
+                "text": "/e\u026a \u02c8sa\u026a klo\u028a vi\u0279/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An antiviral drug used in the treatment of genital herpes.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "acycloguanosine"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acyclovir"
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "word": "adduction",
+        "phonetic": "/\u0259\u02c8d\u028ck.\u0283n\u0329/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8d\u028ck.\u0283n\u0329/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The act of adducing or bringing forward.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The action by which the parts of the body are drawn towards its axis; -- opposed to abduction.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adduction"
+        ]
+    }
+]

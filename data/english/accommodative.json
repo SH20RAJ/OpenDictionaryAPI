@@ -1,0 +1,33 @@
+[
+    {
+        "word": "accommodative",
+        "phonetic": "/\u0259.\u02c8k\u0252m.\u0259.\u02ccde\u026at.\u026av/",
+        "phonetics": [
+            {
+                "text": "/\u0259.\u02c8k\u0252m.\u0259.\u02ccde\u026at.\u026av/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Supplying with or obliging; accommodating.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/accommodative"
+        ]
+    }
+]

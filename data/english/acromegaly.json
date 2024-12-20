@@ -1,0 +1,31 @@
+[
+    {
+        "word": "acromegaly",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A chronic disease marked by enlargement of the bones of the extremities, face, and jaw that is caused by over-activity of the pituitary gland.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "Marie's disease",
+                    "acromegalia",
+                    "acromegaloidism"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acromegaly"
+        ]
+    }
+]

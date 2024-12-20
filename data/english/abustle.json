@@ -1,0 +1,49 @@
+[
+    {
+        "word": "abustle",
+        "phonetic": "/\u0259\u02c8b\u028cs.l\u0329/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8b\u028cs.l\u0329/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8b\u028cs.l\u0329/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Showing much activity.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "Bustling, busy.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abustle"
+        ]
+    }
+]

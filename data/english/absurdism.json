@@ -1,0 +1,42 @@
+[
+    {
+        "word": "absurdism",
+        "phonetic": "/\u0259b\u02c8s\u025c\u02d0d\u02cc\u026az.m\u0329/",
+        "phonetics": [
+            {
+                "text": "/\u0259b\u02c8s\u025c\u02d0d\u02cc\u026az.m\u0329/",
+                "audio": ""
+            },
+            {
+                "text": "/\u00e6b\u02c8s\u025dd\u02cc\u026az.m\u0329/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A philosophy which holds that the universe is chaotic and irrational and that any attempt to impose order will ultimately fail.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Absurdity, something that is absurd",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/absurdism"
+        ]
+    }
+]

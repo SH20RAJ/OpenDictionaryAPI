@@ -1,0 +1,59 @@
+[
+    {
+        "word": "absinthe",
+        "phonetic": "/\u02c8\u00e6b.s\u00e6n\u03b8/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6b.s\u00e6n\u03b8/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6b.s\u00e6\u0303\u03b8/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The herb absinthium Artemisia absinthium (grande wormwood); essence of wormwood.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Bitterness; sorrow.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A distilled, highly alcoholic, anise-flavored liquor originally made from grande wormwood, anise, and other herbs.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A moderate yellow green; absinthe green.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Sagebrush.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "green fairy"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/absinthe"
+        ]
+    }
+]

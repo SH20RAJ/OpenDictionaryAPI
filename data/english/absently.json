@@ -1,0 +1,36 @@
+[
+    {
+        "word": "absently",
+        "phonetic": "/\u02c8\u00e6b.sn\u0329t.li/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6b.sn\u0329t.li/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "In an absent-minded or abstracted manner.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "absent-mindedly",
+                    "abstractedly"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/absently"
+        ]
+    }
+]

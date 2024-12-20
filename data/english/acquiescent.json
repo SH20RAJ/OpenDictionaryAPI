@@ -1,0 +1,41 @@
+[
+    {
+        "word": "acquiescent",
+        "phonetic": "/\u00e6\u02c8kwi.\u025bsn\u0329t/",
+        "phonetics": [
+            {
+                "text": "/\u00e6\u02c8kwi.\u025bsn\u0329t/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Willing to acquiesce, accept or agree to something without objection, protest or resistance",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Resting satisfied or submissive; disposed tacitly to submit",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "an acquiescent policy"
+                    }
+                ],
+                "synonyms": [
+                    "complicit"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acquiescent"
+        ]
+    }
+]

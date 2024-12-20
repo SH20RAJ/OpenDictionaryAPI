@@ -1,0 +1,52 @@
+[
+    {
+        "word": "acajou",
+        "phonetic": "/\u02c8\u00e6.k\u0259.\u0292u\u02d0/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6.k\u0259.\u0292u\u02d0/",
+                "audio": ""
+            },
+            {
+                "text": "/a.ka\u02c8\u0292u/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The cashew tree.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A cashew nut.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The wood from the mahogany tree or other trees from the family Meliaceae.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A moderate reddish brown that is slightly yellower and stronger than mahogany",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acajou"
+        ]
+    }
+]

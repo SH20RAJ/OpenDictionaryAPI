@@ -1,0 +1,37 @@
+[
+    {
+        "word": "adaptationism",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The view that many traits of organisms are evolved adaptations.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A set of methods for distinguishing traits resulting from adaptation from those arising through other processes.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The belief that all traits are adaptations brought about by natural selection, when some are only functionless by-products (also called \"spandrels\").",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adaptationism"
+        ]
+    }
+]

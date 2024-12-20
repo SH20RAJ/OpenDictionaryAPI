@@ -1,0 +1,46 @@
+[
+    {
+        "word": "achiote",
+        "phonetic": "/\u02cc\u0251ki\u02d0\u02c8o\u028ati/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u0251ki\u02d0\u02c8o\u028ati/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A tropical American evergreen shrub, Bixa orellana; the lipstick tree.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The seed of this tree used as a colouring or in Latin American cooking.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An orange-red dye obtained from this seed.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "E160b",
+                    "annatto"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/achiote"
+        ]
+    }
+]

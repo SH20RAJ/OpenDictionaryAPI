@@ -1,0 +1,51 @@
+[
+    {
+        "word": "abundantly",
+        "phonetic": "/\u0259\u02c8b\u028cn.dn\u0329t.li/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8b\u028cn.dn\u0329t.li/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8bn\u0329.dn\u0329t.li/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abundantly-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1714660"
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "In an abundant manner; in a sufficient degree; in large measure.",
+                        "synonyms": [
+                            "amply",
+                            "fully",
+                            "plentifully"
+                        ],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Extremely.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "amply",
+                    "fully",
+                    "plentifully"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abundantly"
+        ]
+    }
+]

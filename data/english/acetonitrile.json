@@ -1,0 +1,33 @@
+[
+    {
+        "word": "acetonitrile",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The simplest organic cyanide or nitrile, CH3CN, formally derived from acetic acid",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "cyanomethane",
+                    "ethanenitrile",
+                    "ethyl nitrile",
+                    "methanecarbonitrile",
+                    "methyl cyanide"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acetonitrile"
+        ]
+    }
+]

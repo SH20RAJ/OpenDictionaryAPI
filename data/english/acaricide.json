@@ -1,0 +1,33 @@
+[
+    {
+        "word": "acaricide",
+        "phonetic": "/\u0259.\u02c8k\u025b\u0279.\u0259.\u02ccsid/",
+        "phonetics": [
+            {
+                "text": "/\u0259.\u02c8k\u025b\u0279.\u0259.\u02ccsid/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any substance which kills acarids (mites and ticks).",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acaricide"
+        ]
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "word": "absolutely",
+        "phonetic": "/\u00e6b.s\u0259\u02c8l(j)u\u02d0t.l\u026a/",
+        "phonetics": [
+            {
+                "text": "/\u00e6b.s\u0259\u02c8l(j)u\u02d0t.l\u026a/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6b.s\u0259\u02cclut.li/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/absolutely-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1230197",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "In an absolute or unconditional manner; utterly, positively, wholly.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Independently; viewed without relation to other things or factors.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(grammar) In a manner that does not take an object.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "interjection",
+                "definitions": [
+                    {
+                        "definition": "Yes; certainly; expression indicating strong agreement.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Do you want a free cookie with that coffee?\nAbsolutely!"
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/absolutely"
+        ]
+    }
+]

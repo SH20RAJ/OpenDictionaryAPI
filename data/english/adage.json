@@ -1,0 +1,42 @@
+[
+    {
+        "word": "adage",
+        "phonetic": "/\u02c8\u00e6.d\u026ad\u0292/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6.d\u026ad\u0292/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An old saying which has obtained credit by long use",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An old saying which has been overused or considered a clich\u00e9; a trite maxim",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "apophthegm",
+                    "colloquialism",
+                    "proverb"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adage"
+        ]
+    }
+]

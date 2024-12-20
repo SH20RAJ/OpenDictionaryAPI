@@ -1,0 +1,44 @@
+[
+    {
+        "word": "actuator",
+        "phonetic": "/\u02c8\u00e6k.tju\u02d0.e\u026at.\u0259(\u0279)/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6k.tju\u02d0.e\u026at.\u0259(\u0279)/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Something that actuates something else, especially a usually electric device that causes a mechanical device (i.e. a mechanism) to be switched on or off, for example an electric motor that opens and closes a valve",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The mind is the actuator of the body."
+                    },
+                    {
+                        "definition": "The mechanism that moves the head assembly on a disk drive",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A relay that controls the flow of electricity",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/actuator"
+        ]
+    }
+]

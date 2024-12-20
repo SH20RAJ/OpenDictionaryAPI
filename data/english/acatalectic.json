@@ -1,0 +1,45 @@
+[
+    {
+        "word": "acatalectic",
+        "phonetic": "/\u02cce\u026a.\u02cck\u00e6t.\u0259.\u02c8l\u025bk.t\u026ak/",
+        "phonetics": [
+            {
+                "text": "/\u02cce\u026a.\u02cck\u00e6t.\u0259.\u02c8l\u025bk.t\u026ak/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A verse which has the complete number of feet and syllables",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Designating a line of verse having the required number of syllables in the last foot.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acatalectic"
+        ]
+    }
+]

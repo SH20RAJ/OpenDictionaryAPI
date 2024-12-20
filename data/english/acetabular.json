@@ -1,0 +1,43 @@
+[
+    {
+        "word": "acetabular",
+        "phonetic": "/\u02cc\u00e6s\u026a\u02c8t\u00e6bj\u028al\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6s\u026a\u02c8t\u00e6bj\u028al\u0259/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02cc\u00e6s\u026a\u02c8t\u00e6bj\u0259l\u025a/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/acetabular-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=689202"
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Cup-shaped; saucer-shaped; acetabuliform",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Related to the acetabulum",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acetabular"
+        ]
+    }
+]

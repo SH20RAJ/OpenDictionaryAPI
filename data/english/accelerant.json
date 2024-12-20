@@ -1,0 +1,49 @@
+[
+    {
+        "word": "accelerant",
+        "phonetic": "/\u0259k\u02c8s\u025bl\u0259\u0279\u0259nt/",
+        "phonetics": [
+            {
+                "text": "/\u0259k\u02c8s\u025bl\u0259\u0279\u0259nt/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/accelerant-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=80175014"
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any substance that can bond, mix, or disturb another substance and cause an increase in the speed of a natural or artificial chemical process.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A substance that accelerates the development of a fire; especially some petroleum product used to spread an act of arson",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A substance used to catalyze the vulcanization of rubber",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(metaphoric) Something that speeds up a process or speeds up the uptake of something.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/accelerant"
+        ]
+    }
+]

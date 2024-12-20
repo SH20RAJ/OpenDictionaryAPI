@@ -1,0 +1,56 @@
+[
+    {
+        "word": "acrimonious",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/acrimonious-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75729324",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u02cc\u00e6k.\u0279\u026a.\u02c8m\u0259\u028a\u032f.n\u026a.\u0259s/",
+                "audio": ""
+            },
+            {
+                "text": "/-\u0279\u0259-/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Harsh and sharp, or bitter and not pleasant to the taste; acrid, pungent.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Angry, acid, and sharp in delivering argumentative replies: bitter, mean-spirited, sharp in language or tone.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "acerb",
+                    "acerbic",
+                    "bitter",
+                    "rancorous"
+                ],
+                "antonyms": [
+                    "nonacrimonious"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acrimonious"
+        ]
+    }
+]

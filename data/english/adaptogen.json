@@ -1,0 +1,27 @@
+[
+    {
+        "word": "adaptogen",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any natural herbal substance (such as ginseng) that is supposed to help the body adapt to stress, and to exert a normalizing effect upon body functions.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adaptogen"
+        ]
+    }
+]

@@ -1,0 +1,76 @@
+[
+    {
+        "word": "accretion",
+        "phonetic": "/\u0259.\u02c8k\u0279i.\u0283\u0259n/",
+        "phonetics": [
+            {
+                "text": "/\u0259.\u02c8k\u0279i.\u0283\u0259n/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The act of increasing by natural growth; especially the increase of organic bodies by the internal accession of parts; organic growth.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The act of increasing, or the matter added, by an accession of parts externally; an extraneous addition",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "A mineral ... augments not by growth, but by accretion."
+                    },
+                    {
+                        "definition": "Something added externally to promote growth the external growth of an item.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Concretion; coherence of separate particles",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "the accretion of particles so as to form a solid mass"
+                    },
+                    {
+                        "definition": "A growing together of parts naturally separate, as of the fingers or toes.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The gradual increase of land by deposition of water-borne sediment.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The adhering of property to something else, by which the owner of one thing becomes possessed of a right to another; generally, gain of land by the washing up of sand or sail from the sea or a river, or by a gradual recession of the water from the usual watermark.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Gain to an heir or legatee; failure of a coheir to the same succession, or a co-legatee of the same thing, to take his share percentage.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "growth"
+                ],
+                "antonyms": [
+                    "attrition",
+                    "decay",
+                    "erosion"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/accretion"
+        ]
+    }
+]

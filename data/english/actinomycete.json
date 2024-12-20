@@ -1,0 +1,35 @@
+[
+    {
+        "word": "actinomycete",
+        "phonetic": "/\u02cc\u00e6kt\u026an\u0259\u02c8ma\u026asi\u02d0t/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6kt\u026an\u0259\u02c8ma\u026asi\u02d0t/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any of various filamentous or rod-shaped bacteria, of the order Actinomycetales, that resemble fungi. Some actinomycetes are pathogens and some are sources of antibiotics.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "actinobacterium"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/actinomycete"
+        ]
+    }
+]

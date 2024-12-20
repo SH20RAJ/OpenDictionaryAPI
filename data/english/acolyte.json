@@ -1,0 +1,50 @@
+[
+    {
+        "word": "acolyte",
+        "phonetic": "/\u02c8\u00e6.k\u0259.la\u026at/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6.k\u0259.la\u026at/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/acolyte-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1762558",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "One who has received the highest of the four minor orders in the Catholic Church, being ordained to carry the wine, water and lights at Mass.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An altar server.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An attendant, assistant or follower.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "sidekick"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acolyte"
+        ]
+    }
+]

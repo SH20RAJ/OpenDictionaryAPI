@@ -1,0 +1,55 @@
+[
+    {
+        "word": "accurst",
+        "phonetic": "/\u00e6\u02c8k\u025c\u02d0st/",
+        "phonetics": [
+            {
+                "text": "/\u00e6\u02c8k\u025c\u02d0st/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To devote to destruction; to imprecate misery or evil upon; to curse; to execrate; to anathematize.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(prenominal) Hateful; detestable, loathsome.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Doomed to destruction or misery; cursed; anathematized.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "damnable",
+                    "execrable"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/accurse",
+            "https://en.wiktionary.org/wiki/accursed",
+            "https://en.wiktionary.org/wiki/accurst"
+        ]
+    }
+]

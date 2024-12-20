@@ -1,0 +1,45 @@
+[
+    {
+        "word": "acquirement",
+        "phonetic": "/\u0259\u02c8kwa\u026a\u0259(\u0279)m\u0259nt/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8kwa\u026a\u0259(\u0279)m\u0259nt/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/acquirement-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=89013420",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "(chiefly in plural) Something that has been acquired; an attainment or accomplishment.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The act or fact of acquiring something; acquisition.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "acquisition"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acquirement"
+        ]
+    }
+]

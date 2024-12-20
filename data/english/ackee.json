@@ -1,0 +1,39 @@
+[
+    {
+        "word": "ackee",
+        "phonetic": "/\u0259\u02c8ki\u02d0/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8ki\u02d0/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A tropical evergreen tree, Blighia sapida, related to the lychee and longan.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The fruit of the tree, of which only the arils are edible, the remainder being poisonous.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Ackee and saltfish is a traditional Jamaican dish."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ackee"
+        ]
+    }
+]

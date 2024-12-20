@@ -1,0 +1,43 @@
+[
+    {
+        "word": "acclimatization",
+        "phonetic": "/\u0259.\u02cckla\u026a.m\u0259.t\u0259.\u02c8ze\u026a.\u0283\u0259n/",
+        "phonetics": [
+            {
+                "text": "/\u0259.\u02cckla\u026a.m\u0259.t\u0259.\u02c8ze\u026a.\u0283\u0259n/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/acclimatization-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1755076",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The act of acclimatizing; the process of inuring to a new climate, or the state of being so inured.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The climatic adaptation of an organism that has been moved to a new environment.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acclimatization"
+        ]
+    }
+]

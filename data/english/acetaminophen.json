@@ -1,0 +1,38 @@
+[
+    {
+        "word": "acetaminophen",
+        "phonetic": "/\u0259\u02ccsit\u0259\u02c8m\u026an\u0259f\u0259n/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02ccsit\u0259\u02c8m\u026an\u0259f\u0259n/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/acetaminophen.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=17910373"
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A white crystalline compound used in medicine as an anodyne to relieve pain and reduce fever.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "para-acetylaminophenol",
+                    "paracetamol",
+                    "tylenol"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acetaminophen"
+        ]
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "word": "abstractor",
+        "phonetic": "/\u00e6b\u02c8st\u0279\u00e6k.t\u025a/",
+        "phonetics": [
+            {
+                "text": "/\u00e6b\u02c8st\u0279\u00e6k.t\u025a/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "One who abstracts, or makes an abstract, as in records or documents.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Someone that finds and summarizes information for legal or insurance work.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An accounting clerk who records payroll deductions.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A clerk of a certain title or grade in the British civil service.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abstracter",
+            "https://en.wiktionary.org/wiki/abstractor"
+        ]
+    }
+]

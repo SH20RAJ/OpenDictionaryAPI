@@ -1,0 +1,44 @@
+[
+    {
+        "word": "actress",
+        "phonetic": "/\u02c8ak.t\u0279\u0259s/",
+        "phonetics": [
+            {
+                "text": "/\u02c8ak.t\u0279\u0259s/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6k.t\u0279\u0259s/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A female who performs on the stage or in films.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A female doer or \"actor\" (in a general sense).",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "actorine"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/actress"
+        ]
+    }
+]

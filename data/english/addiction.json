@@ -1,0 +1,48 @@
+[
+    {
+        "word": "addiction",
+        "phonetic": "/\u0259\u02c8d\u026ak\u0283\u0259n/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8d\u026ak\u0283\u0259n/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A state that is characterized by compulsive drug use or compulsive engagement in rewarding behavior, despite negative consequences.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The state of being addicted; devotion; inclination.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A habit or practice that damages, jeopardizes or shortens one's life but when ceased causes trauma.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A pathological relationship to mood altering experience that has life damaging consequences.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/addiction"
+        ]
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "word": "accordingly",
+        "phonetic": "/\u0259\u02c8k\u0254\u02d0(\u0279).d\u026a\u014b.li/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8k\u0254\u02d0(\u0279).d\u026a\u014b.li/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259.\u02c8k\u0254\u0279.d\u026a\u014b.li/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/accordingly-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1749692",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "(manner) Agreeably; correspondingly; suitably",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "In natural sequence; consequently; so.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "consequently",
+                    "hence",
+                    "so",
+                    "therefore",
+                    "wherefore"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/accordingly"
+        ]
+    }
+]

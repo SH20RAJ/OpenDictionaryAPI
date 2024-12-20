@@ -1,0 +1,71 @@
+[
+    {
+        "word": "accrete",
+        "phonetic": "/\u0259\u02c8k\u0279it/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8k\u0279it/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8k\u0279it/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/accrete-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=2162098",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To grow together, combine; to fuse.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Astronomers believe the Earth began to accrete more than 4.6 billion years ago."
+                    },
+                    {
+                        "definition": "To adhere; to grow or to be added to gradually.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To make adhere; to add; to make larger or more, as by growing.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Characterized by accretion; made up",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "accrete matter"
+                    },
+                    {
+                        "definition": "Grown together",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/accrete"
+        ]
+    }
+]

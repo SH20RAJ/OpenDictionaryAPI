@@ -1,0 +1,42 @@
+[
+    {
+        "word": "abscise",
+        "phonetic": "/\u0259b\u02c8sa\u026az/",
+        "phonetics": [
+            {
+                "text": "/\u0259b\u02c8sa\u026az/",
+                "audio": ""
+            },
+            {
+                "text": "/\u00e6b\u02c8sa\u026az/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To cut off.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To separate by means of abscission; to shed or drop off.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abscise"
+        ]
+    }
+]

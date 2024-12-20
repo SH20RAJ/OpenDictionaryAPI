@@ -1,0 +1,33 @@
+[
+    {
+        "word": "adenoma",
+        "phonetic": "/\u00e6d \u02c8\u0259no\u028a m\u028c/",
+        "phonetics": [
+            {
+                "text": "/\u00e6d \u02c8\u0259no\u028a m\u028c/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A benign tumour of the epithelium arising from or resembling a gland.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adenoma"
+        ]
+    }
+]

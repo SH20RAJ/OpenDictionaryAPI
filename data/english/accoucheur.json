@@ -1,0 +1,41 @@
+[
+    {
+        "word": "accoucheur",
+        "phonetic": "/\u02cc\u00e6.ku.\u02c8\u0283\u025c\u02d0/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6.ku.\u02c8\u0283\u025c\u02d0/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02cc\u00e6.ku.\u02c8\u0283\u025d/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A person who delivers a baby (in childbirth).",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "male",
+                    "man-midwife",
+                    "midwife"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/accoucheur"
+        ]
+    }
+]

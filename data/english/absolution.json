@@ -1,0 +1,63 @@
+[
+    {
+        "word": "absolution",
+        "phonetic": "/\u00e6b.s\u0259\u02c8lju\u02d0.\u0283n\u0329/",
+        "phonetics": [
+            {
+                "text": "/\u00e6b.s\u0259\u02c8lju\u02d0.\u0283n\u0329/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02cc\u00e6b.s\u0259\u02c8l(j)u.\u0283n\u0329/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An absolving of sins from ecclesiastical penalties by an authority.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Forgiveness of sins, in a general sense.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The form of words by which a penitent is absolved.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An absolving, or setting free from guilt, sin, or penalty; forgiveness of an offense.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Government ... granting absolution to the nation."
+                    },
+                    {
+                        "definition": "An acquittal, or sentence of a judge declaring an accused person innocent.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Delivery, in speech.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/absolution"
+        ]
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "word": "abut",
+        "phonetic": "/\u0259\u02c8b\u028ct/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8b\u028ct/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8b\u028ct/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To touch by means of a mutual border, edge or end; to border on; to lie adjacent (to); to be contiguous (said of an area of land)",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "His land abuts on the road."
+                    },
+                    {
+                        "definition": "To border upon; be next to; abut on; be adjacent to.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abut"
+        ]
+    },
+    {
+        "word": "abut",
+        "phonetic": "/\u0259\u02c8b\u028ct/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8b\u028ct/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8b\u028ct/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To lean against on one end; to end on, of a part of a building or wall.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abut"
+        ]
+    }
+]

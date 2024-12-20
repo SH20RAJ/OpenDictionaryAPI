@@ -1,0 +1,58 @@
+[
+    {
+        "word": "acceleration",
+        "phonetic": "/\u00e6k.\u02ccs\u025bl.\u0259.\u02c8\u0279e\u026a.\u0283\u0259n/",
+        "phonetics": [
+            {
+                "text": "/\u00e6k.\u02ccs\u025bl.\u0259.\u02c8\u0279e\u026a.\u0283\u0259n/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/acceleration-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1755063",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The act of accelerating, or the state of being accelerated; increase of motion or action; as opposed to retardation or deceleration.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "a falling body moves toward the earth with an acceleration of velocity"
+                    },
+                    {
+                        "definition": "The amount by which a speed or velocity increases (and so a scalar quantity or a vector quantity).",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The boosters produce an acceleration of 20 metres per second per second."
+                    },
+                    {
+                        "definition": "The change of velocity with respect to time (can include deceleration or changing direction).",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The advancement of students at a rate that places them ahead of where they would be in the regular school curriculum.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "deceleration",
+                    "retardation"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acceleration"
+        ]
+    }
+]

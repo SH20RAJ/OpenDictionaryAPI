@@ -1,0 +1,54 @@
+[
+    {
+        "word": "actually",
+        "phonetic": "/-\u026a/",
+        "phonetics": [
+            {
+                "text": "/-\u026a/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6k.(t)\u0283u.\u0259.li/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/actually-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1221271",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "(modal) In act or in fact; really; in truth; positively.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Actually, I had nothing to do with that incident."
+                    },
+                    {
+                        "definition": "Actively.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "as a matter of fact",
+                    "in reality",
+                    "literally",
+                    "really",
+                    "truthfully"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/actually"
+        ]
+    }
+]

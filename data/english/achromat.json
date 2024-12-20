@@ -1,0 +1,37 @@
+[
+    {
+        "word": "achromat",
+        "phonetic": "/\u02c8\u00e6.k\u0279\u0259\u028a.m\u00e6t/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6.k\u0279\u0259\u028a.m\u00e6t/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6.k\u0279\u0259\u028a.m\u00e6t/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A lens that imparts little color; a lens that is achromatic.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/achromat"
+        ]
+    }
+]

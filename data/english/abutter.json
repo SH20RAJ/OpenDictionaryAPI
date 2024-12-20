@@ -1,0 +1,34 @@
+[
+    {
+        "word": "abutter",
+        "phonetic": "/\u0259\u02c8b\u028c.t\u025a/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8b\u028c.t\u025a/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "One who, or that which, abuts, specifically, the owner of a contiguous estate.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "the abutters on a street or a river"
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abutter"
+        ]
+    }
+]

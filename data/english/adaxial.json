@@ -1,0 +1,35 @@
+[
+    {
+        "word": "adaxial",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "On the side that is towards the axis or central line, usually on the upper side.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(developmental biology) adjacent to the axis, or in vertebrates the notochord.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "In zebrafish, the adaxial cells are precursors to the embryonic slow muscle fibers."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "abaxial"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adaxial"
+        ]
+    }
+]

@@ -1,0 +1,62 @@
+[
+    {
+        "word": "accurate",
+        "phonetic": "/\u02c8\u00e6k.j\u0259.\u0279\u026at/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6k.j\u0259.\u0279\u026at/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6k.j\u0259.\u0279\u026at/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/accurate-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=2453816",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Telling the truth or giving a true result; exact; not defective or faulty",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "accurate knowledge"
+                    },
+                    {
+                        "definition": "Deviating only slightly or within acceptable limits.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "My horoscopes I read last week were surprisingly accurate."
+                    },
+                    {
+                        "definition": "Precisely fixed; executed with care; careful.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "correct",
+                    "exact",
+                    "just",
+                    "nice",
+                    "particular"
+                ],
+                "antonyms": [
+                    "inaccurate"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/accurate"
+        ]
+    }
+]

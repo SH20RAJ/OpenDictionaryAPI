@@ -1,0 +1,77 @@
+[
+    {
+        "word": "absence",
+        "phonetic": "/\u02c8\u00e6b.s(\u0259)n\u0329s/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6b.s(\u0259)n\u0329s/",
+                "audio": ""
+            },
+            {
+                "text": "/\u00e6b\u02c8s\u0252ns/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/absence-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1661611",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A state of being away or withdrawn from a place or from companionship; the period of being away.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Absence makes the heart grow fonder."
+                    },
+                    {
+                        "definition": "Failure to be present where one is expected, wanted, or needed; nonattendance; deficiency.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Lack; deficiency; nonexistence.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "He had an absence of enthusiasm."
+                    },
+                    {
+                        "definition": "Inattention to things present; abstraction (of mind).",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "absence of mind"
+                    },
+                    {
+                        "definition": "Temporary loss or disruption of consciousness, with sudden onset and recovery, and common in epilepsy.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Lack of contact between blades.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "missingness"
+                ],
+                "antonyms": [
+                    "existence",
+                    "possession",
+                    "sufficiency",
+                    "presence"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/absence"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "word": "a\u00e7ai",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any of several South American palms, of the genus Euterpe, having a dark purple drupe.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The fruit of these trees, harvested for its juice.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/a%C3%A7ai",
+            "https://en.wiktionary.org/wiki/acai"
+        ]
+    }
+]

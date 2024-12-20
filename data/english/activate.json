@@ -1,0 +1,98 @@
+[
+    {
+        "word": "activate",
+        "phonetic": "/\u02c8\u00e6kt\u026a\u02ccve\u026at/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6kt\u026a\u02ccve\u026at/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/activate-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1762564",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To encourage development or induce increased activity; to stimulate.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To put a device, mechanism (alarm etc.) or system into action or motion; to trigger, to actuate, to set off, to enable.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To render more reactive; excite.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To render a molecule reactive, active, or effective in performing its function.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To render a substance radioactive.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To hasten a chemical reaction, especially by heating.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To remove the limitations of demoware by providing a license; to unlock.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To aerate in order to aid decomposition of organic matter.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To organize or create a military unit or station.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To bring a player back after an injury.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "actuate",
+                    "enable",
+                    "get going",
+                    "set going",
+                    "set in motion",
+                    "set off",
+                    "spur",
+                    "start",
+                    "stimulate",
+                    "trigger",
+                    "turn on"
+                ],
+                "antonyms": [
+                    "deactivate",
+                    "inactivate"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/activate"
+        ]
+    }
+]

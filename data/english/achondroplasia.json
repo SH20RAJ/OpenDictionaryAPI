@@ -1,0 +1,33 @@
+[
+    {
+        "word": "achondroplasia",
+        "phonetic": "/-\u0292(i)\u0259/",
+        "phonetics": [
+            {
+                "text": "/-\u0292(i)\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A genetic disorder, the most common form of short limb dwarfism.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/achondroplasia"
+        ]
+    }
+]

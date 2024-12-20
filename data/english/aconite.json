@@ -1,0 +1,41 @@
+[
+    {
+        "word": "aconite",
+        "phonetic": "/\u02c8\u00e6.k\u0259.na\u026at/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6.k\u0259.na\u026at/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The herb wolfsbane, or monkshood; any plant of the genus Aconitum, all the species of which are poisonous.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An extract or tincture obtained from Aconitum napellus, used as a poison and medicinally.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "monkshood",
+                    "wolfsbane"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aconite"
+        ]
+    }
+]

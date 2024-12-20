@@ -1,0 +1,50 @@
+[
+    {
+        "word": "acupuncture",
+        "phonetic": "/\u02c8\u00e6.kju.\u02ccp\u028c\u014bk.t\u0361\u0283\u025d/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6.kju.\u02ccp\u028c\u014bk.t\u0361\u0283\u025d/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/acupuncture-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1769586",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The insertion of needles into the (living) tissue of the body, especially for purposes of pain relief.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To treat with acupuncture.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acupuncture"
+        ]
+    }
+]

@@ -1,0 +1,44 @@
+[
+    {
+        "word": "acidophilic",
+        "phonetic": "/\u02cc\u00e6s\u026ad\u0259\u028a\u02c8f\u026al\u026ak/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6s\u026ad\u0259\u028a\u02c8f\u026al\u026ak/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02cc\u00e6s\u026a\u027eo\u028a\u02c8f\u026al\u026ak/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Thriving under acidic conditions; relating to or being an acidophile.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Easily stained with acidic dyes, such as eosin.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "acidophilous"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acidophilic"
+        ]
+    }
+]

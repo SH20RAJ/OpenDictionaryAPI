@@ -1,0 +1,53 @@
+[
+    {
+        "word": "actuality",
+        "phonetic": "/\u02cc\u00e6ktju\u02c8\u00e6l\u026ati/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6ktju\u02c8\u00e6l\u026ati/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/actuality-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=89322288",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The state of existing; existence.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The quality of being actual or factual; fact.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Live reporting on current affairs.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A short early motion picture.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/actuality"
+        ]
+    }
+]

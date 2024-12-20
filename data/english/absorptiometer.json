@@ -1,0 +1,42 @@
+[
+    {
+        "word": "absorptiometer",
+        "phonetic": "/\u0259b\u02ccs\u0254\u02d0p.\u0283\u026a\u02c8\u0252.m\u026a.\u025a/",
+        "phonetics": [
+            {
+                "text": "/\u0259b\u02ccs\u0254\u02d0p.\u0283\u026a\u02c8\u0252.m\u026a.\u025a/",
+                "audio": ""
+            },
+            {
+                "text": "/\u00e6b\u02ccs\u0254\u0279p.ti\u02c8\u0251m.\u0259.d\u025a/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A instrument that computes the absorption rate by measuring the pressure of the gas; a colorimeter for liquids.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An instrument used to measure the amount of radiation or light absorbed.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/absorptiometer"
+        ]
+    }
+]

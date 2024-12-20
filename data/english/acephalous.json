@@ -1,0 +1,58 @@
+[
+    {
+        "word": "acephalous",
+        "phonetic": "/\u0259\u02c8s\u025bf\u0259l\u0259s/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8s\u025bf\u0259l\u0259s/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Headless",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(applied to bivalve mollusks) Without a distinct head.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Having the style spring from the base, instead of from the apex, as is the case in certain ovaries",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Without a leader or chief.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Without a beginning",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Deficient in the beginning, as a line of poetry that is missing its expected opening syllable",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acephalous"
+        ]
+    }
+]

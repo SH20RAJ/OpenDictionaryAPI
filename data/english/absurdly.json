@@ -1,0 +1,45 @@
+[
+    {
+        "word": "absurdly",
+        "phonetic": "/\u0259b\u02c8s\u025c\u02d0d.li/",
+        "phonetics": [
+            {
+                "text": "/\u0259b\u02c8s\u025c\u02d0d.li/",
+                "audio": ""
+            },
+            {
+                "text": "/\u00e6b\u02c8s\u025dd.li/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/absurdly-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1714656"
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "In an absurd fashion.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Absurdly, he concluded his oration with a song."
+                    },
+                    {
+                        "definition": "To an extreme degree.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The critics were absurdly extravagant with their praise."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/absurdly"
+        ]
+    }
+]

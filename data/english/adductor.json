@@ -1,0 +1,34 @@
+[
+    {
+        "word": "adductor",
+        "phonetic": "/\u0259\u02c8d\u028ckt\u0259(\u0279)/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8d\u028ckt\u0259(\u0279)/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A muscle which draws a limb or part of the body toward the middle line of the body, or closes extended parts of the body; -- opposed to abductor",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "the adductor of the eye turns the eye toward the nose."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adductor"
+        ]
+    }
+]

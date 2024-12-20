@@ -1,0 +1,45 @@
+[
+    {
+        "word": "acanthodian",
+        "phonetic": "/\u02cc\u00e6k.n\u0329\u02c8\u03b8o\u028a.di.n\u0329/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6k.n\u0329\u02c8\u03b8o\u028a.di.n\u0329/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A member of a group of extinct fish (Acanthodii) that existed from the Silurian to the Permian period.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Pertaining to Acanthodii.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acanthodian"
+        ]
+    }
+]

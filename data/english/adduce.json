@@ -1,0 +1,42 @@
+[
+    {
+        "word": "adduce",
+        "phonetic": "/\u0259\u02c8dju\u02d0s/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8dju\u02d0s/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8d(j)u\u02d0s/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/adduce-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=61410184",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To bring forward or offer, as an argument, passage, or consideration which bears on a statement or case; to cite; to allege.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adduce"
+        ]
+    }
+]

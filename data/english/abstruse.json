@@ -1,0 +1,61 @@
+[
+    {
+        "word": "abstruse",
+        "phonetic": "/\u0259b\u02c8st\u0279u\u02d0s/",
+        "phonetics": [
+            {
+                "text": "/\u0259b\u02c8st\u0279u\u02d0s/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abstruse-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=83326781",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u00e6b\u02c8st\u0279us/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Difficult to comprehend or understand.",
+                        "synonyms": [
+                            "esoteric",
+                            "obscure",
+                            "recondite"
+                        ],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Concealed or hidden out of the way; secret.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "clandestine",
+                    "secret",
+                    "surreptitious",
+                    "esoteric",
+                    "obscure",
+                    "recondite",
+                    "esoteric",
+                    "obscure",
+                    "recondite"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abstruse"
+        ]
+    }
+]

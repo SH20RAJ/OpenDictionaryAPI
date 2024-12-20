@@ -1,0 +1,33 @@
+[
+    {
+        "word": "accomplishable",
+        "phonetic": "/\u0259.\u02c8k\u0252m.pl\u026a\u0283.\u0259.b\u0259l/",
+        "phonetics": [
+            {
+                "text": "/\u0259.\u02c8k\u0252m.pl\u026a\u0283.\u0259.b\u0259l/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Capable of being accomplished; practicable.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/accomplishable"
+        ]
+    }
+]

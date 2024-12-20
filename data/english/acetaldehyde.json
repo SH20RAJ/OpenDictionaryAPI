@@ -1,0 +1,33 @@
+[
+    {
+        "word": "acetaldehyde",
+        "phonetic": "/\u02cc\u00e6s.\u026a\u02c8t\u00e6l.d\u0259\u02ccha\u026ad/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6s.\u026a\u02c8t\u00e6l.d\u0259\u02ccha\u026ad/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An organic compound, (CH3CHO). Sometimes called ethanal or acetic aldehyde. See aldehyde.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acetaldehyde"
+        ]
+    }
+]

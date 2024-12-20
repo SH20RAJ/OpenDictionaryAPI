@@ -1,0 +1,47 @@
+[
+    {
+        "word": "accountability",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/accountability-ca.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=631563",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            },
+            {
+                "text": "/\u0259.\u02ccka\u028an.t\u0259.\u02c8b\u026al.\u0259t.i/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The state of being accountable; liability to be called on to render an account; accountableness; responsible for; answerable for.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The obligation imposed by law or lawful order or regulation on an officer or other person for keeping accurate record of property, documents, or funds. The person having this obligation may or may not have actual possession of the property, documents, or funds. Accountability is concerned primarily with records, while responsibility is concerned primarily with custody, care, and safekeeping.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "accountableness"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/accountability"
+        ]
+    }
+]

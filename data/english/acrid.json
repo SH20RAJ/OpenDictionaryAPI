@@ -1,0 +1,73 @@
+[
+    {
+        "word": "acrid",
+        "phonetic": "/\u02c8\u00e6k.\u0279\u026ad/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6k.\u0279\u026ad/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/acrid-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=296175",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Sharp and harsh, or bitter and not to the taste.",
+                        "synonyms": [
+                            "acrimonious",
+                            "pungent"
+                        ],
+                        "antonyms": [
+                            "delectable",
+                            "delicious",
+                            "tasteful"
+                        ],
+                        "example": "Sodium polyacrylate is an acrid salt."
+                    },
+                    {
+                        "definition": "Causing heat and irritation.",
+                        "synonyms": [
+                            "corrosive"
+                        ],
+                        "antonyms": [],
+                        "example": "The bombardier beetle sprays acrid secretions to defend itself."
+                    },
+                    {
+                        "definition": "Caustic; bitter; bitterly irritating.",
+                        "synonyms": [
+                            "acerbic",
+                            "acrimonious"
+                        ],
+                        "antonyms": [],
+                        "example": "That man has an acrid temper."
+                    }
+                ],
+                "synonyms": [
+                    "acerbic",
+                    "acrimonious",
+                    "acrimonious",
+                    "pungent",
+                    "corrosive"
+                ],
+                "antonyms": [
+                    "delectable",
+                    "delicious",
+                    "tasteful"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acrid"
+        ]
+    }
+]

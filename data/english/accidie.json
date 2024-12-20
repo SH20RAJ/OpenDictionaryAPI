@@ -1,0 +1,38 @@
+[
+    {
+        "word": "accidie",
+        "phonetic": "/\u02c8\u00e6k.s\u026a.di/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6k.s\u026a.di/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6k.s\u0259.di/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/accidie-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=25950239"
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Sloth, slothfulness, especially as inducing general listlessness and apathy.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/accidie"
+        ]
+    }
+]

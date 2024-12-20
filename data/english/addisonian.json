@@ -1,0 +1,34 @@
+[
+    {
+        "word": "addisonian",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of or relating to Joseph Addison (1672\u20131719), English writer and politician.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Of or relating to Addison's disease",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Addisonian crisis"
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/Addisonian",
+            "https://en.wiktionary.org/wiki/addisonian"
+        ]
+    }
+]

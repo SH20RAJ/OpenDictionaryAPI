@@ -1,0 +1,103 @@
+[
+    {
+        "word": "actual",
+        "phonetic": "/\u02c8ak(t)\u0283j(\u028a)\u0259l/",
+        "phonetics": [
+            {
+                "text": "/\u02c8ak(t)\u0283j(\u028a)\u0259l/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6k(t)\u0283(\u0259w)\u0259l/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/actual-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1676684",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An actual, real one; notably:",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Relating to a person's acts or deeds; active, practical",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Existing in reality, not just potentially; really acted or acting; occurring in fact.",
+                        "synonyms": [
+                            "real"
+                        ],
+                        "antonyms": [
+                            "conceivable",
+                            "estimated",
+                            "hypothetical",
+                            "nominal",
+                            "possible",
+                            "potential",
+                            "speculative",
+                            "theoretical",
+                            "virtual"
+                        ],
+                        "example": "The actual government expenses dramatically exceed the budget."
+                    },
+                    {
+                        "definition": "In action at the time being; now existing; current.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Used as intensifier to emphasise a following noun; exact, very.",
+                        "synonyms": [
+                            "present"
+                        ],
+                        "antonyms": [
+                            "future",
+                            "past"
+                        ]
+                    }
+                ],
+                "synonyms": [
+                    "positive",
+                    "present",
+                    "real"
+                ],
+                "antonyms": [
+                    "conceivable",
+                    "estimated",
+                    "hypothetical",
+                    "nominal",
+                    "possible",
+                    "potential",
+                    "speculative",
+                    "theoretical",
+                    "virtual",
+                    "future",
+                    "past"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/actual"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "word": "achondroplastic",
+        "phonetic": "/e\u026ak\u0251nd\u0279\u0259\u02c8pl\u00e6st\u026ak/",
+        "phonetics": [
+            {
+                "text": "/e\u026ak\u0251nd\u0279\u0259\u02c8pl\u00e6st\u026ak/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of, related to, or suffering from achondroplasia",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/achondroplastic"
+        ]
+    }
+]

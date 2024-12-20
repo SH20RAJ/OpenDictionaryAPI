@@ -1,0 +1,59 @@
+[
+    {
+        "word": "accelerando",
+        "phonetic": "/\u00e6ks\u025bl\u0259\u02c8\u0279\u00e6nd\u0259\u028a/",
+        "phonetics": [
+            {
+                "text": "/\u00e6ks\u025bl\u0259\u02c8\u0279\u00e6nd\u0259\u028a/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0251.\u02cct\u0283\u025bl.\u0259.\u02c8\u0279\u0251n.do/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A tempo mark directing that a passage is to be played at an increasing speed.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A passage having this mark.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(by extension) Accelerating or exponential advancement or development (of a thing).",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "With a gradual increase in speed",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/accelerando"
+        ]
+    }
+]

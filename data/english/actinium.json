@@ -1,0 +1,33 @@
+[
+    {
+        "word": "actinium",
+        "phonetic": "/\u00e6k\u02c8t\u026ani\u0259m/",
+        "phonetics": [
+            {
+                "text": "/\u00e6k\u02c8t\u026ani\u0259m/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A radioactive, metallic chemical element (symbol: Ac) with an atomic number of 89; found in uranium ores",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/actinium"
+        ]
+    }
+]

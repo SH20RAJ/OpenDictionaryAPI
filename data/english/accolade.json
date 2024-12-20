@@ -1,0 +1,109 @@
+[
+    {
+        "word": "accolade",
+        "phonetic": "/\u02c8\u00e6k.\u0259.\u02ccle\u026ad/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6k.\u0259.\u02ccle\u026ad/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6k.\u0259.\u02ccle\u026ad/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An expression of approval; praise.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A special acknowledgment; an award.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An embrace of greeting or salutation.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A salutation marking the conferring of knighthood, consisting of an embrace or a kiss, and a slight blow on the shoulders with the flat of a sword.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A brace used to join two or more staves.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Written Presidential certificate recognizing service by personnel who died or were wounded in action between 1917 and 1918, or who died in service between 1941 and 1947, or died of wounds received in Korea between June 27, 1950 and July 27, 1954. Service of civilians who died overseas or as a result of injury or disease contracted while serving in a civilian capacity with the United States Armed Forces during the dates and/or in areas prescribed is in like manner recognized.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An ornament composed of two ogee curves meeting in the middle, each concave toward its outer extremity and convex toward the point at which it meets the other. Such accolades are either plain or adorned with rich moldings, and are a frequent motive of decoration on the lintels of doors and windows of the fifteenth and sixteenth centuries, especially in secular architecture.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "panegyric"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To embrace or kiss in salutation.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To confer a knighthood on.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To confer praise or awards on.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "an accoladed novel"
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Either of the two characters { and }, i.e., left curly bracket left curly bracket and right curly bracket right curly bracket, with the shape of a curved, pointed line, having various uses in math, music, and computer programming.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "accolade",
+                    "brace",
+                    "curly brace"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/accolade",
+            "https://en.wiktionary.org/wiki/curly%20bracket"
+        ]
+    }
+]

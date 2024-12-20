@@ -1,0 +1,33 @@
+[
+    {
+        "word": "acrobat",
+        "phonetic": "/\u02c8\u00e6k.\u0279\u0259.b\u00e6t/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6k.\u0279\u0259.b\u00e6t/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An athlete who performs acts requiring skill, agility and coordination.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acrobat"
+        ]
+    }
+]

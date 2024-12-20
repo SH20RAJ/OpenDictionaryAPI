@@ -1,0 +1,50 @@
+[
+    {
+        "word": "acetylene",
+        "phonetic": "/\u0259 \u02c8s\u025bt \u0259l \u02ccin/",
+        "phonetics": [
+            {
+                "text": "/\u0259 \u02c8s\u025bt \u0259l \u02ccin/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/acetylene-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1755098",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any organic compound having one or more carbon\u2013carbon triple bonds; an alkyne.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Ethyne; the simplest alkyne, a hydrocarbon of formula HC\u2261CH. It is a colourless, odorless gas, formerly used as an illuminating gas, but now used in welding or metallurgy.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A lamp powered by acetylene, particularly a motor vehicle headlight.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "ethyne"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acetylene"
+        ]
+    }
+]

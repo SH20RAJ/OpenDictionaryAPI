@@ -1,0 +1,46 @@
+[
+    {
+        "word": "accompaniment",
+        "phonetic": "/\u0259.\u02c8k\u028cm.p\u0259.ni.m\u0259nt/",
+        "phonetics": [
+            {
+                "text": "/\u0259.\u02c8k\u028cm.p\u0259.ni.m\u0259nt/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/accompaniment-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1755077",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A part, usually performed by instruments, that gives support or adds to the background in music, or adds for ornamentation; also, the harmony of a figured bass.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "That which accompanies; something that attends as a circumstance, or which is added to give greater completeness to the principal thing, or by way of ornament, or for the sake of symmetry.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "attachment",
+                    "supplement"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/accompaniment"
+        ]
+    }
+]

@@ -1,0 +1,67 @@
+[
+    {
+        "word": "addictive",
+        "phonetic": "/\u0259\u02c8d\u026akt\u026av/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8d\u026akt\u026av/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A drug that causes an addiction.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Anything that is very habit-forming.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Causing or tending to cause addiction; habit-forming.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "These are addictive drugs."
+                    },
+                    {
+                        "definition": "Enjoyable.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Have you seen that new TV show? It's so addictive."
+                    },
+                    {
+                        "definition": "Characterized by or susceptible to addiction.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "He has an addictive personality."
+                    }
+                ],
+                "synonyms": [
+                    "habit-forming"
+                ],
+                "antonyms": [
+                    "nonaddictive"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/addictive"
+        ]
+    }
+]

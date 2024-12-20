@@ -1,0 +1,44 @@
+[
+    {
+        "word": "acidophil",
+        "phonetic": "/\u0259\u02c8s\u026ad\u0259f\u026al/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8s\u026ad\u0259f\u026al/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8s\u026a\u027e\u0259f\u026al/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An eosinophil; a white blood cell responsible for combating infection by parasites in the body.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "One of the endocrine acidophilic cells of the adenohypophysis, including somatotrophs and lactotrophs.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "alpha cell"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acidophil"
+        ]
+    }
+]

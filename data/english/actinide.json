@@ -1,0 +1,33 @@
+[
+    {
+        "word": "actinide",
+        "phonetic": "/\u02c8\u00e6kt\u026ana\u026ad/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6kt\u026ana\u026ad/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any of the 14 radioactive elements of the periodic table that are positioned under the lanthanides, to which they have similar chemistry.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/actinide"
+        ]
+    }
+]

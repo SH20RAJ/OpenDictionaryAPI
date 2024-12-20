@@ -1,0 +1,68 @@
+[
+    {
+        "word": "accusative",
+        "phonetic": "/\u0259\u02c8kju\u02d0z\u0259t\u026av/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8kju\u02d0z\u0259t\u026av/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8kjuz\u0259t\u026av/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/accusative-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1755094",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "(grammar) The accusative case.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "A.",
+                    "acc."
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Producing accusations; in a manner that reflects a finding of fault or blame",
+                        "synonyms": [
+                            "accusatorial",
+                            "accusatory"
+                        ],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(grammar) Applied to the case (as the fourth case of Latin, Lithuanian and Greek nouns) which expresses the immediate object on which the action or influence of a transitive verb has its limited influence. Other parts of speech, including secondary or predicate direct objects, will also influence a sentence\u2019s construction. In German the case used for direct objects.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "accusatorial",
+                    "accusatory"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/accusative"
+        ]
+    }
+]

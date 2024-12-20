@@ -1,0 +1,38 @@
+[
+    {
+        "word": "accipiter",
+        "phonetic": "/\u00e6k.\u02c8s\u026ap.\u0259.t\u025a/",
+        "phonetics": [
+            {
+                "text": "/\u00e6k.\u02c8s\u026ap.\u0259.t\u025a/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any hawk of the genus Accipiter.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A bandage applied over the nose, resembling the claw of a hawk.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/accipiter"
+        ]
+    }
+]

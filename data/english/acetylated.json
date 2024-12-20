@@ -1,0 +1,40 @@
+[
+    {
+        "word": "acetylated",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To react with acetic acid or one of its derivatives; to introduce one or more acetyl groups into a substance",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "That has been reacted with acetic acid (or one of its derivatives), or has been modified by the attachment of acetyl groups.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acetylate",
+            "https://en.wiktionary.org/wiki/acetylated"
+        ]
+    }
+]

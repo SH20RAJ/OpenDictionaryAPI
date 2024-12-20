@@ -1,0 +1,42 @@
+[
+    {
+        "word": "abura",
+        "phonetic": "/\u0259\u02c8bj\u028a\u02d0.\u0279\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8bj\u028a\u02d0.\u0279\u0259/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8bj\u028a.\u0279\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A medium-sized tropical African tree, Mitragyne macrophylla, from the family Loganiaceae.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The soft pale wood from the abura tree.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abura"
+        ]
+    }
+]

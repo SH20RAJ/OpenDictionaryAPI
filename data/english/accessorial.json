@@ -1,0 +1,56 @@
+[
+    {
+        "word": "accessorial",
+        "phonetic": "/\u00e6k.s\u0259.\u02c8so\u0279.i.\u0259l/",
+        "phonetics": [
+            {
+                "text": "/\u00e6k.s\u0259.\u02c8so\u0279.i.\u0259l/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "(logistics) An assessorial charge.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of or pertaining to an accessory, e.g. to a crime.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "accessorial agency; accessorial guilt"
+                    },
+                    {
+                        "definition": "Of or relating to an accession.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(logistics) Assessorial.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/accessorial"
+        ]
+    }
+]

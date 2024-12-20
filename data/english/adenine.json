@@ -1,0 +1,33 @@
+[
+    {
+        "word": "adenine",
+        "phonetic": "/\u02c8\u00e6.d\u0259\u02ccni\u02d0n/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6.d\u0259\u02ccni\u02d0n/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A base, C5H5N5, found in certain glands and tissues, which pairs with thymine in DNA and uracil in RNA.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adenine"
+        ]
+    }
+]

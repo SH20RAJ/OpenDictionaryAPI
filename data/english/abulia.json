@@ -1,0 +1,37 @@
+[
+    {
+        "word": "abulia",
+        "phonetic": "/\u0259\u02c8b(j)u\u02d0.l\u026a\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8b(j)u\u02d0.l\u026a\u0259/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8bu.li.\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Absence of willpower or decisiveness, especially as a symptom of mental illness.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abulia"
+        ]
+    }
+]

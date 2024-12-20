@@ -1,0 +1,33 @@
+[
+    {
+        "word": "acotyledon",
+        "phonetic": "/\u02c8e\u026a.k\u0254t.l\u0329.i\u02d0d\u02ccn\u0329/",
+        "phonetics": [
+            {
+                "text": "/\u02c8e\u026a.k\u0254t.l\u0329.i\u02d0d\u02ccn\u0329/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A plant that has no cotyledons, as the dodder and all flowerless plants.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acotyledon"
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "word": "acyl",
+        "phonetic": "/\u02c8\u00e6.s\u026al/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6.s\u026al/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6.s\u026al/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any of class of organic radicals, RCO-, formed by the removal of a hydroxyl group from a carboxylic acid.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acyl"
+        ]
+    }
+]

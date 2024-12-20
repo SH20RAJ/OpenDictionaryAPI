@@ -1,0 +1,79 @@
+[
+    {
+        "word": "acetabulum",
+        "phonetic": "/\u02cc\u00e6s.\u026a\u02c8t\u00e6b.j\u028al.\u0259m/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6s.\u026a\u02c8t\u00e6b.j\u028al.\u0259m/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/acetabulum-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=89013266",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u02cc\u00e6s.\u0259\u02c8t\u00e6b.j\u0259l.\u0259m/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The bony cup of the pelvis which receives the head of the femur.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The cavity in which the leg of an insect is inserted at its articulation with the body.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A sucker of the sepia or cuttlefish and related animals.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The large posterior sucker of the leeches.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "One of the lobes of the placenta in ruminating animals.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(Roman Antiquities) A vinegar cup.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(Roman Antiquities) The socket of the hipbone.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(Roman Antiquities) A measure of about one eighth of a pint.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "cotyloid cavity"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acetabulum"
+        ]
+    }
+]

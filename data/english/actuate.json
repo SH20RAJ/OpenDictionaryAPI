@@ -1,0 +1,54 @@
+[
+    {
+        "word": "actuate",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/actuate-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75729325",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u02c8\u00e6ktju.e\u026at/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6kt\u0283u.e\u026at/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/actuate-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=5674442",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To activate, or to put into motion; to animate.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To incite to action; to motivate.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/actuate"
+        ]
+    }
+]

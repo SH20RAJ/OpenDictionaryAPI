@@ -1,0 +1,52 @@
+[
+    {
+        "word": "activist",
+        "phonetic": "/\u02c8\u00e6k.t\u026a.v\u026ast/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6k.t\u026a.v\u026ast/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "One who is politically active in the role of a citizen; especially, one who campaigns for change.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "One who is conspicuously active in carrying out any occupational or professional functions.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "mover and shaker"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Behaving as an activist.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/activist"
+        ]
+    }
+]

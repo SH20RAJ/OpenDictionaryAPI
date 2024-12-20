@@ -1,0 +1,27 @@
+[
+    {
+        "word": "actinolite",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A mineral with monoclinic crystals of the chemical formula Ca2(Mg,Fe)5Si8O22(OH)2, belonging to the amphibole group.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/actinolite"
+        ]
+    }
+]

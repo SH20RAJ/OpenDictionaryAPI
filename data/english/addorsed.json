@@ -1,0 +1,31 @@
+[
+    {
+        "word": "addorsed",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(of animals) set back to back",
+                        "synonyms": [],
+                        "antonyms": [
+                            "affront\u00e9"
+                        ]
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "affront\u00e9"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/addorsed"
+        ]
+    }
+]

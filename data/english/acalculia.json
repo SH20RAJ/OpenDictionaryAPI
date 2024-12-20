@@ -1,0 +1,37 @@
+[
+    {
+        "word": "acalculia",
+        "phonetic": "/\u02cce\u026a.k\u00e6l\u02c8kju\u02d0.l\u026a.\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u02cce\u026a.k\u00e6l\u02c8kju\u02d0.l\u026a.\u0259/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02cce\u026a.k\u00e6l\u02c8kju\u02d0.li.\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The condition of lacking basic mathematical skills caused by a brain injury, or more specifically an injury to the parietal lobe.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acalculia"
+        ]
+    }
+]

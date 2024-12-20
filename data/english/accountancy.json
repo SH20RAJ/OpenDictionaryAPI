@@ -1,0 +1,38 @@
+[
+    {
+        "word": "accountancy",
+        "phonetic": "/\u0259.\u02c8ka\u028ant.\u0259n.si/",
+        "phonetics": [
+            {
+                "text": "/\u0259.\u02c8ka\u028ant.\u0259n.si/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The function of compiling and providing financial information primarily by reports referred to as financial statements, including bookkeeping, systems design, analysis and interpretation of accounting information.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A company or organisation that performs such a function.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/accountancy"
+        ]
+    }
+]

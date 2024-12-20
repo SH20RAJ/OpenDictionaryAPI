@@ -1,0 +1,36 @@
+[
+    {
+        "word": "academically",
+        "phonetic": "/\u02cc\u00e6k.\u0259\u02c8d\u025bm.\u026ak.li/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6k.\u0259\u02c8d\u025bm.\u026ak.li/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "In an academic style or way; from an academic perspective.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Academically, the football team is counter-productive."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "non-academically"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/academically"
+        ]
+    }
+]

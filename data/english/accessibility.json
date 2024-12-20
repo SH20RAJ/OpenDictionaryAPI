@@ -1,0 +1,42 @@
+[
+    {
+        "word": "accessibility",
+        "phonetic": "/\u00e6k\u02ccs\u025bs.\u0259\u02c8b\u026al.\u0259t.i/",
+        "phonetics": [
+            {
+                "text": "/\u00e6k\u02ccs\u025bs.\u0259\u02c8b\u026al.\u0259t.i/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The quality of being accessible, or of admitting approach; receptiveness.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Features that increase software usability for users with certain impairments.",
+                        "synonyms": [
+                            "a11y"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "a11y"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/accessibility"
+        ]
+    }
+]

@@ -1,0 +1,77 @@
+[
+    {
+        "word": "additive",
+        "phonetic": "/\u02c8\u00e6.d\u026a.t\u026av/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6.d\u026a.t\u026av/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6.d\u0259.t\u026av/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A substance added to another substance or product to produce specific properties in the combined substance.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Oil may be used as an additive in gasoline to improve the lubrication of a small engine."
+                    },
+                    {
+                        "definition": "(grammar) A word or phrase that adds something, such as also, even, or nor.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Pertaining to addition; that can be, or has been, added.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(of a function, etc.) That is distributive over addition.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Matrix multiplication is additive, in that M\\vec v+M\\vec w=M(\\vec v+\\vec w)."
+                    },
+                    {
+                        "definition": "(of a group, semigroup, etc.) Whose operator is identified as addition.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "It is natural to look at a finite cyclic group as an additive group."
+                    },
+                    {
+                        "definition": "Pertaining to chemical addition.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Of or pertaining to genes (or the interaction etc. of such genes) which govern the same trait and whose effects work together on the phenotype.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/additive"
+        ]
+    }
+]

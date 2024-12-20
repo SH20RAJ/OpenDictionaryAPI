@@ -1,0 +1,31 @@
+[
+    {
+        "word": "acetonaemia",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Presence of excessive levels of acetone in blood, sometimes occurring in cows during the first weeks after giving birth to a calf.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "ketonemia",
+                    "ketosis"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acetonaemia",
+            "https://en.wiktionary.org/wiki/acetonemia"
+        ]
+    }
+]

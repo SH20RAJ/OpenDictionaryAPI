@@ -1,0 +1,45 @@
+[
+    {
+        "word": "abscissa",
+        "phonetic": "/\u00e6b\u02c8s\u026as.\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u00e6b\u02c8s\u026as.\u0259/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abscissa-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1755043",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The first of the two terms by which a point is referred to, in a system of fixed rectilinear coordinate (Cartesian coordinate) axes.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The horizontal line representing an axis of a Cartesian coordinate system, on which the abscissa (sense above) is shown.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "absciss"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abscissa"
+        ]
+    }
+]

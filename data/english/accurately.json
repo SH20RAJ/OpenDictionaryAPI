@@ -1,0 +1,41 @@
+[
+    {
+        "word": "accurately",
+        "phonetic": "/\u02c8\u00e6k.j\u0259.\u0279\u026at.li/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6k.j\u0259.\u0279\u026at.li/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6k.j\u0259.\u0279\u026at.li/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "In an accurate manner; exactly; precisely; without error or defect.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "exactly",
+                    "precisely",
+                    "slap bang"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/accurately"
+        ]
+    }
+]

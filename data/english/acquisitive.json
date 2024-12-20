@@ -1,0 +1,38 @@
+[
+    {
+        "word": "acquisitive",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Acquired.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Able or disposed to make acquisitions; acquiring.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "He is an acquisitive person."
+                    },
+                    {
+                        "definition": "Dispositioned toward acquiring and retaining information.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acquisitive"
+        ]
+    }
+]

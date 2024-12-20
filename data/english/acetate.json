@@ -1,0 +1,55 @@
+[
+    {
+        "word": "acetate",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/acetate-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1755097",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any salt or ester of acetic acid.",
+                        "synonyms": [
+                            "ethanoate"
+                        ],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Cellulose acetate.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A transparent sheet used for overlays.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Ellipsis of acetate disc: a disc of aluminium covered in a wax used to make demonstration copies of a phonograph record.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "ethanoate"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acetate"
+        ]
+    }
+]

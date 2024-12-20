@@ -1,0 +1,47 @@
+[
+    {
+        "word": "accentor",
+        "phonetic": "/\u0259k\u02c8s\u025bnt\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u0259k\u02c8s\u025bnt\u0259/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259k.\u02c8s\u025bn.t\u025a/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any bird of the Eurasian genus Prunella, such as the dunnock.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The ovenbird, Seiurus aurocapilla.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "One who sings the leading part; the director or leader.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/accentor"
+        ]
+    }
+]

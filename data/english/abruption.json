@@ -1,0 +1,38 @@
+[
+    {
+        "word": "abruption",
+        "phonetic": "/\u0259\u02c8b\u0279\u028cp.\u0283n\u0329/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8b\u0279\u028cp.\u0283n\u0329/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A sudden termination or interruption.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A sudden breaking off; a violent separation of bodies.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abruption"
+        ]
+    }
+]

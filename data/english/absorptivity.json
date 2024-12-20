@@ -1,0 +1,46 @@
+[
+    {
+        "word": "absorptivity",
+        "phonetic": "/\u00e6b\u02ccs\u0254\u0279p\u02c8t\u026av\u0259.ti/",
+        "phonetics": [
+            {
+                "text": "/\u00e6b\u02ccs\u0254\u0279p\u02c8t\u026av\u0259.ti/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The quality of being absorptive; absorptiveness.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The fraction of radiation absorbed by a surface to the total radiation incident on the surface.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The constant a in the Beer's law relation A = abc, where A is the absorbance, b the path length, and c the concentration of solution. Also known as absorptive power. Formerly known as absorbency index; absorption constant; extinction coefficient.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "absorption coefficient",
+                    "absorption factor"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/absorptivity"
+        ]
+    }
+]

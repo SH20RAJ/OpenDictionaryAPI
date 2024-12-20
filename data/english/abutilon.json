@@ -1,0 +1,37 @@
+[
+    {
+        "word": "abutilon",
+        "phonetic": "/\u0259\u02c8bju\u02d0.t\u026a\u02ccl\u0252n/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8bju\u02d0.t\u026a\u02ccl\u0252n/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8bjut\u02ccl\u0329\u0251n/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any of the various tropical flowering plants of the genus Abutilon, such as the flowering maple, Indian mallow, or Chinese lantern.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abutilon"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "word": "acrylamide",
+        "phonetic": "/\u0259\u02c8k\u0279\u026al\u0259ma\u026ad/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8k\u0279\u026al\u0259ma\u026ad/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The amide of acrylic acid, CH2=CH.CONH2; used in the manufacture of polyacrylamides.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acrylamide"
+        ]
+    }
+]

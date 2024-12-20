@@ -1,0 +1,45 @@
+[
+    {
+        "word": "accipitrine",
+        "phonetic": "/\u00e6k.\u02c8s\u026ap.\u0259.t\u0279a\u026an/",
+        "phonetics": [
+            {
+                "text": "/\u00e6k.\u02c8s\u026ap.\u0259.t\u0279a\u026an/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A hawk or a hawk-like bird.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Like or belonging to the Accipitres; raptorial; hawklike.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/accipitrine"
+        ]
+    }
+]

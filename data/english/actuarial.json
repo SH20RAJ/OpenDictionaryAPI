@@ -1,0 +1,38 @@
+[
+    {
+        "word": "actuarial",
+        "phonetic": "/\u00e6k.tju\u02c8\u025b\u0259\u0279.i.\u0259l/",
+        "phonetics": [
+            {
+                "text": "/\u00e6k.tju\u02c8\u025b\u0259\u0279.i.\u0259l/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of or pertaining to actuaries.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Relating to statistical calculation, especially pertaining to insurance.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/actuarial"
+        ]
+    }
+]

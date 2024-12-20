@@ -1,0 +1,42 @@
+[
+    {
+        "word": "abuzz",
+        "phonetic": "/\u0259\u02c8b\u028cz/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8b\u028cz/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abuzz-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=80152655",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u0259\u02c8b\u028cz/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Characterized by a high level of activity or gossip; in a buzz, buzzing.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abuzz"
+        ]
+    }
+]

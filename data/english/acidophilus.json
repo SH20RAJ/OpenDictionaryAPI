@@ -1,0 +1,33 @@
+[
+    {
+        "word": "acidophilus",
+        "phonetic": "[\u02cc\u00e6s\u026ad\u02c8\u0251f\u026al\u0259s]",
+        "phonetics": [
+            {
+                "text": "[\u02cc\u00e6s\u026ad\u02c8\u0251f\u026al\u0259s]",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Lactobacillus acidophilus, one of the bacteria commonly used in fermenting yogurt",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acidophilus"
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "word": "accessorize",
+        "phonetic": "/\u0259k\u02c8s\u025bs\u0259\u0279a\u026az/",
+        "phonetics": [
+            {
+                "text": "/\u0259k\u02c8s\u025bs\u0259\u0279a\u026az/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To furnish with accessories.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To wear or to choose accessories.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/accessorize"
+        ]
+    }
+]

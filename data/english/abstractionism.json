@@ -1,0 +1,38 @@
+[
+    {
+        "word": "abstractionism",
+        "phonetic": "/\u00e6b\u02c8st\u0279\u00e6k.\u0283n\u0329\u02cc\u026az.m\u0329/",
+        "phonetics": [
+            {
+                "text": "/\u00e6b\u02c8st\u0279\u00e6k.\u0283n\u0329\u02cc\u026az.m\u0329/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The creation, principles, or ideals of abstractions, in particular art.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The presentation of ideas in an abstract manner.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abstractionism"
+        ]
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "word": "absurdity",
+        "phonetic": "/\u0259b\u02c8s\u025c\u02d0d.\u026a.ti/",
+        "phonetics": [
+            {
+                "text": "/\u0259b\u02c8s\u025c\u02d0d.\u026a.ti/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/absurdity-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=89259489",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u00e6b\u02c8s\u025dd.\u026a.ti/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "That which is absurd; an absurd action; a logical contradiction.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The quality of being absurd or inconsistent with obvious truth, reason, or sound judgment.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Dissonance.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/absurdity"
+        ]
+    }
+]

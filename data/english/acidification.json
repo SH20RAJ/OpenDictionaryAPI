@@ -1,0 +1,39 @@
+[
+    {
+        "word": "acidification",
+        "phonetic": "/\u0259\u02ccs\u026ad\u026af\u026a\u02c8ke\u026a\u0283\u0259n/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02ccs\u026ad\u026af\u026a\u02c8ke\u026a\u0283\u0259n/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The act or process of making something sour (acidifying), or changing into an acid.",
+                        "synonyms": [],
+                        "antonyms": [
+                            "acidulation",
+                            "basification"
+                        ]
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "acidulation",
+                    "basification"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acidification"
+        ]
+    }
+]

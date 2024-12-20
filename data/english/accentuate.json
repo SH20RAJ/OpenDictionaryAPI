@@ -1,0 +1,62 @@
+[
+    {
+        "word": "accentuate",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/accentuate-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75729297",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u00e6k\u02c8sen.t\u0283u\u02cce\u026at/",
+                "audio": ""
+            },
+            {
+                "text": "/\u00e6k\u02c8sen.t\u0283u\u02cce\u026at/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/accentuate-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1755066",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To pronounce with an accent or vocal stress.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To bring out distinctly; to make more noticeable or prominent; to emphasize.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To mark with a written accent.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "accent",
+                    "betone"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/accentuate"
+        ]
+    }
+]

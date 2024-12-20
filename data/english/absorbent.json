@@ -1,0 +1,70 @@
+[
+    {
+        "word": "absorbent",
+        "phonetic": "/\u0259b\u02c8s\u0254\u02d0.bn\u0329t/",
+        "phonetics": [
+            {
+                "text": "/\u0259b\u02c8s\u0254\u02d0.bn\u0329t/",
+                "audio": ""
+            },
+            {
+                "text": "/\u00e6b\u02c8s\u0254\u0279.bn\u0329t/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/absorbent-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1755047",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Anything which absorbs.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(pluralized) The vessels by which the processes of absorption are carried on, as the lymphatics in animals, the extremities of the roots in plants.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Any substance which absorbs and neutralizes acid fluid in the stomach and bowels, as magnesia, chalk, etc.; also a substance, e.g., iodine, which acts on the absorbent vessels so as to reduce enlarged and indurated parts.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A liquid used in the process of separating gases or volatile liquids, in oil refining.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Having the ability or tendency to absorb; able to soak up liquid easily; absorptive.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Those paper towels were amazingly absorbent. That was quite a spill."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/absorbent"
+        ]
+    }
+]

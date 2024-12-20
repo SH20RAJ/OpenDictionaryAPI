@@ -1,0 +1,66 @@
+[
+    {
+        "word": "adaptation",
+        "phonetic": "/\u02cc\u00e6d\u00e6p\u02c8te\u026a\u0283\u0259n/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6d\u00e6p\u02c8te\u026a\u0283\u0259n/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02cc\u00e6d\u00e6p\u02c8te\u026a\u0283\u0259n/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The process of adapting something or becoming adapted to a situation; adjustment, modification.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A change that is made or undergone to suit a condition or environment.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The process of change that an organism undergoes to be better suited to its environment.",
+                        "synonyms": [],
+                        "antonyms": [
+                            "maladaptation"
+                        ]
+                    },
+                    {
+                        "definition": "An instance of an organism undergoing change, or the structure or behavior that is changed.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The process of adapting an artistic work from a different medium.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(authorship) An artistic work that has been adapted from a different medium.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "maladaptation"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adaptation"
+        ]
+    }
+]

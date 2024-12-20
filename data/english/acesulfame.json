@@ -1,0 +1,27 @@
+[
+    {
+        "word": "acesulfame",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any of a class of synthetic noncaloric sweeteners, based on a oxathiazinone dioxide structure, somewhat similar to saccharin",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acesulfame"
+        ]
+    }
+]

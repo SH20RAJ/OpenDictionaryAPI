@@ -1,0 +1,37 @@
+[
+    {
+        "word": "acetyl",
+        "phonetic": "/\u0259\u02c8si\u02d0ta\u026al/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8si\u02d0ta\u026al/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8si\u02d0t\u026al/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The univalent radical CH3CO- derived from acetic acid.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acetyl"
+        ]
+    }
+]

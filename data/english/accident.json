@@ -1,0 +1,115 @@
+[
+    {
+        "word": "accident",
+        "phonetic": "/\u02c8\u00e6k.s\u0259.d\u0259nt/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6k.s\u0259.d\u0259nt/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/accident-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1234036",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An unexpected event with negative consequences occurring without the intention of the one suffering the consequences.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "to die by an accident"
+                    },
+                    {
+                        "definition": "Especially, a collision or similar unintended event that causes damage or death.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "My insurance went up after the second accident in three months."
+                    },
+                    {
+                        "definition": "Any chance event.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Chance.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Any property, fact, or relation that is the result of chance or is nonessential.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Beauty is an accident."
+                    },
+                    {
+                        "definition": "An instance of incontinence.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An unintended pregnancy.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A quality or attribute in distinction from the substance, as sweetness, softness.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(grammar) A property attached to a word, but not essential to it, such as gender, number, or case.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An irregular surface feature with no apparent cause.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A sudden discontinuity of ground such as fault of great thickness, bed or lentil of unstable ground.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A point or mark which may be retained or omitted in a coat of arms.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Casus; such unforeseen, extraordinary, extraneous interference as is out of the range of ordinary calculation.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Appearance, manifestation.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "fortune",
+                    "luck",
+                    "casus",
+                    "befalling",
+                    "casualty",
+                    "chance",
+                    "contingency",
+                    "mishap"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/accident"
+        ]
+    }
+]

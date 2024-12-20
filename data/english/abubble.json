@@ -1,0 +1,60 @@
+[
+    {
+        "word": "abubble",
+        "phonetic": "/\u0259\u02c8b\u028cb.l\u0329/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8b\u028cb.l\u0329/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8b\u028cb.l\u0329/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "In a state of excitement, agitated activity, or motion.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "After they had sat down, the party remained abubble until the speaker rose."
+                    },
+                    {
+                        "definition": "Bubbling.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The sour mash was abubble."
+                    }
+                ],
+                "synonyms": [
+                    "bubblesome",
+                    "bubbly",
+                    "ebullient"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "Bubbling over with excitement.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abubble"
+        ]
+    }
+]

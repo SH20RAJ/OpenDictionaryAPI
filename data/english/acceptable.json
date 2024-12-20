@@ -1,0 +1,48 @@
+[
+    {
+        "word": "acceptable",
+        "phonetic": "/\u00e6k.\u02c8s\u025bp.t\u0259.b\u0259l/",
+        "phonetics": [
+            {
+                "text": "/\u00e6k.\u02c8s\u025bp.t\u0259.b\u0259l/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/acceptable-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1755069",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Worthy, decent, sure of being accepted or received with at least moderate pleasure",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "We need to find an acceptable present for Jeff."
+                    },
+                    {
+                        "definition": "Barely worthy, less than excellent; passable.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The designs were acceptable, but they were nothing special either."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "inacceptable",
+                    "unacceptable"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acceptable"
+        ]
+    }
+]

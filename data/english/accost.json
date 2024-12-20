@@ -1,0 +1,98 @@
+[
+    {
+        "word": "accost",
+        "phonetic": "/\u0259.\u02c8k\u0251st/",
+        "phonetics": [
+            {
+                "text": "/\u0259.\u02c8k\u0251st/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259.\u02c8k\u0252st/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259.\u02c8k\u0254st/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/accost-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1755079",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Address; greeting.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An attack.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To approach and speak to boldly or aggressively, as with a demand or request.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To join side to side; to border.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(by extension) To sail along the coast or side of.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To approach; to come up to.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To speak to first; to address; to greet.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To adjoin; to lie alongside.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To assault.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To solicit sexually.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/accost"
+        ]
+    }
+]

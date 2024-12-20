@@ -1,0 +1,43 @@
+[
+    {
+        "word": "acceptive",
+        "phonetic": "/\u00e6k.\u02c8s\u025bp.t\u026av/",
+        "phonetics": [
+            {
+                "text": "/\u00e6k.\u02c8s\u025bp.t\u026av/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Fit for acceptance.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Ready to accept.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Receptive.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acceptive"
+        ]
+    }
+]

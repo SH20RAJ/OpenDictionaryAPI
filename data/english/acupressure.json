@@ -1,0 +1,37 @@
+[
+    {
+        "word": "acupressure",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An alternative medicine technique, derived from acupuncture, in which physical pressure is applied to acupoints.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An act or instance of applying an acupressure technique.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A mode of arresting hemorrhage resulting from wounds or surgical operations, by passing under the divided vessel a needle, the ends of which are left exposed externally on the cutaneous surface.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acupressure"
+        ]
+    }
+]

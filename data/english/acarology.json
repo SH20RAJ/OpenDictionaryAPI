@@ -1,0 +1,33 @@
+[
+    {
+        "word": "acarology",
+        "phonetic": "/\u00e6k\u0259\u02c8\u0279\u0252l\u0259d\u0361\u0292i/",
+        "phonetics": [
+            {
+                "text": "/\u00e6k\u0259\u02c8\u0279\u0252l\u0259d\u0361\u0292i/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The study of ticks and mites.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/acarology"
+        ]
+    }
+]

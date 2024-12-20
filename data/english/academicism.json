@@ -1,0 +1,52 @@
+[
+    {
+        "word": "academicism",
+        "phonetic": "/\u02cc\u00e6k.\u0259\u02c8d\u025bm.\u0259\u02ccs\u026az.m\u0329/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6k.\u0259\u02c8d\u025bm.\u0259\u02ccs\u026az.m\u0329/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02cc\u00e6k.\u0259\u02c8d\u025bm.\u0259\u02ccs\u026az.m\u0329/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "(sometimes capitalized) The doctrines of Plato's academy; specifically the skeptical doctrines of the later academy stating that nothing can be known; a tenet of the Academic philosophy; state of being Academic.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Traditional or orthodox formalism; conventionalism.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Speculative thoughts and attitudes.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A mannerism or mode peculiar to an academy.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/academicism"
+        ]
+    }
+]
