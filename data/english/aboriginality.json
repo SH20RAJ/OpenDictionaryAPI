@@ -1,0 +1,43 @@
+[
+    {
+        "word": "aboriginality",
+        "phonetic": "/\u00e6b.\u0259\u02cc\u0279\u026ad\u0361\u0292.\u0259\u02c8n\u00e6l.\u0259.ti/",
+        "phonetics": [
+            {
+                "text": "/\u00e6b.\u0259\u02cc\u0279\u026ad\u0361\u0292.\u0259\u02c8n\u00e6l.\u0259.ti/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The quality of being aboriginal.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The distinctive culture of aboriginal peoples",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The spiritual bonds between the aboriginal people and their place of heritage.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aboriginality"
+        ]
+    }
+]

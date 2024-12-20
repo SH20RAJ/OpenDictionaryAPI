@@ -1,0 +1,69 @@
+[
+    {
+        "word": "abductor",
+        "phonetic": "/\u00e6b\u02c8d\u028ck.t\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u00e6b\u02c8d\u028ck.t\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "One who abducts; a kidnapper.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "abductee"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abductor"
+        ]
+    },
+    {
+        "word": "abductor",
+        "phonetic": "/\u00e6b\u02c8d\u028ck.t\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u00e6b\u02c8d\u028ck.t\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A muscle which serves to draw a part out, or from the median line of the body",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "abductee",
+                    "adductor"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abductor"
+        ]
+    }
+]

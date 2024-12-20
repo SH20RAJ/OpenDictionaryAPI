@@ -1,0 +1,105 @@
+[
+    {
+        "word": "aba",
+        "phonetic": "/\u0259\u02c8b\u0251\u02d0/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8b\u0251\u02d0/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8b\u0251/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A coarse, often striped, felted fabric from the Middle East, woven from goat or camel hair.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A loose-fitting sleeveless garment, made from aba or silk, worn by Arabs.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An outer garment made of the above, very simple in form, worn by the Arabs of the desert. The illustration shows such an aba, made of two breadths of stuff sewed together to make an oblong about four by nine feet.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "abaya"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aba"
+        ]
+    },
+    {
+        "word": "aba",
+        "phonetic": "/\u02c8\u00e6.b\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6.b\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An altazimuth used for astronomy on either land or water.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aba"
+        ]
+    },
+    {
+        "word": "aba",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The electric fish Gymnarchus niloticus (frankfish, freshwater rat-tail, African knifefish), found in swamps, lakes and rivers in Africa.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aba"
+        ]
+    }
+]

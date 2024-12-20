@@ -1,0 +1,53 @@
+[
+    {
+        "word": "abhorrent",
+        "phonetic": "/\u00e6b\u02c8(h)\u0252\u0279.\u0259nt/",
+        "phonetics": [
+            {
+                "text": "/\u00e6b\u02c8(h)\u0252\u0279.\u0259nt/",
+                "audio": ""
+            },
+            {
+                "text": "/\u00e6b\u02c8h\u0251\u0279.\u0259nt/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Inconsistent with, or far removed from, something; strongly opposed",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "abhorrent thoughts"
+                    },
+                    {
+                        "definition": "Contrary to something; discordant.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Abhorring; detesting; having or showing abhorrence; loathing.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Detestable or repugnant.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abhorrent"
+        ]
+    }
+]

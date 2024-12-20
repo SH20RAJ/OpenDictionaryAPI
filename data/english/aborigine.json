@@ -1,0 +1,43 @@
+[
+    {
+        "word": "aborigine",
+        "phonetic": "/\u02cc\u00e6b.\u0259\u02c8\u0279\u026ad\u0292.\u026a.ni/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6b.\u0259\u02c8\u0279\u026ad\u0292.\u026a.ni/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/aborigine-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=2340418",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A native inhabitant of a country; a member of the original people.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(in the plural) The native flora and fauna of an area.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aborigine"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "word": "abrogation",
+        "phonetic": "/\u02cc\u00e6b.\u0279\u0259\u02c8\u0261e\u026a.\u0283n\u0329/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6b.\u0279\u0259\u02c8\u0261e\u026a.\u0283n\u0329/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The act of abrogating; a repeal by authority; abolition.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abrogation"
+        ]
+    }
+]

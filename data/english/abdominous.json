@@ -1,0 +1,37 @@
+[
+    {
+        "word": "abdominous",
+        "phonetic": "/\u00e6b\u02c8d\u0252m.\u0259.n\u0259s/",
+        "phonetics": [
+            {
+                "text": "/\u00e6b\u02c8d\u0252m.\u0259.n\u0259s/",
+                "audio": ""
+            },
+            {
+                "text": "/\u00e6b\u02c8d\u0251m.\u0259.n\u0259s/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Having a protuberant belly; potbellied.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abdominous"
+        ]
+    }
+]

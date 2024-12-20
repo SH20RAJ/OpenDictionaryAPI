@@ -1,0 +1,54 @@
+[
+    {
+        "word": "abattoir",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abattoir-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75729287",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u02c8\u00e6b.\u0259\u02cctw\u0251\u02d0(\u0279)/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6b.\u0259\u02cctw\u0251/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abattoir-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=5372616",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A public slaughterhouse for cattle, sheep, etc.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A place likened to a slaughterhouse.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abattoir"
+        ]
+    }
+]

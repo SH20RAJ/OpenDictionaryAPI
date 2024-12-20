@@ -1,0 +1,37 @@
+[
+    {
+        "word": "aardwolf",
+        "phonetic": "/\u02c8\u0251\u02d0d\u02ccw\u028alf/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u0251\u02d0d\u02ccw\u028alf/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u0251\u0279d.\u02ccw\u028alf/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The nocturnal, insectivorous, mammal, Proteles cristatus, of southern and eastern Africa, related to and resembling the hyena.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aardwolf"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "word": "abandonware",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abandonware-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=9503060"
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A software product that is no longer updated or maintained, or whose copyright is no longer defended or which is no longer marketed even by the company who made it.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abandonware"
+        ]
+    }
+]

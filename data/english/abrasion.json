@@ -1,0 +1,63 @@
+[
+    {
+        "word": "abrasion",
+        "phonetic": "/\u0259\u02c8b\u0279e\u026a.\u0292n\u0329/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8b\u0279e\u026a.\u0292n\u0329/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abrasion-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=50240565",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The act of abrading, wearing, or rubbing off; the wearing away by friction.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The substance thus rubbed off; debris.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The effect of mechanical erosion of rock, especially a river bed, by rock fragments scratching and scraping it.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An abraded, scraped, or worn area.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A superficial wound caused by scraping; an area of skin where the cells on the surface have been scraped or worn away.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The wearing away of the surface of the tooth by chewing.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abrasion"
+        ]
+    }
+]

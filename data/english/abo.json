@@ -1,0 +1,52 @@
+[
+    {
+        "word": "abo",
+        "phonetic": "/\u02c8\u00e6b.\u0259\u0289/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6b.\u0259\u0289/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abo-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=35332408",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u02c8\u00e6b.\u0259\u028a/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6b.o\u028a/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An aborigine; aboriginal.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "Jacky",
+                    "Mary",
+                    "boong",
+                    "gin",
+                    "lubra"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abo"
+        ]
+    }
+]

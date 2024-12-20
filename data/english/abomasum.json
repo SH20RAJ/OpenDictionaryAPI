@@ -1,0 +1,39 @@
+[
+    {
+        "word": "abomasum",
+        "phonetic": "/\u02cc\u00e6b.o\u028a\u02c8me\u026a.s\u0259m/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6b.o\u028a\u02c8me\u026a.s\u0259m/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The fourth or digestive compartment of the stomach of a cow or other ruminant, after the omasum.",
+                        "synonyms": [
+                            "rennet bag",
+                            "rennet stomach"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "rennet bag",
+                    "rennet stomach"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abomasum"
+        ]
+    }
+]

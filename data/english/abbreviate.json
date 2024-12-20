@@ -1,0 +1,131 @@
+[
+    {
+        "word": "abbreviate",
+        "phonetic": "/\u0259.\u02c8b\u0279i\u02d0.vi.e\u026at/",
+        "phonetics": [
+            {
+                "text": "/\u0259.\u02c8b\u0279i\u02d0.vi.e\u026at/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8b\u0279i.vi.e\u026at/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abbreviate-1-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1755015",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To shorten by omitting parts or details.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To speak or write in a brief manner.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To make shorter; to shorten (in time); to abridge; to shorten by ending sooner than planned.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To reduce a word or phrase by means of contraction or omission to a shorter recognizable form.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To reduce to lower terms, as a fraction.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "abridge",
+                    "compress",
+                    "condense",
+                    "contract",
+                    "curtail",
+                    "epitomize",
+                    "reduce",
+                    "shorten"
+                ],
+                "antonyms": [
+                    "amplify",
+                    "dilate",
+                    "elongate",
+                    "enlarge",
+                    "expand",
+                    "expatiate",
+                    "extend",
+                    "lengthen",
+                    "produce",
+                    "prolong",
+                    "stretch"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abbreviate"
+        ]
+    },
+    {
+        "word": "abbreviate",
+        "phonetic": "/\u0259\u02c8b\u0279i.vi.e\u026at/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8b\u0279i.vi.e\u026at/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An abridgment.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Abbreviated; abridged; shortened.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Having one part relatively shorter than another or than the ordinary type.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abbreviate"
+        ]
+    }
+]

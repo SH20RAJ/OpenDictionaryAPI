@@ -1,0 +1,62 @@
+[
+    {
+        "word": "abominate",
+        "phonetic": "/\u0259\u02c8b\u0252m.\u0259\u02ccn\u0259\u026at/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8b\u0252m.\u0259\u02ccn\u0259\u026at/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abominate-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1755032",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To feel disgust towards; to loathe or detest thoroughly; to hate in the highest degree, as if with religious dread.",
+                        "synonyms": [
+                            "abhor"
+                        ],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To dislike strongly.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "abhor",
+                    "detest",
+                    "loathe",
+                    "abhor"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Abominable; detested.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abominate"
+        ]
+    }
+]

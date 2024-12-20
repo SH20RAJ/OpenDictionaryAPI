@@ -1,0 +1,82 @@
+[
+    {
+        "word": "aberrant",
+        "phonetic": "/\u0259\u02c8b\u025b\u0279.n\u0329t/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8b\u025b\u0279.n\u0329t/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259b\u02c8\u025b\u0279.n\u0329t/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A person or object that deviates from the rest of a group.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A group, individual, or structure that deviates from the usual or natural type, especially with an atypical chromosome number.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "deviant",
+                    "freak"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Differing from the norm.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(sometimes figurative) Straying from the right way; deviating from morality or truth.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Deviating from the ordinary or natural type; exceptional; abnormal.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "abnormal",
+                    "exceptional",
+                    "unusual",
+                    "devious",
+                    "errant",
+                    "immoral"
+                ],
+                "antonyms": [
+                    "continuous",
+                    "normal",
+                    "regular",
+                    "true",
+                    "correct",
+                    "right",
+                    "straight"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aberrant"
+        ]
+    }
+]

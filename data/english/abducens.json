@@ -1,0 +1,37 @@
+[
+    {
+        "word": "abducens",
+        "phonetic": "/\u00e6b.\u02c8dju.\u02ccs\u025bnz/",
+        "phonetics": [
+            {
+                "text": "/\u00e6b.\u02c8dju.\u02ccs\u025bnz/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The abducens nerve: the nerve in humans and most animals that governs the motion of the lateral rectus muscle of the eye.",
+                        "synonyms": [
+                            "sixth nerve"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "sixth nerve"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abducens"
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "word": "abiotic",
+        "phonetic": "/\u02cce\u026a.ba\u026a\u02c8\u0251t.\u026ak/",
+        "phonetics": [
+            {
+                "text": "/\u02cce\u026a.ba\u026a\u02c8\u0251t.\u026ak/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any such material",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Nonliving, inanimate, characterised by the absence of life; of inorganic matter.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Tending to inhibit or destroy life; antibiotic; incompatible with life.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abiotic"
+        ]
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "word": "abridgement",
+        "phonetic": "/\u0259\u02c8b\u0279\u026ad\u0361\u0292.m\u0259nt/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8b\u0279\u026ad\u0361\u0292.m\u0259nt/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The act of abridging; reduction or deprivation",
+                        "synonyms": [
+                            "diminution",
+                            "lessening",
+                            "shortening"
+                        ],
+                        "antonyms": [],
+                        "example": "an abridgment of pleasures or of expenses"
+                    },
+                    {
+                        "definition": "The state of being abridged or lessened.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An epitome or compend, as of a book; a shortened or abridged form; an abbreviation.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "That which abridges or cuts short; hence, an entertainment that makes the time pass quickly",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Any of various brief statements of case law made before modern reporting of legal cases.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The leaving out of certain portions of a plaintiff's demand, the writ still holding good for the remainder.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "abstract",
+                    "compendium",
+                    "epitome",
+                    "pr\u00e9cis",
+                    "synopsis",
+                    "diminution",
+                    "lessening",
+                    "shortening"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abridgement",
+            "https://en.wiktionary.org/wiki/abridgment"
+        ]
+    }
+]

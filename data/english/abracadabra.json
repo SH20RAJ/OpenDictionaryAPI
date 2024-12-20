@@ -1,0 +1,59 @@
+[
+    {
+        "word": "abracadabra",
+        "phonetic": "/\u02ccab\u0279\u0259k\u0259\u02c8dab\u0279\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u02ccab\u0279\u0259k\u0259\u02c8dab\u0279\u0259/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02cc\u00e6.b\u0279\u0259.k\u0259\u02c8d\u00e6.b\u0279\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A use of the mystical term \u2018abracadabra\u2019, supposed to work as part of a healing charm or a magical spell; any spell or incantation making use of the word.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Mumbo-jumbo; obscure language or technicalities; jargon.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "I don\u2019t know all the theoretical abracadabra about how it works, I\u2019m only its pilot."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "interjection",
+                "definitions": [
+                    {
+                        "definition": "Used to indicate that a magic trick or other illusion has been performed.",
+                        "synonyms": [
+                            "hey presto"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "hey presto"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abracadabra"
+        ]
+    }
+]

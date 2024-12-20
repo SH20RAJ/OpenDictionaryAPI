@@ -1,0 +1,52 @@
+[
+    {
+        "word": "abominable",
+        "phonetic": "/\u0258\u02c8b\u0254m.\u0258.n\u0258.b\u026f/",
+        "phonetics": [
+            {
+                "text": "/\u0258\u02c8b\u0254m.\u0258.n\u0258.b\u026f/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8b\u0251m.n\u0259.bl\u0329/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Worthy of, or causing, abhorrence, as a thing of evil omen; odious in the utmost degree; very hateful; detestable; loathsome; execrable.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Excessive, large (used as an intensifier).",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Very bad or inferior.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Disagreeable or unpleasant.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abominable"
+        ]
+    }
+]

@@ -1,0 +1,54 @@
+[
+    {
+        "word": "ablaut",
+        "phonetic": "/\u02c8\u00e6b\u02ccla\u028at/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6b\u02ccla\u028at/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The substitution of one root vowel for another, thus indicating a corresponding modification of use or meaning; vowel permutation; as, get and got; sing and song; hang and hung, distinct from the phonetic influence of a succeeding vowel.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "alternation",
+                    "apophony",
+                    "gradation"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "(of a vowel-containing linguistic component) To undergo a change of vowel.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To cause to change a vowel.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ablaut"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "word": "abreact",
+        "phonetic": "/\u02cc\u00e6b.\u0279i\u02c8\u00e6kt/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6b.\u0279i\u02c8\u00e6kt/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To eliminate previously repressed emotions by reliving past experiences.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abreact"
+        ]
+    }
+]

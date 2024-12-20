@@ -1,0 +1,113 @@
+[
+    {
+        "word": "abrade",
+        "phonetic": "/\u0259\u02c8b\u0279e\u026ad/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8b\u0279e\u026ad/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8b\u0279e\u026ad/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To rub or wear off; erode.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To wear down or exhaust, as a person; irritate.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To irritate by rubbing; chafe.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To cause the surface to become more rough.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To undergo abrasion.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abrade"
+        ]
+    },
+    {
+        "word": "abrade",
+        "phonetic": "/\u0259\u02c8b\u0279e\u026ad/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8b\u0279e\u026ad/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8b\u0279e\u026ad/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To wrench (something) out.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To wake up.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To spring, start, make a sudden movement.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To shout out.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To rise in the stomach with nausea.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abrade",
+            "https://en.wiktionary.org/wiki/abraid"
+        ]
+    }
+]

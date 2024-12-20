@@ -1,0 +1,43 @@
+[
+    {
+        "word": "abiogenesis",
+        "phonetic": "/-n\u026a-/",
+        "phonetics": [
+            {
+                "text": "/-n\u026a-/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02cce\u026a\u02ccbaio\u028a\u02c8d\u0292\u025bn\u0259s\u026as/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The origination of living organisms from lifeless matter; such genesis as does not involve the action of living parents.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "abiogeny",
+                    "biopoiesis"
+                ],
+                "antonyms": [
+                    "biogenesis",
+                    "transformism"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abiogenesis"
+        ]
+    }
+]

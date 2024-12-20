@@ -1,0 +1,144 @@
+[
+    {
+        "word": "abort",
+        "phonetic": "/\u0259\u02c8b\u0254\u02d0t/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8b\u0254\u02d0t/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8b\u0254\u0279t/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abort-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1755034",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A miscarriage; an untimely birth; an abortion.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The product of a miscarriage; an aborted offspring; an abortion.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An early termination of a mission, action, or procedure in relation to missiles or spacecraft; the craft making such a mission.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "We've had aborts on three of our last seven launches."
+                    },
+                    {
+                        "definition": "The function used to abort a process.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An event involving the abort of a process.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "We've had three aborts over the last two days."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abort"
+        ]
+    },
+    {
+        "word": "abort",
+        "phonetic": "/\u0259\u02c8b\u0254\u02d0t/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8b\u0254\u02d0t/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8b\u0254\u0279t/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abort-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1755034",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "(now rare outside medicine) To miscarry; to bring forth (non-living) offspring prematurely.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To cause a premature termination of (a fetus); to end a pregnancy before term.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To end prematurely; to stop in the preliminary stages; to turn back.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To stop or fail at something in the preliminary stages.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To become checked in normal development, so as either to remain rudimentary or shrink away wholly; to cease organic growth before maturation; to become sterile.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To cause an organism to develop minimally; to cause rudimentary development to happen; to prevent maturation.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To abandon a mission at any point after the beginning of the mission and prior to its completion.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To terminate a mission involving a missile or rocket; to destroy a missile or rocket prematurely.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To terminate a process prior to completion.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abort"
+        ]
+    }
+]

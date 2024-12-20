@@ -1,0 +1,66 @@
+[
+    {
+        "word": "abnormity",
+        "phonetic": "/\u00e6b\u02c8n\u0254\u0279.m\u026a.ti/",
+        "phonetics": [
+            {
+                "text": "/\u00e6b\u02c8n\u0254\u0279.m\u026a.ti/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The state or quality of being abnormal; variation; irregularity.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Something abnormal; an aberration; an abnormal occurrence or feature.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "aberrant",
+                    "deviant",
+                    "outlier",
+                    "abnormalcy",
+                    "anomalousness",
+                    "enormity",
+                    "weirdness"
+                ],
+                "antonyms": [
+                    "normality"
+                ]
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A monstrosity",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "aberrant",
+                    "outlier",
+                    "abnormality",
+                    "weirdness"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abnormality",
+            "https://en.wiktionary.org/wiki/abnormity"
+        ]
+    }
+]

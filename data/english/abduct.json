@@ -1,0 +1,52 @@
+[
+    {
+        "word": "abduct",
+        "phonetic": "/\u00e6b\u02c8d\u0259kt/",
+        "phonetics": [
+            {
+                "text": "/\u00e6b\u02c8d\u0259kt/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abduct-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=11546260"
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To take away by force; to carry away (a human being) wrongfully and usually with violence or deception; to kidnap.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To draw away, as a limb or other part, from the median axis of the body.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "carry off",
+                    "drag away",
+                    "kidnap",
+                    "run away with",
+                    "seize",
+                    "spirit away",
+                    "stretch",
+                    "take away"
+                ],
+                "antonyms": [
+                    "adduct",
+                    "reinstate",
+                    "restore"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abduct"
+        ]
+    }
+]

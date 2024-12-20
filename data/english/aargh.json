@@ -1,0 +1,29 @@
+[
+    {
+        "word": "aargh",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "interjection",
+                "definitions": [
+                    {
+                        "definition": "Expressing annoyance, dismay, embarrassment or frustration.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Argh! It\u02bcs already 7:15! We\u02bcre never gonna make it!"
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aargh",
+            "https://en.wiktionary.org/wiki/argh"
+        ]
+    }
+]

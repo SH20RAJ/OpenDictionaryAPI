@@ -1,0 +1,38 @@
+[
+    {
+        "word": "ableism",
+        "phonetic": "/\u02c8e\u026a.b\u0259l.\u026az.m\u0329/",
+        "phonetics": [
+            {
+                "text": "/\u02c8e\u026a.b\u0259l.\u026az.m\u0329/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Discrimination against persons with disabilities or in favour of those without.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "able-bodiedism",
+                    "able-bodyism",
+                    "ablecentrism",
+                    "disablism"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ableism"
+        ]
+    }
+]

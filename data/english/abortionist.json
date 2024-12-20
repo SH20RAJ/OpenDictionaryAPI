@@ -1,0 +1,45 @@
+[
+    {
+        "word": "abortionist",
+        "phonetic": "/\u0259\u02c8b\u0254\u0279.\u0283\u0259.n\u026ast/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8b\u0254\u0279.\u0283\u0259.n\u026ast/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "One who performs an illegal abortion in a non-medical setting (a back street, a hotel room, etc).",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(chiefly in anti-abortion discourse) An abortion provider; one who performs a legal abortion.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(in anti-abortion discourse) One who favors abortion being legal.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "anti-abortionist"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abortionist"
+        ]
+    }
+]

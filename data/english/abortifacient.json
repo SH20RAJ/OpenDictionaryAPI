@@ -1,0 +1,47 @@
+[
+    {
+        "word": "abortifacient",
+        "phonetic": "/\u0259\u02ccb\u0254\u0279.t\u0259\u02c8fe\u026a.\u0283n\u0329t/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02ccb\u0254\u0279.t\u0259\u02c8fe\u026a.\u0283n\u0329t/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A drug or an agent that induces an abortion.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "abortificant"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(pharmaceutical effect) Producing miscarriage.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abortifacient"
+        ]
+    }
+]

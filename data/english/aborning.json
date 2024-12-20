@@ -1,0 +1,46 @@
+[
+    {
+        "word": "aborning",
+        "phonetic": "/\u0259\u02c8b\u0254\u0279.n\u026a\u014b/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8b\u0254\u0279.n\u026a\u014b/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "While being born or produced.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "This festival is an excellent chance to see new talent aborning."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "That is in the process of being born; coming into existence; before coming to completion.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aborning"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "word": "abrazo",
+        "phonetic": "/\u00e6\u02c8b\u0279\u00e6.\u03b8o/",
+        "phonetics": [
+            {
+                "text": "/\u00e6\u02c8b\u0279\u00e6.\u03b8o/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A Latin American embrace.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abrazo"
+        ]
+    }
+]

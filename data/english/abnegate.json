@@ -1,0 +1,43 @@
+[
+    {
+        "word": "abnegate",
+        "phonetic": "/\u02c8\u00e6b.n\u026a.\u0261e\u026at/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6b.n\u026a.\u0261e\u026at/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6b.ni.\u0261e\u026at/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abnegate-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=11546264"
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To deny (oneself something); to renounce or give up (a right, a power, a claim, a privilege, a convenience).",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To relinquish; to surrender; to abjure.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abnegate"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "aasvoel",
+        "phonetic": "/\u02c8\u0251s.\u02ccfo\u028a.\u0259l/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u0251s.\u02ccfo\u028a.\u0259l/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Vulture.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aasvoel",
+            "https://en.wiktionary.org/wiki/aasvogel"
+        ]
+    }
+]

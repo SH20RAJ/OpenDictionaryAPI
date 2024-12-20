@@ -1,0 +1,33 @@
+[
+    {
+        "word": "abhinaya",
+        "phonetic": "/\u0259\u02c8b\u026an.\u0259.j\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8b\u026an.\u0259.j\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Use of the face and hands, in an expressive manner, similar to the kathakali dance of India.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abhinaya"
+        ]
+    }
+]

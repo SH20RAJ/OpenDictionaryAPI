@@ -1,0 +1,37 @@
+[
+    {
+        "word": "abele",
+        "phonetic": "/\u0259.\u02c8be\u026al/",
+        "phonetics": [
+            {
+                "text": "/\u0259.\u02c8be\u026al/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259.\u02c8be\u026al/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The white poplar (Populus alba).",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abele"
+        ]
+    }
+]

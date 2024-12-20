@@ -1,0 +1,68 @@
+[
+    {
+        "word": "abeam",
+        "phonetic": "/\u0259.\u02c8bi\u02d0m/",
+        "phonetics": [
+            {
+                "text": "/\u0259.\u02c8bi\u02d0m/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259.\u02c8bim/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Alongside or abreast; opposite the center of the side of the ship or aircraft.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The island was directly abeam of us."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "On the beam; at a right angle to the centerline or keel of a vessel or aircraft; being at a bearing approximately 090 Degrees or 270 Degrees relative.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Alongside or abreast; opposite the center of the side of the ship or aircraft.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "preposition",
+                "definitions": [
+                    {
+                        "definition": "Alongside.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "She came abeam the crippled ship."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abeam"
+        ]
+    }
+]

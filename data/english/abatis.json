@@ -1,0 +1,52 @@
+[
+    {
+        "word": "abatis",
+        "phonetic": "/\u02c8\u00e6b.\u0259\u02ccti\u02d0/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6b.\u0259\u02ccti\u02d0/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6b.\u0259.t\u026as/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A means of defense formed by felled trees, or sometimes by bent trees, the ends of whose branches are sharpened and directed outwards, or against the enemy, and more recently fortified with barbed wire.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "In the middle ages, an officer of the stables who had the care of measuring out the provender; an avenor.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "In fortification, a barricade made of felled trees denuded of their smaller branches, with the butt-ends of the trunks embedded in the earth or secured by pickets, and the sharpened ends of the branches directed upward and outward toward an advancing enemy, for the purpose of obstructing his progress. In field-fortifications the abatis is usually constructed in front of the ditch. See fortification.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "In coal-mining, walls of cord-wood piled up crosswise to keep the underground roads open so as to secure ventilation.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abatis"
+        ]
+    }
+]

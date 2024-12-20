@@ -1,0 +1,35 @@
+[
+    {
+        "word": "abdominoplasty",
+        "phonetic": "/\u00e6b\u02c8d\u0251m.\u026a.no\u028a\u02ccpl\u00e6s.ti/",
+        "phonetics": [
+            {
+                "text": "/\u00e6b\u02c8d\u0251m.\u026a.no\u028a\u02ccpl\u00e6s.ti/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The surgical removal of excess flesh from the abdomen, usually for cosmetic reasons.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "tummy tuck"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abdominoplasty"
+        ]
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "word": "abrasive",
+        "phonetic": "/\u0259\u02c8b\u0279e\u026a.s\u026av/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8b\u0279e\u026a.s\u026av/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A substance or material such as sandpaper, pumice, or emery, used for cleaning, smoothing, or polishing.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Rock fragments, sand grains, mineral particles, used by water, wind, and ice to abrade a land surface.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Producing abrasion; rough enough to wear away the outer surface.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Being rough and coarse in manner or disposition; causing irritation.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "An abrasive person can grate on one's sensibilities."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abrasive"
+        ]
+    }
+]

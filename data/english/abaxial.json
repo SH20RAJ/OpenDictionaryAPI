@@ -1,0 +1,43 @@
+[
+    {
+        "word": "abaxial",
+        "phonetic": "/\u00e6b\u02c8\u00e6k.si.\u0259l/",
+        "phonetics": [
+            {
+                "text": "/\u00e6b\u02c8\u00e6k.si.\u0259l/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of a side that is facing away from the axis or central line, such as the underside of a leaf; or the back of an animal.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Not in the axis. Applied to an embryo placed out of the axis of the seed.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "dorsal",
+                    "eccentric"
+                ],
+                "antonyms": [
+                    "adaxial"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abaxial"
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "word": "abigail",
+        "phonetic": "/\u02c8a.b\u026a.\u0261e\u026al/",
+        "phonetics": [
+            {
+                "text": "/\u02c8a.b\u026a.\u0261e\u026al/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8a.b\u026a.\u0261e\u026al/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A lady's maid.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abigail"
+        ]
+    }
+]

@@ -1,0 +1,105 @@
+[
+    {
+        "word": "abet",
+        "phonetic": "/\u0259\u02c8b\u025bt/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8b\u025bt/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/abet-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=11546262"
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Fraud or cunning.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An act of abetting; of helping; of giving aid.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To urge on, stimulate (a person to do) something desirable.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To incite; to assist or encourage by aid or countenance in crime.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To support, countenance, maintain, uphold, or aid (any good cause, opinion, or action); to maintain.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To back up one's forecast of a doubtful issue, by staking money, etc., to bet.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "advocate",
+                    "aid",
+                    "assist",
+                    "back",
+                    "connive",
+                    "cooperate",
+                    "countenance",
+                    "egg on",
+                    "embolden",
+                    "encourage",
+                    "favor",
+                    "foment",
+                    "incite",
+                    "instigate",
+                    "promote",
+                    "sanction",
+                    "second",
+                    "set on",
+                    "support",
+                    "sustain",
+                    "uphold"
+                ],
+                "antonyms": [
+                    "baffle",
+                    "confound",
+                    "contradict",
+                    "counteract",
+                    "denounce",
+                    "deter",
+                    "disapprove",
+                    "disconcert",
+                    "discourage",
+                    "dissuade",
+                    "expose",
+                    "frustrate",
+                    "hinder",
+                    "impede",
+                    "obstruct",
+                    "thwart"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/abet"
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "word": "aboral",
+        "phonetic": "/\u00e6b\u02c8\u0254\u02d0\u0279.l\u0329/",
+        "phonetics": [
+            {
+                "text": "/\u00e6b\u02c8\u0254\u02d0\u0279.l\u0329/",
+                "audio": ""
+            },
+            {
+                "text": "/\u00e6b\u02c8\u0254\u0279.l\u0329/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Situated opposite to, or away from, the mouth.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aboral"
+        ]
+    }
+]
