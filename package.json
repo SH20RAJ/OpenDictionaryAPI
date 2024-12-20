@@ -1,0 +1,20 @@
+{
+  "name": "opendictionaryapi",
+  "version": "1.0.0",
+  "description": "A free and open-source API to fetch word definitions, synonyms, antonyms, pronunciations, and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["dictionary", "API", "definitions", "synonyms", "antonyms", "open-source", "language"],
+  "author": "Shaswat Raj",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SH20RAJ/OpenDictionaryAPI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SH20RAJ/OpenDictionaryAPI/issues"
+  },
+  "homepage": "https://github.com/SH20RAJ/OpenDictionaryAPI#readme"
+}
