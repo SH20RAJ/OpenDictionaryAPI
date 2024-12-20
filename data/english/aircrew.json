@@ -1,0 +1,28 @@
+[
+    {
+        "word": "aircrew",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A group of two or more trained individuals, formed as a team that operates an aircraft.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The aircrew ran to the bomber."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aircrew"
+        ]
+    }
+]

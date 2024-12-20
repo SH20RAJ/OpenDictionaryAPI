@@ -1,0 +1,39 @@
+[
+    {
+        "word": "ailurophile",
+        "phonetic": "/a\u026a\u02c8lj\u028a\u0259\u0279\u0259\u02ccfa\u026al/",
+        "phonetics": [
+            {
+                "text": "/a\u026a\u02c8lj\u028a\u0259\u0279\u0259\u02ccfa\u026al/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A person with ailurophilia; a cat-lover.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "cataholic",
+                    "catlover",
+                    "catophile"
+                ],
+                "antonyms": [
+                    "ailurophobe"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ailurophile"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "word": "alfisol",
+        "phonetic": "/\u02c8\u00e6lf\u026as\u0252l/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6lf\u026as\u0252l/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An abundant soil order in the USDA soil taxonomy, with a clay-enriched subsoil and relatively high native fertility, widely used both in agriculture and forestry.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alfisol"
+        ]
+    }
+]

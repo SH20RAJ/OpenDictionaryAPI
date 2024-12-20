@@ -1,0 +1,44 @@
+[
+    {
+        "word": "affluenza",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/affluenza-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75729364",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u02cc\u00e6flu\u02d0\u02c8\u025bnz\u0259/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02cc\u00e6flu\u02c8\u025bnz\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A feeling of dissatisfaction, anxiety, etc., caused by the dogged and ongoing pursuit of more goods and possessions.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/affluenza"
+        ]
+    }
+]

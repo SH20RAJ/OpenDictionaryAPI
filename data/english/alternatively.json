@@ -1,0 +1,32 @@
+[
+    {
+        "word": "alternatively",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "In an alternative way",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Used to link a pair of possibilities",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alternatively"
+        ]
+    }
+]

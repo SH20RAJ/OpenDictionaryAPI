@@ -1,0 +1,31 @@
+[
+    {
+        "word": "adstratum",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any language having elements that are responsible for change in neighbouring languages",
+                        "synonyms": [
+                            "adstrate"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "adstrate"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adstratum"
+        ]
+    }
+]

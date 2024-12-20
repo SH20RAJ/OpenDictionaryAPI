@@ -1,0 +1,31 @@
+[
+    {
+        "word": "ajowan",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A plant in the family Apiaceae (Trachyspermum ammi), and its seed, which is used (especially in South Asian cooking) for its thyme-like flavor.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "bishop's weed",
+                    "carom"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ajowan",
+            "https://en.wiktionary.org/wiki/ajwain"
+        ]
+    }
+]

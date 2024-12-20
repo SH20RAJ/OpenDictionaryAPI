@@ -1,0 +1,37 @@
+[
+    {
+        "word": "albumin",
+        "phonetic": "/\u02c8albj\u028am\u026an/",
+        "phonetics": [
+            {
+                "text": "/\u02c8albj\u028am\u026an/",
+                "audio": ""
+            },
+            {
+                "text": "/\u00e6l.\u02c8bju\u02d0.m\u0259n/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any of a class of monomeric proteins that are soluble in water, and are coagulated by heat; they occur in egg white, milk etc; they function as carrier protein for steroids, fatty acids, and thyroid hormones and play a role in stabilizing extracellular fluid volume.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/albumin"
+        ]
+    }
+]

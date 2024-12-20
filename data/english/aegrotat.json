@@ -1,0 +1,38 @@
+[
+    {
+        "word": "aegrotat",
+        "phonetic": "/\u02c8i\u02d0.\u0261\u0279\u0259\u028a\u02cct\u00e6t/",
+        "phonetics": [
+            {
+                "text": "/\u02c8i\u02d0.\u0261\u0279\u0259\u028a\u02cct\u00e6t/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A certificate indicating that a student is ill, excusing attendance at lectures and examinations and allowing courses to be passed without finishing the work.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An unclassified degree awarded to such a student.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aegrotat"
+        ]
+    }
+]

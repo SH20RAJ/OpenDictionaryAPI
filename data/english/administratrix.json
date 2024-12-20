@@ -1,0 +1,33 @@
+[
+    {
+        "word": "administratrix",
+        "phonetic": "/\u00e6d\u02ccm\u026an\u026as\u02c8t\u0279e\u026a\u02cct\u0279\u026aks/",
+        "phonetics": [
+            {
+                "text": "/\u00e6d\u02ccm\u026an\u026as\u02c8t\u0279e\u026a\u02cct\u0279\u026aks/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A female administrator.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/administratrix"
+        ]
+    }
+]

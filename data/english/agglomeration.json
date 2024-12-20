@@ -1,0 +1,42 @@
+[
+    {
+        "word": "agglomeration",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The act or process of collecting in a mass; a heaping together.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "State of being collected in a mass; a mass; cluster.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An extended city area comprising the built-up area of a central city and any suburbs linked by continuous urban area.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A mass of large volcanic fragments bonded under heat.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/agglomeration"
+        ]
+    }
+]

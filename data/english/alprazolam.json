@@ -1,0 +1,39 @@
+[
+    {
+        "word": "alprazolam",
+        "phonetic": "/\u00e6l\u02c8p\u0279e\u026a.z\u0259l.\u00e6m/",
+        "phonetics": [
+            {
+                "text": "/\u00e6l\u02c8p\u0279e\u026a.z\u0259l.\u00e6m/",
+                "audio": ""
+            },
+            {
+                "text": "/\u00e6l\u02c8p\u0279\u00e6z.\u0259\u02ccl\u00e6m/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A drug of the benzodiazepine group (8-chloro-1-methyl-6-phenyl-4H-[1,2,4]triazolo[4,3-a][1,4]benzodiazepine), used in the treatment of anxiety.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "Xanax"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alprazolam"
+        ]
+    }
+]

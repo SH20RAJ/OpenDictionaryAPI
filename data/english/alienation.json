@@ -1,0 +1,50 @@
+[
+    {
+        "word": "alienation",
+        "phonetic": "[\u02cce\u026ali.\u0259\u02c8ne\u026a\u0283\u0259n]",
+        "phonetics": [
+            {
+                "text": "[\u02cce\u026ali.\u0259\u02c8ne\u026a\u0283\u0259n]",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The act of alienating.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The state of being alienated.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Emotional isolation or dissociation.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Verfremdungseffekt.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "estrangement"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alienation"
+        ]
+    }
+]

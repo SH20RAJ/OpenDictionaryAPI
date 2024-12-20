@@ -1,0 +1,40 @@
+[
+    {
+        "word": "airlock",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A small amount of air in a pipe that stops liquid flowing through it",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A sealed, airtight chamber, such as in a manned spacecraft or submarine, used to provide access to and from the sealed area without allowing air out or water in.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/air%20lock",
+            "https://en.wiktionary.org/wiki/airlock"
+        ]
+    }
+]

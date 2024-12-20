@@ -1,0 +1,52 @@
+[
+    {
+        "word": "adrenal",
+        "phonetic": "/\u00e6\u02c8d\u0279i\u02d0n\u0259l/",
+        "phonetics": [
+            {
+                "text": "/\u00e6\u02c8d\u0279i\u02d0n\u0259l/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An adrenal gland.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Pertaining to the adrenal glands or their secretions.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Near the kidneys.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "suprarenal"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adrenal"
+        ]
+    }
+]

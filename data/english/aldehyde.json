@@ -1,0 +1,33 @@
+[
+    {
+        "word": "aldehyde",
+        "phonetic": "/\u02c8\u00e6l.d\u0268.ha\u026ad/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6l.d\u0268.ha\u026ad/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any of a large class of reactive organic compounds (R\u00b7CHO) having a carbonyl functional group attached to one hydrocarbon radical and a hydrogen atom.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aldehyde"
+        ]
+    }
+]

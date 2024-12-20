@@ -1,0 +1,40 @@
+[
+    {
+        "word": "allochthonous",
+        "phonetic": "/\u0259.\u02c8l\u0252k.\u03b8\u0259.n\u0259s/",
+        "phonetics": [
+            {
+                "text": "/\u0259.\u02c8l\u0252k.\u03b8\u0259.n\u0259s/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Originating in a place other than where it is found.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Buried or found in a place remote from the site of formation.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "autochthonous"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/allochthonous"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "word": "adrowse",
+        "phonetic": "/\u0259\u02c8d\u0279a\u028az/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8d\u0279a\u028az/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Drowsy",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adrowse"
+        ]
+    }
+]

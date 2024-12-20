@@ -1,0 +1,37 @@
+[
+    {
+        "word": "agnolotti",
+        "phonetic": "/\u02ccanj\u0259\u02c8l\u0252t\u026a/",
+        "phonetics": [
+            {
+                "text": "/\u02ccanj\u0259\u02c8l\u0252t\u026a/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02cc\u00e6nj\u0259\u02c8l\u0251ti/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A type of square or rectangular ravioli from Piedmont made from a small sheet of pasta folded up.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/agnolotti"
+        ]
+    }
+]

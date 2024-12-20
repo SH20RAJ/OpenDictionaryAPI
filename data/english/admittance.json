@@ -1,0 +1,58 @@
+[
+    {
+        "word": "admittance",
+        "phonetic": "/\u0259d\u02c8m\u026at.n\u0329s/",
+        "phonetics": [
+            {
+                "text": "/\u0259d\u02c8m\u026at.n\u0329s/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The act of admitting.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Permission to enter, the power or right of entrance.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Actual entrance, reception.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The act of giving possession of a copyhold estate.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The reciprocal of impedance",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "access",
+                    "admission",
+                    "entrance",
+                    "initiation"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/admittance"
+        ]
+    }
+]

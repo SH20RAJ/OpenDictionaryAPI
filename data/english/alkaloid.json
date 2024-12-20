@@ -1,0 +1,45 @@
+[
+    {
+        "word": "alkaloid",
+        "phonetic": "/\u02c8\u00e6l.k\u0259.l\u0254\u026ad/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6l.k\u0259.l\u0254\u026ad/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any of many organic heterocyclic bases that occur in nature and often have medicinal properties.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Relating to, resembling, or containing alkali.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alkaloid"
+        ]
+    }
+]

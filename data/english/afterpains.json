@@ -1,0 +1,28 @@
+[
+    {
+        "word": "afterpains",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "(often in the plural) pain of uterine contractions experienced after childbirth (especially after passage of the placenta)",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/afterpain",
+            "https://en.wiktionary.org/wiki/afterpains"
+        ]
+    }
+]

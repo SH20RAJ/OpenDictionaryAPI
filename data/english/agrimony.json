@@ -1,0 +1,42 @@
+[
+    {
+        "word": "agrimony",
+        "phonetic": "/\u02c8\u00e6\u0261.\u0279\u026a.m\u0259n.i/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6\u0261.\u0279\u026a.m\u0259n.i/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6\u0261.\u0279\u026a\u02ccmo\u028a.ni/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any of several perennial herbaceous plants, of the genus Agrimonia, that have spikes of yellow flowers.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Any of several unrelated plants of a similar appearance.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/agrimony"
+        ]
+    }
+]

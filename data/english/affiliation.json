@@ -1,0 +1,43 @@
+[
+    {
+        "word": "affiliation",
+        "phonetic": "/\u0259\u02ccf\u026ali\u02c8e\u026a\u0283\u0259n/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02ccf\u026ali\u02c8e\u026a\u0283\u0259n/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The relationship resulting from affiliating one thing with another.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The establishment of a child's paternity or maternity",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A club, society or umbrella organisation so formed, especially a trade union.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/affiliation"
+        ]
+    }
+]

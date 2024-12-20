@@ -1,0 +1,31 @@
+[
+    {
+        "word": "alienable",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Capable of being alienated, sold, or transferred to another",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Land is alienable according to the laws of the state."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "inalienable",
+                    "unalienable"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alienable"
+        ]
+    }
+]

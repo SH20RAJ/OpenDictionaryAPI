@@ -1,0 +1,46 @@
+[
+    {
+        "word": "airily",
+        "phonetic": "/\u02c8e\u0279.\u0259.li/",
+        "phonetics": [
+            {
+                "text": "/\u02c8e\u0279.\u0259.li/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "In an airy manner.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Lightly",
+                        "synonyms": [
+                            "flippantly",
+                            "gaily",
+                            "jauntily"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "flippantly",
+                    "gaily",
+                    "jauntily"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/airily"
+        ]
+    }
+]

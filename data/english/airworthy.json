@@ -1,0 +1,34 @@
+[
+    {
+        "word": "airworthy",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Meeting standards for safe flight",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Doc Savage doubted that he would carry out the threat, and thought the plane was still airworthy."
+                    }
+                ],
+                "synonyms": [
+                    "flyable",
+                    "flyworthy",
+                    "skyworthy"
+                ],
+                "antonyms": [
+                    "unflyable"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/airworthy"
+        ]
+    }
+]

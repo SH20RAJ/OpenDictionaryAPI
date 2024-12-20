@@ -1,0 +1,44 @@
+[
+    {
+        "word": "afflict",
+        "phonetic": "/\u0259\u02c8fl\u026akt/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8fl\u026akt/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/afflict-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=11546268"
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To cause (someone) pain, suffering or distress.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To strike or cast down; to overthrow.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To make low or humble.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/afflict"
+        ]
+    }
+]

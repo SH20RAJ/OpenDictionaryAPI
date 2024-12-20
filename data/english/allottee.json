@@ -1,0 +1,33 @@
+[
+    {
+        "word": "allottee",
+        "phonetic": "/\u0259\u02ccl\u0252\u02c8ti\u02d0/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02ccl\u0252\u02c8ti\u02d0/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The person to whom an allotment is allotted.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/allottee"
+        ]
+    }
+]

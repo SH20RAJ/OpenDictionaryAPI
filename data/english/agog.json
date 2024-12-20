@@ -1,0 +1,62 @@
+[
+    {
+        "word": "agog",
+        "phonetic": "/\u0259\u02c8\u0261\u0252\u0261/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8\u0261\u0252\u0261/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8\u0261\u0251\u0261/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/agog-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1194204",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "In eager desire, eager, astir.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(chiefly of eyes) Wide open.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "all a-gog",
+                    "all agog"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "In a state of high anticipation, excitement, or interest.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/agog"
+        ]
+    }
+]

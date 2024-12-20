@@ -1,0 +1,54 @@
+[
+    {
+        "word": "agogo",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An agogo bell, a bell used in Yoruba and Brazilian music and typically played in pairs",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/agogo"
+        ]
+    },
+    {
+        "word": "agogo",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "In abundance, galore.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "A Go Go, a 1998 album by John Scofield"
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/%C3%A0%20gogo",
+            "https://en.wiktionary.org/wiki/agogo"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "word": "admirer",
+        "phonetic": "/\u0259d\u02c8ma\u026a.\u0279\u025a/",
+        "phonetics": [
+            {
+                "text": "/\u0259d\u02c8ma\u026a.\u0279\u025a/",
+                "audio": ""
+            },
+            {
+                "text": "/\u00e6d\u02c8ma\u026a\u025a.\u0279\u025a/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/admirer-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=2650613",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "One who admires.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/admirer"
+        ]
+    }
+]

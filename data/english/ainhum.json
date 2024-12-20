@@ -1,0 +1,27 @@
+[
+    {
+        "word": "ainhum",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A painful constriction of the base of the fifth toe, frequently followed by autoamputation, occurring predominantly in black Africans and their descendants.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ainhum"
+        ]
+    }
+]

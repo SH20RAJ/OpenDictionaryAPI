@@ -1,0 +1,40 @@
+[
+    {
+        "word": "allogeneic",
+        "phonetic": "/\u02cc\u00e6l\u0259d\u0361\u0292\u0259\u02c8ni\u026ak/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6l\u0259d\u0361\u0292\u0259\u02c8ni\u026ak/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Genetically different because of being derived from separate individuals of the same species.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Of a reaction that occurs when cells are transplanted into a genetically different recipient.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "allogeneous"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/allogeneic"
+        ]
+    }
+]

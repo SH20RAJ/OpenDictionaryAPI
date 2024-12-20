@@ -1,0 +1,38 @@
+[
+    {
+        "word": "agoraphobia",
+        "phonetic": "/\u0259\u02cc\u0261\u0254\u02d0\u0279\u0259\u02c8fo\u028a\u032fbi.\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02cc\u0261\u0254\u02d0\u0279\u0259\u02c8fo\u028a\u032fbi.\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The fear of wide open spaces, crowds, or uncontrolled social conditions.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An aversion to markets.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/agoraphobia"
+        ]
+    }
+]

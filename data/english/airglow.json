@@ -1,0 +1,29 @@
+[
+    {
+        "word": "airglow",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A faint illumination in the sky due to photochemical luminescence in the upper atmosphere, now rarely observed by earthbound humans without the assistance of instruments.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "electroglow"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/airglow"
+        ]
+    }
+]

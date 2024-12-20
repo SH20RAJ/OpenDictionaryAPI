@@ -1,0 +1,66 @@
+[
+    {
+        "word": "aeon",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "(preferred spelling, with \u00e6on) A spirit being emanating from the Godhead.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(Cosmology) Each universe in a series of universes, according to conformal cyclic cosmology.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Eternity.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A period of 1,000,000,000 years.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The longest time period used in geology.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A long period of time.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "It's been eons since we last saw each other."
+                    },
+                    {
+                        "definition": "(usually spelled aeon or \u00e6on) A spirit being emanating from the Godhead.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aeon",
+            "https://en.wiktionary.org/wiki/eon"
+        ]
+    }
+]

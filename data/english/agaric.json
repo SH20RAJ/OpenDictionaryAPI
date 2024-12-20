@@ -1,0 +1,38 @@
+[
+    {
+        "word": "agaric",
+        "phonetic": "/\u0259\u02c8\u0261\u0251\u02d0\u0279\u026ak/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8\u0261\u0251\u02d0\u0279\u026ak/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any of various fungi, principally of the order Agaricales, having fruiting bodies consisting of umbrella-like caps, on stalks, with numerous gills beneath.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A dried fruiting body of a fungus formerly used in medicine (now Fomitopsis officinalis, formerly Fomes officinalis, Polyporus officinalis).",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/agaric"
+        ]
+    }
+]

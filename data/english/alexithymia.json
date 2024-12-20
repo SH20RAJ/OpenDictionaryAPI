@@ -1,0 +1,33 @@
+[
+    {
+        "word": "alexithymia",
+        "phonetic": "/\u02cce\u026a.l\u025bk.s\u0259\u02c8\u03b8a\u026a.mi.\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u02cce\u026a.l\u025bk.s\u0259\u02c8\u03b8a\u026a.mi.\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A deficiency in understanding, processing, or describing emotions.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alexithymia"
+        ]
+    }
+]

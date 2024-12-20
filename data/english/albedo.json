@@ -1,0 +1,48 @@
+[
+    {
+        "word": "albedo",
+        "phonetic": "/\u00e6l\u02c8bi.do\u028a/",
+        "phonetics": [
+            {
+                "text": "/\u00e6l\u02c8bi.do\u028a/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/albedo-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=93774897",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The fraction of incident light or radiation reflected by a surface or body, commonly expressed as a percentage.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The whitish inner portion of the rind of citrus fruits that is a source of pectin, commonly referred to as the pith.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "One of the four major stages of the magnum opus, involving purification of the prima materia.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/albedo"
+        ]
+    }
+]

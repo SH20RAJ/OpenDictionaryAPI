@@ -1,0 +1,56 @@
+[
+    {
+        "word": "aficionado",
+        "phonetic": "/\u0259f\u026asj\u0259\u02c8n\u0251\u02d0d\u0259\u028a/",
+        "phonetics": [
+            {
+                "text": "/\u0259f\u026asj\u0259\u02c8n\u0251\u02d0d\u0259\u028a/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An amateur bullfighter.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A person who likes, knows about, and appreciates a particular interest or activity (originally bullfighting); a fan or devotee.",
+                        "synonyms": [
+                            "admirer",
+                            "buff",
+                            "connoisseur",
+                            "enthusiast",
+                            "expert",
+                            "fan",
+                            "follower",
+                            "lover"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "admirer",
+                    "buff",
+                    "connoisseur",
+                    "enthusiast",
+                    "expert",
+                    "fan",
+                    "follower",
+                    "lover"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aficionado"
+        ]
+    }
+]

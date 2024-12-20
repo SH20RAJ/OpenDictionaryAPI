@@ -1,0 +1,33 @@
+[
+    {
+        "word": "amadou",
+        "phonetic": "/\u02c8\u00e6.m\u0259.du\u02d0/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6.m\u0259.du\u02d0/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A spongy, flammable substance prepared from bracket fungi, formerly used as a styptic and as tinder.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amadou"
+        ]
+    }
+]

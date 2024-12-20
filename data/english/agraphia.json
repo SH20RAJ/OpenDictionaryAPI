@@ -1,0 +1,34 @@
+[
+    {
+        "word": "agraphia",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A loss of the ability to write (usually resulting from a brain injury).",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The inability to write.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "dysgraphia"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/agraphia"
+        ]
+    }
+]

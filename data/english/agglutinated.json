@@ -1,0 +1,33 @@
+[
+    {
+        "word": "agglutinated",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To unite, or cause to adhere, as with glue or other viscous substance; to unite by causing an adhesion of substances.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To form through agglutination.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/agglutinate",
+            "https://en.wiktionary.org/wiki/agglutinated"
+        ]
+    }
+]

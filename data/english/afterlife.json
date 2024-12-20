@@ -1,0 +1,46 @@
+[
+    {
+        "word": "afterlife",
+        "phonetic": "/\u02c8\u00e6ft\u025a\u02ccla\u026af/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6ft\u025a\u02ccla\u026af/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Life after death.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Many religious people believe in an afterlife."
+                    },
+                    {
+                        "definition": "The place believed to be inhabited by deceased people.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "eternal life",
+                    "hereafter",
+                    "hereafter",
+                    "other side"
+                ],
+                "antonyms": [
+                    "forelife"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/afterlife"
+        ]
+    }
+]

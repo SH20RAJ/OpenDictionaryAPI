@@ -1,0 +1,33 @@
+[
+    {
+        "word": "agave",
+        "phonetic": "/\u0259\u02c8\u0261e\u026avi\u02d0/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8\u0261e\u026avi\u02d0/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A plant of the genus Agave, which includes the maguey or century plant (Agave americana), which produces a gigantic flower stem at maturity.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/agave"
+        ]
+    }
+]

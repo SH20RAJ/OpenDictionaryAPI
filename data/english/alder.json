@@ -1,0 +1,66 @@
+[
+    {
+        "word": "alder",
+        "phonetic": "/\u02c8\u0251ld\u025a/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u0251ld\u025a/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u0254\u02d0ld\u0259/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u0251ld\u025a/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any of several trees or shrubs of the genus Alnus, belonging to the birch family.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alder"
+        ]
+    },
+    {
+        "word": "alder",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An alderman or alderwoman.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alder"
+        ]
+    }
+]

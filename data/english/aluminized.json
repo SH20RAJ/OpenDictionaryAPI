@@ -1,0 +1,30 @@
+[
+    {
+        "word": "aluminized",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To coat with a layer of aluminium.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "They would aluminise the glass in order to provide electrical conductivity."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aluminise",
+            "https://en.wiktionary.org/wiki/aluminize",
+            "https://en.wiktionary.org/wiki/aluminized"
+        ]
+    }
+]

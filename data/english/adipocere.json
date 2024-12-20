@@ -1,0 +1,35 @@
+[
+    {
+        "word": "adipocere",
+        "phonetic": "/\u02c8\u00e6d\u0259po\u02ccsi\u0259(\u0279)/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6d\u0259po\u02ccsi\u0259(\u0279)/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A brown, fatty, waxy substance (fatty acids) that forms on dead animal tissues in response to hydrolysis",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "grave wax"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adipocere"
+        ]
+    }
+]

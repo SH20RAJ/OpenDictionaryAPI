@@ -1,0 +1,33 @@
+[
+    {
+        "word": "aludel",
+        "phonetic": "/\u02c8\u00e6l.j\u028a.d\u025bl/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6l.j\u028a.d\u025bl/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A pear-shaped pot with an opening at each end, formerly used, especially by alchemists, for sublimation.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aludel"
+        ]
+    }
+]

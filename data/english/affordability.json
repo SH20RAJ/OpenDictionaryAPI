@@ -1,0 +1,28 @@
+[
+    {
+        "word": "affordability",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The extent to which something is affordable, as measured by its cost relative to the amount that the purchaser is able to pay.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "First-time home buyers are feeling the squeeze of higher interest rates with mortgage affordability at its worst level for 16 years."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/affordability"
+        ]
+    }
+]

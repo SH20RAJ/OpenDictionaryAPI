@@ -1,0 +1,28 @@
+[
+    {
+        "word": "allocation",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The process or procedure for allocating things, especially money or other resources.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The allocation of new permits is on a first-come, first-served basis."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/allocation"
+        ]
+    }
+]

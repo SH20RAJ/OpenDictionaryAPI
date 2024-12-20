@@ -1,0 +1,51 @@
+[
+    {
+        "word": "alisphenoid",
+        "phonetic": "/al\u026a\u02c8sfi\u02d0n\u0254\u026ad/",
+        "phonetics": [
+            {
+                "text": "/al\u026a\u02c8sfi\u02d0n\u0254\u026ad/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The greater wing of the sphenoid bone",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Relating to or forming the wing of the sphenoid bone.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Relating to a bone in the base of the skull, which in the adult is often consolidated with the sphenoid.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "alisphenoid bone"
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alisphenoid"
+        ]
+    }
+]

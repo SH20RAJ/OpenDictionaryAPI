@@ -1,0 +1,38 @@
+[
+    {
+        "word": "airtime",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The duration during which a radio or television program (or part of one) is transmitted.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Can you get me some airtime for my latest single?"
+                    },
+                    {
+                        "definition": "The chargeable use of a mobile phone, either in minutes or in units dependent on the use or traffic.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The period during which a person riding a rollercoaster or similar ride experiences a feeling of weightlessness.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/airtime"
+        ]
+    }
+]

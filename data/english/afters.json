@@ -1,0 +1,37 @@
+[
+    {
+        "word": "afters",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Dessert",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The festivities held after a wedding meal.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Fighting or arguing off the ball or when play has stopped",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/afters"
+        ]
+    }
+]

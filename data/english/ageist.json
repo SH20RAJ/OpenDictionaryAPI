@@ -1,0 +1,47 @@
+[
+    {
+        "word": "ageist",
+        "phonetic": "/\u02c8e\u026a.d\u0292\u026ast/",
+        "phonetics": [
+            {
+                "text": "/\u02c8e\u026a.d\u0292\u026ast/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A person who behaves in an ageist manner.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "He didn\u2019t like to think of himself as an ageist, but he had to admit that he hadn\u2019t considered the needs of some of the more elderly participants."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Unfairly discriminatory against someone based on their age.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Even though she had succeeded in the phone interview, when the ageist employer learned that the candidate was only 18 years old, she became hesitant."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ageist"
+        ]
+    }
+]

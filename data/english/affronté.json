@@ -1,0 +1,36 @@
+[
+    {
+        "word": "affront\u00e9",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Face to face, or with the fronts facing each other",
+                        "synonyms": [],
+                        "antonyms": [
+                            "addorsed"
+                        ]
+                    },
+                    {
+                        "definition": "Looking frontwise, or toward the viewer.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "addorsed"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/affront%C3%A9"
+        ]
+    }
+]

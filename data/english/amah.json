@@ -1,0 +1,42 @@
+[
+    {
+        "word": "amah",
+        "phonetic": "/\u02c8\u0251\u02d0.m\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u0251\u02d0.m\u0259/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u0251\u02d0.m\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "In South Asia, a woman employed to look after children; (formerly) a wet nurse.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "In China and Southeast Asia, a female domestic helper.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amah"
+        ]
+    }
+]

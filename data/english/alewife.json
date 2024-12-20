@@ -1,0 +1,84 @@
+[
+    {
+        "word": "alewife",
+        "phonetic": "/\u02c8e\u026alw\u028c\u026af/",
+        "phonetics": [
+            {
+                "text": "/\u02c8e\u026alw\u028c\u026af/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8e\u026al\u02ccwa\u026af/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A woman who keeps an alehouse.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "brewess"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alewife"
+        ]
+    },
+    {
+        "word": "alewife",
+        "phonetic": "/\u02c8e\u026alw\u028c\u026af/",
+        "phonetics": [
+            {
+                "text": "/\u02c8e\u026alw\u028c\u026af/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8e\u026al\u02ccwa\u026af/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A migrating North American fish, Alosa pseudoharengus.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Any of several species similar in appearance.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "branch herring",
+                    "ellwhop",
+                    "ellwife",
+                    "gaspereau"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alewife"
+        ]
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "word": "afeared",
+        "phonetic": "/\u0259\u02c8f\u026a\u0259(\u0279)d/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8f\u026a\u0259(\u0279)d/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/afeared-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=89013357",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To imbue with fear; to affright, to terrify.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Afraid.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/afear",
+            "https://en.wiktionary.org/wiki/afeared"
+        ]
+    }
+]

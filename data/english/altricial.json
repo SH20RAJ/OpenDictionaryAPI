@@ -1,0 +1,47 @@
+[
+    {
+        "word": "altricial",
+        "phonetic": "/\u0259l\u02c8t\u0279\u026a\u0283\u0259l/",
+        "phonetics": [
+            {
+                "text": "/\u0259l\u02c8t\u0279\u026a\u0283\u0259l/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Such an animal",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Helpless at birth (of young animals); or having young which are helpless at birth.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "nidicolous"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/altricial"
+        ]
+    }
+]

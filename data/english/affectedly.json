@@ -1,0 +1,37 @@
+[
+    {
+        "word": "affectedly",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "In an affected manner; hypocritically; with more show than reality.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Lovingly; with tender care.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "With intention, intentionally, deliberately.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/affectedly"
+        ]
+    }
+]

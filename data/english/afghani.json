@@ -1,0 +1,33 @@
+[
+    {
+        "word": "afghani",
+        "phonetic": "/\u00e6f\u02c8\u0261\u0251\u02d0ni/",
+        "phonetics": [
+            {
+                "text": "/\u00e6f\u02c8\u0261\u0251\u02d0ni/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The monetary currency of Afghanistan, divided into 100 pul",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/afghani"
+        ]
+    }
+]

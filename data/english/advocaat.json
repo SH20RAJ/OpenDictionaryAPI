@@ -1,0 +1,33 @@
+[
+    {
+        "word": "advocaat",
+        "phonetic": "/\u02c8adv\u0259k\u0251\u02d0/",
+        "phonetics": [
+            {
+                "text": "/\u02c8adv\u0259k\u0251\u02d0/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A Dutch liqueur made of egg yolks, sugar and strong liquor, typically brandy.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/advocaat"
+        ]
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "word": "adjectival",
+        "phonetic": "/\u02cc\u00e6.d\u0292\u025bk\u02c8ta\u026a.v\u0259l/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6.d\u0292\u025bk\u02c8ta\u026a.v\u0259l/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02cc\u00e6.d\u0292\u0259k\u02c8ta\u026a.v\u0259l/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/adjectival-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1755104",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An adjectival phrase or clause.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(grammar) Of or relating to or functioning as an adjective.",
+                        "synonyms": [
+                            "adjective"
+                        ],
+                        "antonyms": [],
+                        "example": "adjectival noun"
+                    },
+                    {
+                        "definition": "Of or relating to procedure, especially to technicalities thereof.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "adjective"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adjectival"
+        ]
+    }
+]

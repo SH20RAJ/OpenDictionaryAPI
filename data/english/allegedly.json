@@ -1,0 +1,37 @@
+[
+    {
+        "word": "allegedly",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "According to someone's allegation.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The suspect was allegedly involved in the robbery, but his alibi placed him in another state at the time."
+                    },
+                    {
+                        "definition": "According to someone's conspicuous impressions (which could be alleged ensuingly).",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The game is allegedly exciting."
+                    }
+                ],
+                "synonyms": [
+                    "purportedly",
+                    "supposedly"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/allegedly"
+        ]
+    }
+]

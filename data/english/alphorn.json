@@ -1,0 +1,35 @@
+[
+    {
+        "word": "alphorn",
+        "phonetic": "/\u02c8alp.h\u0254\u02d0n/",
+        "phonetics": [
+            {
+                "text": "/\u02c8alp.h\u0254\u02d0n/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A long, curved, wooden horn used by mountain-dwelling herders in the Alps, originally to call cattle but now only as musical instrument in classical and folk tunes.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "Alpine horn"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alphorn"
+        ]
+    }
+]

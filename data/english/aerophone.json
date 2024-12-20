@@ -1,0 +1,37 @@
+[
+    {
+        "word": "aerophone",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any musical instrument which produces sound primarily by causing a body of air to vibrate, without the use of strings or membranes, and without the vibration of the instrument itself adding considerably to the sound.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A form of combined speaking trumpet and ear trumpet.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An instrument for greatly intensifying speech, consisting of a phonograph diaphragm arranged so that its action opens and closes valves, producing synchronous air blasts sufficient to operate a larger diaphragm with greater amplitude of vibration.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aerophone"
+        ]
+    }
+]

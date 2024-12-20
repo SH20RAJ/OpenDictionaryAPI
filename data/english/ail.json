@@ -1,0 +1,140 @@
+[
+    {
+        "word": "ail",
+        "phonetic": "/e\u026al/",
+        "phonetics": [
+            {
+                "text": "/e\u026al/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ail-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=88681544",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/e\u026al/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An ailment; trouble; illness.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To cause to suffer; to trouble, afflict. (Now chiefly in interrogative or indefinite constructions.)",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Have some chicken soup. It's good for what ails you."
+                    },
+                    {
+                        "definition": "To be ill; to suffer; to be troubled.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ail"
+        ]
+    },
+    {
+        "word": "ail",
+        "phonetic": "/e\u026al/",
+        "phonetics": [
+            {
+                "text": "/e\u026al/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ail-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=88681544",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/e\u026al/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Painful; troublesome.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ail"
+        ]
+    },
+    {
+        "word": "ail",
+        "phonetic": "/e\u026al/",
+        "phonetics": [
+            {
+                "text": "/e\u026al/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ail-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=88681544",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/e\u026al/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The awn of barley or other types of corn.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ail"
+        ]
+    }
+]

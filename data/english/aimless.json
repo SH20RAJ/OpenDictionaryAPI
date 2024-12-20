@@ -1,0 +1,34 @@
+[
+    {
+        "word": "aimless",
+        "phonetic": "/\u02c8e\u026am.l\u0259s/",
+        "phonetics": [
+            {
+                "text": "/\u02c8e\u026am.l\u0259s/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Without aim, purpose, or direction.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "an aimless life"
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aimless"
+        ]
+    }
+]

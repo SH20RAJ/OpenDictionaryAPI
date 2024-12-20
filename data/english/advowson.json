@@ -1,0 +1,33 @@
+[
+    {
+        "word": "advowson",
+        "phonetic": "/\u0259d\u02c8va\u028a.z(\u0259)n/",
+        "phonetics": [
+            {
+                "text": "/\u0259d\u02c8va\u028a.z(\u0259)n/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "(ecclesiastical law) The right to present a nominee to a vacant ecclesiastical benefice or church office.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/advowson"
+        ]
+    }
+]

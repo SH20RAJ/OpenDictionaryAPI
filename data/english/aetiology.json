@@ -1,0 +1,47 @@
+[
+    {
+        "word": "aetiology",
+        "phonetic": "/i\u02d0t\u026a\u02c8\u0252l\u0259d\u0292i/",
+        "phonetics": [
+            {
+                "text": "/i\u02d0t\u026a\u02c8\u0252l\u0259d\u0292i/",
+                "audio": ""
+            },
+            {
+                "text": "/iti\u02c8\u0251l\u0259d\u0292i/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The establishment of a cause, origin, or reason for something.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The study of causes or causation.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The study or investigation of the causes of disease; a scientific explanation for the origin of a disease.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aetiology"
+        ]
+    }
+]

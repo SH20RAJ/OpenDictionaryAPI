@@ -1,0 +1,65 @@
+[
+    {
+        "word": "allophone",
+        "phonetic": "/\u02c8al\u0259\u02ccf\u0259\u028an/",
+        "phonetics": [
+            {
+                "text": "/\u02c8al\u0259\u02ccf\u0259\u028an/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6l\u0259\u02ccfo\u028an/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any of two or more alternative pronunciations for a phoneme.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "[\u028b] is occasionally considered to be an allophone of /v/"
+                    },
+                    {
+                        "definition": "A person whose mother tongue is neither English, French nor an Indigenous language of Canada.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A person whose mother tongue is one other than that spoken by the majority.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of or relating to those whose mother tongue is neither English, French nor an Indigenous language of Canada",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "That which is of a language other than that spoken by the majority.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/allophone"
+        ]
+    }
+]

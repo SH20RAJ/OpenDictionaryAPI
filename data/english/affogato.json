@@ -1,0 +1,33 @@
+[
+    {
+        "word": "affogato",
+        "phonetic": "/\u02cc\u00e6f\u0259\u02c8\u0261\u0251\u02d0t\u0259\u028a/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6f\u0259\u02c8\u0261\u0251\u02d0t\u0259\u028a/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A drink or dessert (especially ice-cream) topped with espresso and sometimes a caramel or chocolate sauce",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/affogato"
+        ]
+    }
+]

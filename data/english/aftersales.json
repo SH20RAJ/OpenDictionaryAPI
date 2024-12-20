@@ -1,0 +1,29 @@
+[
+    {
+        "word": "aftersales",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "After the sale of a product.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Aftersale services are services, such as repairs, offered to a customer after the customer's purchase of a product."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aftersale",
+            "https://en.wiktionary.org/wiki/aftersales"
+        ]
+    }
+]

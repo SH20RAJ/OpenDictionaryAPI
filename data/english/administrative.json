@@ -1,0 +1,45 @@
+[
+    {
+        "word": "administrative",
+        "phonetic": "/\u0259d\u02c8m\u026a.n\u026as.t\u0279\u0259\u02cct\u026av/",
+        "phonetics": [
+            {
+                "text": "/\u0259d\u02c8m\u026a.n\u026as.t\u0279\u0259\u02cct\u026av/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259d\u02c8m\u026a.n\u0259s\u02cct\u0279e\u026a.\u027e\u026av/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/administrative-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=2453355",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of or relating to administering or administration.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "non-administrative",
+                    "nonadministrative"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/administrative"
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "word": "alcopop",
+        "phonetic": "/\u02c8\u00e6lk\u0259\u028a.p\u0252p/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6lk\u0259\u028a.p\u0252p/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/alcopop-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75266811",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An alcoholic drink that looks and tastes like a soft drink.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alcopop"
+        ]
+    }
+]

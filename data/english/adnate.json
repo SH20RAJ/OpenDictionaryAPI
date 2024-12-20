@@ -1,0 +1,35 @@
+[
+    {
+        "word": "adnate",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Linked or fused to a structure of a type different from itself; for example, attachment of a stamen to a petal is adnate, while attachment of a stamen to another stamen is connate.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Adnate mushroom gills are broadly attached to the stalk slightly above the bottom of the gill, with most of the gill fused to the stem."
+                    },
+                    {
+                        "definition": "Growing with one side adherent to a stem; applied to the lateral zooids of corals and other compound animals. in fish, having the eyes fused and unable to rotate independently",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "connate"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adnate"
+        ]
+    }
+]

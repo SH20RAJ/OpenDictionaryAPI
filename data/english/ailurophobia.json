@@ -1,0 +1,41 @@
+[
+    {
+        "word": "ailurophobia",
+        "phonetic": "/\u02cca\u026alj\u028a\u0259\u0279\u0259\u02c8f\u0259\u028ab\u026a.\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u02cca\u026alj\u028a\u0259\u0279\u0259\u02c8f\u0259\u028ab\u026a.\u0259/",
+                "audio": ""
+            },
+            {
+                "text": "/a\u026a\u02ccl\u028a\u0279\u0259\u02c8fo\u028abi.\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An irrational fear or hatred of cats or other felines.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "galeophobia"
+                ],
+                "antonyms": [
+                    "ailurophilia"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ailurophobia"
+        ]
+    }
+]

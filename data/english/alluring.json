@@ -1,0 +1,68 @@
+[
+    {
+        "word": "alluring",
+        "phonetic": "/\u025a\u02c8l\u028a\u025a.\u0279\u026a\u014b/",
+        "phonetics": [
+            {
+                "text": "/\u025a\u02c8l\u028a\u025a.\u0279\u026a\u014b/",
+                "audio": ""
+            },
+            {
+                "text": "/\u025a\u02c8lu\u025a.\u0279\u026a\u014b/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To entice; to attract.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "attract",
+                    "decoy",
+                    "entice",
+                    "seduce",
+                    "tempt"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The action of the verb allure.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Having the power to allure.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/allure",
+            "https://en.wiktionary.org/wiki/alluring"
+        ]
+    }
+]

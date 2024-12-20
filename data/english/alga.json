@@ -1,0 +1,37 @@
+[
+    {
+        "word": "alga",
+        "phonetic": "/\u02c8\u00e6l.\u0261\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6l.\u0261\u0259/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6l.\u0261\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any of many aquatic photosynthetic organisms, including the seaweeds, whose size ranges from a single cell to giant kelps and whose biochemistry and forms are very diverse, some being eukaryotic.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alga"
+        ]
+    }
+]

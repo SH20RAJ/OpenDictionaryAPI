@@ -1,0 +1,80 @@
+[
+    {
+        "word": "allege",
+        "phonetic": "/\u0259\u02c8l\u025bd\u0292/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8l\u025bd\u0292/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To state under oath, to plead.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To cite or quote an author or his work for or against.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To adduce (something) as a reason, excuse, support etc.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To make a claim as justification or proof; to make an assertion without proof.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The agency alleged my credit history had problems."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/allege"
+        ]
+    },
+    {
+        "word": "allege",
+        "phonetic": "/\u0259\u02c8l\u025bd\u0292/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8l\u025bd\u0292/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To lighten, diminish.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/allege"
+        ]
+    }
+]

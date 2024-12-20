@@ -1,0 +1,71 @@
+[
+    {
+        "word": "amaranth",
+        "phonetic": "/-\u0279\u00e6nt/",
+        "phonetics": [
+            {
+                "text": "/-\u0279\u00e6nt/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/amaranth-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=83539664",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u02c8\u00e6m\u0259\u02cc\u0279\u00e6n\u03b8/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An imaginary flower that does not wither.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Any of various herbs of the genus Amaranthus.",
+                        "synonyms": [
+                            "amaranthus",
+                            "pigweed"
+                        ],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The characteristic purplish-red colour of the flowers or leaves of these plants.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A red to purple azo dye used as a biological stain, and in some countries in cosmetics and as a food colouring.",
+                        "synonyms": [
+                            "E123"
+                        ],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The seed of these plants, used as a cereal.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "E123",
+                    "amaranthus",
+                    "pigweed"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amaranth"
+        ]
+    }
+]

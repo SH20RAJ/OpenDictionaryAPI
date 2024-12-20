@@ -1,0 +1,55 @@
+[
+    {
+        "word": "admonish",
+        "phonetic": "/\u0259d\u02c8m\u0252n.\u026a\u0283/",
+        "phonetics": [
+            {
+                "text": "/\u0259d\u02c8m\u0252n.\u026a\u0283/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/admonish-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=83326136",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u00e6d\u02c8m\u0251n.\u026a\u0283/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To warn or notify of a fault; to reprove gently or kindly, but seriously; to exhort.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To counsel against wrong practices; to caution or advise; to warn against danger or an offense; \u2014 followed by of, against, or a subordinate clause.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To instruct or direct; to inform; to notify.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "chide",
+                    "reprimand"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/admonish"
+        ]
+    }
+]

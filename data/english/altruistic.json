@@ -1,0 +1,57 @@
+[
+    {
+        "word": "altruistic",
+        "phonetic": "/\u02cc\u0251l.t\u0279u\u02c8\u026as.t\u026ak/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u0251l.t\u0279u\u02c8\u026as.t\u026ak/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/altruistic-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75729403",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u02cc\u00e6l.t\u0279u\u02c8\u026as.t\u026ak/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02cc\u00e6l.t\u0279u\u02c8\u026as.t\u026ak/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Regardful of others; beneficent; unselfish",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "His helping the old woman with her shopping was deemed highly altruistic by everyone, especially since her home was a mile away."
+                    }
+                ],
+                "synonyms": [
+                    "beneficent",
+                    "humane",
+                    "philanthropic",
+                    "selfless",
+                    "unselfish"
+                ],
+                "antonyms": [
+                    "egoistic",
+                    "misanthropic",
+                    "selfish"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/altruistic"
+        ]
+    }
+]

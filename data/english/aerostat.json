@@ -1,0 +1,34 @@
+[
+    {
+        "word": "aerostat",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An aircraft, such as a dirigible or balloon, that derives its lift from buoyancy rather than from wings or rotors.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A moored balloon flown in a semi-permanent manner, such as a border patrol monitoring balloon affixed at 18,000 feet (~6 km).",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "aerodyne"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aerostat"
+        ]
+    }
+]

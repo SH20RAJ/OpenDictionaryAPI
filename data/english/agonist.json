@@ -1,0 +1,39 @@
+[
+    {
+        "word": "agonist",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Someone involved in a contest or battle (as in an agon), protagonist.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The muscle that contracts while the other relaxes.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "When bending the elbow, the biceps is the agonist."
+                    },
+                    {
+                        "definition": "A molecule that can combine with a receptor on a cell to produce a physiological reaction.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Acetylcholine is an agonist at the cholinergic receptor."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/agonist"
+        ]
+    }
+]

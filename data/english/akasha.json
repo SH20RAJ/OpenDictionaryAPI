@@ -1,0 +1,34 @@
+[
+    {
+        "word": "akasha",
+        "phonetic": "/\u0251\u02d0\u02c8k\u0251\u02d0\u0283\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u0251\u02d0\u02c8k\u0251\u02d0\u0283\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Ether or atmosphere, as one of the elements in Hindu philosophy.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/akasa",
+            "https://en.wiktionary.org/wiki/akasha"
+        ]
+    }
+]

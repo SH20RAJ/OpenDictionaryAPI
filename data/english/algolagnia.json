@@ -1,0 +1,35 @@
+[
+    {
+        "word": "algolagnia",
+        "phonetic": "/al\u0261\u0259(\u028a)\u02c8la\u0261n\u026a\u0259/",
+        "phonetics": [
+            {
+                "text": "/al\u0261\u0259(\u028a)\u02c8la\u0261n\u026a\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A physical condition that causes a person to gain sexual pleasure by suffering pain, particularly to erogenous zones.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "sadomasochism"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/algolagnia"
+        ]
+    }
+]

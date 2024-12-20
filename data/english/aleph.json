@@ -1,0 +1,27 @@
+[
+    {
+        "word": "aleph",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The first letter of the Proto-Canaanite alphabet, and its descendants in descended Semitic scripts, such as Phoenician \ud802\udd00, Aramaic \ud802\udc40, Syriac \u0710, Hebrew \u05d0 and Arabic \u0627.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aleph"
+        ]
+    }
+]

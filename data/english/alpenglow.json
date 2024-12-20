@@ -1,0 +1,42 @@
+[
+    {
+        "word": "alpenglow",
+        "phonetic": "/\u02c8al.p\u0259n.\u0261l\u0259\u028a/",
+        "phonetics": [
+            {
+                "text": "/\u02c8al.p\u0259n.\u0261l\u0259\u028a/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/alpenglow-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=88675121",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u02c8\u00e6l.p\u0259n.\u0261lo\u028a/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A rosy or reddish glow seen during sunset or sunrise on the summits of mountains, especially snow-covered mountains on the opposite side of the sun.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alpenglow"
+        ]
+    }
+]

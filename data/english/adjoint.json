@@ -1,0 +1,87 @@
+[
+    {
+        "word": "adjoint",
+        "phonetic": "/\u02c8\u00e6d\u0292.\u0254\u026ant/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6d\u0292.\u0254\u026ant/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The transpose of the cofactor matrix of a given square matrix.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(of a matrix) Transpose conjugate.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(of an operator) Hermitian conjugate.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A functor related to another functor by an adjunction.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A curve A such that any point of a given curve C of multiplicity r has multiplicity at least r\u20131 on A. Sometimes the multiple points of C are required to be ordinary, and if this condition is not satisfied the term sub-adjoint is used.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An assistant to someone who holds a position in the military or civil service.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An assistant mayor of a French commune.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Used in certain contexts, in each case involving a pair of transformations, one of which is, or is analogous to, conjugation (either inner automorphism or complex conjugation).",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(of a functor) That is related to another functor by an adjunction.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(of one curve to another curve) Having a relationship of the nature of an adjoint (adjoint curve); sharing multiple points with.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "adjunct"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adjoint"
+        ]
+    }
+]

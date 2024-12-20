@@ -1,0 +1,31 @@
+[
+    {
+        "word": "airbed",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A bed that is inflated with air and used as a permanent or temporary bed. They are adjustable, and sometimes portable.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "air mattress",
+                    "lilo"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/air%20bed",
+            "https://en.wiktionary.org/wiki/airbed"
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "airplay",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The playing of a particular song, band or genre on the radio, or the frequency with which it is played.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Country music gets more airplay than heavy metal."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/airplay"
+        ]
+    }
+]

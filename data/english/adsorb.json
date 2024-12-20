@@ -1,0 +1,33 @@
+[
+    {
+        "word": "adsorb",
+        "phonetic": "/\u0259d\u02c8s\u0254\u02d0b/",
+        "phonetics": [
+            {
+                "text": "/\u0259d\u02c8s\u0254\u02d0b/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To accumulate on a surface, by adsorption",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adsorb"
+        ]
+    }
+]

@@ -1,0 +1,124 @@
+[
+    {
+        "word": "aight",
+        "phonetic": "/\u02c8a\u026a\u032f\u0294/",
+        "phonetics": [
+            {
+                "text": "/\u02c8a\u026a\u032f\u0294/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8a\u02cc\u0250\u026at/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/aight-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=67350034",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Okay; average; nothing special.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Good; in acceptable, if not excellent condition.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The car is all right. It gets me there, anyway."
+                    },
+                    {
+                        "definition": "In good health, unharmed.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "I had a headache earlier, but now I'm all right."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "Fairly well.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "That went all right, I suppose."
+                    },
+                    {
+                        "definition": "Most certainly; for sure.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "You taught them a lesson all right! They won't be back."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "interjection",
+                "definitions": [
+                    {
+                        "definition": "Used to affirm, indicate agreement, or consent.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "All right, let's go then."
+                    },
+                    {
+                        "definition": "Used to indicate support, favor or encouragement.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "All right! They scored!"
+                    },
+                    {
+                        "definition": "Used to fill space or pauses.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "All right, so what you suggest we do next?"
+                    },
+                    {
+                        "definition": "Used as a general lead-in or beginning.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "All right, let's get started."
+                    },
+                    {
+                        "definition": "Used to express exasperation or frustration, often with already.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "All right, already! Let me finish what I was doing first, and then we can talk."
+                    },
+                    {
+                        "definition": "Term of greeting, equivalent to how are you or hello.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "All right, mate, how are things with you and the missus?"
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aight",
+            "https://en.wiktionary.org/wiki/all%20right"
+        ]
+    }
+]

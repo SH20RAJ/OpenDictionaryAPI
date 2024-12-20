@@ -1,0 +1,28 @@
+[
+    {
+        "word": "aestheticize",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To make aesthetic; to show something at its best, most pleasing or most artistic.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aestheticise",
+            "https://en.wiktionary.org/wiki/aestheticize"
+        ]
+    }
+]

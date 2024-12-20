@@ -1,0 +1,79 @@
+[
+    {
+        "word": "alcoholic",
+        "phonetic": "/\u02cc\u00e6lk\u0259\u02c8h\u0252l\u026ak/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6lk\u0259\u02c8h\u0252l\u026ak/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02cc\u00e6lk\u0259\u02c8h\u0254l\u026ak/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/alcoholic-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1769590",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            },
+            {
+                "text": "/\u02cc\u00e6lk\u0259\u02c8h\u0251l\u026ak/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A person addicted to alcohol.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "One who abuses alcohol.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "on the wagon",
+                    "teetotaler"
+                ]
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of or pertaining to alcohol.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Having more than a trace amount of alcohol in its contents.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "He ordered an alcoholic beverage."
+                    },
+                    {
+                        "definition": "Of, pertaining to, or affected by alcoholism.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "nonalcoholic"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alcoholic"
+        ]
+    }
+]

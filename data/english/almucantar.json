@@ -1,0 +1,42 @@
+[
+    {
+        "word": "almucantar",
+        "phonetic": "/\u00e6lm\u0259\u02c8k\u00e6nt\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u00e6lm\u0259\u02c8k\u00e6nt\u0259/",
+                "audio": ""
+            },
+            {
+                "text": "/\u00e6lm\u0259\u02c8k\u00e6nt\u025a/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A small circle on the celestial sphere, parallel to the horizon, that is used in astronomy and navigation to show altitude of a star or any other heavenly body.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An instrument for observing the heavenly bodies as they cross such a circle.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/almucantar"
+        ]
+    }
+]

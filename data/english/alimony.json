@@ -1,0 +1,51 @@
+[
+    {
+        "word": "alimony",
+        "phonetic": "/\u02c8\u00e6.l\u026a.m\u0259.ni/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6.l\u026a.m\u0259.ni/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6.l\u026a.mo\u028a.ni/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/alimony-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=685444",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A court-mandated allowance made to a former spouse by a divorced or legally separated person.",
+                        "synonyms": [
+                            "maintenance"
+                        ],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The means to support life.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "maintenance"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alimony"
+        ]
+    }
+]

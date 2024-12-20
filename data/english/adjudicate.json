@@ -1,0 +1,49 @@
+[
+    {
+        "word": "adjudicate",
+        "phonetic": "/\u0259\u02c8d\u0292ud\u026a\u02ccke\u026at/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8d\u0292ud\u026a\u02ccke\u026at/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/adjudicate-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75729341",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To settle a legal case or other dispute.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To act as a judge.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "arbitrate",
+                    "decide",
+                    "resolve",
+                    "settle",
+                    "try"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adjudicate"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "word": "adultescent",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An adult who continues to participate in and enjoy youth culture.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "1996, Precision Marketing 17 June 21/4 Consider the importance of adultescents to the music biz\u2014they make up over a third of the audience at gigs, but have more cash to spend than teenagers."
+                    }
+                ],
+                "synonyms": [
+                    "adultolescent",
+                    "kidult",
+                    "rejuvenile"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adultescent"
+        ]
+    }
+]

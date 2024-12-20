@@ -1,0 +1,36 @@
+[
+    {
+        "word": "alack",
+        "phonetic": "/\u0259\u02c8l\u00e6k/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8l\u00e6k/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "interjection",
+                "definitions": [
+                    {
+                        "definition": "An expression of sorrow or mourning.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "alackaday",
+                    "alas"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alack"
+        ]
+    }
+]

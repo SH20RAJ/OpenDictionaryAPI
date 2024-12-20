@@ -1,0 +1,78 @@
+[
+    {
+        "word": "allus",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "At all times; throughout all time; since the beginning.",
+                        "synonyms": [
+                            "all the time",
+                            "continually",
+                            "every time",
+                            "perpetually"
+                        ],
+                        "antonyms": [
+                            "at no time",
+                            "never"
+                        ],
+                        "example": "Airplanes did not always exist as a form of transportation."
+                    },
+                    {
+                        "definition": "Constantly during a certain period, or regularly at stated intervals (opposed to sometimes or occasionally).",
+                        "synonyms": [
+                            "invariably",
+                            "uniformly"
+                        ],
+                        "antonyms": [
+                            "manywise",
+                            "sundrily",
+                            "variously"
+                        ],
+                        "example": "In this street, the shops always close during lunchtime."
+                    },
+                    {
+                        "definition": "In any event.",
+                        "synonyms": [
+                            "anyhow",
+                            "anyway",
+                            "at any rate",
+                            "regardless"
+                        ],
+                        "antonyms": [],
+                        "example": "I thought I could always go back to work."
+                    }
+                ],
+                "synonyms": [
+                    "all the time",
+                    "continually",
+                    "every time",
+                    "perpetually",
+                    "anyhow",
+                    "anyway",
+                    "at any rate",
+                    "regardless",
+                    "invariably",
+                    "uniformly"
+                ],
+                "antonyms": [
+                    "at no time",
+                    "never",
+                    "manywise",
+                    "sundrily",
+                    "variously"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/allus",
+            "https://en.wiktionary.org/wiki/always"
+        ]
+    }
+]

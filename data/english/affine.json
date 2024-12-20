@@ -1,0 +1,69 @@
+[
+    {
+        "word": "affine",
+        "phonetic": "/\u0259\u02c8fa\u026an/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8fa\u026an/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "(genealogy) A relative by marriage, an in-law.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "in-law"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To refine.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Assigning finite values to finite quantities.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Of or pertaining to a function expressible as f(\\vec x)= A \\vec x + \\vec b (where A is a linear transformation and \\vec b is a constant), which, regarded as a transformation, maps parallel lines to parallel lines and finite points to finite points.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Of two materials, having mutual affinity.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/affine"
+        ]
+    }
+]

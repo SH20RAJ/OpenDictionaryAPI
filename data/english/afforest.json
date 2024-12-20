@@ -1,0 +1,42 @@
+[
+    {
+        "word": "afforest",
+        "phonetic": "/\u0259\u02c8f\u0252\u0279\u026ast/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8f\u0252\u0279\u026ast/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8f\u0252\u0279\u026ast/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To make into forest",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "After we leave the quarry, we intend to afforest the land and turn it into a nature reserve."
+                    }
+                ],
+                "synonyms": [
+                    "forest"
+                ],
+                "antonyms": [
+                    "deforest"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/afforest"
+        ]
+    }
+]

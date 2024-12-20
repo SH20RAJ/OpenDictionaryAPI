@@ -1,0 +1,33 @@
+[
+    {
+        "word": "albescent",
+        "phonetic": "/al\u02c8b\u025bs.\u0259nt/",
+        "phonetics": [
+            {
+                "text": "/al\u02c8b\u025bs.\u0259nt/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Becoming white or whitish; moderately white.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/albescent"
+        ]
+    }
+]

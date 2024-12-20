@@ -1,0 +1,52 @@
+[
+    {
+        "word": "alphanumeric",
+        "phonetic": "/\u02cc\u00e6l.f\u0259.n(j)u\u02d0\u02c8m\u025b.\u0279\u026ak/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6l.f\u0259.n(j)u\u02d0\u02c8m\u025b.\u0279\u026ak/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An alphanumeric character.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "alnum"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Consisting of, or limited to, letters and/or numbers, especially the characters A to Z (lowercase and uppercase) and 0 to 9.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Consisting of these characters plus punctuation and other special characters.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alphanumeric"
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "word": "afresh",
+        "phonetic": "/\u028c\u02c8f\u0279\u025b\u0283/",
+        "phonetics": [
+            {
+                "text": "/\u028c\u02c8f\u0279\u025b\u0283/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "Anew; again; once more",
+                        "synonyms": [
+                            "newly"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "newly"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/afresh"
+        ]
+    }
+]

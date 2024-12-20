@@ -1,0 +1,75 @@
+[
+    {
+        "word": "adorn",
+        "phonetic": "/\u0259\u02c8d\u0254\u02d0(\u0279)n/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8d\u0254\u02d0(\u0279)n/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8d\u0254\u0279n/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/adorn-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=453999",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Adornment",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To make more beautiful and attractive; to decorate.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "a character adorned with every Christian grace"
+                    }
+                ],
+                "synonyms": [
+                    "beautify",
+                    "bedeck",
+                    "deck",
+                    "decorate",
+                    "grace",
+                    "ornament",
+                    "prettify"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Adorned; ornate",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adorn"
+        ]
+    }
+]

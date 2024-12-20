@@ -1,0 +1,54 @@
+[
+    {
+        "word": "airspace",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A specified portion of the atmosphere, especially that under the technical aviation control and/or jurisdiction of a particular state over which territory (and territorial waters) it lies.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Various European countries transferred the aviation control of their adjoining airspace to Eurocontrol, while each retaining legal jurisdiction."
+                    },
+                    {
+                        "definition": "That part of the sky designated for the sole use of aircraft.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Space (i.e. a few neighboring frequencies) available for broadcasting within a particular frequency band.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The legalisation of free radios caused a bitter fight for airspace."
+                    },
+                    {
+                        "definition": "The portion of an enclosed area which contains air, especially breathable air.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The cavity in a cavity wall containing air for insulation.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "jurisdictional",
+                    "sky",
+                    "sky",
+                    "territorial"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/airspace"
+        ]
+    }
+]

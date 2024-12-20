@@ -1,0 +1,53 @@
+[
+    {
+        "word": "adjudication",
+        "phonetic": "/\u0259(d)\u02ccd\u0361\u0292u.d\u026a\u02c8ke\u026a.\u0283\u0259n/",
+        "phonetics": [
+            {
+                "text": "/\u0259(d)\u02ccd\u0361\u0292u.d\u026a\u02c8ke\u026a.\u0283\u0259n/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The act of adjudicating, of reaching a judgement.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A judgment or sentence.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The decision upon the question of whether the debtor is a bankrupt.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(emergency response) The process of identifying the type of material or device that set off an alarm and assessing the potential threat with corresponding implications for the need to take further action.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A process by which land is attached as security or in satisfaction of a debt.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adjudication"
+        ]
+    }
+]

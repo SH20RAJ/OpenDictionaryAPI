@@ -1,0 +1,62 @@
+[
+    {
+        "word": "adherent",
+        "phonetic": "/\u00e6d\u02c8(h)\u026a\u0259\u0279\u0259nt/",
+        "phonetics": [
+            {
+                "text": "/\u00e6d\u02c8(h)\u026a\u0259\u0279\u0259nt/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/adherent-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1762568",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A person who has membership in some group, association or religion.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Adhesive, sticking to something.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Having the quality of clinging or sticking fast to something.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Attaching or pressing against a different organ.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "adhering"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adherent"
+        ]
+    }
+]

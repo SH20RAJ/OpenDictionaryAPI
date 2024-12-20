@@ -1,0 +1,53 @@
+[
+    {
+        "word": "airman",
+        "phonetic": "/\u02c8er.m\u0259n/",
+        "phonetics": [
+            {
+                "text": "/\u02c8er.m\u0259n/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/airman-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=9014244",
+                "license": {
+                    "name": "BY 3.0 US",
+                    "url": "https://creativecommons.org/licenses/by/3.0/us"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A pilot of an aircraft.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A member of an air force.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A person of a rank in the U.S. Air Force above airman basic and below airman first class.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A naval seaman, especially one in the U.S. Navy, who works on and/or handles aircraft.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/airman"
+        ]
+    }
+]

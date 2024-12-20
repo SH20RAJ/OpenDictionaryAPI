@@ -1,0 +1,33 @@
+[
+    {
+        "word": "aedile",
+        "phonetic": "/\u02c8i\u02d0da\u026al/",
+        "phonetics": [
+            {
+                "text": "/\u02c8i\u02d0da\u026al/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An elected official who was responsible for the maintenance of public buildings, regulation of festivals, supervision of markets and the supply of grain and water.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aedile"
+        ]
+    }
+]

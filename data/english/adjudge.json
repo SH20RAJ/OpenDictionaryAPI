@@ -1,0 +1,43 @@
+[
+    {
+        "word": "adjudge",
+        "phonetic": "/\u0259\u02c8d\u0292\u028cd\u0292/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8d\u0292\u028cd\u0292/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To declare to be.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To deem or determine to be.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To award judicially; to assign.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adjudge"
+        ]
+    }
+]

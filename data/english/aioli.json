@@ -1,0 +1,37 @@
+[
+    {
+        "word": "aioli",
+        "phonetic": "/a\u026a\u02c8\u0259\u028al\u026a/",
+        "phonetics": [
+            {
+                "text": "/a\u026a\u02c8\u0259\u028al\u026a/",
+                "audio": ""
+            },
+            {
+                "text": "/(\u02cc)a\u026a\u02c8o\u028ali/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A type of sauce, similar to mayonnaise, made from garlic, egg, lemon juice and olive oil.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aioli"
+        ]
+    }
+]

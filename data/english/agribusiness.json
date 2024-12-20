@@ -1,0 +1,54 @@
+[
+    {
+        "word": "agribusiness",
+        "phonetic": "/-n\u026as/",
+        "phonetics": [
+            {
+                "text": "/-n\u026as/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/agribusiness-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=81650278",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/-n\u026as/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Business (especially big business) connected to agriculture, either owning or operating large-scale farms, or catering to those who do.",
+                        "synonyms": [
+                            "agrobusiness"
+                        ],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A business or group of businesses engaged in agriculture, particularly if using modern farming techniques in the process.",
+                        "synonyms": [
+                            "agrobusiness"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "agrobusiness",
+                    "agrobusiness"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/agribusiness"
+        ]
+    }
+]

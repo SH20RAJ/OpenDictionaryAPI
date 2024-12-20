@@ -1,0 +1,38 @@
+[
+    {
+        "word": "aleurone",
+        "phonetic": "/\u0259\u02c8l(j)\u028a\u0259\u0279\u0259\u028an/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8l(j)\u028a\u0259\u0279\u0259\u028an/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The protein content of the embryo, endosperm, or perisperm of cereals, in the form of minute particles.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The outer layer (and its major cell type and its specialized protein) of the endosperm.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aleurone"
+        ]
+    }
+]

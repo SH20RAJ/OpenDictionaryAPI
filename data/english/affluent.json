@@ -1,0 +1,68 @@
+[
+    {
+        "word": "affluent",
+        "phonetic": "/\u02c8\u00e6f.lu.\u0259nt/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6f.lu.\u0259nt/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Somebody who is wealthy.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A stream or river flowing into a larger river or into a lake; a tributary stream; a tributary.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Abundant; copious; plenteous.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(by extension) Abounding in goods or riches; having a moderate level of material wealth.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "They were affluent, but aspired to true wealth."
+                    },
+                    {
+                        "definition": "Tributary.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Flowing to; flowing abundantly.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "indigent"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/affluent"
+        ]
+    }
+]

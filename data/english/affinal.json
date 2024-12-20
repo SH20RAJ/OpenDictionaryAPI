@@ -1,0 +1,31 @@
+[
+    {
+        "word": "affinal",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of a family relationship by marriage of a relative (or through affinity), as opposed to consanguinity; in-law.",
+                        "synonyms": [],
+                        "antonyms": [
+                            "consanguine"
+                        ]
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "consanguine"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/affinal"
+        ]
+    }
+]

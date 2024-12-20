@@ -1,0 +1,32 @@
+[
+    {
+        "word": "afflux",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An upward rush of fluid.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The rise in water level (above normal) on the upstream side of a bridge or obstruction caused when the effective flow area at the obstruction is less than the natural width of the stream immediately upstream of the obstruction.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/afflux"
+        ]
+    }
+]

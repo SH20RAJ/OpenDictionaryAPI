@@ -1,0 +1,38 @@
+[
+    {
+        "word": "agouti",
+        "phonetic": "/\u0259\u02c8\u0261u\u02d0ti/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8\u0261u\u02d0ti/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A rodent similar in appearance to a guinea pig but having longer legs, of the family Dasyprocta.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A fur containing a pattern of pigmentation in which individual hairs have several bands of light and dark pigment with black tips; any of several genes responsible for this pigmentation.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/agouti"
+        ]
+    }
+]

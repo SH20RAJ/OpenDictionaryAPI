@@ -1,0 +1,56 @@
+[
+    {
+        "word": "afloat",
+        "phonetic": "/\u0259\u02c8flo\u028at/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8flo\u028at/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/afloat-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=2650621",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "Floating",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "A rubber duck and other toys were afloat in the bath."
+                    },
+                    {
+                        "definition": "Covered with water bearing floating articles; flooded.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The decks are afloat."
+                    },
+                    {
+                        "definition": "Out at sea.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Making successful progress under one's own steam.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The donation will keep our business afloat for quite a while."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/afloat"
+        ]
+    }
+]

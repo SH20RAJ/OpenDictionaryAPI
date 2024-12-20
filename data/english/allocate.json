@@ -1,0 +1,50 @@
+[
+    {
+        "word": "allocate",
+        "phonetic": "/\u02c8\u00e6l.\u0259.ke\u026at/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6l.\u0259.ke\u026at/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To set aside for a purpose.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To distribute according to a plan, generally followed by the adposition to.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The bulk of K\u201312 education funds are allocated to school districts that in turn pay for the cost of operating schools."
+                    },
+                    {
+                        "definition": "To reserve a portion of memory for use by a computer program.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "appropriate",
+                    "earmark"
+                ],
+                "antonyms": [
+                    "deallocate",
+                    "free"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/allocate"
+        ]
+    }
+]

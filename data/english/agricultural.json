@@ -1,0 +1,60 @@
+[
+    {
+        "word": "agricultural",
+        "phonetic": "/\u02cc\u00e6\u0261\u0279\u026a\u02c8k\u028cltj\u028a\u0259\u0279\u0259l/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6\u0261\u0279\u026a\u02c8k\u028cltj\u028a\u0259\u0279\u0259l/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02cc\u00e6\u0261\u0279\u026a\u02c8k\u028clt\u0361\u0283\u0259\u0279\u0259l/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/agricultural-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=2650626",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A product or commodity from agriculture.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of or pertaining to agriculture",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "An agricultural tool"
+                    },
+                    {
+                        "definition": "As if played with a scythe",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/agricultural"
+        ]
+    }
+]

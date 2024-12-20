@@ -1,0 +1,29 @@
+[
+    {
+        "word": "altostratus",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A principal medium-level cloud type in the form of a gray or bluish (never white) sheet or layer of striated, fibrous, or uniform appearance.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "As."
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/altostratus"
+        ]
+    }
+]

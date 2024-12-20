@@ -1,0 +1,53 @@
+[
+    {
+        "word": "airless",
+        "phonetic": "/e\u0259(\u0279).l\u0259s/",
+        "phonetics": [
+            {
+                "text": "/e\u0259(\u0279).l\u0259s/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Lacking or being without air.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Lacking air circulation.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "With air that is stale.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Suffering from asphyxia.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Stifling; dead; lacking vitality or excitement.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/airless"
+        ]
+    }
+]

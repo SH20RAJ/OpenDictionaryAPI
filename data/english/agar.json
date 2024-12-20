@@ -1,0 +1,46 @@
+[
+    {
+        "word": "agar",
+        "phonetic": "/\u02c8e\u026a.\u0261\u0251\u02d0/",
+        "phonetics": [
+            {
+                "text": "/\u02c8e\u026a.\u0261\u0251\u02d0/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8e\u026a\u02cc\u0261\u0251\u0279/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A gelatinous material obtained from red algae, especially Gracilaria species, used as a bacterial culture medium, in electrophoresis and as a food additive.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A culture medium based on this material.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "E406",
+                    "agal-agal",
+                    "agar-agar"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/agar"
+        ]
+    }
+]

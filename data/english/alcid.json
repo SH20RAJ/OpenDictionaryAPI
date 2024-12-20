@@ -1,0 +1,33 @@
+[
+    {
+        "word": "alcid",
+        "phonetic": "/\u02c8al.s\u026ad/",
+        "phonetics": [
+            {
+                "text": "/\u02c8al.s\u026ad/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A bird of the family Alcidae, including auks, auklets, razorbills, dovekies, guillemots, and puffins.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alcid"
+        ]
+    }
+]

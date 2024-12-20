@@ -1,0 +1,43 @@
+[
+    {
+        "word": "advocacy",
+        "phonetic": "/\u02c8\u00e6d.v\u0259.k\u0259.si/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6d.v\u0259.k\u0259.si/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The profession of an advocate",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The act of arguing in favour of, or supporting something",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The practice of supporting someone to make their voice heard",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/advocacy"
+        ]
+    }
+]

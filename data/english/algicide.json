@@ -1,0 +1,28 @@
+[
+    {
+        "word": "algicide",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A substance that kills, or inhibits the growth of, algae.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "I add algicide to my aquarium to eliminate the green scum of algae that forms on the glass."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/algicide"
+        ]
+    }
+]

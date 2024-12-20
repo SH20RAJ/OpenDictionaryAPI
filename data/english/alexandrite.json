@@ -1,0 +1,33 @@
+[
+    {
+        "word": "alexandrite",
+        "phonetic": "/\u02cc\u00e6l.\u026a\u0261.\u02c8z\u00e6n.d\u0279a\u026at/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6l.\u026a\u0261.\u02c8z\u00e6n.d\u0279a\u026at/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A form of chrysoberyl that displays a colour change dependent upon the light source, along with strong pleochroism.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alexandrite"
+        ]
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "word": "alpaca",
+        "phonetic": "/\u00e6l\u02c8p\u00e6k\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u00e6l\u02c8p\u00e6k\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A sheep-like animal of the Andes, Vicugna pacos, in the camel family, closely related to the llama, guanaco, and vicu\u00f1a.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Wool from the alpaca.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "alpaco",
+                    "paco"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alpaca"
+        ]
+    }
+]

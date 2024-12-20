@@ -1,0 +1,33 @@
+[
+    {
+        "word": "agio",
+        "phonetic": "/\u02c8\u00e6.d\u0292i\u02cco\u028a/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6.d\u0292i\u02cco\u028a/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The premium or percentage on a better sort of money when it is given in exchange for an inferior sort. The premium or discount on foreign bills of exchange is sometimes called agio.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/agio"
+        ]
+    }
+]

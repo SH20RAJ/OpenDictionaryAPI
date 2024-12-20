@@ -1,0 +1,38 @@
+[
+    {
+        "word": "alienist",
+        "phonetic": "/\u02c8e\u026a.l\u026a.\u0259n.\u026ast/",
+        "phonetics": [
+            {
+                "text": "/\u02c8e\u026a.l\u026a.\u0259n.\u026ast/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An expert in mental illness, especially with reference to legal ramifications.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A psychiatrist or psychologist.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alienist"
+        ]
+    }
+]

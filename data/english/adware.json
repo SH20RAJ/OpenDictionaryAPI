@@ -1,0 +1,32 @@
+[
+    {
+        "word": "adware",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/adware-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=9503061"
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A software application that includes advertisements, which are displayed while the software is running. Developers use adware as a source of income and to keep the costs of the software down (usually making it free). Some adware programs can include spyware.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adware"
+        ]
+    }
+]

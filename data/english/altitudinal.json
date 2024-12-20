@@ -1,0 +1,28 @@
+[
+    {
+        "word": "altitudinal",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of or in relation to altitude",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "altitudinal variation"
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/altitudinal"
+        ]
+    }
+]

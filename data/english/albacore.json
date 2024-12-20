@@ -1,0 +1,33 @@
+[
+    {
+        "word": "albacore",
+        "phonetic": "/\u02c8\u00e6l.b\u0259.k\u0254\u0279/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6l.b\u0259.k\u0254\u0279/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A large marine fish Thunnus alalunga of warm seas, having edible flesh.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/albacore"
+        ]
+    }
+]

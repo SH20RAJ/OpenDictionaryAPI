@@ -1,0 +1,28 @@
+[
+    {
+        "word": "adoptive",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Related through adoption; more generally, relating to adoption.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "My adoptive parents recently got to know my biological parents."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adoptive"
+        ]
+    }
+]

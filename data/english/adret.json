@@ -1,0 +1,41 @@
+[
+    {
+        "word": "adret",
+        "phonetic": "/\u02c8\u00e6d\u0279e\u026a/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6d\u0279e\u026a/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8d\u0279e\u026a/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The sun-facing side of a mountain.",
+                        "synonyms": [],
+                        "antonyms": [
+                            "ubac"
+                        ]
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "ubac"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adret"
+        ]
+    }
+]

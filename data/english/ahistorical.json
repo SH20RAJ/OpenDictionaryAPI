@@ -1,0 +1,33 @@
+[
+    {
+        "word": "ahistorical",
+        "phonetic": "/\u02cce\u026ah\u026a\u02c8st\u0254\u0279\u026ak\u0259l/",
+        "phonetics": [
+            {
+                "text": "/\u02cce\u026ah\u026a\u02c8st\u0254\u0279\u026ak\u0259l/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Lacking historical perspective or context.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ahistorical"
+        ]
+    }
+]

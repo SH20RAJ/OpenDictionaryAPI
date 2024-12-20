@@ -1,0 +1,50 @@
+[
+    {
+        "word": "aglet",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The cover at the tip of a shoelace, to prevent it from fraying.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A catkin.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A tip, originally of metal and often decorative, on a ribbon or cord that makes lacing two parts of a garment or garments together easier, as in corset lacings, \"points\" (lacing hose or trousers to jacket or doublet) or sleeves to a bodice.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An ornament worn on clothing, consisting of a metal tag on a fringe, or a small metallic plate or spangle.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aglet",
+            "https://en.wiktionary.org/wiki/aiglet"
+        ]
+    }
+]

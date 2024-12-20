@@ -1,0 +1,49 @@
+[
+    {
+        "word": "aestival",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of or relating to summer.",
+                        "synonyms": [
+                            "summer",
+                            "summery"
+                        ],
+                        "antonyms": [
+                            "brumal",
+                            "hibernal",
+                            "winter",
+                            "wintry"
+                        ]
+                    },
+                    {
+                        "definition": "Coming forth in the summer.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "summer",
+                    "summery"
+                ],
+                "antonyms": [
+                    "brumal",
+                    "hibernal",
+                    "winter",
+                    "wintry"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aestival",
+            "https://en.wiktionary.org/wiki/estival"
+        ]
+    }
+]

@@ -1,0 +1,49 @@
+[
+    {
+        "word": "adverbial",
+        "phonetic": "/\u0259d\u02c8v\u025c\u02d0bi.\u0259l/",
+        "phonetics": [
+            {
+                "text": "/\u0259d\u02c8v\u025c\u02d0bi.\u0259l/",
+                "audio": ""
+            },
+            {
+                "text": "/\u00e6d\u02c8v\u025dbi.\u0259l/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "(grammar) An adverbial word or phrase.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(grammar) Of or relating to an adverb.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adverbial"
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "word": "alveolar",
+        "phonetic": "/\u00e6l.vi\u02d0.\u02c8\u0259\u028a.l\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u00e6l.vi\u02d0.\u02c8\u0259\u028a.l\u0259/",
+                "audio": ""
+            },
+            {
+                "text": "/\u00e6l.vi.\u02c8o\u028a.l\u025a/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An alveolar consonant",
+                        "synonyms": [
+                            "gingival"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "gingival"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of or relating to an alveolus.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Relating to the jaw ridge containing the tooth sockets.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Relating to the alveoli (small air sacs) of the lungs.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Formed with the tongue touching or approaching the inner ridge of the gums of the upper front teeth.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alveolar"
+        ]
+    }
+]

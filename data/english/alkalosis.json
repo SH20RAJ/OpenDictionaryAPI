@@ -1,0 +1,33 @@
+[
+    {
+        "word": "alkalosis",
+        "phonetic": "/\u00e6l.k\u0259\u02c8l\u0259\u028a\u032fs\u026as/",
+        "phonetics": [
+            {
+                "text": "/\u00e6l.k\u0259\u02c8l\u0259\u028a\u032fs\u026as/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An abnormally increased alkalinity in the blood.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alkalosis"
+        ]
+    }
+]

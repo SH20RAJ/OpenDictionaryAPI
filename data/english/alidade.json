@@ -1,0 +1,36 @@
+[
+    {
+        "word": "alidade",
+        "phonetic": "/\u02c8\u00e6.l\u026a.de\u026ad/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6.l\u026a.de\u026ad/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A sighting device used for measuring angles.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "diopter",
+                    "turning board"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alidade"
+        ]
+    }
+]

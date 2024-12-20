@@ -1,0 +1,52 @@
+[
+    {
+        "word": "aftercare",
+        "phonetic": "/\u02c8\u00e6f.t\u0259(\u0279).k\u025b\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6f.t\u0259(\u0279).k\u025b\u0259/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6f.t\u025a.k\u025b\u0279/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The care given to a patient during recovery from an operation or after hospitalization.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Services and support offered to a customer for the goods or service they have purchased.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Emotional support offered by the programme makers to a person who has appeared on a stressful talk show, etc.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(BDSM) Tender affection and care given to a partner after a BDSM activity, usually to serve as a transition between the activity and whatever follows it.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aftercare"
+        ]
+    }
+]

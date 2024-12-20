@@ -1,0 +1,33 @@
+[
+    {
+        "word": "aerolite",
+        "phonetic": "/\u02c8\u025b\u0259.\u0279\u0259.la\u026at/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u025b\u0259.\u0279\u0259.la\u026at/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A meteorite consisting of silicate minerals",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aerolite"
+        ]
+    }
+]

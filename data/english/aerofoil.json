@@ -1,0 +1,46 @@
+[
+    {
+        "word": "aerofoil",
+        "phonetic": "/\u02c8\u025b\u0259\u0279.\u0259\u02ccf\u0254\u026al/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u025b\u0259\u0279.\u0259\u02ccf\u0254\u026al/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A structure shaped to produce lift when moving in air.",
+                        "synonyms": [
+                            "foil"
+                        ],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A wing of an aircraft.",
+                        "synonyms": [
+                            "wing"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "foil",
+                    "wing"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aerofoil",
+            "https://en.wiktionary.org/wiki/airfoil"
+        ]
+    }
+]

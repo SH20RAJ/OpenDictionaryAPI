@@ -1,0 +1,67 @@
+[
+    {
+        "word": "almost",
+        "phonetic": "/\u0254\u02d0l.\u02c8m\u0259\u028ast/",
+        "phonetics": [
+            {
+                "text": "/\u0254\u02d0l.\u02c8m\u0259\u028ast/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u0251l.mo\u028ast/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/almost-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=207892",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Something or someone that doesn't quite make it.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "In all the submissions, they found four papers that were clearly worth publishing and another dozen almosts."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "Very close to, not quite.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Almost all people went there. - Not all but very close to it."
+                    }
+                ],
+                "synonyms": [
+                    "close to",
+                    "near",
+                    "nearly",
+                    "next to",
+                    "nigh",
+                    "not",
+                    "not yet",
+                    "practically",
+                    "virtually",
+                    "well-nigh"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/almost"
+        ]
+    }
+]

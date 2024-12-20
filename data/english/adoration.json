@@ -1,0 +1,50 @@
+[
+    {
+        "word": "adoration",
+        "phonetic": "/\u02cc\u00e6.d\u0259\u02c8\u0279e\u026a.\u0283\u0259n/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6.d\u0259\u02c8\u0279e\u026a.\u0283\u0259n/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An act of religious worship.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Admiration or esteem.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The act of adoring; loving devotion or fascination.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The selection of a pope by acclamation and before any formal ballot (excluded as a voting method in 1621 by Pope Gregory XV).",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "disdain"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adoration"
+        ]
+    }
+]

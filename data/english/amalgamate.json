@@ -1,0 +1,69 @@
+[
+    {
+        "word": "amalgamate",
+        "phonetic": "/\u0259\u02c8m\u00e6l\u0261\u0259\u02ccme\u026at/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8m\u00e6l\u0261\u0259\u02ccme\u026at/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/amalgamate-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75729405",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To merge, to combine, to blend, to join.",
+                        "synonyms": [
+                            "mix"
+                        ],
+                        "antonyms": [
+                            "separate"
+                        ],
+                        "example": "to amalgamate one race with another"
+                    },
+                    {
+                        "definition": "To make an alloy of a metal and mercury.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To combine (free groups) by identifying respective isomorphic subgroups.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "mix"
+                ],
+                "antonyms": [
+                    "separate"
+                ]
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Coalesced; united; combined.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amalgamate"
+        ]
+    }
+]

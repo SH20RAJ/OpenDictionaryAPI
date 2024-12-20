@@ -1,0 +1,33 @@
+[
+    {
+        "word": "alizarin",
+        "phonetic": "/\u0259\u02c8l\u026az\u0259\u0279\u026an/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8l\u026az\u0259\u0279\u026an/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A red substance, 1,2-dihydroxyanthraquinone, extracted from madder root and used as a dye.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alizarin"
+        ]
+    }
+]

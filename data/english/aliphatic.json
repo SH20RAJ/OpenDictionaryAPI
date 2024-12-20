@@ -1,0 +1,50 @@
+[
+    {
+        "word": "aliphatic",
+        "phonetic": "/\u00e6l\u026a\u02c8f\u00e6t\u026ak/",
+        "phonetics": [
+            {
+                "text": "/\u00e6l\u026a\u02c8f\u00e6t\u026ak/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A compound of this type.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(chiefly in the plural) A petroleum fraction containing no aromatic compounds",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of a class of organic compounds in which the carbon atoms are arranged in an open chain.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aliphatic"
+        ]
+    }
+]

@@ -1,0 +1,57 @@
+[
+    {
+        "word": "aerated",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To supply with oxygen or air.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Supplied or infused with air or oxygen.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Annoyed or agitated.",
+                        "synonyms": [
+                            "agitated",
+                            "annoyed",
+                            "bothered",
+                            "frustrated",
+                            "pissed off"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "agitated",
+                    "annoyed",
+                    "bothered",
+                    "frustrated",
+                    "pissed off"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aerate",
+            "https://en.wiktionary.org/wiki/aerated"
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "word": "aliterate",
+        "phonetic": "/e\u026a\u02c8l\u026at\u0259\u0279\u0259t/",
+        "phonetics": [
+            {
+                "text": "/e\u026a\u02c8l\u026at\u0259\u0279\u0259t/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Someone who is able to read but disinclined to do so.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Mark Twain famously said, \"The man who does not read has no advantage over the man who can't read\"; more succinctly: the aliterate has little advantage over the illiterate."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Disinclined to read though not illiterate; able to read but reluctant or unlikely to do so.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aliterate"
+        ]
+    }
+]

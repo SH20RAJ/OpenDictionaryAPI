@@ -1,0 +1,27 @@
+[
+    {
+        "word": "afterdamp",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Suffocating gases present in a coal mine after an explosion caused by firedamp, consisting of nitrogen, carbon monoxide, carbon dioxide, and sometimes hydrogen sulfide.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/afterdamp"
+        ]
+    }
+]

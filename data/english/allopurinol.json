@@ -1,0 +1,33 @@
+[
+    {
+        "word": "allopurinol",
+        "phonetic": "/\u00e6l \u0251n \u02c8pj\u028a\u0279 \u026a no\u028al/",
+        "phonetics": [
+            {
+                "text": "/\u00e6l \u0251n \u02c8pj\u028a\u0279 \u026a no\u028al/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A drug, 1,5-dihydro, 4H-pyrazolo[3,4-d]pyrimidin-4-one, used primarily to treat hyperuricemia and its complications.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/allopurinol"
+        ]
+    }
+]

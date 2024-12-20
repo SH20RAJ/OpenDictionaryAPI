@@ -1,0 +1,53 @@
+[
+    {
+        "word": "advisory",
+        "phonetic": "/\u0259d\u02c8va\u026az\u0259\u0279i/",
+        "phonetics": [
+            {
+                "text": "/\u0259d\u02c8va\u026az\u0259\u0279i/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A warning.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The Coast Guard issued a small craft advisory, warning little boats to watch out for bad weather."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Able to give advice.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The advisory committee could only offer advice, but since that was almost always accepted they had real power."
+                    },
+                    {
+                        "definition": "Containing advice; advising.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The consultant's advisory recommendations were selectively adopted."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/advisory"
+        ]
+    }
+]

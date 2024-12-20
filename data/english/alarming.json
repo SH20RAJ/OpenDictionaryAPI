@@ -1,0 +1,70 @@
+[
+    {
+        "word": "alarming",
+        "phonetic": "/\u0259.\u02c8l\u0251\u02d0m.\u026a\u014b/",
+        "phonetics": [
+            {
+                "text": "/\u0259.\u02c8l\u0251\u02d0m.\u026a\u014b/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259.\u02c8l\u0251\u0279m.\u026a\u014b/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To call to arms for defense",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To give (someone) notice of approaching danger",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To rouse to vigilance and action; to put on the alert.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To surprise with apprehension of danger; to fill with anxiety in regard to threatening evil; to excite with sudden fear.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To keep in excitement; to disturb.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Causing apprehension, fear or alarm; frightening",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alarm",
+            "https://en.wiktionary.org/wiki/alarming"
+        ]
+    }
+]

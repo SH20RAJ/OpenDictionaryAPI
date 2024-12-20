@@ -1,0 +1,60 @@
+[
+    {
+        "word": "adulting",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/adulting-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=87098384",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To (cause to) be or become an adult.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To behave like an adult.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Engaging in activities typically associated with adulthood.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "2013, Kelly Williams Brown, Adulting: How to Become a Grown-up in 468 Easy(ish) Steps"
+                    },
+                    {
+                        "definition": "Adultery.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adult",
+            "https://en.wiktionary.org/wiki/adulting"
+        ]
+    }
+]

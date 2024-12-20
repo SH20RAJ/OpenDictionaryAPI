@@ -1,0 +1,33 @@
+[
+    {
+        "word": "airmobile",
+        "phonetic": "/\u025b\u0259\u02c8m\u0259\u028aba\u026al/",
+        "phonetics": [
+            {
+                "text": "/\u025b\u0259\u02c8m\u0259\u028aba\u026al/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Capable of being moved by air.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/airmobile"
+        ]
+    }
+]

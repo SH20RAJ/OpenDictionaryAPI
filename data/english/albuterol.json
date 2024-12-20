@@ -1,0 +1,36 @@
+[
+    {
+        "word": "albuterol",
+        "phonetic": "/\u00e6l\u02c8bju\u02d0.t\u0259.\u0279\u0254l/",
+        "phonetics": [
+            {
+                "text": "/\u00e6l\u02c8bju\u02d0.t\u0259.\u0279\u0254l/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A synthetic compound related to aspirin, used as a bronchodilator in the treatment of asthma and other conditions involving constriction of the airways.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "INN",
+                    "salbutamol"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/albuterol"
+        ]
+    }
+]

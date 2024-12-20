@@ -1,0 +1,42 @@
+[
+    {
+        "word": "alfalfa",
+        "phonetic": "/\u00e6l\u02c8f\u00e6lf\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u00e6l\u02c8f\u00e6lf\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A plant, principally of Medicago sativa, grown as a pasture crop.",
+                        "synonyms": [
+                            "lucerne"
+                        ],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A type or breed of this plant.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "lucerne"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alfalfa"
+        ]
+    }
+]

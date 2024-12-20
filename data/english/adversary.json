@@ -1,0 +1,43 @@
+[
+    {
+        "word": "adversary",
+        "phonetic": "/\u00e6d\u02c8v\u025c\u02d0.s\u0259.\u0279i/",
+        "phonetics": [
+            {
+                "text": "/\u00e6d\u02c8v\u025c\u02d0.s\u0259.\u0279i/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6d.v\u0259\u0279.s\u025b\u0279i/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/adversary-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1769827",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An opponent or rival.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "He prepared to fight his adversary."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adversary"
+        ]
+    }
+]

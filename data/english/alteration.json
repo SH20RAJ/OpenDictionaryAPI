@@ -1,0 +1,47 @@
+[
+    {
+        "word": "alteration",
+        "phonetic": "/\u0252l.t\u0259(\u0279)\u02c8e\u026a.\u0283\u0259n/",
+        "phonetics": [
+            {
+                "text": "/\u0252l.t\u0259(\u0279)\u02c8e\u026a.\u0283\u0259n/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0254l.t\u025a\u02c8e\u026a.\u0283\u0259n/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/alteration-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=2100630",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The act of altering or making different.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The state of being altered; a change made in the form or nature of a thing; changed condition.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alteration"
+        ]
+    }
+]

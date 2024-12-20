@@ -1,0 +1,40 @@
+[
+    {
+        "word": "alderfly",
+        "phonetic": "/\u02c8\u0254\u02d0l.d\u0259.fla\u026a/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u0254\u02d0l.d\u0259.fla\u026a/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A member of any one of the sixty-six species of the family Sialidae of megalopteran insects, each specimen of which has a body length not exceeding one inch and possesses long filamentous antennae and four large dark wings.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An artificial fly with brown mottled wings, body of peacock harl, and black legs.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "orl fly"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alderfly"
+        ]
+    }
+]

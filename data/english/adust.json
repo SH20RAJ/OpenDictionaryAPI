@@ -1,0 +1,43 @@
+[
+    {
+        "word": "adust",
+        "phonetic": "/\u0259\u02c8d\u028cst/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8d\u028cst/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(usually postpositive, of a bodily humour) Abnormally dark or over-concentrated; associated with various states of discomfort or illness (specifically being too hot or dry).",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(by extension) Hot and dry; thirsty or parched.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Burnt or having a scorched color.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adust"
+        ]
+    }
+]

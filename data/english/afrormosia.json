@@ -1,0 +1,27 @@
+[
+    {
+        "word": "afrormosia",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any of the African leguminous trees of the genus Pericopsis (formerly Afrormosia), especially Pericopsis elata; the timber of these trees.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/afrormosia"
+        ]
+    }
+]

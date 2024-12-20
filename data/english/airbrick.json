@@ -1,0 +1,28 @@
+[
+    {
+        "word": "airbrick",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A brick-sized block with holes which is embedded in a wall to allow ventilation through it.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/air%20brick",
+            "https://en.wiktionary.org/wiki/airbrick"
+        ]
+    }
+]

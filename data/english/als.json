@@ -1,0 +1,64 @@
+[
+    {
+        "word": "als",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The Indian mulberry, Morinda citrifolia, especially as used to make dye.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/al",
+            "https://en.wiktionary.org/wiki/als"
+        ]
+    },
+    {
+        "word": "als",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "(focus) In addition; besides; as well; further; too.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "They had porridge for breakfast, and also toast."
+                    },
+                    {
+                        "definition": "To the same degree or extent; so, as.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "as well",
+                    "eke",
+                    "too"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/als",
+            "https://en.wiktionary.org/wiki/also"
+        ]
+    }
+]

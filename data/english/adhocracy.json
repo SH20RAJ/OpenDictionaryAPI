@@ -1,0 +1,42 @@
+[
+    {
+        "word": "adhocracy",
+        "phonetic": "/ad\u02c8h\u0252k\u0279\u0259si/",
+        "phonetics": [
+            {
+                "text": "/ad\u02c8h\u0252k\u0279\u0259si/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/adhocracy-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=89260244",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u00e6d\u02c8h\u0251k\u0279\u0259si/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "(organizational theory) An organizational system designed to be flexible and responsive to the needs of the moment rather than excessively bureaucratic.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adhocracy"
+        ]
+    }
+]

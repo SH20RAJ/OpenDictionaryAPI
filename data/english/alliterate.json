@@ -1,0 +1,40 @@
+[
+    {
+        "word": "alliterate",
+        "phonetic": "/\u0259\u02c8l\u026a.t\u0259.\u0279e\u026at/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8l\u026a.t\u0259.\u0279e\u026at/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To exhibit alliteration.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To use (a word or sound) so as to make alliteration.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "alliterize"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alliterate"
+        ]
+    }
+]

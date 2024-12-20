@@ -1,0 +1,48 @@
+[
+    {
+        "word": "airport",
+        "phonetic": "/\u02c8\u025b\u0259.p\u0254\u02d0t/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u025b\u0259.p\u0254\u02d0t/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/airport-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=80066433",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u02c8\u025b\u0279.p\u0254\u0279t/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/airport-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1317166",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An airfield (an area designated for the takeoff and landing of aircraft), including one or more runways and (for commercial airports) one or more passenger terminals.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Because of this, and contrary to popular belief, British airports primarily act as giant wealth extractors, transporting our richest citizens out of the country as often as possible to take their money overseas. \u2015 The Independent, Heathrow expansion to mainly benefit wealthy frequent fliers, research finds, 23 june 2018."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/airport"
+        ]
+    }
+]

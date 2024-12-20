@@ -1,0 +1,27 @@
+[
+    {
+        "word": "agama",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any of the various small, long-tailed lizards of the subfamily Agaminae of family Agamidae, especially in genera Acanthocercus, Agama, Dendragama, Laudakia, Phrynocephalus, Trapelus and Xenagama.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/agama"
+        ]
+    }
+]

@@ -1,0 +1,81 @@
+[
+    {
+        "word": "alow",
+        "phonetic": "/\u0259\u02c8l\u0259\u028a/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8l\u0259\u028a/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "Low down.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Towards the lower part of a vessel; towards the lower rigging or the decks.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "preposition",
+                "definitions": [
+                    {
+                        "definition": "Below.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alow"
+        ]
+    },
+    {
+        "word": "alow",
+        "phonetic": "/\u0259\u02c8l\u0259\u028a/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8l\u0259\u028a/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Alight; ablaze",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alow"
+        ]
+    }
+]

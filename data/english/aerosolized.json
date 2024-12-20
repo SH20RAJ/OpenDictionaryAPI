@@ -1,0 +1,44 @@
+[
+    {
+        "word": "aerosolized",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To disperse a material, usually a solid or liquid, as an aerosol.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Dispersed as an aerosol; particulate.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "atomized",
+                    "nebulized"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aerosolise",
+            "https://en.wiktionary.org/wiki/aerosolize",
+            "https://en.wiktionary.org/wiki/aerosolized"
+        ]
+    }
+]

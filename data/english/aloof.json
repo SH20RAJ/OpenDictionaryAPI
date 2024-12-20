@@ -1,0 +1,62 @@
+[
+    {
+        "word": "aloof",
+        "phonetic": "/\u0259\u02c8lu\u02d0f/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8lu\u02d0f/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Reserved and remote; either physically or emotionally distant; standoffish.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "At or from a distance, but within view, or at a small distance; apart; away.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Without sympathy; unfavorably.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "preposition",
+                "definitions": [
+                    {
+                        "definition": "Away from; clear of.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aloof"
+        ]
+    }
+]

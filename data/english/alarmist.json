@@ -1,0 +1,46 @@
+[
+    {
+        "word": "alarmist",
+        "phonetic": "/\u0259\u02c8l\u0251\u0279m\u026ast/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8l\u0251\u0279m\u026ast/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "One who causes others to become alarmed without cause.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "I don't mean to be an alarmist, but I do think you should prepare yourself for the worst."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of or relating to causing others to become alarmed without cause.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alarmist"
+        ]
+    }
+]

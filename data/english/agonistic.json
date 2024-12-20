@@ -1,0 +1,53 @@
+[
+    {
+        "word": "agonistic",
+        "phonetic": "/a\u0261\u0259\u02c8n\u026ast\u026ak/",
+        "phonetics": [
+            {
+                "text": "/a\u0261\u0259\u02c8n\u026ast\u026ak/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of or relating to contests that were originally participated in by the Ancient Greeks; athletic",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Characterised by conflict or hostility",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Argumentative; combative",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Struggling to achieve an effect; strained and contrived.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(pharmaceutical effect) pertaining to an agonist",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/agonistic"
+        ]
+    }
+]

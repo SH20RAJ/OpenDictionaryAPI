@@ -1,0 +1,33 @@
+[
+    {
+        "word": "almandine",
+        "phonetic": "/\u02c8al.m\u0259n.d\u028c\u026an/",
+        "phonetics": [
+            {
+                "text": "/\u02c8al.m\u0259n.d\u028c\u026an/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A type of garnet having a deep red color, inclining to purple, with the chemical formula Fe3Al2(SiO4)3.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/almandine"
+        ]
+    }
+]

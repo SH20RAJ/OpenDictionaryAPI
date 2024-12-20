@@ -1,0 +1,27 @@
+[
+    {
+        "word": "aeronomy",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A branch of science that deals with the upper atmosphere of the Earth and the other planets with reference to their chemical composition, physical properties, relative motion, and responses to radiation from space.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aeronomy"
+        ]
+    }
+]

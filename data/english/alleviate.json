@@ -1,0 +1,49 @@
+[
+    {
+        "word": "alleviate",
+        "phonetic": "/\u0259\u02c8li.vi.e\u026at/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8li.vi.e\u026at/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/alleviate-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1779900",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To make less severe, as a pain or difficulty.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Alcohol is often a cheap tool to alleviate the stress of a hard day."
+                    }
+                ],
+                "synonyms": [
+                    "address",
+                    "allay",
+                    "ameliorate",
+                    "assuage",
+                    "ease",
+                    "mitigate",
+                    "relieve"
+                ],
+                "antonyms": [
+                    "aggravate"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alleviate"
+        ]
+    }
+]

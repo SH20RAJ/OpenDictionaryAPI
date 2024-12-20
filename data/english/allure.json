@@ -1,0 +1,56 @@
+[
+    {
+        "word": "allure",
+        "phonetic": "/\u0259\u02c8l(j)\u028a\u025a/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8l(j)\u028a\u025a/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The power to attract, entice; the quality causing attraction.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Gait; bearing",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To entice; to attract.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "attract",
+                    "decoy",
+                    "entice",
+                    "seduce",
+                    "tempt"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/allure"
+        ]
+    }
+]

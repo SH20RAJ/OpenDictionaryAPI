@@ -1,0 +1,72 @@
+[
+    {
+        "word": "alula",
+        "phonetic": "/\u02c8\u00e6lju\u02d0l\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6lju\u02d0l\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A small projection of three or four feathers on the first digit of the wing on some birds.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "bastard wing"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alula"
+        ]
+    },
+    {
+        "word": "alula",
+        "phonetic": "/\u02c8\u00e6lju\u02d0l\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6lju\u02d0l\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A flower, a species of Hawaiian lobelioid",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "B. insignis",
+                    "Brighamia insignis",
+                    "insignis",
+                    "cabbage on a stick",
+                    "vulcan palm"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alula"
+        ]
+    }
+]

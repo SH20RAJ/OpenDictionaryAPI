@@ -1,0 +1,38 @@
+[
+    {
+        "word": "adventurism",
+        "phonetic": "/\u0259d\u02c8v\u025bn(t)\u0283\u0259\u0279\u026az(\u0259)m/",
+        "phonetics": [
+            {
+                "text": "/\u0259d\u02c8v\u025bn(t)\u0283\u0259\u0279\u026az(\u0259)m/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The behaviour of an adventurer; risk-taking.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The taking of excessive risks by a government in their political, economic or foreign affairs.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adventurism"
+        ]
+    }
+]

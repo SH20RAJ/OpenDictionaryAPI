@@ -1,0 +1,50 @@
+[
+    {
+        "word": "allonge",
+        "phonetic": "/\u0259\u02c8l\u0252n\u0292/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8l\u0252n\u0292/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A slip of paper attached to a negotiable instrument to hold endorsements should the document itself be unable to hold any more.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A thrust or pass; a lunge.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To thrust with a sword; to lunge.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/allonge"
+        ]
+    }
+]

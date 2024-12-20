@@ -1,0 +1,43 @@
+[
+    {
+        "word": "aestivation",
+        "phonetic": "/\u02cci\u02d0st\u026a\u02c8ve\u026a\u0283\u0259n/",
+        "phonetics": [
+            {
+                "text": "/\u02cci\u02d0st\u026a\u02c8ve\u026a\u0283\u0259n/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A state of inactivity and metabolic depression during summer: the summer version of hibernation.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The arrangement (vernation) of the parts of a flower inside a bud; prefloration.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The spending or passing of a summer.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aestivation"
+        ]
+    }
+]

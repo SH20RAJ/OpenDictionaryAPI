@@ -1,0 +1,49 @@
+[
+    {
+        "word": "alsatian",
+        "phonetic": "/\u00e6l\u02c8se\u026a\u0283\u0259n/",
+        "phonetics": [
+            {
+                "text": "/\u00e6l\u02c8se\u026a\u0283\u0259n/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A native or inhabitant of Alsace.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(dated US) A German shepherd dog.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A rogue or debauchee, like those who haunted Alsatia in London.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "Alsatian shepherd",
+                    "German Shepherd",
+                    "Elsassian",
+                    "Elsatian"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/Alsatian",
+            "https://en.wiktionary.org/wiki/alsatian"
+        ]
+    }
+]

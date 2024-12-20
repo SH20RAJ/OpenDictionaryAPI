@@ -1,0 +1,44 @@
+[
+    {
+        "word": "allomorph",
+        "phonetic": "/\u02c8\u00e6l.\u0259.m\u0254\u02d0f/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6l.\u0259.m\u0254\u02d0f/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6l.o\u028a.m\u0254\u0279f/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any of the different crystalline forms of a substance.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Any of the different phonological representations of a morpheme.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "paramorph"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/allomorph"
+        ]
+    }
+]

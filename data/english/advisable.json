@@ -1,0 +1,41 @@
+[
+    {
+        "word": "advisable",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(of a course of action) Worthy of being recommended; desirable.",
+                        "synonyms": [
+                            "prudent",
+                            "wise"
+                        ],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(of a person) Capable of being advised or willing to be advised.",
+                        "synonyms": [
+                            "counselable"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "counselable",
+                    "prudent",
+                    "wise"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/advisable"
+        ]
+    }
+]

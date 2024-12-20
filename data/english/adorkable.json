@@ -1,0 +1,33 @@
+[
+    {
+        "word": "adorkable",
+        "phonetic": "/\u028c\u02c8d\u0254\u0279k\u0259bl\u0329/",
+        "phonetics": [
+            {
+                "text": "/\u028c\u02c8d\u0254\u0279k\u0259bl\u0329/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Adorable in a dorky, socially awkward manner.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adorkable"
+        ]
+    }
+]

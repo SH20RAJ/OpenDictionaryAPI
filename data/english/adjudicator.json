@@ -1,0 +1,33 @@
+[
+    {
+        "word": "adjudicator",
+        "phonetic": "/\u00e6.d\u0292u.d\u026a\u02c8ke\u026a.t\u0254\u0279/",
+        "phonetics": [
+            {
+                "text": "/\u00e6.d\u0292u.d\u026a\u02c8ke\u026a.t\u0254\u0279/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "One who adjudicates.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adjudicator"
+        ]
+    }
+]

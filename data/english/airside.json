@@ -1,0 +1,43 @@
+[
+    {
+        "word": "airside",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "In a passenger-only area of an airport (beyond passport and customs control)",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "When I was airside, I browsed the duty-free shops."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "Into the passenger-only area of an airport (beyond passport and customs control)",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "You have to go through security to go airside."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "landside"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/airside"
+        ]
+    }
+]

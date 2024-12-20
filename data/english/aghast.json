@@ -1,0 +1,38 @@
+[
+    {
+        "word": "aghast",
+        "phonetic": "/\u0259\u02c8\u0261\u0251\u02d0st/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8\u0261\u0251\u02d0st/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8\u0261\u00e6st/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Terrified; struck with amazement; showing signs of terror or horror.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "I was aghast when the incident unfolded in front of me."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aghast"
+        ]
+    }
+]

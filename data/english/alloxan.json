@@ -1,0 +1,27 @@
+[
+    {
+        "word": "alloxan",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An oxidation product of uric acid, 2,4,5,6(1H,3H)-pyrimidinetetrone, capable of inducing diabetes by destroying pancreatic tissue",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alloxan"
+        ]
+    }
+]

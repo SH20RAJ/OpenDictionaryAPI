@@ -1,0 +1,29 @@
+[
+    {
+        "word": "adrenalized",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To render frightening or thrilling, such as to stimulate the production of adrenalin.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adrenalise",
+            "https://en.wiktionary.org/wiki/adrenalize",
+            "https://en.wiktionary.org/wiki/adrenalized"
+        ]
+    }
+]

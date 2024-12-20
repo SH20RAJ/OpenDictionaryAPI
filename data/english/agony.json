@@ -1,0 +1,67 @@
+[
+    {
+        "word": "agony",
+        "phonetic": "/\u02c8\u00e6.\u0261\u0259.ni\u02d0/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6.\u0261\u0259.ni\u02d0/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/agony-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1769276",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Extreme pain.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The sufferings of Jesus Christ in the garden of Gethsemane.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Violent contest or striving.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Paroxysm of joy; keen emotion.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The last struggle of life; death struggle.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "anguish",
+                    "distress",
+                    "pang",
+                    "suffering",
+                    "throe",
+                    "torment"
+                ],
+                "antonyms": [
+                    "ecstasy"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/agony"
+        ]
+    }
+]

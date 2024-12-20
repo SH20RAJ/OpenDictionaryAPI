@@ -1,0 +1,37 @@
+[
+    {
+        "word": "aftertouch",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Pressure sensitivity on an electronic synthesizer, allowing the musician to change the tone or sound of a note after it is struck.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A touch (feature or characteristic) added finally or as an afterthought.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A feature in football/soccer games allowing the player to swerve the ball immediately after kicking it.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aftertouch"
+        ]
+    }
+]

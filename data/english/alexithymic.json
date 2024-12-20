@@ -1,0 +1,50 @@
+[
+    {
+        "word": "alexithymic",
+        "phonetic": "/\u0259\u02ccl\u025bks\u026a\u02c8\u03b8a\u026am\u026ak/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02ccl\u025bks\u026a\u02c8\u03b8a\u026am\u026ak/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A person who has difficulty feeling, processing or understanding emotions",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Pertaining to or having alexithymia.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Lacking in emotion or emotional expression.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alexithymic"
+        ]
+    }
+]

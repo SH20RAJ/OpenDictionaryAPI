@@ -1,0 +1,28 @@
+[
+    {
+        "word": "agammaglobulinaemia",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A condition in which gammaglobulins such as immunoglobulins are absent from the blood, or present only in low concentrations",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/agammaglobulinaemia",
+            "https://en.wiktionary.org/wiki/agammaglobulinemia"
+        ]
+    }
+]

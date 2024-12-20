@@ -1,0 +1,37 @@
+[
+    {
+        "word": "albumen",
+        "phonetic": "/\u02c8albj\u028am\u026an/",
+        "phonetics": [
+            {
+                "text": "/\u02c8albj\u028am\u026an/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The white part of an egg; being mostly the protein albumin and water.",
+                        "synonyms": [
+                            "egg white"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "egg white"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/albumen"
+        ]
+    }
+]

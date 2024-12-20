@@ -1,0 +1,36 @@
+[
+    {
+        "word": "alanine",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A nonessential amino acid 2-aminopropanoic acid found in most animal proteins",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Potatoes can be a good source of alanine."
+                    },
+                    {
+                        "definition": "A specific residue, molecule, or isomer of this amino acid",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Two alanines are replaced by prolines."
+                    }
+                ],
+                "synonyms": [
+                    "Ala"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alanine"
+        ]
+    }
+]

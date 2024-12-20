@@ -1,0 +1,43 @@
+[
+    {
+        "word": "adventuress",
+        "phonetic": "/\u0259d\u02c8v\u025bnt\u0283\u0259\u0279\u026as/",
+        "phonetics": [
+            {
+                "text": "/\u0259d\u02c8v\u025bnt\u0283\u0259\u0279\u026as/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A female adventurer; a woman who seeks adventure.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A woman of doubtful reputation or suspected character who pursues personal advancement, especially by sexual means; a demirep.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A female varietist.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adventuress"
+        ]
+    }
+]

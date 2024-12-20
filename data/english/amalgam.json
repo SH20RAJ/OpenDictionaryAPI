@@ -1,0 +1,63 @@
+[
+    {
+        "word": "amalgam",
+        "phonetic": "/\u0259\u02c8m\u00e6l.\u0261\u0259m/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8m\u00e6l.\u0261\u0259m/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/amalgam-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=33137742"
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An alloy containing mercury.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A combination of different things.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "One of the ingredients in an alloy.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "alloy",
+                    "blend",
+                    "combo",
+                    "compound",
+                    "conglomerate",
+                    "mixture"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To amalgamate.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amalgam"
+        ]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+        "word": "ala",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A wing or winglike structure.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A winglike anatomical process or part, especially of bone.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The flattened border of some stems, fruits, and seeds, or one of the two side petals of certain flowers in the pea family.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "In ancient Rome, a small room opening into a larger room or courtyard.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ala"
+        ]
+    },
+    {
+        "word": "ala",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "preposition",
+                "definitions": [
+                    {
+                        "definition": "In the style or manner of.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/a%20la",
+            "https://en.wiktionary.org/wiki/ala"
+        ]
+    }
+]

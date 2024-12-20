@@ -1,0 +1,28 @@
+[
+    {
+        "word": "altarpiece",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A work of art suspended above and behind an altar in a church",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "I walked across the concrete to examine the altarpiece of the atomic age. A large crack ran through it.  \u2014 Atomic John: A truck driver uncovers secrets about the first nuclear bombs, David Samuels December, The New Yorker, 15, 2008 http//www.newyorker.com/reporting/2008/12/15/081215fa_fact_samuels?printable=true"
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/altarpiece"
+        ]
+    }
+]

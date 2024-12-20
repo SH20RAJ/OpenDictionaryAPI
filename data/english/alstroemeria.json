@@ -1,0 +1,33 @@
+[
+    {
+        "word": "alstroemeria",
+        "phonetic": "/\u02cc\u00e6lst\u0279\u0268\u02c8mi\u02d0\u0279i.\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6lst\u0279\u0268\u02c8mi\u02d0\u0279i.\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any member of the genus Alstroemeria of South American flowering plants, the Peruvian lilies.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alstroemeria"
+        ]
+    }
+]

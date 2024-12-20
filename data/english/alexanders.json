@@ -1,0 +1,78 @@
+[
+    {
+        "word": "alexanders",
+        "phonetic": "/\u02cc\u00e6l\u0268\u0261\u02c8z\u0251\u02d0nd\u0259z/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6l\u0268\u0261\u02c8z\u0251\u02d0nd\u0259z/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02cc\u00e6l\u0268\u0261\u02c8z\u00e6nd\u025az/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any of various umbellifers, often specifically Smyrnium olusatrum or Heracleum maximum, the cow parsnip.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Various plants of genus Zizia or Angelica thought to resemble European alexanders.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alexanders"
+        ]
+    },
+    {
+        "word": "alexanders",
+        "phonetic": "/\u02cc\u00e6l\u0268\u0261\u02c8z\u0251\u02d0nd\u0259z/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6l\u0268\u0261\u02c8z\u0251\u02d0nd\u0259z/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02cc\u00e6l\u0268\u0261\u02c8z\u00e6nd\u025az/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A cocktail made of cognac or gin, white cr\u00e8me de cacao, and light cream.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alexander",
+            "https://en.wiktionary.org/wiki/alexanders"
+        ]
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "word": "alchemize",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To change something's properties by means of alchemy.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Their dearest wish was to alchemise iron into gold"
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alchemise",
+            "https://en.wiktionary.org/wiki/alchemize"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "word": "alpargata",
+        "phonetic": "/\u02cc\u00e6lp\u0251\u02d0\u02c8\u0261\u0251\u02d0t\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6lp\u0251\u02d0\u02c8\u0261\u0251\u02d0t\u0259/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02cc\u00e6lp\u0259\u0279\u02c8\u0261\u0251t\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A light shoe having an upper made of fabric and a sole of rope.",
+                        "synonyms": [
+                            "alpargata"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "alpargata"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alpargata",
+            "https://en.wiktionary.org/wiki/espadrille"
+        ]
+    }
+]

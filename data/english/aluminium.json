@@ -1,0 +1,68 @@
+[
+    {
+        "word": "aluminium",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/aluminium-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1505560"
+            },
+            {
+                "text": "/\u0259\u02c8lu\u02d0m\u026an\u0259m/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02cc\u025bl.(j)\u0258\u02c8m\u0258n.j\u0258m/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02cc\u00e6l.(j)\u028a\u02c8m\u026an.i.\u0259m/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/aluminium-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1408116"
+            },
+            {
+                "text": "/\u02cc\u00e6l(j)u\u02c8m\u026an.j.\u0259m/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/aluminium-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=2033264",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A light, silvery metal extracted from bauxite, and a chemical element (symbol Al) with an atomic number of 13.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A single atom of this element.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Aircraft or other machinery made partially or wholly of aluminium.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "E173",
+                    "food colouring",
+                    "alumium"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aluminium"
+        ]
+    }
+]

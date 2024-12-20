@@ -1,0 +1,45 @@
+[
+    {
+        "word": "aggression",
+        "phonetic": "/\u0259\u02c8\u0261\u0279\u025b\u0283\u0259n/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8\u0261\u0279\u025b\u0283\u0259n/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The act of initiating hostilities or invasion.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The practice or habit of launching attacks.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Hostile or destructive behavior or actions.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "nonaggression"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aggression"
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "adequacy",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The quality of being sufficient, adequate or able to meet the needs.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "His zeal is, of course, unquestionable; his adequacy, however, I doubt."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adequacy"
+        ]
+    }
+]

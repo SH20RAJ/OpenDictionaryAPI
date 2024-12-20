@@ -1,0 +1,56 @@
+[
+    {
+        "word": "adjust",
+        "phonetic": "/\u0259\u02c8d\u0292\u028cst/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8d\u0292\u028cst/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To modify.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Morimoto's recipes are adjusted to suit the American palate."
+                    },
+                    {
+                        "definition": "To improve or rectify.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "He adjusted his initial conclusion to reflect the new data."
+                    },
+                    {
+                        "definition": "To settle an insurance claim.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To change to fit circumstances.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Most immigrants adjust quickly to a new community.\u00a0\u00a0 She waited for her eyes to adjust to the darkness."
+                    }
+                ],
+                "synonyms": [
+                    "change",
+                    "edit",
+                    "modify",
+                    "set"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adjust"
+        ]
+    }
+]

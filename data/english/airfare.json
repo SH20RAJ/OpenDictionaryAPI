@@ -1,0 +1,37 @@
+[
+    {
+        "word": "airfare",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/airfare-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=659614",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The cost or expense of an airplane ticket or trip.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "I'd love to visit Paris, but I can't afford the airfare."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/airfare"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "alkane",
+        "phonetic": "/\u02c8\u00e6l.ke\u026an/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6l.ke\u026an/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any acyclic saturated hydrocarbon (e.g., methane, ethane, etc.).",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The carbon chain of an alkane may be linear or branched, but must not contain loops (cycles); its chemical formula is of the form CnH2n+2."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alkane"
+        ]
+    }
+]

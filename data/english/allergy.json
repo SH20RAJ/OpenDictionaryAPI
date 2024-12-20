@@ -1,0 +1,55 @@
+[
+    {
+        "word": "allergy",
+        "phonetic": "[\u02c8\u00e6l.\u0259.d\u0292i]",
+        "phonetics": [
+            {
+                "text": "[\u02c8\u00e6l.\u0259.d\u0292i]",
+                "audio": ""
+            },
+            {
+                "text": "[\u02c8\u00e6l.\u025a.d\u0292i]",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A disorder of the immune system causing adverse reactions to substances (allergens) not harmful to most and marked by the body's production of histamines and associated with atopy, anaphylaxis, and asthma.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Any condition of hypersensitivity to a substance.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Altered susceptibility to a first treatment as exhibited in reaction to a subsequent one.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An antipathy, as toward a person or activity.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "type 1 hypersensitivity",
+                    "intolerance"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/allergy"
+        ]
+    }
+]

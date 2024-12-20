@@ -1,0 +1,45 @@
+[
+    {
+        "word": "adroit",
+        "phonetic": "/\u0259\u02c8d\u0279\u0254\u026at/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8d\u0279\u0254\u026at/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/adroit-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=83326134",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u0259\u02c8d\u0279\u0254\u026at/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Deft, dexterous, or skillful.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "clumsy",
+                    "maladroit"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adroit"
+        ]
+    }
+]

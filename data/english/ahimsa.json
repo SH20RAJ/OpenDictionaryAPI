@@ -1,0 +1,33 @@
+[
+    {
+        "word": "ahimsa",
+        "phonetic": "/\u0259\u02c8h\u026ams\u0251\u02d0/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8h\u026ams\u0251\u02d0/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A doctrine of non-violence, concerned with the sacredness of all living things and an effort to avoid causing harm to them.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ahimsa"
+        ]
+    }
+]

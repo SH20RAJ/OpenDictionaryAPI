@@ -1,0 +1,30 @@
+[
+    {
+        "word": "allantois",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A sac, having a number of functions, that develops in the alimentary canal of the embryos of mammals, birds and reptiles.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "allantoic sac",
+                    "allantoid"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/allantois"
+        ]
+    }
+]

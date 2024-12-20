@@ -1,0 +1,57 @@
+[
+    {
+        "word": "aliyah",
+        "phonetic": "/\u0259li\u02d0\u02c8j\u0251\u02d0/",
+        "phonetics": [
+            {
+                "text": "/\u0259li\u02d0\u02c8j\u0251\u02d0/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The calling up of someone to the bimah for the reading of the Torah.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The immigration of Jews to Israel.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "One of the major waves of immigration of Jews to Israel.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "yerida"
+                ]
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To make aliyah, to immigrate to Israel.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aliyah"
+        ]
+    }
+]

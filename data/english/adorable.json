@@ -1,0 +1,33 @@
+[
+    {
+        "word": "adorable",
+        "phonetic": "/\u0259\u02c8d\u0254\u02d0\u0279\u0259b\u0259l/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8d\u0254\u02d0\u0279\u0259b\u0259l/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Befitting of being adored; cute or loveable.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adorable"
+        ]
+    }
+]

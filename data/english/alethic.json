@@ -1,0 +1,33 @@
+[
+    {
+        "word": "alethic",
+        "phonetic": "/\u0259\u02c8li\u02d0\u03b8\u026ak/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8li\u02d0\u03b8\u026ak/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of or pertaining to the various modalities of truth, such as the possibility or impossibility of something being true.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/alethic"
+        ]
+    }
+]

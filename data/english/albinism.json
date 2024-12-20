@@ -1,0 +1,39 @@
+[
+    {
+        "word": "albinism",
+        "phonetic": "/\u02c8\u00e6lb\u0259\u02ccn\u026az\u0259m/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6lb\u0259\u02ccn\u026az\u0259m/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Congenital lack of melanin pigmentation in the skin, eyes, and hair or feathers (or more rarely only in the eyes); the condition of being albino.",
+                        "synonyms": [
+                            "albinoism"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "albinoism"
+                ],
+                "antonyms": [
+                    "melanism"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/albinism"
+        ]
+    }
+]

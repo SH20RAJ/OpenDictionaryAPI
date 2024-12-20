@@ -1,0 +1,41 @@
+[
+    {
+        "word": "adiabatic",
+        "phonetic": "/\u02cce\u026ada\u026a\u0259\u02c8b\u00e6t\u026ak/",
+        "phonetics": [
+            {
+                "text": "/\u02cce\u026ada\u026a\u0259\u02c8b\u00e6t\u026ak/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(of a process) That occurs without gain or loss of heat (and thus with no change in entropy, in the quasistatic approximation).",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(of a process) That involves the slow change of the Hamiltonian of a system from its initial value to a final value.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "nonadiabatic",
+                    "diabatic"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adiabatic"
+        ]
+    }
+]

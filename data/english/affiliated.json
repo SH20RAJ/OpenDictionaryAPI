@@ -1,0 +1,77 @@
+[
+    {
+        "word": "affiliated",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/affiliated-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1229142",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To adopt; to receive into a family as one's offspring",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To bring or receive into close connection; to ally.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(said of an illegitimate child) To fix the paternity of",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "to affiliate the child to (or on or upon) one man rather than another"
+                    },
+                    {
+                        "definition": "To connect in the way of descent; to trace origin to.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(followed by \"to\" or \"with\") To attach (to) or unite (with); to receive into a society as a member, and initiate into its mysteries, plans, etc.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Associated, related, or united; subject to a particular affiliation.",
+                        "synonyms": [],
+                        "antonyms": [
+                            "non-affiliated",
+                            "unaffiliated"
+                        ],
+                        "example": "We are not affiliated with any commercial publisher."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "non-affiliated",
+                    "unaffiliated"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/affiliate",
+            "https://en.wiktionary.org/wiki/affiliated"
+        ]
+    }
+]

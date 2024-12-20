@@ -1,0 +1,51 @@
+[
+    {
+        "word": "aiguillette",
+        "phonetic": "/\u02cce\u026a\u0261w\u026a\u02c8l\u025bt/",
+        "phonetics": [
+            {
+                "text": "/\u02cce\u026a\u0261w\u026a\u02c8l\u025bt/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A tip, originally of metal and often decorative, on a ribbon or cord that makes lacing two parts of a garment or garments together easier, as in corset lacings, \"points\" (lacing hose or trousers to jacket or doublet) or sleeves to a bodice.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An ornament worn on clothing, consisting of a metal tag on a fringe, or a small metallic plate or spangle.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An ornamental braided cord with decorative metal tips worn on uniforms.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aiglet",
+            "https://en.wiktionary.org/wiki/aiguillette"
+        ]
+    }
+]

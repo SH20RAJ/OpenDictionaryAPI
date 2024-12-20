@@ -1,0 +1,34 @@
+[
+    {
+        "word": "adorably",
+        "phonetic": "/\u0259\u02c8d\u0254\u0279\u0259bli/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8d\u0254\u0279\u0259bli/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "In an adorable manner.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "She always said that preschoolers danced adorably, so it was no wonder that she opened a dance school for them."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/adorably"
+        ]
+    }
+]

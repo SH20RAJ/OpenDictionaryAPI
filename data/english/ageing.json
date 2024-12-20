@@ -1,0 +1,100 @@
+[
+    {
+        "word": "ageing",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ageing-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75266789",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To cause to grow old; to impart the characteristics of age to.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Grief ages us."
+                    },
+                    {
+                        "definition": "To postpone an action that would extinguish something, as a debt.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Money's a little tight right now, let's age our bills for a week or so."
+                    },
+                    {
+                        "definition": "To categorize by age.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "One his first assignments was to age the accounts receivable."
+                    },
+                    {
+                        "definition": "To grow aged; to become old; to show marks of age.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "He grew fat as he aged."
+                    }
+                ],
+                "synonyms": [
+                    "mature",
+                    "elden"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The process of becoming older or more mature.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The deliberate process of making something (such as an antique) appear (or, in science fiction, become) older than it is.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Becoming senescent; accumulating damage to macromolecules, cells, tissues and organs with the passage of time; progressing loss of health, mobility, vibrancy and body functionality, resulting in biological death.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Wear, wear and tear.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Becoming elderly.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The aging artist could no longer steadily hold the brush."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/age",
+            "https://en.wiktionary.org/wiki/ageing",
+            "https://en.wiktionary.org/wiki/aging"
+        ]
+    }
+]

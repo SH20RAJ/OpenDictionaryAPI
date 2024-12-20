@@ -1,0 +1,27 @@
+[
+    {
+        "word": "almagest",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A comprehensive treatise on astronomy, alchemy, geography and/or mathematics (originally compiled by Ptolemy circa 150 C.E.).",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/almagest"
+        ]
+    }
+]

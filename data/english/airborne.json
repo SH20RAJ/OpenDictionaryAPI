@@ -1,0 +1,57 @@
+[
+    {
+        "word": "airborne",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Military infantry intended to be transported by air and delivered to the battlefield by parachute or helicopter.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "In or carried by the air.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Airborne pollen can aggravate allergies."
+                    },
+                    {
+                        "definition": "In flight.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Fitted to an aircraft.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "airborne radar"
+                    },
+                    {
+                        "definition": "Transported by air in an aircraft.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "airborne troops"
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/airborne"
+        ]
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "word": "airtight",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Impermeable to air or other gases.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Having no weak points or flaws.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "We have an airtight argument they won\u2019t be able to punch holes in."
+                    },
+                    {
+                        "definition": "(of a person) Highly reserved in some matter, particularly tight-lipped or tight-fisted.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "hermetic"
+                ],
+                "antonyms": [
+                    "breathable",
+                    "transpirable"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/airtight"
+        ]
+    }
+]
