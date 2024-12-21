@@ -1,0 +1,43 @@
+[
+    {
+        "word": "ashplant",
+        "phonetic": "/\u02c8\u00e6\u0283.pl\u00e6nt/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6\u0283.pl\u00e6nt/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An ash sapling.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A walking stick.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A stick kept for administering corporal punishment, a cane.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ashplant"
+        ]
+    }
+]

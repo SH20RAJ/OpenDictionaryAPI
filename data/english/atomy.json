@@ -1,0 +1,109 @@
+[
+    {
+        "word": "atomy",
+        "phonetic": "/\u02c8\u00e6t\u0259mi/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6t\u0259mi/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A floating mote or speck of dust.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An indivisible particle.",
+                        "synonyms": [
+                            "atom"
+                        ],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A tiny being; a very small person.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "atom"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/atomy"
+        ]
+    },
+    {
+        "word": "atomy",
+        "phonetic": "/\u02c8\u00e6t\u0259mi/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6t\u0259mi/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A skeleton.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/atomy"
+        ]
+    },
+    {
+        "word": "atomy",
+        "phonetic": "/\u02c8\u00e6t\u0259mi/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6t\u0259mi/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Resembling a tiny particle; made up of tiny particles.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/atomy"
+        ]
+    }
+]

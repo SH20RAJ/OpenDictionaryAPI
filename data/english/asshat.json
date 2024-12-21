@@ -1,0 +1,33 @@
+[
+    {
+        "word": "asshat",
+        "phonetic": "/\u02c8\u00e6sh\u00e6t/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6sh\u00e6t/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An obnoxiously ignorant person; a fool.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/asshat"
+        ]
+    }
+]

@@ -1,0 +1,56 @@
+[
+    {
+        "word": "astronomical",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/astronomical-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75729613",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u02cc\u00e6s.t\u0279\u0259\u02c8n\u0252m.\u026ak.\u0259l/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02cc\u00e6st\u0279\u0259\u02c8n\u0251\u02d0m\u026ak\u0259l/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/astronomical-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=558935",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of or relating to astronomy.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Very large; of vast measure.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "astronomic"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/astronomical"
+        ]
+    }
+]

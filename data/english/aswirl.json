@@ -1,0 +1,33 @@
+[
+    {
+        "word": "aswirl",
+        "phonetic": "/\u0259\u02c8sw\u025c\u02d0(\u0279)l/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8sw\u025c\u02d0(\u0279)l/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "Swirling; in a swirl; full of or surrounded by something swirling.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aswirl"
+        ]
+    }
+]

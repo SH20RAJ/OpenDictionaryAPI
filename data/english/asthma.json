@@ -1,0 +1,37 @@
+[
+    {
+        "word": "asthma",
+        "phonetic": "/\u02c8asm\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u02c8asm\u0259/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6zm\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A long-term respiratory condition, in which the airways may unexpectedly and suddenly narrow, often in response to an allergen, cold air, exercise, or emotional stress. Symptoms include wheezing, shortness of breath, chest tightness, and coughing.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/asthma"
+        ]
+    }
+]

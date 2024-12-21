@@ -1,0 +1,47 @@
+[
+    {
+        "word": "ascesis",
+        "phonetic": "/\u0259\u02c8si\u02d0s\u026as/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8si\u02d0s\u026as/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ascesis-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=81768308",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u00e6-/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "(Rigorous) self-discipline, particularly as a religious observance; asceticism.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(specifically) The praxis or \"exercise\" of asceticism and self-denial of impulses or passions for the sake of piety, theosis, and connection with God.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ascesis"
+        ]
+    }
+]

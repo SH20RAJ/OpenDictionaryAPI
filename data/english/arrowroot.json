@@ -1,0 +1,54 @@
+[
+    {
+        "word": "arrowroot",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/arrowroot-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75729553",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u02c8\u00e6\u0279\u0259(\u028a)\u0279u\u02d0t/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6\u0279o\u028a\u02cc\u0279ut/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Maranta arundinacea from the Marantaceae family, a large perennial herb native to the Caribbean area with green leaves about 15 centimeters long.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Usually preceded by an attributive word: some other plant the rhizomes of which are used to prepare a substance similar to arrowroot (sense 3), such as Zamia integrifolia (Florida arrowroot) or Pueraria montana var. lobata (Japanese arrowroot or kudzu).",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A starchy substance obtained from the rhizomes of an arrowroot plant used as a thickener.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arrowroot"
+        ]
+    }
+]

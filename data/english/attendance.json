@@ -1,0 +1,51 @@
+[
+    {
+        "word": "attendance",
+        "phonetic": "/\u0259\u02c8t\u025bn.d\u0259ns/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8t\u025bn.d\u0259ns/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The state of attending; presence or waiting upon.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Attendance at the meeting is required."
+                    },
+                    {
+                        "definition": "The count or list of individuals present for an event.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The class sat down so that the teacher could take attendance."
+                    },
+                    {
+                        "definition": "The frequency with which one has been present for a regular activity or set of events.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "John's attendance for the conventions was not good."
+                    },
+                    {
+                        "definition": "Attention paid to something; careful regard.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/attendance"
+        ]
+    }
+]

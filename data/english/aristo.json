@@ -1,0 +1,43 @@
+[
+    {
+        "word": "aristo",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/aristo-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=79519484",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An aristocrat",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A wealthy man, especially married, who has sexual affairs with much younger women and spends money on them",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "sugar daddy"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aristo"
+        ]
+    }
+]

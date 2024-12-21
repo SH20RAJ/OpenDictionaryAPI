@@ -1,0 +1,63 @@
+[
+    {
+        "word": "asinine",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/asinine-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75729588",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u02c8\u00e6s.\u0259.na\u026an/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6s.\u0259.na\u026an/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/asinine-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=3322708",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Very foolish; failing to exercise intelligence or judgement or rationality",
+                        "synonyms": [
+                            "foolish",
+                            "obstinate"
+                        ],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Of, pertaining to, or characteristic of donkeys",
+                        "synonyms": [
+                            "donkeyish"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "donkeyish",
+                    "foolish",
+                    "obstinate"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/asinine"
+        ]
+    }
+]

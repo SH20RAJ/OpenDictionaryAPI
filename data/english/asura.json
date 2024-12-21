@@ -1,0 +1,33 @@
+[
+    {
+        "word": "asura",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Deities among the Hindu dharma. Considered to be a group of power-seeking deities, sometimes referred to as devas.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The lowest class of deities and demigods of the K\u0101madh\u0101tu.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/Asura",
+            "https://en.wiktionary.org/wiki/asura"
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "word": "aumbry",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A bookcase; a library or archive.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A storehouse, especially a niche or recess in a wall used for storage.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A pantry, or place to store food.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A cupboard or storage area in a church to hold books, communion vessels, vestments, etc.; an armarium.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "armarium",
+                    "cupboard",
+                    "pantry"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ambry",
+            "https://en.wiktionary.org/wiki/aumbry"
+        ]
+    }
+]

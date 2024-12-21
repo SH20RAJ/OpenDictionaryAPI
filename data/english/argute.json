@@ -1,0 +1,38 @@
+[
+    {
+        "word": "argute",
+        "phonetic": "/\u0251\u02d0\u02c8\u0261ju\u02d0t/",
+        "phonetics": [
+            {
+                "text": "/\u0251\u02d0\u02c8\u0261ju\u02d0t/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Sharp; perceptive; shrewd.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Shrill in sound.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/argute"
+        ]
+    }
+]

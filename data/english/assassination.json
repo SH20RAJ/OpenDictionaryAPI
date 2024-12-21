@@ -1,0 +1,38 @@
+[
+    {
+        "word": "assassination",
+        "phonetic": "/\u0259\u02ccs\u00e6s.\u026a.\u02c8ne\u026a.\u0283\u0259n/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02ccs\u00e6s.\u026a.\u02c8ne\u026a.\u0283\u0259n/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02ccs\u00e6s.\u026a.\u02c8ne\u026a.\u0283\u0259n/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The murder of a person, especially for political reasons or for personal gain.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The assassination of the king occurred at night."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/assassination"
+        ]
+    }
+]

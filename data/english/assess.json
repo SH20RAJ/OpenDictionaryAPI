@@ -1,0 +1,51 @@
+[
+    {
+        "word": "assess",
+        "phonetic": "/\u0259\u02c8s\u025bs/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8s\u025bs/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/assess-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1779917",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To determine, estimate or judge the value of; to evaluate",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "He assessed the situation."
+                    },
+                    {
+                        "definition": "To impose or charge, especially as punishment for an infraction.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "A $10.00 late fee will be assessed on all overdue accounts."
+                    },
+                    {
+                        "definition": "To calculate and demand (the tax money due) from a person or entity.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Once you've submitted a tax return, the Tax Department will assess the amount of tax you still owe."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/assess"
+        ]
+    }
+]

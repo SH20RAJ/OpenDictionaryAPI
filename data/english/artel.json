@@ -1,0 +1,33 @@
+[
+    {
+        "word": "artel",
+        "phonetic": "/\u0251\u02d0\u02c8t\u025bl/",
+        "phonetics": [
+            {
+                "text": "/\u0251\u02d0\u02c8t\u025bl/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A Russian or Soviet craftsmen's collective.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/artel"
+        ]
+    }
+]

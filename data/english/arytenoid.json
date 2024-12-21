@@ -1,0 +1,61 @@
+[
+    {
+        "word": "arytenoid",
+        "phonetic": "/\u02cca\u0279.\u026a\u02c8ti\u02d0.n\u0254\u026ad/",
+        "phonetics": [
+            {
+                "text": "/\u02cca\u0279.\u026a\u02c8ti\u02d0.n\u0254\u026ad/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8\u0279\u026at.n\u0329.\u0254\u026ad/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Either of a pair of cartilages at the back of the larynx, used in the production of different kinds of voice quality (for example, creaky voice).",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Arytenoid muscle",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Relating to or being either of two small laryngeal cartilages to which the vocal cords are attached.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "arytenoid cartilage"
+                    },
+                    {
+                        "definition": "Relating to or being either of a pair of small muscles (oblique arytenoid) or an unpaired muscle (transverse arytenoid) of the larynx.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "arytenoid muscle"
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arytenoid"
+        ]
+    }
+]

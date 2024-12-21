@@ -1,0 +1,38 @@
+[
+    {
+        "word": "architrave",
+        "phonetic": "/\u02c8\u0251\u0279.k\u026a.t\u0279e\u026av/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u0251\u0279.k\u026a.t\u0279e\u026av/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The lowest part of an entablature; rests on the capitals of the columns.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The moldings (or other elements) framing a door, window or other rectangular opening.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/architrave"
+        ]
+    }
+]

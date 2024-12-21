@@ -1,0 +1,55 @@
+[
+    {
+        "word": "arquebus",
+        "phonetic": "/\u02c8\u0251\u02d0.kw\u0268.b\u0259s/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u0251\u02d0.kw\u0268.b\u0259s/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u0251\u0279.kw\u0268.b\u0259s/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To shoot with an arquebus.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An obsolete matchlock firearm.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A portable gun, varying in size from a small cannon to a musket. When used in the field it was supported upon a tripod or trestle.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arquebus",
+            "https://en.wiktionary.org/wiki/harquebus"
+        ]
+    }
+]

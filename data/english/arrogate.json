@@ -1,0 +1,45 @@
+[
+    {
+        "word": "arrogate",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To appropriate or lay claim to something for oneself without right.",
+                        "synonyms": [
+                            "commandeer",
+                            "expropriate",
+                            "usurp"
+                        ],
+                        "antonyms": [
+                            "abandon",
+                            "abdicate",
+                            "relinquish",
+                            "renounce"
+                        ]
+                    }
+                ],
+                "synonyms": [
+                    "commandeer",
+                    "expropriate",
+                    "usurp"
+                ],
+                "antonyms": [
+                    "abandon",
+                    "abdicate",
+                    "relinquish",
+                    "renounce"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arrogate"
+        ]
+    }
+]

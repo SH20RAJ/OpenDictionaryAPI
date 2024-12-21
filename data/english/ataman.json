@@ -1,0 +1,33 @@
+[
+    {
+        "word": "ataman",
+        "phonetic": "/\u02c8\u00e6t\u0259m\u0259n/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6t\u0259m\u0259n/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A title of Cossack and haidamak leaders of various kinds. The term was also used for the leader of a fisherman artel and of a band of robbers or thieves.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ataman"
+        ]
+    }
+]

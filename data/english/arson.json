@@ -1,0 +1,49 @@
+[
+    {
+        "word": "arson",
+        "phonetic": "/\u02c8\u0251\u02d0s\u0259n/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u0251\u02d0s\u0259n/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u0251\u0279s\u0259n/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The crime of deliberately starting a fire with intent to cause damage.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To illegally set fire to; to burn down in a criminal manner",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arson"
+        ]
+    }
+]

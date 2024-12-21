@@ -1,0 +1,31 @@
+[
+    {
+        "word": "arsenopyrite",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A silvery-grey ore of arsenic, a mixed arsenide and sulfide of iron, FeAsS.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "AsPy",
+                    "FeAsS",
+                    "mispickel"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arsenopyrite"
+        ]
+    }
+]

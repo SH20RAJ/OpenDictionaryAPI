@@ -1,0 +1,38 @@
+[
+    {
+        "word": "arrabbiata",
+        "phonetic": "/\u02cca\u0279\u0259\u02c8bj\u0251\u02d0t\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u02cca\u0279\u0259\u02c8bj\u0251\u02d0t\u0259/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02cc\u0251\u0279\u0259bi\u02c8\u0251\u02d0t\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(usually postpositive) Cooked in a hot, fiery style with garlic, tomatoes, and chili.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Chicken arrabbiata was served on steaming fettucine."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arrabbiata"
+        ]
+    }
+]

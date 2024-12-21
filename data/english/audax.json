@@ -1,0 +1,33 @@
+[
+    {
+        "word": "audax",
+        "phonetic": "/\u02c8\u0254\u02d0.d\u00e6ks/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u0254\u02d0.d\u00e6ks/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A non-competitive long-distance (often over 200 km) cycling event.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/audax"
+        ]
+    }
+]

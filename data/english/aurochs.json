@@ -1,0 +1,38 @@
+[
+    {
+        "word": "aurochs",
+        "phonetic": "/\u02c8a\u028a\u0279\u0252ks/",
+        "phonetics": [
+            {
+                "text": "/\u02c8a\u028a\u0279\u0252ks/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An extinct European mammal, Bos primigenius, the ancestor of domestic cattle.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The European bison (Bison bonasus, or Europ\u00e6us).",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aurochs"
+        ]
+    }
+]

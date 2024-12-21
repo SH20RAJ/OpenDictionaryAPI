@@ -1,0 +1,67 @@
+[
+    {
+        "word": "atilt",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "At an angle from the vertical or horizontal.",
+                        "synonyms": [
+                            "tilted"
+                        ],
+                        "antonyms": [],
+                        "example": "The child listened, her head atilt."
+                    }
+                ],
+                "synonyms": [
+                    "tilted"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "At an angle from the vertical or horizontal; at the point of falling over.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "He wore his hat rakishly atilt."
+                    },
+                    {
+                        "definition": "Tilting or as if tilting (charging with a lance, like a knight on horseback in a joust).",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "to run / ride atilt at someone or something"
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "preposition",
+                "definitions": [
+                    {
+                        "definition": "Diagonally over or across.",
+                        "synonyms": [
+                            "aslant"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "aslant"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/atilt"
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "word": "aubergine",
+        "phonetic": "/\u02c8\u0259\u028a.b\u0259.\u0292i\u02d0n/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u0259\u028a.b\u0259.\u0292i\u02d0n/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8o\u028a.b\u025a.\u0292in/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An Asian plant, Solanum melongena, cultivated for its edible purple, green, or white ovoid fruit",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The fruit of this plant, eaten as a vegetable",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A dark purple colour; eggplant.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aubergine"
+        ]
+    }
+]

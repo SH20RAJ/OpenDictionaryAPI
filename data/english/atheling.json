@@ -1,0 +1,36 @@
+[
+    {
+        "word": "atheling",
+        "phonetic": "/\u02c8\u00e6\u00f0\u0259l\u026a\u014b/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6\u00f0\u0259l\u026a\u014b/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A prince, especially an Anglo-Saxon prince or royal heir.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "hl\u00e6fdige",
+                    "hl\u00e6fdige"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/atheling"
+        ]
+    }
+]

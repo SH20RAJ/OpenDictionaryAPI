@@ -1,0 +1,42 @@
+[
+    {
+        "word": "asthenia",
+        "phonetic": "/\u00e6s\u02c8\u03b8i\u02d0.n\u026a\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u00e6s\u02c8\u03b8i\u02d0.n\u026a\u0259/",
+                "audio": ""
+            },
+            {
+                "text": "/\u00e6s\u02c8\u03b8i.ni.\u0259/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/asthenia-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=2776484",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Weakness; loss of strength.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/asthenia"
+        ]
+    }
+]

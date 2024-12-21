@@ -1,0 +1,54 @@
+[
+    {
+        "word": "argot",
+        "phonetic": "/\u02c8\u0251\u02d0\u0261\u0259\u028a/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u0251\u02d0\u0261\u0259\u028a/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u0251\u0279\u0261o\u028a/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A secret language or conventional slang peculiar to thieves, tramps and vagabonds.",
+                        "synonyms": [
+                            "cant",
+                            "jargon",
+                            "slang"
+                        ],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The specialized informal vocabulary and terminology used between people with special skill in a field, such as between doctors, mathematicians or hackers.",
+                        "synonyms": [
+                            "jargon"
+                        ],
+                        "antonyms": [],
+                        "example": "The conversation was in the argot of the trade, full of acronyms and abbreviations that made no sense to the uninitiate."
+                    }
+                ],
+                "synonyms": [
+                    "cant",
+                    "jargon",
+                    "slang",
+                    "jargon"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/argot"
+        ]
+    }
+]

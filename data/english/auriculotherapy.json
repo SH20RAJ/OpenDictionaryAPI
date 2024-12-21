@@ -1,0 +1,30 @@
+[
+    {
+        "word": "auriculotherapy",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A form of alternative medicine that treats ailments of the entire body by stimulation of the surface of the ear.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "auriculoacupuncture",
+                    "auriculomedicine"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/auriculotherapy"
+        ]
+    }
+]

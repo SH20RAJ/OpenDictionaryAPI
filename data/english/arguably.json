@@ -1,0 +1,35 @@
+[
+    {
+        "word": "arguably",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/arguably-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=89932294"
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "As can be supported or proven by sound logical deduction, evidence, and precedent.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "debatably",
+                    "defensibly"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arguably"
+        ]
+    }
+]

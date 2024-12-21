@@ -1,0 +1,33 @@
+[
+    {
+        "word": "arthritis",
+        "phonetic": "/\u0251\u02d0(\u0279)\u03b8\u02c8\u0279a\u026at\u026as/",
+        "phonetics": [
+            {
+                "text": "/\u0251\u02d0(\u0279)\u03b8\u02c8\u0279a\u026at\u026as/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Inflammation of a joint or joints causing pain and/or disability, swelling and stiffness, and due to various causes such as infection, trauma, degenerative changes or metabolic disorders.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arthritis"
+        ]
+    }
+]

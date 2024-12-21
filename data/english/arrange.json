@@ -1,0 +1,49 @@
+[
+    {
+        "word": "arrange",
+        "phonetic": "/\u0259\u02c8\u0279e\u026and\u0292/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8\u0279e\u026and\u0292/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/arrange-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1779873",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To set up; to organize; to put into an orderly sequence or arrangement.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To plan; to prepare in advance.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "to arrange to meet; \u2002 to arrange for supper"
+                    },
+                    {
+                        "definition": "To prepare and adapt an already-written composition for presentation in other than its original form.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arrange"
+        ]
+    }
+]

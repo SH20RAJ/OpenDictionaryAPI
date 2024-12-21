@@ -1,0 +1,43 @@
+[
+    {
+        "word": "attainment",
+        "phonetic": "/\u0259\u02c8te\u026anm\u0259nt/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8te\u026anm\u0259nt/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/attainment-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=2650665",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The act of attaining; the act of arriving at or reaching; the act of obtaining by exertion or effort.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "That which is attained, or obtained by exertion; acquisition; acquirement.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/attainment"
+        ]
+    }
+]

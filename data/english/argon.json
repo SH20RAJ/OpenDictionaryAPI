@@ -1,0 +1,46 @@
+[
+    {
+        "word": "argon",
+        "phonetic": "/\u02c8\u0251\u02d0\u0279\u0261\u0252n/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u0251\u02d0\u0279\u0261\u0252n/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/argon-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=17136184",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The chemical element (symbol Ar) with an atomic number of 18. The third most abundant gas in the Earth's atmosphere, it is a colourless, odourless, inert noble gas.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A single atom of this element.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "E938",
+                    "packaging gas"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/argon"
+        ]
+    }
+]

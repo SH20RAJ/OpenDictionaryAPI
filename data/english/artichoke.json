@@ -1,0 +1,47 @@
+[
+    {
+        "word": "artichoke",
+        "phonetic": "/\u02c8\u0251\u02d0.t\u026a\u02cct\u0283\u0259\u028ak/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u0251\u02d0.t\u026a\u02cct\u0283\u0259\u028ak/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/artichoke-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1762869",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A plant related to the thistle with enlarged flower heads eaten as a vegetable while immature, Cynara cardunculus var. scolymus.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A dull green colour, like that of an artichoke.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "cardoon",
+                    "cardoons",
+                    "globe artichoke"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/artichoke"
+        ]
+    }
+]

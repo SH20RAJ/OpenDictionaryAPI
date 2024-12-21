@@ -1,0 +1,32 @@
+[
+    {
+        "word": "audiology",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The study of the auditory and vestibular systems, and associated disorders",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An allied health profession pertaining to the assessment and rehabilitation of hearing and balance disorders.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/audiology"
+        ]
+    }
+]

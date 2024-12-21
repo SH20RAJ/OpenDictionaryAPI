@@ -1,0 +1,33 @@
+[
+    {
+        "word": "audiophile",
+        "phonetic": "/\u02cc\u0254\u02d0.di.\u0259\u028a\u02c8fa\u026al/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u0254\u02d0.di.\u0259\u028a\u02c8fa\u026al/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A person with an interest in high fidelity music and/or sound reproduction and its associated technology.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/audiophile"
+        ]
+    }
+]

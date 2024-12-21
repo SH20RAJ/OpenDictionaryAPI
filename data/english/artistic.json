@@ -1,0 +1,63 @@
+[
+    {
+        "word": "artistic",
+        "phonetic": "/\u0251\u02d0\u02c8t\u026ast\u026ak/",
+        "phonetics": [
+            {
+                "text": "/\u0251\u02d0\u02c8t\u026ast\u026ak/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0251\u0279\u02c8t\u026ast\u026ak/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Having or revealing creative skill.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Relating to or characteristic of art or artists.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Aesthetically pleasing.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "Artistically, in an artistic style.",
+                        "synonyms": [],
+                        "antonyms": [
+                            "inartistic"
+                        ]
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "inartistic"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/artistic"
+        ]
+    }
+]

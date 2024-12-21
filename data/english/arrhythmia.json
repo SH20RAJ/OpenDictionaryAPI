@@ -1,0 +1,40 @@
+[
+    {
+        "word": "arrhythmia",
+        "phonetic": "/e\u026a\u02c8\u0279\u026a\u00f0m\u026a\u0259/",
+        "phonetics": [
+            {
+                "text": "/e\u026a\u02c8\u0279\u026a\u00f0m\u026a\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An irregular heartbeat.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A disease entity involving such beats, such as atrial fibrillation, ventricular tachycardia, AV nodal reentrant tachycardia, or others.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "dysrhythmia"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arrhythmia"
+        ]
+    }
+]

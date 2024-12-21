@@ -1,0 +1,42 @@
+[
+    {
+        "word": "armiger",
+        "phonetic": "/\u02c8\u0251\u02d0m\u026ad\u0292\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u0251\u02d0m\u026ad\u0292\u0259/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u0251\u02d0\u0279m\u026ad\u0292\u0259\u0279/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A person entitled to bear a coat of arms.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A squire carrying the armour of a knight.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/armiger"
+        ]
+    }
+]

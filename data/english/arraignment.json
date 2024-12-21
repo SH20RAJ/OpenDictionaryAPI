@@ -1,0 +1,33 @@
+[
+    {
+        "word": "arraignment",
+        "phonetic": "/\u0259\u02c8\u0279e\u026anm\u0259nt/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8\u0279e\u026anm\u0259nt/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The formal charging of a defendant with an offense.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arraignment"
+        ]
+    }
+]

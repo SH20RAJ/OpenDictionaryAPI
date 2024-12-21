@@ -1,0 +1,42 @@
+[
+    {
+        "word": "auditorium",
+        "phonetic": "/\u0254\u02d0.d\u026a\u02c8t\u0254\u02d0.\u0279\u026a.\u0259m/",
+        "phonetics": [
+            {
+                "text": "/\u0254\u02d0.d\u026a\u02c8t\u0254\u02d0.\u0279\u026a.\u0259m/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02cc\u0254.d\u0259\u02c8t\u0254.\u0279i.\u0259m/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A large room for public meetings or performances.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(in a theater, etc.) The space where the audience is located.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/auditorium"
+        ]
+    }
+]

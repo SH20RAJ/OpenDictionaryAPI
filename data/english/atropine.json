@@ -1,0 +1,37 @@
+[
+    {
+        "word": "atropine",
+        "phonetic": "/\u02c8\u00e6.t\u0279\u0259.pi\u02d0n/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6.t\u0279\u0259.pi\u02d0n/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6.t\u0279\u0259\u02ccpi\u02d0n/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An alkaloid extracted from the plant deadly nightshade (Atropa belladonna) and other sources, such as the seeds of the Thorn-apple. Though overdoses would be fatal it is used as a drug in medicine for its paralytic effects (e.g. in surgery to relax muscles, in dentistry to dry the mouth, in ophthalmology to dilate the pupils).",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/atropine"
+        ]
+    }
+]

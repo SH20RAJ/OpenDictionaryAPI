@@ -1,0 +1,64 @@
+[
+    {
+        "word": "arsenic",
+        "phonetic": "/\u02c8\u0251\u02d0(\u0279).s\u0259.n\u026ak/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u0251\u02d0(\u0279).s\u0259.n\u026ak/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u0251\u0279s\u0259n\u026ak/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/arsenic-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1762867",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A nonmetallic chemical element (symbol As) with an atomic number of 33.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A single atom of this element.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Arsenic trioxide.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of or containing arsenic with a valence of 5.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arsenic"
+        ]
+    }
+]

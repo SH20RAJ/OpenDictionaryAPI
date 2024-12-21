@@ -1,0 +1,37 @@
+[
+    {
+        "word": "astrology",
+        "phonetic": "/\u0259\u02c8st\u0279\u0252l\u0259d\u0292i/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8st\u0279\u0252l\u0259d\u0292i/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Divination about human affairs or natural phenomena from the relative positions of celestial bodies.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "astromancy",
+                    "astrosophy",
+                    "starcraft"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/astrology"
+        ]
+    }
+]

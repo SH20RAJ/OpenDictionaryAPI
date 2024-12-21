@@ -1,0 +1,39 @@
+[
+    {
+        "word": "arhat",
+        "phonetic": "/\u02c8\u0251\u02d0h\u00e6t/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u0251\u02d0h\u00e6t/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "One who has attained enlightenment; a Buddhist saint.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "1954: Over and against the arhat, retreating from appearances into an entirely transcendental Nirvana, stands the Bodhisattva, for whom Suchness and the world of contingencies are one \u2014 Aldous Huxley, The Doors of Perception (Chatto & Windus 1954, p. 32)"
+                    },
+                    {
+                        "definition": "One of the stages of the ascetic's spiritual evolution, when all passions (anger, ego, deception, greed, attachment, hatred and ignorance) are destroyed; arhanta.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arhat"
+        ]
+    }
+]

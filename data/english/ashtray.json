@@ -1,0 +1,47 @@
+[
+    {
+        "word": "ashtray",
+        "phonetic": "/\u00e6\u0283t\u0283\u0279e\u026a/",
+        "phonetics": [
+            {
+                "text": "/\u00e6\u0283t\u0283\u0279e\u026a/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ashtray-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=9014268",
+                "license": {
+                    "name": "BY 3.0 US",
+                    "url": "https://creativecommons.org/licenses/by/3.0/us"
+                }
+            },
+            {
+                "text": "/\u00e6\u0283t\u0283\u0279e\u026a/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ashtray-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1769599",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A receptacle for ash and butts from cigarettes and cigars.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ashtray"
+        ]
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "word": "archosaur",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A reptile of the taxon Archosauria, which includes the extinct dinosaurs, plesiosaurs, pterosaurs and ichthyosaurs and modern crocodiles and birds.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/archosaur"
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "word": "armorial",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A book etc concerning heraldry, especially a collection of coats of arms.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "roll of arms"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of, or relating to heraldry, or to heraldic arms.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "In, or pertaining to, armor.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/armorial"
+        ]
+    }
+]

@@ -1,0 +1,72 @@
+[
+    {
+        "word": "archive",
+        "phonetic": "/\u02c8\u0251\u0279ka\u026av/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u0251\u0279ka\u026av/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/archive-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=25589243",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u02c8\u0251\u0279ka\u026av/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/archive-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=9825562",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A place for storing earlier, and often historical, material. An archive usually contains documents (letters, records, newspapers, etc.) or other types of media kept for historical interest.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The material so kept, considered as a whole (compare archives).",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "His archive of Old High German texts is the most extensive in Britain."
+                    },
+                    {
+                        "definition": "Natural deposits of material, regarded as a record of environmental changes over time.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "soil archive; peat archive"
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To put into an archive.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "I was planning on archiving the documents from 2001."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/archive"
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "word": "asquint",
+        "phonetic": "/\u0259\u02c8skw\u026ant/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8skw\u026ant/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Looking sideways, as though warily.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Eyes asquint, he saw she was driving much too fast."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "With narrowed eyes.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/asquint"
+        ]
+    }
+]

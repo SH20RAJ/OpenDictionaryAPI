@@ -1,0 +1,30 @@
+[
+    {
+        "word": "atrioventricular",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of the spatial relationship between the ventricles and the atria of the heart.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "atrioventricular block;\u00a0 atrioventricular node;\u00a0 atrioventricular septum;\u00a0 atrioventricular valve"
+                    }
+                ],
+                "synonyms": [
+                    "AV"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/atrioventricular"
+        ]
+    }
+]

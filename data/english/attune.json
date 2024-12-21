@@ -1,0 +1,48 @@
+[
+    {
+        "word": "attune",
+        "phonetic": "/\u0259\u02c8tju\u02d0n/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8tju\u02d0n/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8t(j)un/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To bring into musical accord.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To tune (an instrument).",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To bring into harmony or accord.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "By meditating, I try to attune myself to the greater cosmos."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/attune"
+        ]
+    }
+]

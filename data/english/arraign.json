@@ -1,0 +1,52 @@
+[
+    {
+        "word": "arraign",
+        "phonetic": "/\u0259\u02c8\u0279e\u026an/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8\u0279e\u026an/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Arraignment.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "the clerk of the arraigns"
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To officially charge someone in a court of law.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "He was arraigned in Washington, D.C., on the 25th of that month on charges of treason."
+                    },
+                    {
+                        "definition": "To call to account, or accuse, before the bar of reason, taste, or any other tribunal.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arraign"
+        ]
+    }
+]

@@ -1,0 +1,45 @@
+[
+    {
+        "word": "arsenical",
+        "phonetic": "/\u0251\u02d0\u02c8s\u025bn\u026akl\u0329/",
+        "phonetics": [
+            {
+                "text": "/\u0251\u02d0\u02c8s\u025bn\u026akl\u0329/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any drug or other substance containing arsenic.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of or pertaining to, or containing, arsenic.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arsenical"
+        ]
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "word": "authentic",
+        "phonetic": "/\u0252.\u02c8\u03b8\u025bn.t\u026ak/",
+        "phonetics": [
+            {
+                "text": "/\u0252.\u02c8\u03b8\u025bn.t\u026ak/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of the same origin as claimed; genuine.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The experts confirmed it was an authentic signature."
+                    },
+                    {
+                        "definition": "Conforming to reality and therefore worthy of trust, reliance, or belief.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The report was completely authentic."
+                    },
+                    {
+                        "definition": "(of a Gregorian mode) Having the final as the lowest note of the mode.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Authoritative",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "credible",
+                    "reliable",
+                    "trustworthy",
+                    "unfaked",
+                    "bona fide",
+                    "bonafide",
+                    "genuine",
+                    "real",
+                    "unfaked"
+                ],
+                "antonyms": [
+                    "fake",
+                    "ingenuine",
+                    "phony"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/authentic"
+        ]
+    }
+]

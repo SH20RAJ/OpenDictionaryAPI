@@ -1,0 +1,50 @@
+[
+    {
+        "word": "austerity",
+        "phonetic": "/\u0254\u02c8st\u025b\u0279\u026ati/",
+        "phonetics": [
+            {
+                "text": "/\u0254\u02c8st\u025b\u0279\u026ati/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Severity of manners or life; extreme rigor or strictness; harsh discipline.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Freedom from adornment; plainness; severe simplicity.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A policy of deficit-cutting, which by definition requires lower spending, higher taxes, or both.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Sourness and harshness to the taste.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "comfort"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/austerity"
+        ]
+    }
+]

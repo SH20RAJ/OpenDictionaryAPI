@@ -1,0 +1,72 @@
+[
+    {
+        "word": "ascendant",
+        "phonetic": "/\u0259\u02c8s\u025bnd\u0259nt/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8s\u025bnd\u0259nt/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Being in control; superiority, or commanding influence; ascendency.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "One man has the ascendant over another."
+                    },
+                    {
+                        "definition": "An ancestor (antonym of descendant)",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(usu. followed by to) A royal heir assuming (a place of power)",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Given his father's ghastly demise, one would not expect such glee from the ascendant to his throne."
+                    },
+                    {
+                        "definition": "Ascent; height; elevation.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The horoscope, or that degree of the ecliptic which rises above the horizon at the moment of one's birth; supposed to have a commanding influence on a person's life and fortune.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Rising, moving upward.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Surpassing or controlling.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ascendant"
+        ]
+    }
+]

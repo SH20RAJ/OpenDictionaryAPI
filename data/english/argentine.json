@@ -1,0 +1,63 @@
+[
+    {
+        "word": "argentine",
+        "phonetic": "/\u02c8\u0251\u02d0(\u0279).d\u0292\u0259n\u02ccta\u026an/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u0251\u02d0(\u0279).d\u0292\u0259n\u02ccta\u026an/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u0251\u02d0(\u0279).d\u0292\u0259n\u02ccta\u026an/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any osmeriform fish of the genus Argentina, especially the European argentine, Argentina sphyraena.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A siliceous variety of calcite, or lime carbonate, having a silvery-white, pearly lustre, and a waving or curved lamellar structure.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "White metal coated with silver",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Containing or resembling silver.",
+                        "synonyms": [
+                            "silvern"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "silvern"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/argentine"
+        ]
+    }
+]

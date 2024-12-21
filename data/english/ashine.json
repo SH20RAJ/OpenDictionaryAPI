@@ -1,0 +1,34 @@
+[
+    {
+        "word": "ashine",
+        "phonetic": "/\u0259\u02c8\u0283a\u026an/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8\u0283a\u026an/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Shining; radiant; bright",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Her face was ashine with joy."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ashine"
+        ]
+    }
+]

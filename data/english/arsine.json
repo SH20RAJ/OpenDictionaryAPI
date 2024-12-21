@@ -1,0 +1,38 @@
+[
+    {
+        "word": "arsine",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A compound of arsenic and hydrogen, AsH3, a colorless and exceedingly poisonous gas, having an odor like garlic.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Any organic derivative of this compound, or of diarsane, triarsane etc.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "arsane",
+                    "arsenic trihydride",
+                    "arseniuretted hydrogen",
+                    "arsenous hydride",
+                    "hydrogen arsenide"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arsine"
+        ]
+    }
+]

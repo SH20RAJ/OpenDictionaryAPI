@@ -1,0 +1,51 @@
+[
+    {
+        "word": "auricula",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The external part of the ear",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A small conical pouch projecting from either atrium of the heart",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A pronounced thickening at the corner of a trilete spore, beyond the end of the laesura",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(plural: auriculas) The ornamental primrose Primula auricula",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "auricle",
+                    "pinna",
+                    "atrial appendage",
+                    "auricle",
+                    "auricular appendix",
+                    "Auricula",
+                    "bear's ear",
+                    "valva"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/auricula"
+        ]
+    }
+]

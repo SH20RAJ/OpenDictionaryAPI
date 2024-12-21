@@ -1,0 +1,37 @@
+[
+    {
+        "word": "astromancy",
+        "phonetic": "/\u02c8\u00e6st\u0279\u0275m\u00e6nsi/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6st\u0279\u0275m\u00e6nsi/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Divination by the stars; astrology in its modern prophetic aspect.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "astrology",
+                    "astrosophy",
+                    "starcraft"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/astromancy"
+        ]
+    }
+]

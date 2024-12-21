@@ -1,0 +1,44 @@
+[
+    {
+        "word": "astrobleme",
+        "phonetic": "/\u02c8\u00e6s.t\u0279\u0259\u028a.bli\u02d0m/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6s.t\u0279\u0259\u028a.bli\u02d0m/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/astrobleme-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=90826814",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u02c8\u00e6s.t\u0279o\u028a.blim/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A pit-like structure created by an impacting meteoroid, asteroid or comet.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "impact crater"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/astrobleme"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "word": "aseismic",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Seismically inactive",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Applied to earth fault slip movement that does not produce any seismic shock.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aseismic"
+        ]
+    }
+]

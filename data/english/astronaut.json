@@ -1,0 +1,53 @@
+[
+    {
+        "word": "astronaut",
+        "phonetic": "/\u02c8\u00e6st\u0279\u0259\u02ccn\u0252t/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6st\u0279\u0259\u02ccn\u0252t/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/astronaut-ca.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=189629",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            },
+            {
+                "text": "/\u02c8\u00e6st\u0279\u0259\u02ccn\u0254\u02d0t/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6st\u0279\u0259\u02ccn\u0254t/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A member of the crew of a spaceship or other spacecraft that travels beyond Earth's atmosphere, or someone trained to serve that purpose.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A returnee who frequently flies back and forth between Hong Kong and his/her adopted home country.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "cosmonaut"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/astronaut"
+        ]
+    }
+]

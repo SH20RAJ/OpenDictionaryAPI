@@ -1,0 +1,83 @@
+[
+    {
+        "word": "authenticate",
+        "phonetic": "/\u0254.\u02c8\u03b8\u025bn.t\u026a.ke\u026at/",
+        "phonetics": [
+            {
+                "text": "/\u0254.\u02c8\u03b8\u025bn.t\u026a.ke\u026at/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of the same origin as claimed; genuine.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The experts confirmed it was an authentic signature."
+                    },
+                    {
+                        "definition": "Conforming to reality and therefore worthy of trust, reliance, or belief.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The report was completely authentic."
+                    },
+                    {
+                        "definition": "(of a Gregorian mode) Having the final as the lowest note of the mode.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Authoritative",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "credible",
+                    "reliable",
+                    "trustworthy",
+                    "unfaked",
+                    "bona fide",
+                    "bonafide",
+                    "genuine",
+                    "real",
+                    "unfaked"
+                ],
+                "antonyms": [
+                    "fake",
+                    "ingenuine",
+                    "phony"
+                ]
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To render authentic; to give authority to, by the proof, attestation, or formalities required by law, or sufficient to entitle to credit.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To prove authentic; to determine as real and true.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "He didn't manage to authenticate the portrait: it's probably a fake."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/authentic",
+            "https://en.wiktionary.org/wiki/authenticate"
+        ]
+    }
+]

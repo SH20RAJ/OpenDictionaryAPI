@@ -1,0 +1,33 @@
+[
+    {
+        "word": "arteriosclerosis",
+        "phonetic": "/\u02cc\u0251\u0279\u02ccti\u0279io\u028askl\u025a\u02c8o\u028as\u0259s/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u0251\u0279\u02ccti\u0279io\u028askl\u025a\u02c8o\u028as\u0259s/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Hardening, narrowing or loss of elasticity in arteries or blood vessels.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arteriosclerosis"
+        ]
+    }
+]

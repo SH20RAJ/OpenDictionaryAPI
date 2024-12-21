@@ -1,0 +1,38 @@
+[
+    {
+        "word": "asphodel",
+        "phonetic": "/\u02c8\u00e6sf\u0259d\u025bl/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6sf\u0259d\u025bl/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Flowering plants of the family Asphodelaceae, especially Asphodelus ramosus and Asphodelus albus; the flowers of these plants.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The flower said to carpet Hades, and a favorite food of the dead.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/asphodel"
+        ]
+    }
+]

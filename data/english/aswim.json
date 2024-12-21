@@ -1,0 +1,39 @@
+[
+    {
+        "word": "aswim",
+        "phonetic": "/\u0259\u02c8sw\u026am/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8sw\u026am/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Swimming or immersed (in or with something).",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Brimming with liquid.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "eyes aswim with tears"
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aswim"
+        ]
+    }
+]

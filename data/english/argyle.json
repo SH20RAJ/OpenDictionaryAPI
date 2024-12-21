@@ -1,0 +1,42 @@
+[
+    {
+        "word": "argyle",
+        "phonetic": "/\u02c8\u0251\u02d0.\u0261a\u026al/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u0251\u02d0.\u0261a\u026al/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u0251\u02de.\u0261a\u026al/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A pattern of diamond-shaped areas on a solid background; used especially of knitwear",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A sock having this pattern",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/argyle"
+        ]
+    }
+]

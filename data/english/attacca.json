@@ -1,0 +1,28 @@
+[
+    {
+        "word": "attacca",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "Without any break between the current movement and the next movement of the work.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "They played the remaining sections attacca."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/attacca"
+        ]
+    }
+]

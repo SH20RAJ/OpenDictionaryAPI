@@ -1,0 +1,85 @@
+[
+    {
+        "word": "arse",
+        "phonetic": "/\u0250\u02d0s/",
+        "phonetics": [
+            {
+                "text": "/\u0250\u02d0s/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/arse-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75266953",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/arse-ca.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=580408",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            },
+            {
+                "text": "/\u0251\u0279s/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0250\u02d0s/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0251\u02d0s/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/arse-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=53355487",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u0251\u0279s/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The buttocks or more specifically, the anus.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A stupid, mean or despicable person.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To be silly, act stupid or mess around.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Stop arsing around!"
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arse"
+        ]
+    }
+]

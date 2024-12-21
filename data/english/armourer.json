@@ -1,0 +1,40 @@
+[
+    {
+        "word": "armourer",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A manufacturer of weapons, especially of guns",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A military specialist in charge of the upkeep of small arms etc",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Someone who makes or repairs armor",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "gunsmith"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/armorer",
+            "https://en.wiktionary.org/wiki/armourer"
+        ]
+    }
+]

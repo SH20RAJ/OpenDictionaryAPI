@@ -1,0 +1,96 @@
+[
+    {
+        "word": "attrition",
+        "phonetic": "[\u0259\u02c8t\u0279\u026a\u0283\u0259n]",
+        "phonetics": [
+            {
+                "text": "[\u0259\u02c8t\u0279\u026a\u0283\u0259n]",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Wearing or grinding down by friction.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The gradual reduction in a tangible or intangible resource due to causes that are passive and do not involve productive use of the resource.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(human resources) A gradual, natural reduction in membership or personnel, as through retirement, resignation, or death.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The loss of participants during an experiment.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Imperfect contrition or remorse.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The wearing of teeth due to their grinding.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The loss of a first or second language or a portion of that language.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "natural wastage"
+                ],
+                "antonyms": [
+                    "accretion"
+                ]
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To grind or wear down through friction.",
+                        "synonyms": [
+                            "attrit"
+                        ],
+                        "antonyms": [],
+                        "example": "attritioned teeth; attritioned rock"
+                    },
+                    {
+                        "definition": "To reduce the number of (jobs or workers) by not hiring new employees to fill positions that become vacant (often with out).",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "As a result of the new policy, people were being attritioned out."
+                    },
+                    {
+                        "definition": "To undergo a reduction in number.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The cohort of one hundred students had attritioned to sixty by the end of secondary school."
+                    }
+                ],
+                "synonyms": [
+                    "attrit"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/attrition"
+        ]
+    }
+]

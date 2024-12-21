@@ -1,0 +1,48 @@
+[
+    {
+        "word": "auburn",
+        "phonetic": "/\u02c8\u0254.b\u025an/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u0254.b\u025an/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/auburn-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=36786142"
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A dark reddish-brown colour, often used to describe hair colour.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of a reddish-brown colour.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "cupreous"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/auburn"
+        ]
+    }
+]

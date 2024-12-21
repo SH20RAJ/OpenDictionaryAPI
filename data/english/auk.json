@@ -1,0 +1,37 @@
+[
+    {
+        "word": "auk",
+        "phonetic": "/\u0254\u02d0k/",
+        "phonetics": [
+            {
+                "text": "/\u0254\u02d0k/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any of several species of Arctic sea birds of the family Alcidae.",
+                        "synonyms": [
+                            "alcid"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "alcid"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/auk"
+        ]
+    }
+]

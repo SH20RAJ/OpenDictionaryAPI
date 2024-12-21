@@ -1,0 +1,61 @@
+[
+    {
+        "word": "arrowed",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To move swiftly and directly (like an arrow)",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To let fly swiftly and directly",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(of a sugar cane plant) To develop an inflorescence.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To navigate using the arrow keys.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Arrow left until you reach the start of the text you want to delete."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Equipped with arrows",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Pointed to by an arrow (in a diagram)",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arrow",
+            "https://en.wiktionary.org/wiki/arrowed"
+        ]
+    }
+]

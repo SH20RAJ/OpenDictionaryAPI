@@ -1,0 +1,34 @@
+[
+    {
+        "word": "augend",
+        "phonetic": "/\u02c8\u0254d\u0292\u025bnd/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u0254d\u0292\u025bnd/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A quantity to which another is added.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "In \"4 + 5\", 4 is the augend"
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/augend"
+        ]
+    }
+]

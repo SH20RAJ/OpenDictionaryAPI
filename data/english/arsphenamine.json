@@ -1,0 +1,34 @@
+[
+    {
+        "word": "arsphenamine",
+        "phonetic": "/\u0251\u02d0s\u02c8f\u025bn\u0259ma\u026an/",
+        "phonetics": [
+            {
+                "text": "/\u0251\u02d0s\u02c8f\u025bn\u0259ma\u026an/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A phenolic amine derivative of arsenic that was used to treat syphilis (under the trade name of Salvarsan).",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "2001: The 606th compound was one that contained arsenic and was called arsphenamine. \u2014 Leslie Iversen, Drugs: A Very Short Introduction (Oxford 2001, p. 9)"
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arsphenamine"
+        ]
+    }
+]

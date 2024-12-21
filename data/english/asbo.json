@@ -1,0 +1,33 @@
+[
+    {
+        "word": "asbo",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "(law enforcement) Anti-Social Behaviour Order",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "One who has been issued with the above legal order.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ASBO",
+            "https://en.wiktionary.org/wiki/asbo"
+        ]
+    }
+]

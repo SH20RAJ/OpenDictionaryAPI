@@ -1,0 +1,33 @@
+[
+    {
+        "word": "asthenosphere",
+        "phonetic": "/as\u02c8\u03b8\u025bn\u0259(\u028a)sf\u026a\u0259/",
+        "phonetics": [
+            {
+                "text": "/as\u02c8\u03b8\u025bn\u0259(\u028a)sf\u026a\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The zone of the Earth's upper mantle, below the lithosphere.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/asthenosphere"
+        ]
+    }
+]

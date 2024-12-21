@@ -1,0 +1,33 @@
+[
+    {
+        "word": "articular",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of, at, or relating to the joints of the body.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "an articular disease; an articular process"
+                    },
+                    {
+                        "definition": "(grammar) Of or relating to the grammatical article.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/articular"
+        ]
+    }
+]

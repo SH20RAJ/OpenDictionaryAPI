@@ -1,0 +1,44 @@
+[
+    {
+        "word": "assimilationist",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An advocate of the policy or practice of the assimilation of immigrant or other minority cultures into a mainstream culture.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Spanish-language education is not favored by assimilationist parents of Latino children in the US."
+                    }
+                ],
+                "synonyms": [
+                    "integrationist"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of or pertaining to assimilationism or assimilationists; that promotes or advocates assimilationism.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "integrationist"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/assimilationist"
+        ]
+    }
+]

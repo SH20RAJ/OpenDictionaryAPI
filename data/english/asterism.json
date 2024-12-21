@@ -1,0 +1,49 @@
+[
+    {
+        "word": "asterism",
+        "phonetic": "/\u02c8ast\u0259\u0279\u026az\u0259m/",
+        "phonetics": [
+            {
+                "text": "/\u02c8ast\u0259\u0279\u026az\u0259m/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/asterism-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=89260248",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "(constellation) An unofficial constellation (small group of stars that forms a visible pattern).",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The Big Dipper, Summer Triangle, and Orion's Belt are asterisms."
+                    },
+                    {
+                        "definition": "A rarely used typographical symbol (\u2042, three asterisks arranged in a triangle), used to call attention to a passage or to separate subchapters in a book.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A star-shaped figure exhibited by some crystals by reflected light (as in a star sapphire) or by transmitted light (as in some mica).",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/asterism"
+        ]
+    }
+]

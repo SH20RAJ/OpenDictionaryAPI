@@ -1,0 +1,33 @@
+[
+    {
+        "word": "arriviste",
+        "phonetic": "/\u02cc\u00e6.\u0279\u026a\u02c8vi\u02d0st/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6.\u0279\u026a\u02c8vi\u02d0st/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An upstart or newcomer; nouveau riche; parvenu; an ambitious, brash or arrogant person who has yet to integrate with his or her new social group.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arriviste"
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "word": "astrakhan",
+        "phonetic": "/\u00e6st\u0279\u0259\u02c8k\u00e6n/",
+        "phonetics": [
+            {
+                "text": "/\u00e6st\u0279\u0259\u02c8k\u00e6n/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Closely-curled black or grey fleece of very young karakul lambs from Astrakhan.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Cloth resembling the above mentioned fur, often made from wool and mohair and used for trimmings.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/astrakhan"
+        ]
+    }
+]

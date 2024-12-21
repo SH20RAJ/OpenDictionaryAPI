@@ -1,0 +1,37 @@
+[
+    {
+        "word": "arithmetician",
+        "phonetic": "/\u0259\u02cc\u0279\u026a\u03b8m\u0259\u02c8t\u026a\u0283(\u0259)n/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02cc\u0279\u026a\u03b8m\u0259\u02c8t\u026a\u0283(\u0259)n/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02cc\u0279\u026a\u03b8m\u0259\u02c8t\u026a\u0283(\u0259)n/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "One with expertise in arithmetic; a mathematician.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arithmetician"
+        ]
+    }
+]

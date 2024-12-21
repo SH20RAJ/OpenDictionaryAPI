@@ -1,0 +1,42 @@
+[
+    {
+        "word": "arguable",
+        "phonetic": "/\u02c8\u0251\u02d0\u0261ju\u0259bl/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u0251\u02d0\u0261ju\u0259bl/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u0251\u0279\u0261ju\u0259bl/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "That can be argued; that can be proven or strongly supported with sound logical deduction, precedent, and evidence.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Open to doubt, argument or debate.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arguable"
+        ]
+    }
+]

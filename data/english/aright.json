@@ -1,0 +1,77 @@
+[
+    {
+        "word": "aright",
+        "phonetic": "/\u0259\u02c8\u0279a\u026at/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8\u0279a\u026at/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8\u0279a\u026at/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "Rightly, correctly; in the right way or form.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To or on the right-hand side.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aright"
+        ]
+    },
+    {
+        "word": "aright",
+        "phonetic": "/\u0259\u02c8\u0279a\u026at/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8\u0279a\u026at/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8\u0279a\u026at/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To make right; put right; arrange or treat properly.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aright"
+        ]
+    }
+]

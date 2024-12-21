@@ -1,0 +1,29 @@
+[
+    {
+        "word": "artemisinin",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An antimalarial drug derived from the sweet wormwood shrub, Artemisia annua, found as the active ingredient in traditional Chinese medical herbal treatment for malaria, chemically a sesquiterpene lactone; a group of compounds chemically related to the drug.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "qinghaosu"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/artemisinin"
+        ]
+    }
+]

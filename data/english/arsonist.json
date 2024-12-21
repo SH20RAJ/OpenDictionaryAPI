@@ -1,0 +1,41 @@
+[
+    {
+        "word": "arsonist",
+        "phonetic": "/\u02c8\u0251\u02d0s\u0259n\u026ast/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u0251\u02d0s\u0259n\u026ast/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u0251\u0279s\u0259n\u0259st/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "One who has committed the act of arson, or illegally setting fire to property.",
+                        "synonyms": [
+                            "incendiary"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "incendiary"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arsonist"
+        ]
+    }
+]

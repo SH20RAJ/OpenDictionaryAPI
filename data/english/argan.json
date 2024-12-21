@@ -1,0 +1,38 @@
+[
+    {
+        "word": "argan",
+        "phonetic": "/\u02c8\u0251\u02d0(\u0279)\u0261\u0259n/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u0251\u02d0(\u0279)\u0261\u0259n/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A tree (Argania spinosa) of southwestern Morocco, particularly prized for its oil.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The fruit of this tree.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/argan"
+        ]
+    }
+]

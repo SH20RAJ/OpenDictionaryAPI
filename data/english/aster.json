@@ -1,0 +1,47 @@
+[
+    {
+        "word": "aster",
+        "phonetic": "/\u02c8\u00e6st\u0259(\u0279)/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6st\u0259(\u0279)/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6st\u0259(\u0279)/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any of several plants of the genus Aster; one of its flowers.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A star-shaped structure formed during the mitosis of a cell.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A star.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aster"
+        ]
+    }
+]

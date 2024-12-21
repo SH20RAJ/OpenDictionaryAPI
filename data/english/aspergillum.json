@@ -1,0 +1,37 @@
+[
+    {
+        "word": "aspergillum",
+        "phonetic": "/\u02cc\u00e6sp\u0259\u0279\u02c8d\u0292\u026al\u0259m/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6sp\u0259\u0279\u02c8d\u0292\u026al\u0259m/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An implement, in the form of a brush, or of a rod with a perforated container, for sprinkling holy water; a holy water sprinkler.",
+                        "synonyms": [
+                            "rantistirion"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "rantistirion"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aspergillum"
+        ]
+    }
+]

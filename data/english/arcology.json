@@ -1,0 +1,32 @@
+[
+    {
+        "word": "arcology",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "(urban studies) Urban development theory proposed by Paolo Soleri involving three-dimensional building methods and efficient use of space and resources.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An extremely large habitat or settlement, sufficient to maintain an internal ecology as well as an extremely high human population density.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arcology"
+        ]
+    }
+]

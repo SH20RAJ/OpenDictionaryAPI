@@ -1,0 +1,64 @@
+[
+    {
+        "word": "aspiration",
+        "phonetic": "/\u02cc\u00e6sp\u0259\u02c8\u0279e\u026a\u0283\u0259n/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6sp\u0259\u02c8\u0279e\u026a\u0283\u0259n/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The act of aspiring or ardently desiring; an ardent wish or desire, chiefly after what is elevated or spiritual (with common adjunct adpositions being to and of).",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Morgan has an aspiration of winning the game."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aspiration"
+        ]
+    },
+    {
+        "word": "aspiration",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The action of aspirating.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A burst of air that follows the release of some consonants.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aspiration"
+        ]
+    }
+]

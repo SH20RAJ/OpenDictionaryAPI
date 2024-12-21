@@ -1,0 +1,45 @@
+[
+    {
+        "word": "arrivederci",
+        "phonetic": "/\u0259\u02cc\u0279i\u02d0v\u0259\u02c8d\u025b\u0259t\u0283i/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02cc\u0279i\u02d0v\u0259\u02c8d\u025b\u0259t\u0283i/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An Italian farewell by saying \"arrivederci\".",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "interjection",
+                "definitions": [
+                    {
+                        "definition": "(in the context of Italy or Italian culture) farewell, goodbye, see you later (non-definitive farewell)",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arrivederci"
+        ]
+    }
+]

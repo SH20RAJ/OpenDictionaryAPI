@@ -1,0 +1,42 @@
+[
+    {
+        "word": "attap",
+        "phonetic": "/\u02c8at\u0259p/",
+        "phonetics": [
+            {
+                "text": "/\u02c8at\u0259p/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8a\u02cctap/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Nipa; a palm tree of the species Nypa fruticans.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(Southeast Asia) Thatch made from leaves of the nipa palm.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/attap"
+        ]
+    }
+]

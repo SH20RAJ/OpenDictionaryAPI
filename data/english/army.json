@@ -1,0 +1,76 @@
+[
+    {
+        "word": "army",
+        "phonetic": "/\u02c8\u0251\u02d0.mi\u02d0/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u0251\u02d0.mi\u02d0/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/army-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=9014265",
+                "license": {
+                    "name": "BY 3.0 US",
+                    "url": "https://creativecommons.org/licenses/by/3.0/us"
+                }
+            },
+            {
+                "text": "/\u02c8\u0251\u0279.mi/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/army-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=718884",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A large, highly organized military force, concerned mainly with ground (rather than air or naval) operations.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The army was sent in to quell the uprising."
+                    },
+                    {
+                        "definition": "The governmental agency in charge of a state's army.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The army opposed the legislature's involvement."
+                    },
+                    {
+                        "definition": "A large group of people working toward the same purpose.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "It took an army of accountants to uncover the fraud."
+                    },
+                    {
+                        "definition": "A large group of social animals working toward the same purpose.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Our house is being attacked by an army of ants."
+                    },
+                    {
+                        "definition": "Any multitude.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "There was an army of construction cranes working on building the skyscraper."
+                    }
+                ],
+                "synonyms": [
+                    "ferd",
+                    "here",
+                    "host"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/army"
+        ]
+    }
+]

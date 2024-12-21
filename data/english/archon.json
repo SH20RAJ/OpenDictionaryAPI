@@ -1,0 +1,53 @@
+[
+    {
+        "word": "archon",
+        "phonetic": "/\u02c8\u0251\u02d0(\u0279)k\u0259n/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u0251\u02d0(\u0279)k\u0259n/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/archon-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=12458886",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A chief magistrate of ancient Athens.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A person who claims the right to rule, or to exercise power or sovereign authority over other human beings.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A ruler, head of state or other leader.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(gnosticism) A supernatural being subordinate to the Demiurge.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/archon"
+        ]
+    }
+]

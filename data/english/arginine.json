@@ -1,0 +1,35 @@
+[
+    {
+        "word": "arginine",
+        "phonetic": "/\u02c8\u0251\u0279\u0261\u026ani\u02d0n/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u0251\u0279\u0261\u026ani\u02d0n/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An amino acid found in animal foods that plays an important role in several physiological processes.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "Arg"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arginine"
+        ]
+    }
+]

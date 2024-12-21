@@ -1,0 +1,47 @@
+[
+    {
+        "word": "attacker",
+        "phonetic": "/\u0259\u02c8t\u00e6k\u025a/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8t\u00e6k\u025a/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/attacker-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1784031",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Someone who attacks.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "One of the players on a team in football (soccer) in the row nearest to the opposing team's goal, who are therefore principally responsible for scoring goals.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "centre forward",
+                    "forward",
+                    "striker"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/attacker"
+        ]
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "word": "ars",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The name of the Latin-script letter R.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "All the ars in the inscription."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ar",
+            "https://en.wiktionary.org/wiki/ars"
+        ]
+    }
+]

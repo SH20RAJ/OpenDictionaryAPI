@@ -1,0 +1,87 @@
+[
+    {
+        "word": "aspiring",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To have a strong desire or ambition to achieve something.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "He aspires to become a successful doctor."
+                    },
+                    {
+                        "definition": "To go as high as, to reach the top of (something).",
+                        "synonyms": [
+                            "ascend",
+                            "mount"
+                        ],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To move upward; to be very tall.",
+                        "synonyms": [
+                            "ascend",
+                            "rise",
+                            "soar",
+                            "tower"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "ascend",
+                    "mount",
+                    "ascend",
+                    "rise",
+                    "soar",
+                    "tower"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Aspiration.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Hoping to become.",
+                        "synonyms": [
+                            "ambitious",
+                            "wannabe",
+                            "would-be"
+                        ],
+                        "antonyms": [],
+                        "example": "Aspiring pop stars lined up for hours just to audition."
+                    }
+                ],
+                "synonyms": [
+                    "ambitious",
+                    "wannabe",
+                    "would-be"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aspire",
+            "https://en.wiktionary.org/wiki/aspiring"
+        ]
+    }
+]

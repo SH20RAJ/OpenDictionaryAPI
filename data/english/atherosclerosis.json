@@ -1,0 +1,33 @@
+[
+    {
+        "word": "atherosclerosis",
+        "phonetic": "/\u02cc\u00e6\u03b8\u025ao\u028askl\u0259\u02c8\u0279o\u028as\u0259s/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6\u03b8\u025ao\u028askl\u0259\u02c8\u0279o\u028as\u0259s/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The clogging or hardening of arteries or blood vessels caused by plaques (accumulations of fatty deposits, usually cholesterol).",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/atherosclerosis"
+        ]
+    }
+]

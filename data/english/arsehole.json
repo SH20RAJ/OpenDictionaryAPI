@@ -1,0 +1,56 @@
+[
+    {
+        "word": "arsehole",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/arsehole-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75266963",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/arsehole-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=55508163",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The anus.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The moment I sat on the toilet, my crap immediately came out of my arsehole."
+                    },
+                    {
+                        "definition": "An inconsiderate or mean-spirited person. Less vulgar and intense than fucker.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Shut up, you big dummy! \u2013 Hey! Don't call me \u201cbig dummy\u201d, you arsehole!"
+                    },
+                    {
+                        "definition": "A variant of the card game big two.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arsehole"
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "word": "artesian",
+        "phonetic": "/\u0251\u02d0\u02c8ti\u02d0\u0292\u0259n/",
+        "phonetics": [
+            {
+                "text": "/\u0251\u02d0\u02c8ti\u02d0\u0292\u0259n/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0251\u0279\u02c8ti\u0292\u0259n/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(of a water supply) Rising to the surface under its own hydrostatic pressure.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/artesian"
+        ]
+    }
+]

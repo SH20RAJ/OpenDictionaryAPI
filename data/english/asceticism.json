@@ -1,0 +1,35 @@
+[
+    {
+        "word": "asceticism",
+        "phonetic": "/\u0259\u02c8s\u025bt.\u0259\u02ccs\u026az.\u0259m/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8s\u025bt.\u0259\u02ccs\u026az.\u0259m/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The principles and practices of an ascetic; extreme self-denial and austerity.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "hedonism"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/asceticism"
+        ]
+    }
+]

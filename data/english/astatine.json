@@ -1,0 +1,44 @@
+[
+    {
+        "word": "astatine",
+        "phonetic": "/\u02c8ast\u0259ti\u02d0n/",
+        "phonetics": [
+            {
+                "text": "/\u02c8ast\u0259ti\u02d0n/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6st\u0259\u02cctin/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/astatine-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=11460"
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A highly radioactive chemical element (symbol At), one of the halogens, with atomic number 85.",
+                        "synonyms": [
+                            "alabamine",
+                            "anglo-helvetium"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "alabamine",
+                    "anglo-helvetium"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/astatine"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "word": "atelectasis",
+        "phonetic": "/\u00e6t\u026a\u02c8l\u025bkt\u0259s\u026as/",
+        "phonetics": [
+            {
+                "text": "/\u00e6t\u026a\u02c8l\u025bkt\u0259s\u026as/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The collapse of a part of or the whole lung caused by inner factors rather than a pneumothorax",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/atelectasis"
+        ]
+    }
+]

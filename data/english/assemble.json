@@ -1,0 +1,57 @@
+[
+    {
+        "word": "assemble",
+        "phonetic": "/\u0259\u02c8s\u025bmbl\u0329/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8s\u025bmbl\u0329/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/assemble-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1779916",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To put together.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "He assembled the model ship."
+                    },
+                    {
+                        "definition": "To gather as a group.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The parents assembled in the school hall."
+                    },
+                    {
+                        "definition": "To translate from assembly language to machine code",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "begather",
+                    "collect",
+                    "build",
+                    "construct",
+                    "produce",
+                    "put together"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/assemble"
+        ]
+    }
+]

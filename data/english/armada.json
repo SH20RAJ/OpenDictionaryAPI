@@ -1,0 +1,48 @@
+[
+    {
+        "word": "armada",
+        "phonetic": "/\u0251\u02d0\u02c8m\u0251\u02d0d\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u0251\u02d0\u02c8m\u0251\u02d0d\u0259/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0251\u02d0\u0279\u02c8m\u0251\u02d0d\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A fleet of warships, especially with reference to the Spanish Armada.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Any large army or fleet of military vessels.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A large flock of anything.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "An armada of insects attacked us every day at sunset."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/armada"
+        ]
+    }
+]

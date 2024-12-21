@@ -1,0 +1,60 @@
+[
+    {
+        "word": "assassin",
+        "phonetic": "/\u0259\u02c8s\u00e6s\u026an/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8s\u00e6s\u026an/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/assassin-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1335213",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A member of the Nizari Ismaili Muslim community of the Alamut Period",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Someone who intentionally kills a person, especially a professional who kills a public or political figure.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Any ruthless killer.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To assassinate.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/assassin"
+        ]
+    }
+]

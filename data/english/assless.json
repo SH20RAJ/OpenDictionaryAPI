@@ -1,0 +1,38 @@
+[
+    {
+        "word": "assless",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Without an ass",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Devoid of sexual intercourse",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(of trousers or chaps) uncovered at the rear",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "assless chaps"
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/assless"
+        ]
+    }
+]

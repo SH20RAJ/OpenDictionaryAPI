@@ -1,0 +1,64 @@
+[
+    {
+        "word": "attainable",
+        "phonetic": "/\u0259\u02c8te\u026an\u0259b(\u0259)l/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8te\u026an\u0259b(\u0259)l/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/attainable-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=81529543",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u0259\u02c8te\u026an\u0259b(\u0259)l/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Something that can be attained.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Able to be accomplished, achieved, or obtained.",
+                        "synonyms": [],
+                        "antonyms": [
+                            "unaccomplishable",
+                            "unachievable",
+                            "unattainable",
+                            "unobtainable"
+                        ]
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "unaccomplishable",
+                    "unachievable",
+                    "unattainable",
+                    "unobtainable"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/attainable"
+        ]
+    }
+]

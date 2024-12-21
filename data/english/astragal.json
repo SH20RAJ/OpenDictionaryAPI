@@ -1,0 +1,123 @@
+[
+    {
+        "word": "astragal",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A semicircular molding separating the architrave at the top or bottom of a column.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A tool used to mold such features; similar tools used for connecting panes of glass in a window.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A circular molding near the mouth of a cannon.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A molding attached to double doors to prevent drafts.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(roof plumbing) A bracket used to fix downpipes to the wall of a building.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The anklebone.",
+                        "synonyms": [
+                            "anklebone",
+                            "astragal",
+                            "talus"
+                        ],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A herb of the genus Astragalus.",
+                        "synonyms": [
+                            "astragal",
+                            "locoweed"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "anklebone",
+                    "astragal",
+                    "talus",
+                    "astragal",
+                    "locoweed"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Gaming with one or more dice.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A die.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "That which has been diced.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Cut onions, carrots and celery into medium dice."
+                    }
+                ],
+                "synonyms": [
+                    "astragals"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any of several plants indigenous to the western United States, of genus Oxytropis or Astragalus.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "astragal",
+                    "astragalus",
+                    "oxytrope",
+                    "crazyweed",
+                    "loco"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/astragal",
+            "https://en.wiktionary.org/wiki/astragalus",
+            "https://en.wiktionary.org/wiki/dice",
+            "https://en.wiktionary.org/wiki/locoweed"
+        ]
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "word": "assuage",
+        "phonetic": "/\u0259\u02c8swe\u026ad\u0292/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8swe\u026ad\u0292/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/assuage-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=825522",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To lessen the intensity of, to mitigate or relieve (hunger, emotion, pain etc.).",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To pacify or soothe (someone).",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To calm down, become less violent (of passion, hunger etc.); to subside, to abate.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/assuage"
+        ]
+    }
+]

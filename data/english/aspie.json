@@ -1,0 +1,50 @@
+[
+    {
+        "word": "aspie",
+        "phonetic": "/\u02c8\u00e6spi/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6spi/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/aspie-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=88679735",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "(often capitalized) An Aspergerian: a person with Asperger\u2019s syndrome.",
+                        "synonyms": [
+                            "Aspergerian",
+                            "Aspergian",
+                            "Aspergic",
+                            "sperg",
+                            "sperglord"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "Aspergerian",
+                    "Aspergian",
+                    "Aspergic",
+                    "sperg",
+                    "sperglord"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aspie"
+        ]
+    }
+]

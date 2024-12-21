@@ -1,0 +1,31 @@
+[
+    {
+        "word": "asexuality",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The state or quality of being asexual, that is:",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "anaphrodisia"
+                ],
+                "antonyms": [
+                    "allosexuality"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/asexuality"
+        ]
+    }
+]

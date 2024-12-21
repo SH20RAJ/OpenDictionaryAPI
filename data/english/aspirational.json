@@ -1,0 +1,56 @@
+[
+    {
+        "word": "aspirational",
+        "phonetic": "/\u02cc\u00e6sp\u0259\u02c8\u0279e\u026a\u0283\u0259n\u0259l/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6sp\u0259\u02c8\u0279e\u026a\u0283\u0259n\u0259l/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/aspirational-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=28947774"
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A person with aspirations.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Being ambitious.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Desiring success.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Expressing a hope or intention but not creating a legally binding obligation.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aspirational"
+        ]
+    }
+]

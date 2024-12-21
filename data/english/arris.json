@@ -1,0 +1,68 @@
+[
+    {
+        "word": "arris",
+        "phonetic": "/\u02c8\u00e6\u0279\u026as/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6\u0279\u026as/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A sharp edge or ridge formed by the intersection of two surfaces",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A sharp edge or ridge formed by the intersection of two curved surfaces",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A ridge formed on the surface of flaked stone that results from the intersection of two or more flake removals. The arris marks the location of flake scars on the dorsal surface of chipped stone. http//books.google.com/books?id=L6LAsLpx46IC&pg=PA252&lpg=PA252&dq=arris+lithic&source=web&ots=VMpCZX_xc-&sig=sW0DjBW6Lg_NdAGKi8ML875OcfI&hl=en&sa=X&oi=book_result&resnum=4&ct=result#PPA252,M1",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arris"
+        ]
+    },
+    {
+        "word": "arris",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Buttocks, arse.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arris"
+        ]
+    }
+]

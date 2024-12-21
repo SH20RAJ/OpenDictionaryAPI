@@ -1,0 +1,42 @@
+[
+    {
+        "word": "assclown",
+        "phonetic": "/\u02c8\u00e6s\u02cckla\u028an/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6s\u02cckla\u028an/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6s\u02cckla\u028an/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A jerk; a buffoon; a person who is inept or ill-behaved to the point of being found laughable by others.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A jerk; a buffoon; a person who uses his/her nature to bring humor to others, but ends up being the butt of a joke.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/assclown"
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "word": "attaboy",
+        "phonetic": "/\u02c8\u00e6t\u0259\u02ccb\u0254\u026a/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6t\u0259\u02ccb\u0254\u026a/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/attaboy-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75924047",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A cry of \"attaboy\"; an accolade.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "interjection",
+                "definitions": [
+                    {
+                        "definition": "Used to show encouragement or approval to a boy, man, or male animal.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/attaboy"
+        ]
+    }
+]

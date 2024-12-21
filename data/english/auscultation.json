@@ -1,0 +1,37 @@
+[
+    {
+        "word": "auscultation",
+        "phonetic": "/\u02cc\u0254sk\u0259l\u02c8te\u026a\u0283\u0259n/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u0254sk\u0259l\u02c8te\u026a\u0283\u0259n/",
+                "audio": ""
+            },
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/auscultation-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=93691986"
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Diagnosis of disorders by listening to the sounds of the internal organs, usually using a stethoscope.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/auscultation"
+        ]
+    }
+]

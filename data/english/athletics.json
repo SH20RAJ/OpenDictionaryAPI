@@ -1,0 +1,38 @@
+[
+    {
+        "word": "athletics",
+        "phonetic": "/\u00e6\u03b8\u02c8l\u025bt\u026aks/",
+        "phonetics": [
+            {
+                "text": "/\u00e6\u03b8\u02c8l\u025bt\u026aks/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "(especially Britain) A group of sporting activities including track and field, road running, cross country and racewalking.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(especially US) Physical activities such as sports and games requiring stamina, fitness and skill.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/athletics"
+        ]
+    }
+]

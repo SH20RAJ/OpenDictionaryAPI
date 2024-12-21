@@ -1,0 +1,63 @@
+[
+    {
+        "word": "asana",
+        "phonetic": "/\u02c8\u0251\u02d0s\u0259n\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u0251\u02d0s\u0259n\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A body position, typically associated with the practice of yoga.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/asana"
+        ]
+    },
+    {
+        "word": "asana",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any of certain trees of genus Pterocarpus",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The wood of such trees, sometimes sold as Philippine mahogany.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/asana"
+        ]
+    }
+]

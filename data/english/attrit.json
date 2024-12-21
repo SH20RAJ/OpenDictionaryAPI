@@ -1,0 +1,56 @@
+[
+    {
+        "word": "attrit",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "One who voluntarily or involuntarily leaves a company; a termed employee",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "term"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To wear down through attrition, especially mechanical attrition",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To engage in attrition; to quit or drop out",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To be reduced in quantity through attrition",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To lose, or to kill, troops by attrition due to sustained firepower",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/attrit"
+        ]
+    }
+]

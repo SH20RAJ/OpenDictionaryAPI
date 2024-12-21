@@ -1,0 +1,41 @@
+[
+    {
+        "word": "austenite",
+        "phonetic": "/\u02c8\u0251st\u026ana\u026at/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u0251st\u026ana\u026at/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u0252st\u026ana\u026at/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u0254st\u026ana\u026at/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A solid solution or carbon or ferric carbide in iron that exists in steel at high temperatures.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/austenite"
+        ]
+    }
+]

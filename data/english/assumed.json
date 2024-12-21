@@ -1,0 +1,77 @@
+[
+    {
+        "word": "assumed",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/assumed-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1684555",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To authenticate by means of belief; to surmise; to suppose to be true, especially without proof",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "We assume that, as her parents were dentists, she knows quite a bit about dentistry."
+                    },
+                    {
+                        "definition": "To take on a position, duty or form",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Mr. Jones will assume the position of a lifeguard until a proper replacement is found."
+                    },
+                    {
+                        "definition": "To adopt a feigned quality or manner; to claim without right; to arrogate",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "He assumed an air of indifference"
+                    },
+                    {
+                        "definition": "To receive, adopt (a person)",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To adopt (an idea or cause)",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Used in a manner intended to deceive; pretended; simulated.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Supposed or presumed.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/assume",
+            "https://en.wiktionary.org/wiki/assumed"
+        ]
+    }
+]

@@ -1,0 +1,34 @@
+[
+    {
+        "word": "attic",
+        "phonetic": "/\u02c8\u00e6t\u026ak/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6t\u026ak/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The space, often unfinished and with sloped walls, directly below the roof in the uppermost part of a house or other building, generally used for storage or habitation.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "We went up to the attic to look for the boxes containing our childhood keepsakes."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/attic"
+        ]
+    }
+]

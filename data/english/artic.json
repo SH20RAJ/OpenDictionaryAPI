@@ -1,0 +1,45 @@
+[
+    {
+        "word": "artic",
+        "phonetic": "/\u0251\u0279t\u026ak/",
+        "phonetics": [
+            {
+                "text": "/\u0251\u0279t\u026ak/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An articulated lorry.",
+                        "synonyms": [
+                            "semi-trailer"
+                        ],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An articulated bus.",
+                        "synonyms": [
+                            "bendy bus"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "bendy bus",
+                    "semi-trailer"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/artic"
+        ]
+    }
+]

@@ -1,0 +1,61 @@
+[
+    {
+        "word": "artefact",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An object made or shaped by human hand or labor.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An object made or shaped by some agent or intelligence, not necessarily of direct human origin.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Something viewed as a product of human agency or conception rather than an inherent element.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A finding or structure in an experiment or investigation that is not a true feature of the object under observation, but is a result of external action, the test arrangement, or an experimental error.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The spot on his lung turned out to be an artifact of the X-ray process."
+                    },
+                    {
+                        "definition": "An object, such as a tool, ornament, or weapon of archaeological or historical interest, especially such an object found at an archaeological excavation.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The dig produced many Roman artifacts."
+                    },
+                    {
+                        "definition": "An appearance or structure in protoplasm due to death, the method of preparation of specimens, or the use of reagents, and not present during life.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A perceptible distortion that appears in an audio or video file or a digital image as a result of applying a lossy compression algorithm.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "This JPEG image has been so highly compressed that it has unsightly compression artifacts, making it unsuitable for the cover of our magazine."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/artefact",
+            "https://en.wiktionary.org/wiki/artifact"
+        ]
+    }
+]

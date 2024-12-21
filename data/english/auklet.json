@@ -1,0 +1,33 @@
+[
+    {
+        "word": "auklet",
+        "phonetic": "/\u02c8\u0254\u02d0kl\u0259t/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u0254\u02d0kl\u0259t/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any of several small seabirds in the genera Aethia, Cerorhinca and Ptychoramphus of the auk family Alcidae.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/auklet"
+        ]
+    }
+]

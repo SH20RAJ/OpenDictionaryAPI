@@ -1,0 +1,52 @@
+[
+    {
+        "word": "authenticity",
+        "phonetic": "/\u0251\u03b8\u0259n\u02c8t\u026as\u026ati/",
+        "phonetics": [
+            {
+                "text": "/\u0251\u03b8\u0259n\u02c8t\u026as\u026ati/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The quality of being genuine or not corrupted from the original.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "I hereby certify the authenticity of this copy."
+                    },
+                    {
+                        "definition": "Truthfulness of origins, attributions, commitments, sincerity, and intentions.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The authenticity of this painting is questionable."
+                    },
+                    {
+                        "definition": "The quality of being authentic (of established authority).",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "genuineness"
+                ],
+                "antonyms": [
+                    "bogosity",
+                    "fakeness",
+                    "forgery",
+                    "phoniness"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/authenticity"
+        ]
+    }
+]

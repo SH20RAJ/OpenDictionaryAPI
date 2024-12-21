@@ -1,0 +1,37 @@
+[
+    {
+        "word": "aswarm",
+        "phonetic": "/\u0259\u02c8sw\u0254\u02d0(\u0279)m/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8sw\u0254\u02d0(\u0279)m/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Filled or overrun (with moving objects or beings).",
+                        "synonyms": [
+                            "swarming"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "swarming"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aswarm"
+        ]
+    }
+]

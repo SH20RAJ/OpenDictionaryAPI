@@ -1,0 +1,41 @@
+[
+    {
+        "word": "asafoetida",
+        "phonetic": "/\u02cc\u00e6s\u0259\u02c8f\u025bt\u026ad\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6s\u0259\u02c8f\u025bt\u026ad\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A resinous gum from the stem and roots of genus Ferula, especially Ferula assa-foetida, having a strong, unpleasant smell, with culinary and medical uses.",
+                        "synonyms": [
+                            "asant",
+                            "devil's dung",
+                            "hing"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "asant",
+                    "devil's dung",
+                    "hing"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/asafoetida"
+        ]
+    }
+]

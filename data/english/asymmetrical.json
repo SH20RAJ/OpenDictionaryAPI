@@ -1,0 +1,37 @@
+[
+    {
+        "word": "asymmetrical",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Not symmetrical.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(of a question) Presenting a false dilemma, or a choice between two things which are not opposites.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Question six is asymmetrical: \"Are things going in the right direction or on the wrong track?\" (The West Wing, Season 1, Episode 21, Toby)"
+                    }
+                ],
+                "synonyms": [
+                    "asymmetric",
+                    "lopsided",
+                    "unsymmetrical"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/asymmetrical"
+        ]
+    }
+]

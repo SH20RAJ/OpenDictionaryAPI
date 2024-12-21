@@ -1,0 +1,47 @@
+[
+    {
+        "word": "aromantic",
+        "phonetic": "/\u02cce\u026a.\u0279\u0259\u028a\u02c8man.t\u026ak/",
+        "phonetics": [
+            {
+                "text": "/\u02cce\u026a.\u0279\u0259\u028a\u02c8man.t\u026ak/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "One who does not experience romantic attraction to others.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "aro"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "That does not feel romantic attraction to others; not wanting a romantic relationship.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aromantic"
+        ]
+    }
+]

@@ -1,0 +1,108 @@
+[
+    {
+        "word": "ashen",
+        "phonetic": "/\u02c8\u00e6\u0283.\u026an/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6\u0283.\u026an/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Made from the wood of the ash-tree.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "An ashen bow and quiver of arrows beside."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ashen"
+        ]
+    },
+    {
+        "word": "ashen",
+        "phonetic": "/\u02c8\u00e6\u0283.\u026an/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6\u0283.\u026an/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of or resembling ashes.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "A fine, ashen dust hung in the air."
+                    },
+                    {
+                        "definition": "Ash-colored; pale; anemic, anaemic.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "His ashen face belied his claims of good health."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ashen"
+        ]
+    },
+    {
+        "word": "ashen",
+        "phonetic": "/\u02c8\u00e6\u0283.\u026an/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6\u0283.\u026an/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To turn into ash; make or become ashy",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To make or become pale",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ashen"
+        ]
+    }
+]

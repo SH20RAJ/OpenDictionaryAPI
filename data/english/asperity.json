@@ -1,0 +1,54 @@
+[
+    {
+        "word": "asperity",
+        "phonetic": "/\u0259\u02c8sp\u025b\u0279\u026ati/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8sp\u025b\u0279\u026ati/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8sp\u025b\u0279\u026a\u027ei/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Roughness as of stone or weather.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "the asperity of Maine's winter"
+                    },
+                    {
+                        "definition": "Harshness, as of temper.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Something that is harsh and difficult to endure.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A part of a geological fault line that does not move.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Earthquakes begin and end at asperities."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/asperity"
+        ]
+    }
+]

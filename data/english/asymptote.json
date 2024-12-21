@@ -1,0 +1,50 @@
+[
+    {
+        "word": "asymptote",
+        "phonetic": "/\u02c8e\u026a\u032fs\u026amto\u028a\u032ft/",
+        "phonetics": [
+            {
+                "text": "/\u02c8e\u026a\u032fs\u026amto\u028a\u032ft/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A straight line which a curve approaches arbitrarily closely, as they go to infinity. The limit of the curve, its tangent \"at infinity\".",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(by extension) Anything which comes near to but never meets something else.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To approach, but never quite touch, a straight line, as something goes to infinity.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/asymptote"
+        ]
+    }
+]

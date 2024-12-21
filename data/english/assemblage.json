@@ -1,0 +1,48 @@
+[
+    {
+        "word": "assemblage",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The process of assembling or bringing together.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "the assemblage of words and recordings"
+                    },
+                    {
+                        "definition": "A collection of things which have been gathered together or assembled.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A gathering of people.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A visual art form similar to collage, which combines two-dimensional and three-dimensional, often found, elements into works of art.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A group of different artifacts found in association with one another.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/assemblage"
+        ]
+    }
+]

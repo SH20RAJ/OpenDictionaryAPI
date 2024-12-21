@@ -1,0 +1,28 @@
+[
+    {
+        "word": "assonate",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To correspond in (particularly vowel) sounds.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Part of the magic of her poetry was her ability to have her words assonate in the most propitious places."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/assonate"
+        ]
+    }
+]

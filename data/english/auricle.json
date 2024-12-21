@@ -1,0 +1,60 @@
+[
+    {
+        "word": "auricle",
+        "phonetic": "/\u0254\u02d0\u0279\u026ak\u0259l/",
+        "phonetics": [
+            {
+                "text": "/\u0254\u02d0\u0279\u026ak\u0259l/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0252\u0279\u0259k\u0259l/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/auricle-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=2453634",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The outer ear or pinna.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An ear-shaped appendage of the left or right atrium of the heart.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An atrium, the smaller of the two types of chamber in the heart.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Any appendage in the shape of an earlobe.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "pavilion",
+                    "pinna"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/auricle"
+        ]
+    }
+]

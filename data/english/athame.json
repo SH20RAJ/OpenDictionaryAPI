@@ -1,0 +1,38 @@
+[
+    {
+        "word": "athame",
+        "phonetic": "/\u0251\u02d0\u02c8\u03b8\u0251\u02d0.me\u026a/",
+        "phonetics": [
+            {
+                "text": "/\u0251\u02d0\u02c8\u03b8\u0251\u02d0.me\u026a/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0251\u02c8\u03b8\u0251.me\u026a/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A ceremonial pointed knife or dagger, used especially in Wicca and other neopagan traditions and having a black handle with magical symbols on it.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The athame is a black-handled ritual knife\u2014one of the most common distinguishing marks of the Neopagan Witch. Gerald Gardner, in Witchcraft Today, called the athame one of the three most essential tools of the Witch.https//books.google.com/books?id=FSnxlwQV0ccC&pg=PA22&dq=athame&hl=en&sa=X&ved=2ahUKEwjCkJWe-d7kAhVES6wKHXcOCecQ6AEwAnoECAEQAg#v=onepage&q=athame&f=false"
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/athame"
+        ]
+    }
+]

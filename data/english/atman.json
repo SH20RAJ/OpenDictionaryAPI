@@ -1,0 +1,33 @@
+[
+    {
+        "word": "atman",
+        "phonetic": "/\u02c8\u0251\u02d0tman/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u0251\u02d0tman/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "(Vedanta) The true self of an individual beyond identification with worldly phenomena, the essence of an individual, an infinitesimal part of Brahman.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/atman"
+        ]
+    }
+]

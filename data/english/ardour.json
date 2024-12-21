@@ -1,0 +1,46 @@
+[
+    {
+        "word": "ardour",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Great warmth of feeling; fervor; passion.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Spirit; enthusiasm; passion.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Intense heat.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "elan",
+                    "fire in the belly",
+                    "passion",
+                    "zeal",
+                    "intensity"
+                ],
+                "antonyms": [
+                    "apathy"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ardor",
+            "https://en.wiktionary.org/wiki/ardour"
+        ]
+    }
+]

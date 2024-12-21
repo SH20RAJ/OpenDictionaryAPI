@@ -1,0 +1,40 @@
+[
+    {
+        "word": "astigmatism",
+        "phonetic": "/\u0259\u02c8st\u026a\u0261m\u0259t\u026azm\u0329/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8st\u026a\u0261m\u0259t\u026azm\u0329/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A defect of a lens such that light rays coming from a point do not meet at a focal point so that the image is blurred.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A disorder of the vision, usually due to a misshapen cornea, such that light does not focus correctly on the retina causing a blurred image.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "astigmia"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/astigmatism"
+        ]
+    }
+]

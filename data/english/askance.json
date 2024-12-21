@@ -1,0 +1,86 @@
+[
+    {
+        "word": "askance",
+        "phonetic": "/\u0259\u02c8sk\u00e6ns/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8sk\u00e6ns/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8sk\u00e6ns/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/askance-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=4208185",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To look at (someone or something) with a sideways glance.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To turn (one's eye or gaze) to the side.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Turned to the side, especially of the eyes.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "askew",
+                    "oblique",
+                    "sideways"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "(of a look or glance) With disapproval, skepticism, or suspicion.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The beggar asked for change, but the haughty woman only looked at him askance."
+                    },
+                    {
+                        "definition": "Sideways; obliquely.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "obliquely",
+                    "sideways",
+                    "skeptically",
+                    "suspiciously"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/askance"
+        ]
+    }
+]

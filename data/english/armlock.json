@@ -1,0 +1,37 @@
+[
+    {
+        "word": "armlock",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A wrestling move in which the opponent's arm is held immobile",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Any of several distinct attacks against an opponent\u2019s arm in martial arts",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(by extension) Power to control or heavily influence something or someone.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/armlock"
+        ]
+    }
+]

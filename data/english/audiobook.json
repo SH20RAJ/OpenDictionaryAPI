@@ -1,0 +1,31 @@
+[
+    {
+        "word": "audiobook",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A recording, usually made available for sale, of a reading of the full text or of an abridgement of a book.",
+                        "synonyms": [
+                            "talking book"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "talking book"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/audiobook"
+        ]
+    }
+]

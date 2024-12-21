@@ -1,0 +1,42 @@
+[
+    {
+        "word": "auteur",
+        "phonetic": "/\u0254\u02d0\u02c8t\u025c\u02d0/",
+        "phonetics": [
+            {
+                "text": "/\u0254\u02d0\u02c8t\u025c\u02d0/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/auteur-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=88943031",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/o\u028a\u02c8t\u025d/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A creative artist, especially a film director, seen as having a specific, recognisable artistic vision, and who is seen as the single or preeminent \u2018author\u2019 of his works.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/auteur"
+        ]
+    }
+]

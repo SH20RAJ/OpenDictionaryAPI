@@ -1,0 +1,97 @@
+[
+    {
+        "word": "aspirate",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/aspirate-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75729599",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u02c8\u00e6s.p\u0259.\u0279\u026at/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6s.p\u0259.\u0279e\u026at/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/aspirate-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=11961246",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The puff of air accompanying the release of a plosive consonant.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A sound produced by such a puff of air.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A mark of aspiration (#) used in Greek; the asper, or rough breathing.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To remove a liquid or gas by means of suction.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To inhale so as to draw something other than air into one's lungs.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To produce an audible puff of breath. especially following a consonant.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "breathe in",
+                    "inhale",
+                    "inspire"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Aspirated",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aspirate"
+        ]
+    }
+]

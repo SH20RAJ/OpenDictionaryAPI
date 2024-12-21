@@ -1,0 +1,35 @@
+[
+    {
+        "word": "arrogance",
+        "phonetic": "/\u02c8\u00e6\u0279.o\u028a.\u0261\u0259ns/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6\u0279.o\u028a.\u0261\u0259ns/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The state of being arrogant; a type of extreme or foolish pride in which someone feels much superior to another",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "servility"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arrogance"
+        ]
+    }
+]

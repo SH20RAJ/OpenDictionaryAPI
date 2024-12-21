@@ -1,0 +1,33 @@
+[
+    {
+        "word": "argillaceous",
+        "phonetic": "/\u0251\u02d0d\u0292\u026al\u02c8e\u026a\u0283\u0259s/",
+        "phonetics": [
+            {
+                "text": "/\u0251\u02d0d\u0292\u026al\u02c8e\u026a\u0283\u0259s/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Pertaining to clay; made of, containing, or resembling clay",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/argillaceous"
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "word": "astoundingly",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/astoundingly-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1253940",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "In an astounding manner; so as to astound, surprise, or amaze.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "For such a fancy, well-known restaurant, the food was astoundingly bad."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/astoundingly"
+        ]
+    }
+]

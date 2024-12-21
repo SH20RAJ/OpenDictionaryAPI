@@ -1,0 +1,47 @@
+[
+    {
+        "word": "australopithecine",
+        "phonetic": "/\u02cc\u0252st\u0279\u0259l\u0259(\u028a)\u02c8p\u026a\u03b8\u026asi\u02d0n/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u0252st\u0279\u0259l\u0259(\u028a)\u02c8p\u026a\u03b8\u026asi\u02d0n/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any of several extinct hominids, belonging to the genera Australopithecus, Paranthropus when seen as distinct, and sometimes other closely related genera.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of or pertaining to these hominids.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "australopith"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/australopithecine"
+        ]
+    }
+]

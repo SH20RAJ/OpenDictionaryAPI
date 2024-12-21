@@ -1,0 +1,45 @@
+[
+    {
+        "word": "asprawl",
+        "phonetic": "/\u0259\u02c8sp\u0279\u0254\u02d0l/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8sp\u0279\u0254\u02d0l/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Sprawling; covered or filled (with something sprawling).",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "preposition",
+                "definitions": [
+                    {
+                        "definition": "Sprawling over or across.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/asprawl"
+        ]
+    }
+]

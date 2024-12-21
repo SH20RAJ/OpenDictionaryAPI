@@ -1,0 +1,33 @@
+[
+    {
+        "word": "artiodactyl",
+        "phonetic": "/\u02cc\u0251\u02d0t\u026a\u0259\u028a\u02c8dakt\u026al/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u0251\u02d0t\u026a\u0259\u028a\u02c8dakt\u026al/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any ungulate mammal with an even number of toes and belonging to the Artiodactyla, including pigs, sheep, deer, cattle, and most grazing animals. In contrast, horses have an odd number of toes and as such are not Artiodactyla, but Perissodactyla.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/artiodactyl"
+        ]
+    }
+]

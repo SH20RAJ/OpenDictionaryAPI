@@ -1,0 +1,30 @@
+[
+    {
+        "word": "arpeggione",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A six-stringed musical instrument of the 19th century, fretted and tuned like a guitar but bowed like a cello, and held vertically between the knees.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "bowed guitar",
+                    "guitar cello"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arpeggione"
+        ]
+    }
+]

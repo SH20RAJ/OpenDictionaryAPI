@@ -1,0 +1,37 @@
+[
+    {
+        "word": "ashram",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ashram-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=94659384",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A secluded religious hermitage inhabited by gurus, or the population of such a hermitage.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The entire ashram was excited."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ashram"
+        ]
+    }
+]

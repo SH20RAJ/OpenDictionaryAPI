@@ -1,0 +1,42 @@
+[
+    {
+        "word": "astute",
+        "phonetic": "/\u0259s\u02c8tju\u02d0t/",
+        "phonetics": [
+            {
+                "text": "/\u0259s\u02c8tju\u02d0t/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Quickly and critically discerning.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Shrewd or crafty.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "crafty",
+                    "shrewd",
+                    "wily"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/astute"
+        ]
+    }
+]

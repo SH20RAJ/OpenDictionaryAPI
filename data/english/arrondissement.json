@@ -1,0 +1,38 @@
+[
+    {
+        "word": "arrondissement",
+        "phonetic": "/\u0259\u02c8\u0279\u0252n\u02ccd\u026as\u02c8m\u0259nt/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8\u0279\u0252n\u02ccd\u026as\u02c8m\u0259nt/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An administrative division in some French- or Dutch-speaking countries",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A borough, a submunicipal administrative division",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arrondissement"
+        ]
+    }
+]

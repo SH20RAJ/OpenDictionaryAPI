@@ -1,0 +1,29 @@
+[
+    {
+        "word": "astroturfing",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "(US politics) The disguising of an orchestrated campaign as a \"grass-roots\" event \u2013 i.e., a spontaneous upwelling of public opinion.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "front organization"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/astroturfing"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "word": "artemisia",
+        "phonetic": "/\u0251\u02d0t\u026a\u02c8m\u026az\u026a\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u0251\u02d0t\u026a\u02c8m\u026az\u026a\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any of many aromatic flowering plants of the genus Artemisia, including wormwood, sagebrush, and tarragon.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/artemisia"
+        ]
+    }
+]

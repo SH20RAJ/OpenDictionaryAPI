@@ -1,0 +1,33 @@
+[
+    {
+        "word": "auslese",
+        "phonetic": "/a\u028as\u02c8le\u026az\u0259/",
+        "phonetics": [
+            {
+                "text": "/a\u028as\u02c8le\u026az\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A sweet wine, especially from Germany, made from late harvest grapes; specifically, a wine from the German official Auslese category.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/auslese"
+        ]
+    }
+]
