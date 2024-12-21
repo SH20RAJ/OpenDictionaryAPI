@@ -1,0 +1,53 @@
+[
+    {
+        "word": "apostasy",
+        "phonetic": "/\u0259\u02c8p\u0252st\u0259si/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8p\u0252st\u0259si/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The renunciation of a belief or set of beliefs.",
+                        "synonyms": [
+                            "backsliding",
+                            "conversion",
+                            "deconversion"
+                        ],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Specifically, the renunciation of one's religion or faith.",
+                        "synonyms": [
+                            "defection",
+                            "disaffection",
+                            "estrangement"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "backsliding",
+                    "conversion",
+                    "deconversion",
+                    "defection",
+                    "disaffection",
+                    "estrangement"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/apostasy"
+        ]
+    }
+]

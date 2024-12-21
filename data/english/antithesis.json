@@ -1,0 +1,49 @@
+[
+    {
+        "word": "antithesis",
+        "phonetic": "/\u00e6n.\u02c8t\u026a.\u03b8\u0259.s\u026as/",
+        "phonetics": [
+            {
+                "text": "/\u00e6n.\u02c8t\u026a.\u03b8\u0259.s\u026as/",
+                "audio": ""
+            },
+            {
+                "text": "/\u00e6n.\u02c8t\u026a.\u03b8\u0259.s\u026as/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/antithesis-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1161592",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A proposition that is the diametric opposite of some other proposition.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A device by which two contrasting ideas are juxtaposed in parallel form.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "epitome"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/antithesis"
+        ]
+    }
+]

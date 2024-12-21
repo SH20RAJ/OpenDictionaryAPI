@@ -1,0 +1,84 @@
+[
+    {
+        "word": "antifa",
+        "phonetic": "/\u00e6n\u02c8ti\u02d0f\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u00e6n\u02c8ti\u02d0f\u0259/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/antifa-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=74399868",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "proper noun",
+                "definitions": [
+                    {
+                        "definition": "A decentralised, radical political movement that opposes fascism.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A local instance of this movement.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Opposition to fascism",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "antifa"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A person opposed to the tenets of fascism.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Opposed to the tenets of fascism; antifa.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/Antifa",
+            "https://en.wiktionary.org/wiki/antifa",
+            "https://en.wiktionary.org/wiki/antifascism",
+            "https://en.wiktionary.org/wiki/antifascist"
+        ]
+    }
+]

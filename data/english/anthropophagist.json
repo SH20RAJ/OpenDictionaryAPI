@@ -1,0 +1,32 @@
+[
+    {
+        "word": "anthropophagist",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A cannibal.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(Brazilian culture) A follower or representative of the Manifesto Antrop\u00f3fago of Oswald de Andrade, Brazilian poet; one who advocates a \"cannibalistic\" attitude towards the appropriation of European culture.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anthropophagist"
+        ]
+    }
+]

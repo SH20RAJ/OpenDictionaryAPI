@@ -1,0 +1,30 @@
+[
+    {
+        "word": "anglophobia",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The hatred or fear of England and anything English (or British).",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "Anglophilia"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/Anglophobia",
+            "https://en.wiktionary.org/wiki/anglophobia"
+        ]
+    }
+]

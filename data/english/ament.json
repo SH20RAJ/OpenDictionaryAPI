@@ -1,0 +1,72 @@
+[
+    {
+        "word": "ament",
+        "phonetic": "/\u02c8e\u026a.m\u0259nt/",
+        "phonetics": [
+            {
+                "text": "/\u02c8e\u026a.m\u0259nt/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8e\u026a.m\u0259nt/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A catkin or amentum.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ament"
+        ]
+    },
+    {
+        "word": "ament",
+        "phonetic": "/\u02c8e\u026a.m\u0259nt/",
+        "phonetics": [
+            {
+                "text": "/\u02c8e\u026a.m\u0259nt/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8e\u026a.m\u0259nt/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A congenital idiot.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ament"
+        ]
+    }
+]

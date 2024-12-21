@@ -1,0 +1,43 @@
+[
+    {
+        "word": "apache",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any of several Athabascan-speaking peoples of the American southwest excluding Navajo, i.e. Chiricahua, Jicarilla, Lipan, Mescalero, Plains Apache, or Western Apache.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A person belonging to an Apache people.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A Parisian gangster of the late 19th and early 20th centuries.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "AH-64 Apache, a U.S. military helicopter.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/Apache",
+            "https://en.wiktionary.org/wiki/apache"
+        ]
+    }
+]

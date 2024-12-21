@@ -1,0 +1,28 @@
+[
+    {
+        "word": "anthropometrics",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The science of measuring the human body in order to ascertain the average dimensions of the human form at different ages, and in different divisions of race, class, etc.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anthropometrics",
+            "https://en.wiktionary.org/wiki/anthropometry"
+        ]
+    }
+]

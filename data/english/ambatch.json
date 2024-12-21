@@ -1,0 +1,32 @@
+[
+    {
+        "word": "ambatch",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A large shrub or small tree found in and around water in the African tropics, Aeschynomene elaphroxylon, formerly used to make rafts due to its extremely lightweight wood.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A raft made from bundles of the stems of this plant.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ambatch"
+        ]
+    }
+]

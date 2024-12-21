@@ -1,0 +1,34 @@
+[
+    {
+        "word": "aphorize",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To create an aphorism from.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "At the drop of a hat, he would aphorise an experience into a few memorable words."
+                    },
+                    {
+                        "definition": "To use aphorisms.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aphorise",
+            "https://en.wiktionary.org/wiki/aphorize"
+        ]
+    }
+]

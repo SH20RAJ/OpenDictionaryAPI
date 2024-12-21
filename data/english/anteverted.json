@@ -1,0 +1,45 @@
+[
+    {
+        "word": "anteverted",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To prevent.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To displace by anteversion.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Turned or tipped forward.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/antevert",
+            "https://en.wiktionary.org/wiki/anteverted"
+        ]
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "word": "anthelmintic",
+        "phonetic": "/\u00e6n\u03b8\u025bl\u02c8m\u026ant\u026ak/",
+        "phonetics": [
+            {
+                "text": "/\u00e6n\u03b8\u025bl\u02c8m\u026ant\u026ak/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anthelmintic-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=90826899",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A drug for the treatment of intestinal worm infestation, either by killing the worms or by causing them to be expelled from the body.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(pharmaceutical effect) Destructive to parasitic intestinal worms.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Research is progressing well on finding native plants with anthelmintic properties."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anthelmintic"
+        ]
+    }
+]

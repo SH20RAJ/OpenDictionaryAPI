@@ -1,0 +1,56 @@
+[
+    {
+        "word": "aorist",
+        "phonetic": "/\u02c8e\u026a.\u0259.\u0279\u026ast/",
+        "phonetics": [
+            {
+                "text": "/\u02c8e\u026a.\u0259.\u0279\u026ast/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "(grammar) A grammatical category of verbs that is often a perfective past: that is, it expresses perfective aspect (also known as aorist aspect) and past tense. The nearest equivalent in English is the simple past.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(grammar) This grammatical category in a particular language, for instance, Albanian and Ancient and Modern Greek.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(grammar) A particular verb in the aorist.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(grammar) Of or pertaining to a verb in the aorist aspect.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "the aorist stem of a verb"
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aorist"
+        ]
+    }
+]

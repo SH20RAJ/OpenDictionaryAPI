@@ -1,0 +1,37 @@
+[
+    {
+        "word": "anaptyxis",
+        "phonetic": "/\u02cc\u00e6n\u0259p\u02c8t\u026aks\u026as/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6n\u0259p\u02c8t\u026aks\u026as/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The epenthesis (insertion) of a vowel; svarabhakti: for example, the middle \u2018-a-\u2019 in thataway, or use of infixes -i- and -o- in coining English words on classical roots.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "svarabhakti"
+                ],
+                "antonyms": [
+                    "excrescence"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anaptyxis"
+        ]
+    }
+]

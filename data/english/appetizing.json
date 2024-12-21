@@ -1,0 +1,52 @@
+[
+    {
+        "word": "appetizing",
+        "phonetic": "/\u02c8\u00e6p.\u0259.ta\u026az.\u026a\u014b/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6p.\u0259.ta\u026az.\u026a\u014b/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To whet the appetite.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "That appeals to, or stimulates the appetite.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "This food looks so appetizing."
+                    },
+                    {
+                        "definition": "(by extension) Appealing or enticing.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/appetize",
+            "https://en.wiktionary.org/wiki/appetizing"
+        ]
+    }
+]

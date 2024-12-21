@@ -1,0 +1,86 @@
+[
+    {
+        "word": "ans",
+        "phonetic": "/\u02c8\u00e6nz/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6nz/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6nz/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The first letter of the Georgian alphabet, \u10d0 (Mkhedruli), \u10a0 (Asomtavruli) or \u2d00 (Nuskhuri).",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/an",
+            "https://en.wiktionary.org/wiki/ans"
+        ]
+    },
+    {
+        "word": "ans",
+        "phonetic": "/\u02c8\u0251\u02d0ns/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u0251\u02d0ns/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6ns/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A response or reply; something said or done in reaction to a statement or question.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Her answer to his proposal was a slap in the face."
+                    },
+                    {
+                        "definition": "A solution to a problem.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "There is no simple answer to corruption."
+                    },
+                    {
+                        "definition": "A document filed in response to a complaint, responding to each point raised in the complaint and raising counterpoints.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ans",
+            "https://en.wiktionary.org/wiki/answer"
+        ]
+    }
+]

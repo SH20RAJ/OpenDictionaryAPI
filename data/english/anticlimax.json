@@ -1,0 +1,33 @@
+[
+    {
+        "word": "anticlimax",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A failed or reverse climax, particularly:",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "bathos"
+                ],
+                "antonyms": [
+                    "cliffhanger",
+                    "auxesis",
+                    "climax"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anticlimax"
+        ]
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "word": "angary",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The right of one belligerent (government) in a conflict to seize, use or destroy the property of another belligerent or neutral state, or the private citizens thereof, provided compensation is paid.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/angary"
+        ]
+    }
+]

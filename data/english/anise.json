@@ -1,0 +1,46 @@
+[
+    {
+        "word": "anise",
+        "phonetic": "/\u0259\u02c8nis/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8nis/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6n.\u026as/",
+                "audio": ""
+            },
+            {
+                "text": "/\u00e6\u02c8nis/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An umbelliferous plant (Pimpinella anisum) growing naturally in Egypt, and cultivated in Spain, Malta, etc., for its carminative and aromatic seeds, which are used as a spice. It has a licorice scent.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(often qualified as \"sweet anise\" or \"wild anise\") Fennel, Foeniculum vulgare.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anise"
+        ]
+    }
+]

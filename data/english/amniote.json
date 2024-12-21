@@ -1,0 +1,33 @@
+[
+    {
+        "word": "amniote",
+        "phonetic": "/\u02c8am.n\u026a.\u0259\u028at/",
+        "phonetics": [
+            {
+                "text": "/\u02c8am.n\u026a.\u0259\u028at/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any of the Amniota group of vertebrates having an amnion during the development of the embryo; mammals, birds and reptiles.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amniote"
+        ]
+    }
+]

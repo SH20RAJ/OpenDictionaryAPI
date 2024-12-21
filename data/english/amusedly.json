@@ -1,0 +1,33 @@
+[
+    {
+        "word": "amusedly",
+        "phonetic": "/\u0259\u02c8mju\u02d0z.\u0259d.li/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8mju\u02d0z.\u0259d.li/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "In an amused manner",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amusedly"
+        ]
+    }
+]

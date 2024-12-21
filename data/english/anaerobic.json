@@ -1,0 +1,50 @@
+[
+    {
+        "word": "anaerobic",
+        "phonetic": "/\u02cc\u00e6n\u0259\u02c8\u0279o\u028abik/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6n\u0259\u02c8\u0279o\u028abik/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anaerobic-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1514791",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Without oxygen; especially of an environment or organism.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Of exercise, involving glycolysis (the conversion of glucose to adenosine triphosphate) rather than using oxygen to supply bodily energy needs.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Of or relating to an anaerobe.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "aerobic"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anaerobic"
+        ]
+    }
+]

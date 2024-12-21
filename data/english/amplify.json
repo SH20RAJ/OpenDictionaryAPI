@@ -1,0 +1,55 @@
+[
+    {
+        "word": "amplify",
+        "phonetic": "/\u02c8\u00e6mp.l\u026a.fa\u026a/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6mp.l\u026a.fa\u026a/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/amplify-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=49875660",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To render larger, more extended, or more intense.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "amplify a microscopes"
+                    },
+                    {
+                        "definition": "To enlarge by addition or commenting; to treat copiously by adding particulars, illustrations, etc.; to expand.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To increase the amplitude of something, especially of an electric current.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "amplify a signal"
+                    },
+                    {
+                        "definition": "To add content that is not present in the source text to the target text, usually to improve the fluency of the translation.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amplify"
+        ]
+    }
+]

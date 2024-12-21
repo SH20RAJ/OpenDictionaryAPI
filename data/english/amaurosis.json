@@ -1,0 +1,30 @@
+[
+    {
+        "word": "amaurosis",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any form of blindness that is accompanied by no obvious change to the eye; often the result of disease of the optic nerve.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "drop serene",
+                    "gutta serena"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amaurosis"
+        ]
+    }
+]

@@ -1,0 +1,46 @@
+[
+    {
+        "word": "appetizer",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/appetizer-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=181050",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A small, light, and usually savory first course in a meal",
+                        "synonyms": [
+                            "appy",
+                            "entr\u00e9e",
+                            "hors d'oeuvre",
+                            "starter"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "appy",
+                    "entr\u00e9e",
+                    "hors d'oeuvre",
+                    "starter"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/appetizer"
+        ]
+    }
+]

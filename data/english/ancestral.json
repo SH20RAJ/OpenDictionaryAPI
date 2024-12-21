@@ -1,0 +1,34 @@
+[
+    {
+        "word": "ancestral",
+        "phonetic": "/\u00e6n\u02c8s\u025bs.t\u0259\u0279.\u0259l/",
+        "phonetics": [
+            {
+                "text": "/\u00e6n\u02c8s\u025bs.t\u0259\u0279.\u0259l/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of, pertaining to, derived from, or possessed by, an ancestor or ancestors",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "an ancestral estate"
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ancestral"
+        ]
+    }
+]

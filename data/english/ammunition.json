@@ -1,0 +1,63 @@
+[
+    {
+        "word": "ammunition",
+        "phonetic": "/\u02cc\u00e6mju\u02c8n\u026a\u0283\u0259n/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6mju\u02c8n\u026a\u0283\u0259n/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ammunition-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=2650639",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Articles used in charging firearms and ordnance of all kinds; as powder, balls, shot, shells, percussion caps, rockets, etc.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Military stores, or provisions of all kinds for attack or defense.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "ammunition bread; ammunition shoes"
+                    },
+                    {
+                        "definition": "Arguments and information that can be used against the other party in a conflict",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "ammo"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To supply with ammunition.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ammunition"
+        ]
+    }
+]

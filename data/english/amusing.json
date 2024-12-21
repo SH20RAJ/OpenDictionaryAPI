@@ -1,0 +1,83 @@
+[
+    {
+        "word": "amusing",
+        "phonetic": "/\u0259\u02c8mju\u02d0z\u026a\u014b/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8mju\u02d0z\u026a\u014b/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/amusing-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=2423252",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To entertain or occupy in a pleasant manner; to stir with pleasing emotions.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "I watch these movies because they amuse me."
+                    },
+                    {
+                        "definition": "To cause laughter or amusement; to be funny.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "His jokes rarely fail to amuse."
+                    },
+                    {
+                        "definition": "To keep in expectation; to beguile; to delude.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To occupy or engage the attention of; to lose in deep thought; to absorb; also, to distract; to bewilder.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "beguile",
+                    "divert",
+                    "entertain",
+                    "exhilarate",
+                    "gratify",
+                    "please"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Entertaining.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The film has some amusing moments, but it is unlikely to make you laugh out loud."
+                    },
+                    {
+                        "definition": "Funny, hilarious.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "unamusing"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amuse",
+            "https://en.wiktionary.org/wiki/amusing"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "word": "anthroposophy",
+        "phonetic": "/\u02cc\u00e6n\u03b8\u0279\u0259\u02c8p\u0252s\u0259fi/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6n\u03b8\u0279\u0259\u02c8p\u0252s\u0259fi/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02cc\u00e6n\u03b8\u0279\u0259\u02c8p\u0251s\u0259fi/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "(as used before Rudolf Steiner) Knowledge or understanding of human nature.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A spiritual movement inaugurated by Rudolf Steiner (also capitalized as Anthroposophy), postulating the existence of an objective, intellectually comprehensible spiritual world accessible to direct experience through inner development.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anthroposophy"
+        ]
+    }
+]

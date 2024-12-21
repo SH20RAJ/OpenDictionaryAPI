@@ -1,0 +1,44 @@
+[
+    {
+        "word": "annually",
+        "phonetic": "/\u02c8\u00e6n.j\u028a\u0259.li/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6n.j\u028a\u0259.li/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6n.ju.\u0259.li/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/annually-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1769834",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "Once every year without fail, yearly",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "perennially"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/annually"
+        ]
+    }
+]

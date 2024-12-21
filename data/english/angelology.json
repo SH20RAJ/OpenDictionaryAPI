@@ -1,0 +1,29 @@
+[
+    {
+        "word": "angelology",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The study of angels. Angels have been grouped into nine categories or \u201cchoirs,\u201d from lowest to highest: angel, virtue, archangel, power, principality, dominion, throne, cherub, and seraph.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "demonology"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/angelology"
+        ]
+    }
+]

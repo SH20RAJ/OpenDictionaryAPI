@@ -1,0 +1,41 @@
+[
+    {
+        "word": "anodized",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To coat the surface of a metal electrolytically with an oxide, either as protection or decoration",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of a metal object: having a surface layer of oxide, for decoration or protection, and formed via an electrolytic process.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "This deluxe machine features anodized aluminum handles on all adjusting levers."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anodize",
+            "https://en.wiktionary.org/wiki/anodized"
+        ]
+    }
+]

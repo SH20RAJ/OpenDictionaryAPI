@@ -1,0 +1,42 @@
+[
+    {
+        "word": "apocope",
+        "phonetic": "/\u0259\u02c8p\u0252.k\u0259.pi/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8p\u0252.k\u0259.pi/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "(narrow sense) The loss or omission of the last vowel in a word, together with any consonants that follow it.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The loss or omission of a sound or syllable from the end of a word.",
+                        "synonyms": [],
+                        "antonyms": [
+                            "procope"
+                        ]
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "procope"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/apocope"
+        ]
+    }
+]

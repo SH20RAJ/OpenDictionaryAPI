@@ -1,0 +1,45 @@
+[
+    {
+        "word": "anadromous",
+        "phonetic": "/\u0259\u02c8nad.\u0279\u0259.m\u0259s/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8nad.\u0279\u0259.m\u0259s/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8n\u00e6d.\u0279\u0259.m\u0259s/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(of a migratory fish) That lives in the sea and breeds in fresh water.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Shads and most species of salmon are anadromous."
+                    },
+                    {
+                        "definition": "Of a fern in which the first veins in a frond segment are produced towards the apex of the frond.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "catadromous"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anadromous"
+        ]
+    }
+]

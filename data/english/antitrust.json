@@ -1,0 +1,28 @@
+[
+    {
+        "word": "antitrust",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Opposed to or against the establishment or existence of trusts (monopolies), usually referring to legislation.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The regulators used antitrust laws to block the merger, believing it would eliminate competition."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/antitrust"
+        ]
+    }
+]

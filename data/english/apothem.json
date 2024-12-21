@@ -1,0 +1,43 @@
+[
+    {
+        "word": "apothem",
+        "phonetic": "/\u02c8\u00e6p.\u0259.\u03b8\u025bm/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6p.\u0259.\u03b8\u025bm/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/apothem-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=694416",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The perpendicular distance from the center of a circle to a chord of the same circle.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The distance from the center of a regular polygon perpendicular to one of its sides (a special case of the above).",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/apothem"
+        ]
+    }
+]

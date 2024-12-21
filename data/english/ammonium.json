@@ -1,0 +1,38 @@
+[
+    {
+        "word": "ammonium",
+        "phonetic": "/\u0259\u02c8mo\u028ani.\u0259m/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8mo\u028ani.\u0259m/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The univalent NH4+ cation, derived by the protonation of ammonia",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(especially in combination) Any similar cation formed by replacing one or more hydrogen atoms with alkyl or aryl radicals",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ammonium"
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "word": "annotation",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A critical or explanatory commentary or analysis",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A comment added to a text",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The process of writing such comment or commentary",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Metadata added to a document or program",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Information relating to the genetic structure of sequences of bases",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/annotation"
+        ]
+    }
+]

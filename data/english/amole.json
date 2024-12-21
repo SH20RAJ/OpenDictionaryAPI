@@ -1,0 +1,42 @@
+[
+    {
+        "word": "amole",
+        "phonetic": "/\u0259\u02c8m\u0259\u028ali/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8m\u0259\u028ali/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8mo\u028ale\u026a/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any of various parts of the Agave (or similar) plants, when used as soap",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Other Mexican and North American plants used as soap",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amole"
+        ]
+    }
+]

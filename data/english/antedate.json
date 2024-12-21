@@ -1,0 +1,68 @@
+[
+    {
+        "word": "antedate",
+        "phonetic": "/\u02c8\u00e6nti\u02ccde\u026at/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6nti\u02ccde\u026at/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Prior date; a date antecedent to another which is the actual date.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Anticipation",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To occur before an event or time; to exist further back in time.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To assign a date to a document or action earlier than the actual date; to backdate.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To find earlier citational evidence for a term.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "backdate",
+                    "foredate",
+                    "predate"
+                ],
+                "antonyms": [
+                    "overdate",
+                    "postdate",
+                    "postdate"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/antedate"
+        ]
+    }
+]

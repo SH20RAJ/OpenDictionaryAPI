@@ -1,0 +1,63 @@
+[
+    {
+        "word": "ambivalent",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ambivalent-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75729417",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u00e6m\u02c8b\u026av.\u0259.l\u0259nt/",
+                "audio": ""
+            },
+            {
+                "text": "/\u00e6m\u02c8b\u026av.\u0259.l\u0259nt/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ambivalent-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=3631235",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Simultaneously experiencing or expressing opposing or contradictory feelings, beliefs, or motivations.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Alternately having one opinion or feeling, and then the opposite.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "He has an ambivalent relationship towards his parents."
+                    }
+                ],
+                "synonyms": [
+                    "fluctuating",
+                    "vacillating",
+                    "wavering",
+                    "conflicted",
+                    "uncertain",
+                    "undecided",
+                    "unresolved"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ambivalent"
+        ]
+    }
+]

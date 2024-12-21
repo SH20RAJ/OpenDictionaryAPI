@@ -1,0 +1,33 @@
+[
+    {
+        "word": "antilogy",
+        "phonetic": "/\u00e6n\u02c8t\u026al\u0259d\u0361\u0292i/",
+        "phonetics": [
+            {
+                "text": "/\u00e6n\u02c8t\u026al\u0259d\u0361\u0292i/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A contradiction in related terms or ideas. Usually an inconsistency in syllogisms, of a person or group supposedly of one set of ideals.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/antilogy"
+        ]
+    }
+]

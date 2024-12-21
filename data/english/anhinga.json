@@ -1,0 +1,76 @@
+[
+    {
+        "word": "anhinga",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A fish-eating bird (Anhinga anhinga) of North America with a thin, pointed bill and a long, thin neck.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "American darter",
+                    "American snakebird",
+                    "water turkey"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "One who darts, or who throws darts; that which darts.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Any member of the family Anhingidae, waterbirds with long necks.",
+                        "synonyms": [
+                            "snakebird"
+                        ],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Any of various darting freshwater fish of the family Percidae, that are usually small and brightly coloured and are native to North America.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Any of the similar South American (and Panamanian) freshwater fish in the characin family Crenuchidae",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Any of the dragonflies in the genus Sympetrum",
+                        "synonyms": [
+                            "meadowhawk"
+                        ],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Any of various hesperiid butterflies of the genera Arrhenes and Telicota.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "meadowhawk",
+                    "snakebird"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anhinga",
+            "https://en.wiktionary.org/wiki/darter"
+        ]
+    }
+]

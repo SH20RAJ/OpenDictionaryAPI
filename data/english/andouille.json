@@ -1,0 +1,37 @@
+[
+    {
+        "word": "andouille",
+        "phonetic": "/\u0252n\u02c8du\u02d0.i/",
+        "phonetics": [
+            {
+                "text": "/\u0252n\u02c8du\u02d0.i/",
+                "audio": ""
+            },
+            {
+                "text": "/\u00e6n\u02c8du.i/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A spiced, heavily smoked Cajun pork sausage, often made from the entire gastrointestinal system of the pig.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/andouille"
+        ]
+    }
+]

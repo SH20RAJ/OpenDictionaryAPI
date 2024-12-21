@@ -1,0 +1,47 @@
+[
+    {
+        "word": "apologetic",
+        "phonetic": "/\u0259\u02ccp\u0252l\u0259\u02c8d\u0292\u025bt\u026ak/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02ccp\u0252l\u0259\u02c8d\u0292\u025bt\u026ak/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02ccp\u0251l\u0259\u02c8d\u0292\u025bt\u026ak/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Having the character of apology; regretfully excusing",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "His tone was apologetic as he explained what had happened."
+                    },
+                    {
+                        "definition": "Defending by words or arguments; said or written in defense.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "regretful",
+                    "remorseful",
+                    "sorry"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/apologetic"
+        ]
+    }
+]

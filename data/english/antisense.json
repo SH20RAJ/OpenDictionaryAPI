@@ -1,0 +1,35 @@
+[
+    {
+        "word": "antisense",
+        "phonetic": "/\u02cc\u00e6nta\u026a\u02c8s\u025bns/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6nta\u026a\u02c8s\u025bns/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A molecule which interacts with a complementary strand of nucleic acids, so as to suppress its transcription.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "sense"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/antisense"
+        ]
+    }
+]

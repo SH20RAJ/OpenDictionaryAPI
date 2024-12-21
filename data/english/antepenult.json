@@ -1,0 +1,33 @@
+[
+    {
+        "word": "antepenult",
+        "phonetic": "/\u02ccant\u026ap\u026a\u02c8n\u028clt/",
+        "phonetics": [
+            {
+                "text": "/\u02ccant\u026ap\u026a\u02c8n\u028clt/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The third-to-last syllable of a word.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/antepenult"
+        ]
+    }
+]

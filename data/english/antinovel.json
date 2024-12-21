@@ -1,0 +1,33 @@
+[
+    {
+        "word": "antinovel",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A novel that deliberately avoids the typical conventions of the novel, such as a coherent plot and protagonist.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Digressions are usually considered a characteristic feature of the antinovel tradition."
+                    },
+                    {
+                        "definition": "(by extension) Any style of writing that deviates from the norm of technical conventions used in writing literature.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/antinovel"
+        ]
+    }
+]

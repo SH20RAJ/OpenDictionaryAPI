@@ -1,0 +1,53 @@
+[
+    {
+        "word": "angora",
+        "phonetic": "/\u00e6\u014b\u02c8\u0261\u0254\u02d0\u0279\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u00e6\u014b\u02c8\u0261\u0254\u02d0\u0279\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An angora cat.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A goat of a domesticated breed that produces mohair.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A rabbit belonging to the Angora rabbit breed, one of the oldest domestic breeds of rabbits in the world, raised chiefly in Europe for its silky and long hair (a subspecies of the European rabbit, Oryctolagus cuniculus)",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The hair of angora rabbits or angora goats, used to make textiles.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The fabric made from the hair of angora rabbits or angora goats.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/angora"
+        ]
+    }
+]

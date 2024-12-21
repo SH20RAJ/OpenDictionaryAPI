@@ -1,0 +1,41 @@
+[
+    {
+        "word": "appendicitis",
+        "phonetic": "/\u0259\u02c8p\u025bnd.\u026a.sa\u026at.\u0259s/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8p\u025bnd.\u026a.sa\u026at.\u0259s/",
+                "audio": ""
+            },
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/appendicitis-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1779905",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Inflammation of the vermiform appendix",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/appendicitis"
+        ]
+    }
+]

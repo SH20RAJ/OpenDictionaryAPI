@@ -1,0 +1,42 @@
+[
+    {
+        "word": "antimacassar",
+        "phonetic": "/\u02cc\u00e6n.t\u026a.m\u0259\u02c8k\u00e6s.\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6n.t\u026a.m\u0259\u02c8k\u00e6s.\u0259/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02cc\u00e6n.t\u026a.m\u0259\u02c8k\u00e6s.\u025a/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/antimacassar-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=2500252",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A cover for the back or arms of a chair or sofa, originally to prevent them from being soiled by macassar oil.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/antimacassar"
+        ]
+    }
+]

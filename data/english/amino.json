@@ -1,0 +1,49 @@
+[
+    {
+        "word": "amino",
+        "phonetic": "/\u0259\u02c8mi\u02d0n\u0259\u028a/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8mi\u02d0n\u0259\u028a/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8mino\u028a/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The amine functional group.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Relating to an amine.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amino"
+        ]
+    }
+]

@@ -1,0 +1,50 @@
+[
+    {
+        "word": "amortize",
+        "phonetic": "/\u0259\u02c8m\u0254\u02d0ta\u026az/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8m\u0254\u02d0ta\u026az/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8m\u0254\u0279ta\u026az/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/amortize-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=11546273"
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To alienate (property) in mortmain.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To wipe out (a debt, liability etc.) gradually or in installments.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To even out the costs of running an algorithm over many iterations, so that high-cost iterations are much less frequent than low-cost iterations, which lowers the average running time.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "accrue"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amortize"
+        ]
+    }
+]

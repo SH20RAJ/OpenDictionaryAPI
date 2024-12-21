@@ -1,0 +1,33 @@
+[
+    {
+        "word": "ammeter",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A device that measures the magnitude of an electric current, especially one calibrated in amperes.",
+                        "synonyms": [
+                            "amperemeter",
+                            "amperometer"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "amperemeter",
+                    "amperometer"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ammeter"
+        ]
+    }
+]

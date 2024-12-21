@@ -1,0 +1,48 @@
+[
+    {
+        "word": "apace",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/apace-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75729517",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u0259\u02c8pe\u026as/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8pe\u026as/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "Quickly, rapidly, with speed.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Construction of the new offices is proceeding apace."
+                    }
+                ],
+                "synonyms": [
+                    "expeditiously",
+                    "swiftly"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/apace"
+        ]
+    }
+]

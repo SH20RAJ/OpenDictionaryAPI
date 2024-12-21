@@ -1,0 +1,42 @@
+[
+    {
+        "word": "anthropogenic",
+        "phonetic": "/\u02cc\u00e6n \u03b8r\u0259 p\u0259\u02c8d\u0292\u025bn \u026ak/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6n \u03b8r\u0259 p\u0259\u02c8d\u0292\u025bn \u026ak/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Pertaining to the origin of man, or anthropogeny",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "1952 The cosmogonic and anthropogenic myths are of secondary importance in Yahwistic religiosity. (H. H. Gerth & D. A. Martindale (trans.), M. Weber's Ancient Judaism ix. 227)"
+                    },
+                    {
+                        "definition": "Having its origin in the influence of human activity on nature.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Wastewater is any water that has been adversely affected in quality by anthropogenic influence."
+                    }
+                ],
+                "synonyms": [
+                    "anthropogenous"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anthropogenic"
+        ]
+    }
+]

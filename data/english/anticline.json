@@ -1,0 +1,35 @@
+[
+    {
+        "word": "anticline",
+        "phonetic": "/\u02c8\u00e6ntikla\u026an/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6ntikla\u026an/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A fold with strata sloping downwards on each side.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "upwrap"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anticline"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "word": "appetitive",
+        "phonetic": "/\u00e6p\u02c8.p\u025b.ta\u026a.t\u026av/",
+        "phonetics": [
+            {
+                "text": "/\u00e6p\u02c8.p\u025b.ta\u026a.t\u026av/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Having the quality of desiring gratification.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/appetitive"
+        ]
+    }
+]

@@ -1,0 +1,83 @@
+[
+    {
+        "word": "antics",
+        "phonetic": "/\u02c8\u00e6nt\u026aks/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6nt\u026aks/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A grotesque representation of a figure; a gargoyle.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A caricature.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(often in plural) A ludicrous gesture or act; ridiculous behaviour; caper.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A grotesque performer or clown, buffoon.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To perform antics, caper.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To make a fool of, to cause to look ridiculous.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To perform (an action) as an antic; to mimic ridiculously.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A pose, often exaggerated, in anticipation of an action; for example, a brief squat before jumping",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/antic",
+            "https://en.wiktionary.org/wiki/antics"
+        ]
+    }
+]

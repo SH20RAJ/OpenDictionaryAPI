@@ -1,0 +1,37 @@
+[
+    {
+        "word": "antifreeze",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A substance, such as glycol, used to lower the freezing point of water;",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Automotive antifreeze, a solution of ethylene glycol, used as an additive to water or replacement for water, in the radiators of motorcars.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Deicer, a heated glycol solution used to remove ice from the aerodynamic surfaces of airplanes, and prevent icing while on the tarmac.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/antifreeze"
+        ]
+    }
+]

@@ -1,0 +1,37 @@
+[
+    {
+        "word": "anlage",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A primordium, the initial clustering of embryonic cells from which a body part develops.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An allele, a specific version of a gene (as used by Gregor Mendel).",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Temperament, the predominant personality type.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anlage"
+        ]
+    }
+]

@@ -1,0 +1,78 @@
+[
+    {
+        "word": "anger",
+        "phonetic": "/\u02c8\u00e6\u014b\u0261\u0259(\u0279)/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6\u014b\u0261\u0259(\u0279)/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6\u014b\u0261\u025a/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anger-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1669272",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A strong feeling of displeasure, hostility or antagonism towards someone or something, usually combined with an urge to harm.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "You need to control your anger."
+                    },
+                    {
+                        "definition": "Pain or stinging.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To cause such a feeling of antagonism in.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "He who angers you conquers you."
+                    },
+                    {
+                        "definition": "To become angry.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "You anger too easily."
+                    }
+                ],
+                "synonyms": [
+                    "angry",
+                    "get",
+                    "aggravate",
+                    "annoy",
+                    "displease",
+                    "enrage",
+                    "grill",
+                    "infuriate",
+                    "irritate",
+                    "vex"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anger"
+        ]
+    }
+]

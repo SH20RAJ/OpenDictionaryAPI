@@ -1,0 +1,39 @@
+[
+    {
+        "word": "amphisbaena",
+        "phonetic": "/\u00e6mf\u026as\u02c8bi\u02d0n\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u00e6mf\u026as\u02c8bi\u02d0n\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A mythical serpent having a head at each end of its body, able to move in either direction.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "1971: What do you call that animal that goes backward and forward, head at each end? \u2014Amphisbaena. A kind of lizard. It doesn't exist. \u2014 Anthony Burgess, M/F (Penguin 2004, p. 109)"
+                    },
+                    {
+                        "definition": "A member of a genus of lizards, native to the Americas, having extremities which are very similar.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amphisbaena"
+        ]
+    }
+]

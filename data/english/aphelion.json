@@ -1,0 +1,40 @@
+[
+    {
+        "word": "aphelion",
+        "phonetic": "/\u00e6p\u02c8hi\u02d0l\u026a\u0259n/",
+        "phonetics": [
+            {
+                "text": "/\u00e6p\u02c8hi\u02d0l\u026a\u0259n/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/aphelion-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=95144096",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The point in the elliptical orbit of a planet, comet, etc., where it is farthest from the Sun.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "perihelion"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aphelion"
+        ]
+    }
+]

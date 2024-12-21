@@ -1,0 +1,34 @@
+[
+    {
+        "word": "angiotensin",
+        "phonetic": "/\u00e6nd\u0292\u026a\u0259\u028a\u02c8t\u025bns\u026an/",
+        "phonetics": [
+            {
+                "text": "/\u00e6nd\u0292\u026a\u0259\u028a\u02c8t\u025bns\u026an/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any of several polypeptides that narrow blood vessels and thus regulate arterial pressure.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "2001: In addition to stimulating the srteries to constrict, angiotensin also acts on the kidneys to suppress urine production, and acts on the brain to stimulate thirst and drinking behaviour. \u2014 Leslie Iversen, Drugs: A Very Short Introduction (Oxford 2001, p. 43)"
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/angiotensin"
+        ]
+    }
+]

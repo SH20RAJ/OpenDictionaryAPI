@@ -1,0 +1,51 @@
+[
+    {
+        "word": "apathetic",
+        "phonetic": "/\u00e6p.\u0259\u02c8\u03b8\u025bt.\u026ak/",
+        "phonetics": [
+            {
+                "text": "/\u00e6p.\u0259\u02c8\u03b8\u025bt.\u026ak/",
+                "audio": ""
+            },
+            {
+                "text": "/\u00e6p.\u0259\u02c8\u03b8\u025bt.\u026ak/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Void of feeling; not susceptible of deep emotion",
+                        "synonyms": [
+                            "indifferent",
+                            "passionless"
+                        ],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Of, or pertaining to apatheism.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "impassive",
+                    "incurious",
+                    "indifferent",
+                    "indifferent",
+                    "passionless"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/apathetic"
+        ]
+    }
+]

@@ -1,0 +1,61 @@
+[
+    {
+        "word": "apocalyptic",
+        "phonetic": "/\u0259\u02c8p\u0252.k\u0259.l\u026ap.t\u026ak/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8p\u0252.k\u0259.l\u026ap.t\u026ak/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "One who predicts apocalypse.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "apocalypticist",
+                    "doomsayer"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of or relating to an apocalypse:",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Portending a future apocalypse (disaster, devastation, or doom).",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Eggcorn of apoplectic.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "He was apocalyptically furious."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "nonapocalyptic"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/apocalyptic"
+        ]
+    }
+]

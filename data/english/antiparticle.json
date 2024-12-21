@@ -1,0 +1,33 @@
+[
+    {
+        "word": "antiparticle",
+        "phonetic": "/\u02c8\u00e6nti\u02ccp\u0251\u0279t\u026ak\u0259l/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6nti\u02ccp\u0251\u0279t\u026ak\u0259l/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A subatomic particle corresponding to another particle with the same mass, spin and mean lifetime but with charge, parity, strangeness and other quantum numbers flipped in sign; a particle that has a reversed world line to another.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/antiparticle"
+        ]
+    }
+]

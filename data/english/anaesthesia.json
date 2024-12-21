@@ -1,0 +1,33 @@
+[
+    {
+        "word": "anaesthesia",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An artificial method of preventing sensation, used to eliminate pain without causing loss of vital functions, by the administration of one or more agents which block pain impulses before transmitted to the brain.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The loss or prevention of sensation, as caused by anesthesia, lesion in the nervous system or other physical abnormality.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anaesthesia",
+            "https://en.wiktionary.org/wiki/anesthesia"
+        ]
+    }
+]

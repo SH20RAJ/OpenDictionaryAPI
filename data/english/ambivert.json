@@ -1,0 +1,42 @@
+[
+    {
+        "word": "ambivert",
+        "phonetic": "/-v\u0259\u02d0t/",
+        "phonetics": [
+            {
+                "text": "/-v\u0259\u02d0t/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ambivert-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=89007370",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u02c8\u00e6mb\u0259\u02ccv\u025at/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A person who is neither clearly extroverted nor introverted, but has characteristics of each.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ambivert"
+        ]
+    }
+]

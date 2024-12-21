@@ -1,0 +1,50 @@
+[
+    {
+        "word": "apotropaic",
+        "phonetic": "/\u02cc\u00e6p\u0259t\u0279\u0259\u02c8pe\u026a.\u026ak/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6p\u0259t\u0279\u0259\u02c8pe\u026a.\u026ak/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/apotropaic-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=89448014",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An agent intended to ward off evil.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(mysticism) Intended to ward off evil.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/apotropaic"
+        ]
+    }
+]

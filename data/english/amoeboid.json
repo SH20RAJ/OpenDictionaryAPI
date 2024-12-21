@@ -1,0 +1,40 @@
+[
+    {
+        "word": "amoeboid",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Resembling, or characteristic of an amoeba",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Single\u2010celled organism that moves or feeds by means of temporary projections, called pseudopods. They are taxonomically classified in a sub\u2010phylum called Sarcodina.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ameboid",
+            "https://en.wiktionary.org/wiki/amoeboid"
+        ]
+    }
+]

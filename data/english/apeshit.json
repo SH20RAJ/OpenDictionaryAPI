@@ -1,0 +1,51 @@
+[
+    {
+        "word": "apeshit",
+        "phonetic": "/\u02c8e\u026ap.\u0283\u026at/",
+        "phonetics": [
+            {
+                "text": "/\u02c8e\u026ap.\u0283\u026at/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/apeshit-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=79241085",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Out of control due to anger or excitement.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "I told him the bad news, and he went apeshit."
+                    },
+                    {
+                        "definition": "Awesome.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "This dope is apeshit."
+                    }
+                ],
+                "synonyms": [
+                    "bananas",
+                    "batshit",
+                    "berserk",
+                    "insane",
+                    "nuts"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/apeshit"
+        ]
+    }
+]

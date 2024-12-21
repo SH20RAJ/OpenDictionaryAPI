@@ -1,0 +1,40 @@
+[
+    {
+        "word": "anting",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anting-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75729508",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u02c8\u00e6nt\u026a\u014b/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The practice of some birds of rubbing live ants or occasionally other items into the feathers, possibly as a means of controlling parasites.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anting"
+        ]
+    }
+]

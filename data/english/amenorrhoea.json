@@ -1,0 +1,35 @@
+[
+    {
+        "word": "amenorrhoea",
+        "phonetic": "/\u0259\u02ccm\u025bn\u0259\u02c8\u0279i\u02d0\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02ccm\u025bn\u0259\u02c8\u0279i\u02d0\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Absence of menstrual discharge.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "nonmenstruation"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amenorrhoea"
+        ]
+    }
+]

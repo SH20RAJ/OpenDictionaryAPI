@@ -1,0 +1,30 @@
+[
+    {
+        "word": "anglophobe",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A person who hates or fears (or has an aversion to) England, its people or anything English.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "Anglophile"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/Anglophobe",
+            "https://en.wiktionary.org/wiki/anglophobe"
+        ]
+    }
+]

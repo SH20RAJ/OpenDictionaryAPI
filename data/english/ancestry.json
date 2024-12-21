@@ -1,0 +1,41 @@
+[
+    {
+        "word": "ancestry",
+        "phonetic": "/\u02c8\u00e6n.s\u025bs.t\u0279i/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6n.s\u025bs.t\u0279i/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Condition as to ancestors; ancestral lineage; hence, birth or honorable descent.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Title and ancestry render a good man more illustrious, but an ill one more contemptible. -Addison."
+                    },
+                    {
+                        "definition": "A series of ancestors or progenitors; lineage, or those who compose the line of natural descent.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "provenance"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ancestry"
+        ]
+    }
+]

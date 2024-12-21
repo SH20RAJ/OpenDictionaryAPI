@@ -1,0 +1,39 @@
+[
+    {
+        "word": "ambience",
+        "phonetic": "/\u02c8\u00e6m.bi.\u0259ns/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6m.bi.\u0259ns/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A particular mood or atmosphere of an environment or surrounding influence.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(3D models) A secondary color of a polygon that becomes more pronounced with shading.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ambiance",
+            "https://en.wiktionary.org/wiki/ambience"
+        ]
+    }
+]

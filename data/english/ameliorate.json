@@ -1,0 +1,56 @@
+[
+    {
+        "word": "ameliorate",
+        "phonetic": "/\u0259\u02c8mi\u02d0li.\u0259\u0279e\u026at/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8mi\u02d0li.\u0259\u0279e\u026at/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ameliorate-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75729420",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u0259\u02c8mi\u02d0li.\u0259\u0279e\u026at/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ameliorate-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=631161",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To make better, or improve, something perceived to be in a negative condition.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "They offered some compromises in an effort to ameliorate the situation."
+                    },
+                    {
+                        "definition": "To become better; improve.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "deteriorate",
+                    "worsen"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ameliorate"
+        ]
+    }
+]

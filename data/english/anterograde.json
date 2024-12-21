@@ -1,0 +1,36 @@
+[
+    {
+        "word": "anterograde",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Effective immediately after a traumatic event such as an external shock.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Anterograde amnesia is a loss of the ability to create new memories after the event that caused the amnesia."
+                    },
+                    {
+                        "definition": "Moving or occurring in the normal forward or downstream direction of.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Anterograde tracing is a research technique which is used to trace neural connections from their source to their point of termination. The opposite technique is retrograde tracing."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "retrograde"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anterograde"
+        ]
+    }
+]

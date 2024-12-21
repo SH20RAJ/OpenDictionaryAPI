@@ -1,0 +1,37 @@
+[
+    {
+        "word": "antiquated",
+        "phonetic": "/\u02c8\u00e6nt\u026a\u02cckwe\u026at\u026ad/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6nt\u026a\u02cckwe\u026at\u026ad/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Old-fashioned, out of date",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "backward",
+                    "disused",
+                    "outdated"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/antiquated"
+        ]
+    }
+]

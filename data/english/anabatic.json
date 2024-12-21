@@ -1,0 +1,34 @@
+[
+    {
+        "word": "anabatic",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(of a warm air current) rising (up a slope)",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Of or pertaining to anabasis",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "katabatic"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anabatic"
+        ]
+    }
+]

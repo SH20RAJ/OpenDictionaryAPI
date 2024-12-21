@@ -1,0 +1,44 @@
+[
+    {
+        "word": "apologia",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/apologia-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=90981038",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u02cc\u00e6p.\u0259\u02c8lo\u028a.d\u0292i.\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A written defense of a position or belief.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Although I've enumerated some of the academic traditions and debates that have animated this book, it is not my purpose to offer a full apologia in these brief pages. - 1999 Preface from \"Gender Trouble\" by Judith Butler"
+                    }
+                ],
+                "synonyms": [
+                    "apologism",
+                    "apology"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/apologia"
+        ]
+    }
+]

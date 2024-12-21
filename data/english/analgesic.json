@@ -1,0 +1,56 @@
+[
+    {
+        "word": "analgesic",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/analgesic-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75729433",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u02cc\u00e6n.l\u0329\u02c8d\u0292i\u02d0.s\u026ak/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02cc\u00e6n.l\u0329\u02c8d\u0292i\u02d0.s\u026ak/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any medicine, such as aspirin, that reduces pain, especially without inducing a loss of other sensation. (Contrast anesthetic.)",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(pharmaceutical effect) Of or relating to analgesia; anodyne.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/analgesic"
+        ]
+    }
+]

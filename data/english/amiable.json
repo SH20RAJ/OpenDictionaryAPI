@@ -1,0 +1,47 @@
+[
+    {
+        "word": "amiable",
+        "phonetic": "/\u02c8e\u026a.mi.\u0259.b\u0259l/",
+        "phonetics": [
+            {
+                "text": "/\u02c8e\u026a.mi.\u0259.b\u0259l/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/amiable-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75729423",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Friendly; kind; sweet; gracious",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "amiable ideas"
+                    },
+                    {
+                        "definition": "Of a pleasant and likeable nature; kind-hearted; easy to like",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "an amiable person"
+                    }
+                ],
+                "synonyms": [
+                    "likable"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amiable"
+        ]
+    }
+]

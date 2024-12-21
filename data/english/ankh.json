@@ -1,0 +1,51 @@
+[
+    {
+        "word": "ankh",
+        "phonetic": "/\u00e6\u014bk/",
+        "phonetics": [
+            {
+                "text": "/\u00e6\u014bk/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0251\u014bk/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ankh-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=6502952",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A cross shaped like a T with a loop at the top, the Egyptian hieroglyph representing the Egyptian triliteral \ua725n\u1e2b and often used as an amulet or charm for this concept.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Tau cross",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "Egyptian cross",
+                    "ansate cross",
+                    "crux ansata"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ankh"
+        ]
+    }
+]

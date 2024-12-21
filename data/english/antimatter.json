@@ -1,0 +1,38 @@
+[
+    {
+        "word": "antimatter",
+        "phonetic": "/\u02c8\u00e6n.ta\u026a.m\u00e6\u02cct\u025a/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6n.ta\u026a.m\u00e6\u02cct\u025a/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Matter that is composed of the antiparticles of those that constitute normal matter.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A form of matter that has a key property, such as charge, opposite to that of ordinary matter.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/antimatter"
+        ]
+    }
+]

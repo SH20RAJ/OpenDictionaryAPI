@@ -1,0 +1,55 @@
+[
+    {
+        "word": "antisocial",
+        "phonetic": "/\u02cc\u00e6nta\u026a\u02c8so\u028a\u0283\u0259l/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6nta\u026a\u02c8so\u028a\u0283\u0259l/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An antisocial individual.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Unwilling or unable to cooperate and associate normally with other people",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Antagonistic, hostile, or unfriendly toward others; menacing",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Opposed to social order or the principles of society; hostile toward society",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/antisocial"
+        ]
+    }
+]

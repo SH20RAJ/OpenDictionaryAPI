@@ -1,0 +1,33 @@
+[
+    {
+        "word": "amatory",
+        "phonetic": "/\u02c8a.m\u0259.t\u0259.\u0279i/",
+        "phonetics": [
+            {
+                "text": "/\u02c8a.m\u0259.t\u0259.\u0279i/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of or relating to love, especially sexual love.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amatory"
+        ]
+    }
+]

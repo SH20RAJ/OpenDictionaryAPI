@@ -1,0 +1,48 @@
+[
+    {
+        "word": "anonym",
+        "phonetic": "/\u02c8\u00e6n.\u0259.n\u026am/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6n.\u0259.n\u026am/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anonym.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=685468",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An anonymous person.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An assumed or false name; a pseudonym.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A mere name; a name resting upon no diagnosis or other recognized basis.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anonym"
+        ]
+    }
+]

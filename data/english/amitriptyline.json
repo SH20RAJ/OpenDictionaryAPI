@@ -1,0 +1,33 @@
+[
+    {
+        "word": "amitriptyline",
+        "phonetic": "/\u00e6m\u026a\u02c8t\u0279\u026apt\u026ali\u02d0n/",
+        "phonetics": [
+            {
+                "text": "/\u00e6m\u026a\u02c8t\u0279\u026apt\u026ali\u02d0n/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An antidepressant drug; a tablet containing this drug.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amitriptyline"
+        ]
+    }
+]

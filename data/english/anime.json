@@ -1,0 +1,80 @@
+[
+    {
+        "word": "anime",
+        "phonetic": "/\u02c8\u00e6n.\u026a.me\u026a/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6n.\u026a.me\u026a/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6n.\u026a.me\u026a/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anime-1-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=7435789"
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An artistic style originating in, and associated with, Japanese animation, and that has also been adopted by a comparatively low number of animated works from other countries.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "I can draw an anime version of you, if you want."
+                    },
+                    {
+                        "definition": "An animated work that originated in Japan, regardless of the artistic style.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An animated work, regardless of the country of origin.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "Japanimation",
+                    "Japanime"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anime"
+        ]
+    },
+    {
+        "word": "anime",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The resin of the courbaril (Hymenaea courbaril), used in varnishes.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "courbaril"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anim%C3%A9",
+            "https://en.wiktionary.org/wiki/anime"
+        ]
+    }
+]

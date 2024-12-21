@@ -1,0 +1,37 @@
+[
+    {
+        "word": "aortic",
+        "phonetic": "/e\u02c8o\u0279.t\u026ak/",
+        "phonetics": [
+            {
+                "text": "/e\u02c8o\u0279.t\u026ak/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of or pertaining to the aorta or the aortic valve.",
+                        "synonyms": [
+                            "aortal"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "aortal"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aortic"
+        ]
+    }
+]

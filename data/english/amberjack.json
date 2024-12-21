@@ -1,0 +1,33 @@
+[
+    {
+        "word": "amberjack",
+        "phonetic": "/\u02c8\u00e6m.b\u025a.d\u0292\u00e6k/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6m.b\u025a.d\u0292\u00e6k/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any of several large food and game yellowtail fishes of the genus Seriola, found in warm waters of all oceans.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amberjack"
+        ]
+    }
+]

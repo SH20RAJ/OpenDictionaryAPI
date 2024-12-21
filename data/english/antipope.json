@@ -1,0 +1,33 @@
+[
+    {
+        "word": "antipope",
+        "phonetic": "/\u02c8ant\u026ap\u0259\u028ap/",
+        "phonetics": [
+            {
+                "text": "/\u02c8ant\u026ap\u0259\u028ap/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A person who claims or claimed to be the pope, usually as the result of a disputed election or deposition, but is not considered by the Roman Catholic Church to be the real pope.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/antipope"
+        ]
+    }
+]

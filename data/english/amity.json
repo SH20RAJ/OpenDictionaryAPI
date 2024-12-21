@@ -1,0 +1,45 @@
+[
+    {
+        "word": "amity",
+        "phonetic": "/\u02c8\u00e6.m\u026a.ti/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6.m\u026a.ti/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Friendship. The cooperative and supportive relationship between people, or animals. In this sense, the term connotes a relationship which involves mutual knowledge, esteem, affection, and respect along with a degree of rendering service to friends in times of need or crisis.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Mutual understanding and a peaceful relationship, especially between nations; peace; accord.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "friendliness",
+                    "friendship"
+                ],
+                "antonyms": [
+                    "enemyship",
+                    "enmity",
+                    "hostility"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amity"
+        ]
+    }
+]

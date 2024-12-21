@@ -1,0 +1,43 @@
+[
+    {
+        "word": "apiece",
+        "phonetic": "/\u0259\u02c8pi\u02d0s/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8pi\u02d0s/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8pis/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/apiece-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1769297",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "Each by itself; for or to each one",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "These melons cost a dollar apiece."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/apiece"
+        ]
+    }
+]

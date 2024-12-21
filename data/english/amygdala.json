@@ -1,0 +1,42 @@
+[
+    {
+        "word": "amygdala",
+        "phonetic": "/\u0259\u02c8m\u026a\u0261.d\u0259.l\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8m\u026a\u0261.d\u0259.l\u0259/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8m\u026a\u0261.d\u0259.l\u0259/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/amygdala-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=10882331",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The region of the brain, located in the medial temporal lobe, believed to play a key role in the emotions, such as fear and pleasure, in both animals and humans.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amygdala"
+        ]
+    }
+]

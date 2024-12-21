@@ -1,0 +1,28 @@
+[
+    {
+        "word": "anthozoa",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A member of the class Anthozoa, comprising marine invertebrates including corals and sea anemones.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anthozoa",
+            "https://en.wiktionary.org/wiki/anthozoon"
+        ]
+    }
+]

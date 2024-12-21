@@ -1,0 +1,33 @@
+[
+    {
+        "word": "appealable",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(of a verdict etc.) That may be appealed, or sent to a higher court for judgement",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "That may be accused or called to answer by appeal.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "a criminal is appealable for manslaughter"
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/appealable"
+        ]
+    }
+]

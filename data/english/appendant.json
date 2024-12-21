@@ -1,0 +1,61 @@
+[
+    {
+        "word": "appendant",
+        "phonetic": "/\u0259\u02c8p\u025bnd\u0259nt/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8p\u025bnd\u0259nt/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Anything attached to something else as incidental or subordinate to it.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An inheritance annexed by prescription to a superior inheritance.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Attached as an appendage",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Annexed; concomitant",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "a seal appendant to a paper"
+                    },
+                    {
+                        "definition": "Appended by prescription, that is, a personal usage for a considerable time; said of a thing of inheritance belonging to another inheritance which is superior or more worthy; as, an advowson, common, etc., which may be appendant to a manor, common of fishing to a freehold, a seat in church to a house.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/appendant"
+        ]
+    }
+]

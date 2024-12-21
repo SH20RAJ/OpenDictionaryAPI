@@ -1,0 +1,46 @@
+[
+    {
+        "word": "anapaest",
+        "phonetic": "/\u02c8\u00e6.n\u0259.pi\u02d0st/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6.n\u0259.pi\u02d0st/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "In qualitative metre, a metrical foot consisting of three syllables, two unstressed and one stressed (e.g., the word \"interrupt\").",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "In quantitative metre, a metrical foot consisting of three syllables, two short and one long (e.g., the word \"velveteen\").",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A fragment, phrase or line of poetry or verse using this meter, e.g.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "antidactylus"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anapaest",
+            "https://en.wiktionary.org/wiki/anapest"
+        ]
+    }
+]

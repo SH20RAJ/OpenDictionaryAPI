@@ -1,0 +1,44 @@
+[
+    {
+        "word": "ambit",
+        "phonetic": "/\u02c8\u00e6mb\u026at/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6mb\u026at/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ambit-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=80175035"
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The sphere or area of control and influence of something.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A circuit, or a boundary around a property.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The extent of actions, thoughts, or the meaning of words, etc.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ambit"
+        ]
+    }
+]

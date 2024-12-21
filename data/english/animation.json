@@ -1,0 +1,75 @@
+[
+    {
+        "word": "animation",
+        "phonetic": "/\u00e6n.\u0259\u02c8me\u026a.\u0283\u0259n/",
+        "phonetics": [
+            {
+                "text": "/\u00e6n.\u0259\u02c8me\u026a.\u0283\u0259n/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/animation-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=2453369",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The act of animating, or giving life or spirit.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(in the sense of a cartoon) The technique of making inanimate objects or drawings appear to move in motion pictures or computer graphics; the object (film, computer game, etc.) so produced",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The state of being lively, brisk, or full of spirit and vigor; vivacity; spiritedness",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "He recited the story with great animation."
+                    },
+                    {
+                        "definition": "The condition of being animate or alive.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Conversion from the inanimate to animate grammatical category",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "enlivenment",
+                    "vitalization",
+                    "vivification",
+                    "life",
+                    "airiness",
+                    "ardor",
+                    "buoyancy",
+                    "earnestness",
+                    "energy",
+                    "enthusiasm",
+                    "liveliness",
+                    "promptitude",
+                    "spirit",
+                    "sprightliness",
+                    "vivacity"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/animation"
+        ]
+    }
+]

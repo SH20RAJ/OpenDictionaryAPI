@@ -1,0 +1,48 @@
+[
+    {
+        "word": "anastomosis",
+        "phonetic": "/\u0259n\u00e6st\u0259\u02c8m\u0259\u028as\u026as/",
+        "phonetics": [
+            {
+                "text": "/\u0259n\u00e6st\u0259\u02c8m\u0259\u028as\u026as/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A cross-connection between two blood vessels.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An interconnection between any two channels, passages or vessels.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The surgical creation of a connecting passage between blood vessels, bowels or other channels.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The insertion of one word within another, as in \"underdarkneath\" (James Joyce).",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anastomosis"
+        ]
+    }
+]

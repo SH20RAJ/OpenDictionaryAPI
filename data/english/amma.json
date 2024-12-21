@@ -1,0 +1,64 @@
+[
+    {
+        "word": "amma",
+        "phonetic": "/\u02c8\u00e6m\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6m\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Mother",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amma"
+        ]
+    },
+    {
+        "word": "amma",
+        "phonetic": "/\u02c8\u00e6m\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6m\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An abbess or spiritual mother.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amma"
+        ]
+    }
+]

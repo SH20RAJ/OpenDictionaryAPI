@@ -1,0 +1,61 @@
+[
+    {
+        "word": "apolitical",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A person with no involvement or no interest in politics.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An unbiased candidate or voter, free of a party platform.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A neutral or uncommitted person.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Having no interest or involvement in politics.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The Queen is an apolitical figure."
+                    },
+                    {
+                        "definition": "Having no political relevance or function.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The PM's visit to the school was entirely apolitical."
+                    },
+                    {
+                        "definition": "Politically neutral, unbiased, non-aligned, free from party politics",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/apolitical"
+        ]
+    }
+]

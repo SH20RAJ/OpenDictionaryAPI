@@ -1,0 +1,73 @@
+[
+    {
+        "word": "anglo",
+        "phonetic": "/\u02c8\u00e6\u014b.\u0261l\u0259\u0289/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6\u014b.\u0261l\u0259\u0289/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anglo-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75266875",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u02c8a\u014b.\u0261l\u0259\u028a/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6\u014b.\u0261lo/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An English person or person of English ancestry.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Back when we went to the World Cup in South Africa, we saw many anglos waving English flags."
+                    },
+                    {
+                        "definition": "(sometimes offensive) an American, especially a white one (regardless of actual ethnicity), whose native language is English (as opposed to Americans for who have another native language).",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "I'm not an \"anglo\"; my grandparents are from Lithuania."
+                    },
+                    {
+                        "definition": "An Anglo-Australian (as opposed to Australians of Mediterranean or Middle Eastern background).",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An English-speaking Quebecer.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A white-skinned person.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A British person or person of British ancestry.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anglo"
+        ]
+    }
+]

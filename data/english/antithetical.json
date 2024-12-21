@@ -1,0 +1,28 @@
+[
+    {
+        "word": "antithetical",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Pertaining to antithesis, or opposition of words and sentiments; containing, or of the nature of, antithesis; contrasted.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "His wrong-headed beliefs are antithetical to everything we stand for as a community."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/antithetical"
+        ]
+    }
+]

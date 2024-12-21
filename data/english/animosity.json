@@ -1,0 +1,40 @@
+[
+    {
+        "word": "animosity",
+        "phonetic": "/\u00e6n.\u0259\u02c8m\u0251s.\u026a.ti/",
+        "phonetics": [
+            {
+                "text": "/\u00e6n.\u0259\u02c8m\u0251s.\u026a.ti/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Violent hatred leading to active opposition; active enmity; energetic dislike.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "acrimony",
+                    "enmity",
+                    "hatred",
+                    "opposition"
+                ],
+                "antonyms": [
+                    "peace"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/animosity"
+        ]
+    }
+]

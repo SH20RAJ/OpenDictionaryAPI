@@ -1,0 +1,34 @@
+[
+    {
+        "word": "appellee",
+        "phonetic": "/\u02c8\u00e6p\u0259li/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6p\u0259li/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A respondent.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "After winning in the lower court, the appellee hoped she would win again in the appeals court."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/appellee"
+        ]
+    }
+]

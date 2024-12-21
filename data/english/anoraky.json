@@ -1,0 +1,28 @@
+[
+    {
+        "word": "anoraky",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Obsessively absorbed in a subject, especially an unusual or obscure subject.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anorakish",
+            "https://en.wiktionary.org/wiki/anoraky"
+        ]
+    }
+]

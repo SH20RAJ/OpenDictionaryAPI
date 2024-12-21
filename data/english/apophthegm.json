@@ -1,0 +1,34 @@
+[
+    {
+        "word": "apophthegm",
+        "phonetic": "/\u02c8\u00e6p.\u0259.\u03b8\u025bm/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6p.\u0259.\u03b8\u025bm/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A short, witty, instructive saying; an aphorism or maxim.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/apophthegm",
+            "https://en.wiktionary.org/wiki/apothegm"
+        ]
+    }
+]

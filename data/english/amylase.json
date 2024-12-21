@@ -1,0 +1,34 @@
+[
+    {
+        "word": "amylase",
+        "phonetic": "/\u02c8\u00e6m\u026ale\u026as/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6m\u026ale\u026as/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any of a class of digestive enzymes, present in saliva, that break down complex carbohydrates such as starch into simpler sugars such as glucose.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "egg yolk amylase"
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amylase"
+        ]
+    }
+]

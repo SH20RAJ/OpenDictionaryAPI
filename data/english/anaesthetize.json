@@ -1,0 +1,29 @@
+[
+    {
+        "word": "anaesthetize",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To administer anesthesia to: to render unfeeling or unconscious through the use of narcotic substances, usually either alcohol or pharmaceutical drugs.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Just prior to surgery the doctor will anesthetize him and he will sleep for four hours."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anaesthetize",
+            "https://en.wiktionary.org/wiki/anesthetize"
+        ]
+    }
+]

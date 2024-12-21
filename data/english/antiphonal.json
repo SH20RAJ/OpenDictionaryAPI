@@ -1,0 +1,58 @@
+[
+    {
+        "word": "antiphonal",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/antiphonal-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1321818",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A book of antiphons or anthems sung or chanted at a liturgy; an antiphonary or antiphoner.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An antiphon; a piece sung or chanted in an antiphonal manner.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "antiphonar",
+                    "antiphonary",
+                    "antiphoner"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Characterized by antiphones or antiphony; incorporating alternate, or responsive singing by a choir split into two parts.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The antiphonal hymn was sung regularly at church."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/antiphonal"
+        ]
+    }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "word": "anastomose",
+        "phonetic": "/\u0259\u02c8n\u00e6s.t\u0259\u02ccmo\u028az/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8n\u00e6s.t\u0259\u02ccmo\u028az/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "(of streams and rivers, blood vessels, etc) To join (two or more things) by anastomosis, to interconnect forming a network.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(of rivers, blood vessels, etc) To join by anastomosis.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "interconnect",
+                    "interjoin"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Joined or run together. Interconnected",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(of rivers, etc) Joined or run together, ramified, interconnected",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anastomose"
+        ]
+    }
+]

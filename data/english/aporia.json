@@ -1,0 +1,46 @@
+[
+    {
+        "word": "aporia",
+        "phonetic": "/\u0259\u02c8p\u0254\u02d0\u0279\u026a\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8p\u0254\u02d0\u0279\u026a\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An expression of deliberation with oneself regarding uncertainty or doubt as to how to proceed.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(post-structuralism) An insoluble contradiction in a text's meaning; a logical impasse suggested by a text or speaker.",
+                        "synonyms": [
+                            "contradiction",
+                            "impasse",
+                            "paradox"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "contradiction",
+                    "impasse",
+                    "paradox"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aporia"
+        ]
+    }
+]

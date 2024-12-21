@@ -1,0 +1,28 @@
+[
+    {
+        "word": "amoxycillin",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A moderate-spectrum, bacteriolytic beta-lactam antibiotic used to treat bacterial infections caused by susceptible microorganisms, with formula C16H19N3O5S.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amoxicillin",
+            "https://en.wiktionary.org/wiki/amoxycillin"
+        ]
+    }
+]

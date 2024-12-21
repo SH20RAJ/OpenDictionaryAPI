@@ -1,0 +1,39 @@
+[
+    {
+        "word": "anisotropic",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anisotropic-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=685464",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Having properties that differ according to the direction of measurement; exhibiting anisotropy.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The crystal has an anisotropic structure, as it is stronger along its length than laterally."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "isotropic"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anisotropic"
+        ]
+    }
+]

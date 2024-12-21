@@ -1,0 +1,33 @@
+[
+    {
+        "word": "anaerobe",
+        "phonetic": "/\u02c8\u00e6n\u0259\u02cc\u0279o\u028ab/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6n\u0259\u02cc\u0279o\u028ab/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An anaerobic organism; one that does not require oxygen to sustain its metabolic processes.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anaerobe"
+        ]
+    }
+]

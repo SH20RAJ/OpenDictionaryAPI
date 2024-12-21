@@ -1,0 +1,36 @@
+[
+    {
+        "word": "answerphone",
+        "phonetic": "/\u02c8\u00e6n.s\u0259\u02ccf\u0259\u028an/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6n.s\u0259\u02ccf\u0259\u028an/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A telephone containing a built-in device for recording incoming callers\u2019 messages for later retrieval.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "I keep trying to call her, but all I get is the answerphone."
+                    }
+                ],
+                "synonyms": [
+                    "answering machine"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/answerphone"
+        ]
+    }
+]

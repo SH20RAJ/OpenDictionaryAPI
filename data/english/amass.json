@@ -1,0 +1,84 @@
+[
+    {
+        "word": "amass",
+        "phonetic": "/\u0259\u02c8m\u00e6s/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8m\u00e6s/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8m\u00e6s/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/amass-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=50284257",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A large number of things collected or piled together.",
+                        "synonyms": [
+                            "heap",
+                            "mass",
+                            "pile"
+                        ],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The act of amassing.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "heap",
+                    "mass",
+                    "pile"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To collect into a mass or heap.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To gather a great quantity of; to accumulate.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "to amass a treasure or a fortune"
+                    }
+                ],
+                "synonyms": [
+                    "heap up",
+                    "mound",
+                    "pile",
+                    "pile up",
+                    "stack up",
+                    "accumulate",
+                    "amound",
+                    "collect",
+                    "gather",
+                    "hoard"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amass"
+        ]
+    }
+]

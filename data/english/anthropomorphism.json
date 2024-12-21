@@ -1,0 +1,38 @@
+[
+    {
+        "word": "anthropomorphism",
+        "phonetic": "/\u02cc\u00e6n\u03b8\u0279\u0259p\u0259\u02c8m\u0254\u0279f\u026az\u0259m/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6n\u03b8\u0279\u0259p\u0259\u02c8m\u0254\u0279f\u026az\u0259m/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The attribution of human characteristics and behavior to something not human.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The attribution of human characteristics to divine beings",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anthropomorphism"
+        ]
+    }
+]

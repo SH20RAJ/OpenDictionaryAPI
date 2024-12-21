@@ -1,0 +1,40 @@
+[
+    {
+        "word": "anisogamy",
+        "phonetic": "/\u00e6na\u026a\u02c8s\u0252\u0261\u0259mi/",
+        "phonetics": [
+            {
+                "text": "/\u00e6na\u026a\u02c8s\u0252\u0261\u0259mi/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A form of sexual bonding involving partners of unusually widely differing ages.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Sexual reproduction involving the union or fusion of two dissimilar gametes.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "heterogamy"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anisogamy"
+        ]
+    }
+]

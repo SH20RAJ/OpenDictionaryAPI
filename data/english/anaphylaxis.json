@@ -1,0 +1,32 @@
+[
+    {
+        "word": "anaphylaxis",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Extreme sensitivity to a substance such as a foreign protein or drug.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A severe and rapid systemic allergic reaction to an allergen, causing a constriction of the trachea, preventing breathing; anaphylactic shock.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anaphylaxis"
+        ]
+    }
+]

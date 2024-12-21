@@ -1,0 +1,40 @@
+[
+    {
+        "word": "amiability",
+        "phonetic": "/e\u026a.mi.\u028c\u02c8b\u026al.\u0259.ti/",
+        "phonetics": [
+            {
+                "text": "/e\u026a.mi.\u028c\u02c8b\u026al.\u0259.ti/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Friendliness, especially easy approachability owing to a cheerful and pleasant disposition.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "affability",
+                    "amicability",
+                    "approachability",
+                    "cordiality",
+                    "douceur",
+                    "friendliness"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amiability"
+        ]
+    }
+]

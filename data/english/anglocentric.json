@@ -1,0 +1,29 @@
+[
+    {
+        "word": "anglocentric",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Focused on England or the people and culture of England.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "These guys are so Anglocentric that they aren't even sure where France is!"
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/Anglocentric",
+            "https://en.wiktionary.org/wiki/anglocentric"
+        ]
+    }
+]

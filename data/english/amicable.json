@@ -1,0 +1,39 @@
+[
+    {
+        "word": "amicable",
+        "phonetic": "/\u02c8\u00e6.m\u0268.k\u0259.b\u0259l/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6.m\u0268.k\u0259.b\u0259l/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/amicable-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=685456",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Showing friendliness or goodwill.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "He was an amicable fellow with an easy smile."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amicable"
+        ]
+    }
+]

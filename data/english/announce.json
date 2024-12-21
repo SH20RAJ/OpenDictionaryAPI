@@ -1,0 +1,61 @@
+[
+    {
+        "word": "announce",
+        "phonetic": "/\u0259\u02c8na\u028ans/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8na\u028ans/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8na\u028ans/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To give public notice, especially for the first time; to make known",
+                        "synonyms": [
+                            "declare",
+                            "herald",
+                            "make known",
+                            "proclaim",
+                            "promulgate",
+                            "publish"
+                        ],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To pronounce; to declare by judicial sentence",
+                        "synonyms": [
+                            "abjudicate",
+                            "judge"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "abjudicate",
+                    "judge",
+                    "declare",
+                    "herald",
+                    "make known",
+                    "proclaim",
+                    "promulgate",
+                    "publish"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/announce"
+        ]
+    }
+]

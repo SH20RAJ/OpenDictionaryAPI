@@ -1,0 +1,33 @@
+[
+    {
+        "word": "ansatz",
+        "phonetic": "/\u02c8\u00e6ns\u00e6ts/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6ns\u00e6ts/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A mathematical assumption used to describe a certain phenomenon, posited in order to help provisionally solve an equation or other problem.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ansatz"
+        ]
+    }
+]

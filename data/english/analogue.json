@@ -1,0 +1,53 @@
+[
+    {
+        "word": "analogue",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Something that bears an analogy to something else",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An organ or structure that is similar in function to one in another kind of organism but is of dissimilar evolutionary origin",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A structural derivative of a parent compound that often differs from it by a single element",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(of a device or system) in which the value of a data item (such as time) is represented by a continuous(ly) variable physical quantity that can be measured (such as the shadow of a sundial)",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "digital",
+                    "discrete"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/analog",
+            "https://en.wiktionary.org/wiki/analogue"
+        ]
+    }
+]

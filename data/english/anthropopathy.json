@@ -1,0 +1,33 @@
+[
+    {
+        "word": "anthropopathy",
+        "phonetic": "/\u02cc\u00e6n\u03b8\u0279\u0259\u02c8p\u0252p\u0259\u03b8i/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6n\u03b8\u0279\u0259\u02c8p\u0252p\u0259\u03b8i/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The attribution of human emotions to a god.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anthropopathy"
+        ]
+    }
+]

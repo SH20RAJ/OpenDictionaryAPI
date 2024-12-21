@@ -1,0 +1,37 @@
+[
+    {
+        "word": "antipathetic",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Having or showing a strong aversion or repugnance",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Opposed in nature or character; antagonistic",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Causing a feeling of antipathy; repugnant",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/antipathetic"
+        ]
+    }
+]

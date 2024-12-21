@@ -1,0 +1,36 @@
+[
+    {
+        "word": "anteroposterior",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Anterior to posterior; front-to-back.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "anteroposterior movement"
+                    },
+                    {
+                        "definition": "Of or pertaining to the relation between anterior and posterior.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "the anteroposterior axis"
+                    }
+                ],
+                "synonyms": [
+                    "AP"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anteroposterior"
+        ]
+    }
+]

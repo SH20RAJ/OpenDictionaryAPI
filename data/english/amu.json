@@ -1,0 +1,30 @@
+[
+    {
+        "word": "amu",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A unit of mass equal to 1/12 the mass of an atom of the 12C isotope of carbon.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "dalton"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amu",
+            "https://en.wiktionary.org/wiki/atomic%20mass%20unit"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "word": "anonymously",
+        "phonetic": "/\u0259\u02c8n\u0252n\u0259m\u0259sli/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8n\u0252n\u0259m\u0259sli/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "In an anonymous manner; without a name.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anonymously"
+        ]
+    }
+]

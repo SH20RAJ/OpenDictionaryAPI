@@ -1,0 +1,38 @@
+[
+    {
+        "word": "anharmonic",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Not harmonic. Inharmonic.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Exhibiting anharmonicity",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "An anharmonic oscillator is a perturbed version of a harmonic oscillator."
+                    },
+                    {
+                        "definition": "Describing the section of a line by four points, A, B, C, D, when their mutual distances are such that AB divided by CB is not equal to AD divided by CD.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anharmonic"
+        ]
+    }
+]

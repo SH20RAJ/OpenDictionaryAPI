@@ -1,0 +1,38 @@
+[
+    {
+        "word": "antihistamine",
+        "phonetic": "/\u02cc\u00e6n.ta\u026a\u02c8h\u026as.t\u0259.mi\u02d0n/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6n.ta\u026a\u02c8h\u026as.t\u0259.mi\u02d0n/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/antihistamine-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=60301028",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A drug or substance that counteracts the effects of a histamine. Commonly used to alleviate the symptoms of hay fever and other allergies.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/antihistamine"
+        ]
+    }
+]

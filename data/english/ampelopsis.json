@@ -1,0 +1,33 @@
+[
+    {
+        "word": "ampelopsis",
+        "phonetic": "/amp\u026a\u02c8l\u0252ps\u026as/",
+        "phonetics": [
+            {
+                "text": "/amp\u026a\u02c8l\u0252ps\u026as/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A vine of the genus Ampelopsis",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ampelopsis"
+        ]
+    }
+]

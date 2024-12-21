@@ -1,0 +1,49 @@
+[
+    {
+        "word": "anxiolytic",
+        "phonetic": "/\u02cc\u00e6\u014bksi\u0259\u02c8l\u026at\u026ak/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6\u014bksi\u0259\u02c8l\u026at\u026ak/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A drug prescribed for the treatment of symptoms of anxiety.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "anxiogenic"
+                ]
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(pharmaceutical effect) That reduces anxiety; tranquilizing",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "anxiogenic"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anxiolytic"
+        ]
+    }
+]

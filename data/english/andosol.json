@@ -1,0 +1,28 @@
+[
+    {
+        "word": "andosol",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A kind of soil formed in volcanic ash and containing high proportions of glass and amorphous colloidal materials, including allophane, imogolite and ferrihydrite.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/andisol",
+            "https://en.wiktionary.org/wiki/andosol"
+        ]
+    }
+]

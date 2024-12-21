@@ -1,0 +1,33 @@
+[
+    {
+        "word": "aposematic",
+        "phonetic": "/-s\u025b-/",
+        "phonetics": [
+            {
+                "text": "/-s\u025b-/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(of a coloration or marking) That serves as a warning to predators, as of toxicity, especially falsely.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aposematic"
+        ]
+    }
+]

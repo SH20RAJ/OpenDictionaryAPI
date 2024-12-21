@@ -1,0 +1,28 @@
+[
+    {
+        "word": "anecdotally",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "In an anecdotal manner; by means of a recounted incident.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "As it was an informal hearing, the evidence was presented anecdotally."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anecdotally"
+        ]
+    }
+]

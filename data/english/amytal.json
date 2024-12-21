@@ -1,0 +1,32 @@
+[
+    {
+        "word": "amytal",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A barbiturate derivative, a bitter-tasting odourless white powder with sedative-hypnotic and analgesic properties.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "amylobarbitone",
+                    "amytal",
+                    "sodium amytal"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amobarbital",
+            "https://en.wiktionary.org/wiki/amytal"
+        ]
+    }
+]

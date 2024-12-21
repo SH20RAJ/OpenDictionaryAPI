@@ -1,0 +1,40 @@
+[
+    {
+        "word": "amaretti",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A sweet-bitter liqueur originating from Italy (but also produced in Turkey), flavored with almonds and a secret blend-specific mix of some 200 ingredients such as the pits from apricots, peaches, cherries or other stone fruits.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Amaretto makes a fine digestive."
+                    },
+                    {
+                        "definition": "A glass of that liqueur.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Gino has an amaretto on the porch after every elaborate meal."
+                    },
+                    {
+                        "definition": "A light Italian cookie made with almonds.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amaretti",
+            "https://en.wiktionary.org/wiki/amaretto"
+        ]
+    }
+]

@@ -1,0 +1,40 @@
+[
+    {
+        "word": "americano",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A drink made of espresso coffee diluted with hot water",
+                        "synonyms": [
+                            "cafe americano",
+                            "caff\u00e8 americano",
+                            "coffee americano"
+                        ],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A cocktail made with Campari, sweet vermouth, and club soda",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "cafe americano",
+                    "caff\u00e8 americano",
+                    "coffee americano"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/americano"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "word": "amine",
+        "phonetic": "/\u0259\u02c8.mi\u02d0n/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8.mi\u02d0n/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8.mi\u02d0n/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A functional group formally derived from ammonia by replacing one, two or three hydrogen atoms with hydrocarbon or other radicals.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Any organic compound containing an amine functional group.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amine"
+        ]
+    }
+]

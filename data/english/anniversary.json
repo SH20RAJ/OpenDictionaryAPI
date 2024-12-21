@@ -1,0 +1,56 @@
+[
+    {
+        "word": "anniversary",
+        "phonetic": "/\u02cc\u00e6n\u026a\u02c8v\u025c\u02d0s(\u0259)\u0279i/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6n\u026a\u02c8v\u025c\u02d0s(\u0259)\u0279i/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anniversary-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=9014252",
+                "license": {
+                    "name": "BY 3.0 US",
+                    "url": "https://creativecommons.org/licenses/by/3.0/us"
+                }
+            },
+            {
+                "text": "/\u02cc\u00e6n\u0259\u02c8v\u025ds(\u0259)\u0279i/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anniversary-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1769592",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A day that is an exact number of years (to the day) since a given significant event occurred. Often preceded by an ordinal number indicating the number of years.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Today is the fiftieth anniversary of the end of the war."
+                    },
+                    {
+                        "definition": "(loosely) A day subsequent in time to a given event by some significant period other than a year (especially as prefixed by the amount of time in question).",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "yearday",
+                    "yeartide"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anniversary"
+        ]
+    }
+]

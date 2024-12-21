@@ -1,0 +1,30 @@
+[
+    {
+        "word": "apodosis",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "(grammar) The consequential clause in a conditional sentence.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "In \"I will be coming if this weather holds up\", \"I will be coming\" is the apodosis."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "protasis"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/apodosis"
+        ]
+    }
+]

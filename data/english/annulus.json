@@ -1,0 +1,59 @@
+[
+    {
+        "word": "annulus",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A ring- or donut-shaped area or structure.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The region in a plane between two concentric circles of different radii.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Any topological space homeomorphic to the region in a plane between two concentric circles of different radius.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The ring of the sun not covered by the moon in an annular solar eclipse.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Structure in a fern that consists of differentially thick-walled cells on a sporangium that bend and distort as a result of drying.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The membranous remnants of a partial veil which leaves a ring on the stem of a mushroom.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(oil and gas production) The space contained between the centre well bore and any external tubing. Sometimes used for separated gas flow.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "cylinder"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/annulus"
+        ]
+    }
+]

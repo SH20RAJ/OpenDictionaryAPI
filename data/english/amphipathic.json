@@ -1,0 +1,44 @@
+[
+    {
+        "word": "amphipathic",
+        "phonetic": "/\u02ccam.f\u026a\u02c8pa\u03b8.\u026ak/",
+        "phonetics": [
+            {
+                "text": "/\u02ccam.f\u026a\u02c8pa\u03b8.\u026ak/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02cc\u00e6m.f\u0259\u02c8p\u00e6.\u03b8\u026ak/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Describing a molecule, such as a detergent, which has both hydrophobic and hydrophilic groups.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Of the surface(s) on a protein, particularly an alpha helix, where one surface of the alpha helix has hydrophilic amino acids and the opposite face has hydrophobic (or lipophilic) amino acids.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "amphiphilic"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amphipathic"
+        ]
+    }
+]

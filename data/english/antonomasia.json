@@ -1,0 +1,42 @@
+[
+    {
+        "word": "antonomasia",
+        "phonetic": "/\u00e6n\u02cct\u0252n\u0259\u028a\u02c8me\u026az\u026a\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u00e6n\u02cct\u0252n\u0259\u028a\u02c8me\u026az\u026a\u0259/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02cc\u00e6nt\u0259n\u0259\u02c8me\u026a\u0292\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The substitution of an epithet or title in place of a proper noun.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Use of a proper name to suggest its most obvious quality or aspect.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/antonomasia"
+        ]
+    }
+]

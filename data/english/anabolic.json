@@ -1,0 +1,51 @@
+[
+    {
+        "word": "anabolic",
+        "phonetic": "/\u02cc\u00e6n\u0259\u02c8b\u0252l\u026ak/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6n\u0259\u02c8b\u0252l\u026ak/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02cc\u00e6n\u0259\u02c8b\u0251l\u026ak/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An anabolic steroid.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of or relating to anabolism.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "catabolic"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anabolic"
+        ]
+    }
+]

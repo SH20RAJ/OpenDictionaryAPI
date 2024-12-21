@@ -1,0 +1,27 @@
+[
+    {
+        "word": "aponeurosis",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A flattened fibrous membrane, similar to a tendon, that binds muscles together or connects them to other body parts like skin or bone.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aponeurosis"
+        ]
+    }
+]

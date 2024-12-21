@@ -1,0 +1,47 @@
+[
+    {
+        "word": "aphrodisiac",
+        "phonetic": "/\u00e6f.\u0279o\u028a.\u02c8di.zi.\u00e6k/",
+        "phonetics": [
+            {
+                "text": "/\u00e6f.\u0279o\u028a.\u02c8di.zi.\u00e6k/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Something, generally a food or drug, having such an effect.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Arousing or intensifying sexual desire.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "antaphrodisiac"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aphrodisiac"
+        ]
+    }
+]

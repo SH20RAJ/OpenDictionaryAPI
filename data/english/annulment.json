@@ -1,0 +1,57 @@
+[
+    {
+        "word": "annulment",
+        "phonetic": "/\u0259\u02c8n\u028cl.m\u0259nt/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8n\u028cl.m\u0259nt/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An act or instance of annulling.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The state of having been annulled.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An invalidation of something, especially a legal contract.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A legal (notably judicial) declaration that a marriage is invalid; the procedure leading to it.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Total destruction.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "abolition",
+                    "cancellation",
+                    "nullification"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/annulment"
+        ]
+    }
+]

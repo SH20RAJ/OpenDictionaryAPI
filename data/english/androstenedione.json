@@ -1,0 +1,27 @@
+[
+    {
+        "word": "androstenedione",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A steroid hormone produced in the adrenal glands and the gonads, chemical formula C19H26O2; the common precursor to both male and female sex hormones.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/androstenedione"
+        ]
+    }
+]

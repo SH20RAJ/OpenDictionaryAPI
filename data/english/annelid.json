@@ -1,0 +1,43 @@
+[
+    {
+        "word": "annelid",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any of various wormlike animals, of the phylum Annelida, having a segmented body; they include the earthworm and the leech",
+                        "synonyms": [
+                            "ringed worm"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "ringed worm"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of, or relating to these creatures",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/annelid"
+        ]
+    }
+]

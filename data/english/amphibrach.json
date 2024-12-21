@@ -1,0 +1,38 @@
+[
+    {
+        "word": "amphibrach",
+        "phonetic": "/\u02c8am.f\u026a.b\u0279ak/",
+        "phonetics": [
+            {
+                "text": "/\u02c8am.f\u026a.b\u0279ak/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A metrical foot in ancient Greek or Latin consisting of two short syllables surrounding one long one (e.g. am\u0101ta).",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A metrical foot in modern prosody, consisting of three syllables, the middle one of which is stressed (e.g. Jamaica).",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amphibrach"
+        ]
+    }
+]

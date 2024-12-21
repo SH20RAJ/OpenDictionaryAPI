@@ -1,0 +1,38 @@
+[
+    {
+        "word": "amblyopia",
+        "phonetic": "/\u00e6mbl\u026a\u02c8\u0259\u028ap\u026a\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u00e6mbl\u026a\u02c8\u0259\u028ap\u026a\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Dimness or blurring of the eyesight due to a fault in transmission of signals to the brain from an otherwise healthy eye.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A disorder of visual development in which the brain partially or wholly ignores input from one or both eyes.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amblyopia"
+        ]
+    }
+]

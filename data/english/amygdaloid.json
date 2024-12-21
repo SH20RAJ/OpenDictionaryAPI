@@ -1,0 +1,46 @@
+[
+    {
+        "word": "amygdaloid",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A variety of trap or basaltic rock, containing small cavities, occupied, wholly or in part, by nodules or geodes of different minerals, especially agates, quartz, calcite, and the zeolites. When the imbedded minerals are detached or removed by decomposition, it is porous, like lava.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "mandlestone"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Shaped like an almond",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Relating to the amygdala",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amygdaloid"
+        ]
+    }
+]

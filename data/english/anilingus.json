@@ -1,0 +1,42 @@
+[
+    {
+        "word": "anilingus",
+        "phonetic": "/\u02cce\u026an\u026a\u02c8l\u026a\u014b\u0261\u0259s/",
+        "phonetics": [
+            {
+                "text": "/\u02cce\u026an\u026a\u02c8l\u026a\u014b\u0261\u0259s/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anilingus-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=41985960"
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A form of oral sex in which the tongue and lips are used for stimulation of a sexual partner's anus.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "anilinction",
+                    "arse-licking",
+                    "ass-licking",
+                    "reaming",
+                    "rimming",
+                    "salad tossing",
+                    "tossed salad"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anilingus"
+        ]
+    }
+]

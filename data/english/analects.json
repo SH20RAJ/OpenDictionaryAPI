@@ -1,0 +1,35 @@
+[
+    {
+        "word": "analects",
+        "phonetic": "[\u02c8\u00e6.n\u0259\u02ccl\u025bk(t)s]",
+        "phonetics": [
+            {
+                "text": "[\u02c8\u00e6.n\u0259\u02ccl\u025bk(t)s]",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A collection of excerpts or quotes.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "analecta"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/analects"
+        ]
+    }
+]

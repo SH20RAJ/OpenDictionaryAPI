@@ -1,0 +1,77 @@
+[
+    {
+        "word": "amiss",
+        "phonetic": "/\u0259\u02c8m\u026as/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8m\u026as/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8m\u026as/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Fault; wrong; an evil act, a bad deed.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Wrong; faulty; out of order; improper or otherwise incorrect.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "He suspected something was amiss."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "Wrongly.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Mistakenly.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Astray.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Imperfectly.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amiss"
+        ]
+    }
+]

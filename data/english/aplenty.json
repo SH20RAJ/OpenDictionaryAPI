@@ -1,0 +1,55 @@
+[
+    {
+        "word": "aplenty",
+        "phonetic": "/\u0259\u02c8pl\u025bnti/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8pl\u025bnti/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/aplenty-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=90826784",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "In a generous or overlarge quantity.",
+                        "synonyms": [
+                            "galore"
+                        ],
+                        "antonyms": [],
+                        "example": "We have helpers aplenty but lack the skilled support."
+                    }
+                ],
+                "synonyms": [
+                    "galore"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "Enough or more than enough.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aplenty"
+        ]
+    }
+]

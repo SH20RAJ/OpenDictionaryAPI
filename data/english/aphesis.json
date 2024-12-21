@@ -1,0 +1,39 @@
+[
+    {
+        "word": "aphesis",
+        "phonetic": "/\u02c8\u00e6f.\u0259.s\u026as/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6f.\u0259.s\u026as/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The loss of the initial unstressed vowel of a word.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The word \"scarp\" is derived from \"escarp\" by aphesis."
+                    }
+                ],
+                "synonyms": [
+                    "procope"
+                ],
+                "antonyms": [
+                    "apocope",
+                    "prothesis"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aphesis"
+        ]
+    }
+]

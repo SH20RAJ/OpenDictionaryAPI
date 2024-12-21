@@ -1,0 +1,38 @@
+[
+    {
+        "word": "anacoluthon",
+        "phonetic": "/\u00e6n\u0259k\u0259\u02c8lu\u02d0\u03b8\u0252n/",
+        "phonetics": [
+            {
+                "text": "/\u00e6n\u0259k\u0259\u02c8lu\u02d0\u03b8\u0252n/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "(grammar) A sentence or clause that is grammatically inconsistent, especially with respect to the type of clausal or phrasal complement for the initial clause.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Intentional use of such a structure.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anacoluthon"
+        ]
+    }
+]

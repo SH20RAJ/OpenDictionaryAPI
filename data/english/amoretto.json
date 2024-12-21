@@ -1,0 +1,37 @@
+[
+    {
+        "word": "amoretto",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "(in art) A cupid or putto (representation of a naked baby or small child, often with wings).",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A love poem.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A male sweetheart, lover.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amoretto"
+        ]
+    }
+]

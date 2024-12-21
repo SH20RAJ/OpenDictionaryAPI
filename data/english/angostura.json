@@ -1,0 +1,32 @@
+[
+    {
+        "word": "angostura",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Angostura bitters",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A South American tree, with bark used in tradition medicine and as an ingredient in various bitters (but not Angostura bitters), Angostura trifoliata.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/angostura"
+        ]
+    }
+]

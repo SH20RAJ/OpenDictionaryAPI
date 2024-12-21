@@ -1,0 +1,43 @@
+[
+    {
+        "word": "amassment",
+        "phonetic": "/\u0259\u02c8m\u00e6sm\u0259nt/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8m\u00e6sm\u0259nt/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The act of amassing.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "All her energy was devoted to the amassment of a vast fortune."
+                    },
+                    {
+                        "definition": "That which is amassed; a large quantity (of something).",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Through the Internet, we have access to an unprecedented amassment of information."
+                    }
+                ],
+                "synonyms": [
+                    "accumulation",
+                    "collection"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amassment"
+        ]
+    }
+]

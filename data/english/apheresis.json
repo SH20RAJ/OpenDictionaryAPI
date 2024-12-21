@@ -1,0 +1,58 @@
+[
+    {
+        "word": "apheresis",
+        "phonetic": "/\u0259\u02c8f\u026a\u0259\u0279\u026as\u026as/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8f\u026a\u0259\u0279\u026as\u026as/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8f\u025b\u0279\u0259s\u026as/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Elision, suppression, or complete loss of a letter or sound (syllable) from the beginning of a word, such as the development of special from especial; procope.",
+                        "synonyms": [
+                            "pheresis",
+                            "procope"
+                        ],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(specific, still current) The removal of blood from a patient, and the removal of certain components (such as platelets) from that blood, followed by the transfusion of the filtered blood back to the donor (patient).",
+                        "synonyms": [
+                            "hemapheresis",
+                            "pheresis"
+                        ],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(general) Extirpation or extraction of a superfluity (especially a pathological one) from the body, especially blood.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "hemapheresis",
+                    "pheresis",
+                    "pheresis",
+                    "procope"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/apheresis"
+        ]
+    }
+]

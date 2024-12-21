@@ -1,0 +1,34 @@
+[
+    {
+        "word": "anaesthetist",
+        "phonetic": "/\u0259\u02c8ni\u02d0s\u03b8.\u0259.t\u026ast/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8ni\u02d0s\u03b8.\u0259.t\u026ast/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "One who gives an anesthetic.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anaesthetist",
+            "https://en.wiktionary.org/wiki/anesthetist"
+        ]
+    }
+]

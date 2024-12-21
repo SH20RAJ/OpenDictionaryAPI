@@ -1,0 +1,47 @@
+[
+    {
+        "word": "anguine",
+        "phonetic": "/\u02c8\u00e6\u014b.\u0261w\u026an/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6\u014b.\u0261w\u026an/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anguine-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1157855",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Pertaining to snakes or serpents",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Snakelike.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "ophidian",
+                    "serpentine",
+                    "snakelike"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anguine"
+        ]
+    }
+]

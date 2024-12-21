@@ -1,0 +1,33 @@
+[
+    {
+        "word": "amulet",
+        "phonetic": "/\u02c8\u00e6m.j\u0259.l\u026at/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6m.j\u0259.l\u026at/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A kind of protective charm or ornament, often bearing magical symbols, worn for protection against ill will, negative influences or evil spirits.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amulet"
+        ]
+    }
+]

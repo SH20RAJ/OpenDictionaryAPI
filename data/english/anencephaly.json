@@ -1,0 +1,35 @@
+[
+    {
+        "word": "anencephaly",
+        "phonetic": "/\u00e6n\u026an\u02c8s\u025bf\u0259l\u026a/",
+        "phonetics": [
+            {
+                "text": "/\u00e6n\u026an\u02c8s\u025bf\u0259l\u026a/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A lethal birth defect in which most of the brain and parts of the skull are missing; absence of the encephalon.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "anencephalus"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anencephaly"
+        ]
+    }
+]

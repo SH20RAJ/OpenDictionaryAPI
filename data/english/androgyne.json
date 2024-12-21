@@ -1,0 +1,39 @@
+[
+    {
+        "word": "androgyne",
+        "phonetic": "/\u02c8\u00e6n.d\u0279\u0259.d\u0292a\u026an/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6n.d\u0279\u0259.d\u0292a\u026an/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A person who is androgynous.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Billy looked up at the face that went with the clogs. It was the face of a blond angel, of a fifteen-year-old boy. The boy was as beautiful as Eve. Billy was helped to his feet by the lovely boy, by the heavenly androgyne."
+                    },
+                    {
+                        "definition": "An androgynous plant.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/androgyne"
+        ]
+    }
+]

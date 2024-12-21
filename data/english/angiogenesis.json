@@ -1,0 +1,33 @@
+[
+    {
+        "word": "angiogenesis",
+        "phonetic": "/and\u0292\u026a\u0259(\u028a)\u02c8d\u0292\u025bn\u026as\u026as/",
+        "phonetics": [
+            {
+                "text": "/and\u0292\u026a\u0259(\u028a)\u02c8d\u0292\u025bn\u026as\u026as/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The formation and development of new blood vessels.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/angiogenesis"
+        ]
+    }
+]

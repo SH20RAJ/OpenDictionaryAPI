@@ -1,0 +1,41 @@
+[
+    {
+        "word": "aperiodic",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "That does not recur periodically",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "That does not have a periodic vibration",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(stochastic processes, of a state) for which any return to it may occur at irregular times; not periodic.",
+                        "synonyms": [],
+                        "antonyms": [
+                            "periodic"
+                        ]
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "periodic"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aperiodic"
+        ]
+    }
+]

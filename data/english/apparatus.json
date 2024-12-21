@@ -1,0 +1,118 @@
+[
+    {
+        "word": "apparatus",
+        "phonetic": "/\u00e6p\u0259\u02c8\u0279\u0251\u02d0t\u0259s/",
+        "phonetics": [
+            {
+                "text": "/\u00e6p\u0259\u02c8\u0279\u0251\u02d0t\u0259s/",
+                "audio": ""
+            },
+            {
+                "text": "/\u00e6.p\u0259\u02c8\u0279\u00e6.t\u0259s/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/apparatus-ca-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=718876",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            },
+            {
+                "text": "/\u00e6.p\u0259\u02c8\u0279e\u026a.t\u0259s/",
+                "audio": ""
+            },
+            {
+                "text": "/\u00e6p\u0259\u02c8\u0279\u0251\u02d0t\u0259s/",
+                "audio": ""
+            },
+            {
+                "text": "/\u00e6.p\u0259\u02c8\u0279e\u026a.t\u0259s/",
+                "audio": ""
+            },
+            {
+                "text": "/\u00e6.p\u0259\u02c8\u0279e\u026a.t\u0259s/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/apparatus-ca-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=718876",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The entirety of means whereby a specific production is made existent or task accomplished.",
+                        "synonyms": [
+                            "dynamic",
+                            "mechanism",
+                            "setup"
+                        ],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A complex machine or instrument.",
+                        "synonyms": [
+                            "device",
+                            "instrument",
+                            "machinery"
+                        ],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An assortment of tools and instruments.",
+                        "synonyms": [
+                            "equipment",
+                            "gear",
+                            "tools"
+                        ],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A bureaucratic organization, especially one influenced by political patronage.",
+                        "synonyms": [
+                            "machine"
+                        ],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A vehicle used for emergency response.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Any of the equipment on which the gymnasts perform their movements.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A complex, highly modified weapon (typically not a firearm); a weaponized \u201cRube Goldberg machine.\u201d",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "device",
+                    "instrument",
+                    "machinery",
+                    "dynamic",
+                    "mechanism",
+                    "setup",
+                    "equipment",
+                    "gear",
+                    "tools",
+                    "machine"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/apparatus"
+        ]
+    }
+]

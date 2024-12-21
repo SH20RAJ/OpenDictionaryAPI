@@ -1,0 +1,78 @@
+[
+    {
+        "word": "anticlockwise",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anticlockwise-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75266891",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u02cc\u00e6nti\u02c8kl\u0252k.wa\u026az/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02cc\u00e6nta\u026a\u02c8kl\u0251kwa\u026az/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anticlockwise-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1769594",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(South Africa, AU, of movement) in a circular fashion so as to be moving to the left at the top of the circle and to the right at the bottom (when viewed from the front), in the opposite direction to the way the hands of an analogue clock move.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "counter-clockwise",
+                    "counterclockwise",
+                    "laevorotatory",
+                    "levorotatory",
+                    "positive"
+                ],
+                "antonyms": [
+                    "clockwise"
+                ]
+            },
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "In an anticlockwise fashion.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "counter-clockwise",
+                    "counterclockwise",
+                    "widdershins",
+                    "withershins",
+                    "in a counterclockwise direction",
+                    "in an anticlockwise direction"
+                ],
+                "antonyms": [
+                    "clockwise"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anticlockwise"
+        ]
+    }
+]

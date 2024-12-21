@@ -1,0 +1,33 @@
+[
+    {
+        "word": "anomie",
+        "phonetic": "/\u02c8\u00e6n\u0259mi\u02d0/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6n\u0259mi\u02d0/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Alienation or social instability caused by erosion of standards and values.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anomie"
+        ]
+    }
+]

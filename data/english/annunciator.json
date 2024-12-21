@@ -1,0 +1,37 @@
+[
+    {
+        "word": "annunciator",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Anything that announces something",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A signalling device that shows which of several electrical circuits is active, especially such a device in a telephone switchboard",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A buzzer in a signal box that sounds when a train activates a treadle positioned on the track, and thus provides a warning or announcement of a nearby train.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/annunciator"
+        ]
+    }
+]

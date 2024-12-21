@@ -1,0 +1,64 @@
+[
+    {
+        "word": "appaloosa",
+        "phonetic": "/\u02cc\u00e6.p\u0259\u02c8lu.s\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6.p\u0259\u02c8lu.s\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A breed of horse having a spotted rump.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/appaloosa"
+        ]
+    },
+    {
+        "word": "appaloosa",
+        "phonetic": "/\u02cc\u00e6.p\u0259\u02c8lu.s\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6.p\u0259\u02c8lu.s\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A catfish.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/appaloosa"
+        ]
+    }
+]

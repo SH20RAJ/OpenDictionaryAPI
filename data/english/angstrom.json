@@ -1,0 +1,41 @@
+[
+    {
+        "word": "angstrom",
+        "phonetic": "/\u02c8\u00e6\u014bst\u0279\u028cm/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6\u014bst\u0279\u028cm/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6\u014bst\u0279\u0259m/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6\u014bst\u0279\u0259m/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A unit of length equal to 10\u221210 meters (that is, one ten-billionth of a meter), approximately the size of an atom, and denoted by the symbol \u00c5, used especially to measure the wavelength of electromagnetic radiation or distances between atoms.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/angstrom"
+        ]
+    }
+]

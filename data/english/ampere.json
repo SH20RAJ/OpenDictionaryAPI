@@ -1,0 +1,42 @@
+[
+    {
+        "word": "ampere",
+        "phonetic": "/\u02c8\u00e6m\u02ccp\u025b\u0259r/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6m\u02ccp\u025b\u0259r/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6m\u02ccp\u026a\u0259r/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ampere-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1769833",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A unit of electrical current, the standard base unit in the International System of Units; colloquially amp. Abbreviation: amp, Symbol: A",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ampere"
+        ]
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "word": "amazement",
+        "phonetic": "/\u0259\u02c8me\u026az.m\u0259nt/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8me\u026az.m\u0259nt/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The condition of being amazed; overwhelming wonder, as from surprise, sudden fear, horror, or admiration; astonishment.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A particular feeling of wonder, surprise, fear, or horror.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Something which amazes.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Madness, frenzy.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amazement"
+        ]
+    }
+]

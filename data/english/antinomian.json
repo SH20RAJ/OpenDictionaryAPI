@@ -1,0 +1,64 @@
+[
+    {
+        "word": "antinomian",
+        "phonetic": "/\u00e6nti\u02c8no\u028ami.\u0259n/",
+        "phonetics": [
+            {
+                "text": "/\u00e6nti\u02c8no\u028ami.\u0259n/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/antinomian-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=78201300",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u00e6nta\u026a\u02c8no\u028ami.\u0259n/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/antinomian-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=60120701",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "One who embraces antinomianism.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of or pertaining to antinomianism.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Rejecting moral authority.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/antinomian"
+        ]
+    }
+]

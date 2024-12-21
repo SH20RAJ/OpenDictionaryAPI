@@ -1,0 +1,33 @@
+[
+    {
+        "word": "angioplasty",
+        "phonetic": "/\u02c8\u00e6n.d\u0292i.\u0259\u028a.pl\u00e6s.ti/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6n.d\u0292i.\u0259\u028a.pl\u00e6s.ti/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The mechanical widening of a narrowed or totally obstructed blood vessel generally caused by atheroma.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/angioplasty"
+        ]
+    }
+]

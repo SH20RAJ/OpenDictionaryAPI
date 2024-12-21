@@ -1,0 +1,28 @@
+[
+    {
+        "word": "apodous",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Apodal",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Weevil larvae are apodous; in contrast, most scarab larvae bear six hooklike legs."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/apodous"
+        ]
+    }
+]

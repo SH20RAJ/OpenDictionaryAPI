@@ -1,0 +1,38 @@
+[
+    {
+        "word": "anacrusis",
+        "phonetic": "/an\u0259\u02c8k\u0279u\u02d0s\u026as/",
+        "phonetics": [
+            {
+                "text": "/an\u0259\u02c8k\u0279u\u02d0s\u026as/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An unstressed syllable at the start of a verse.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An unstressed note or notes before the first strong beat (or downbeat) of a phrase.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anacrusis"
+        ]
+    }
+]

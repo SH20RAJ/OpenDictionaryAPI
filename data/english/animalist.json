@@ -1,0 +1,51 @@
+[
+    {
+        "word": "animalist",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "One who believes in the dominance of man's animal nature in behavior.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A sensualist.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A painter or sculptor whose primary subject is animals.",
+                        "synonyms": [
+                            "animalier"
+                        ],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A writer of animal stories.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "One who believes that microorganisms cause disease.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "animalier"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/animalist"
+        ]
+    }
+]

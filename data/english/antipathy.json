@@ -1,0 +1,52 @@
+[
+    {
+        "word": "antipathy",
+        "phonetic": "/\u00e6n\u02c8t\u026ap\u0259\u03b8i/",
+        "phonetics": [
+            {
+                "text": "/\u00e6n\u02c8t\u026ap\u0259\u03b8i/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A feeling of dislike (normally towards someone, less often towards something); repugnance or distaste.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Natural contrariety or incompatibility",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "oil and water have antipathy"
+                    }
+                ],
+                "synonyms": [
+                    "aversion",
+                    "contrariety",
+                    "disgust",
+                    "dislike",
+                    "distaste",
+                    "enmity",
+                    "hatred",
+                    "ill will",
+                    "opposition",
+                    "repugnance"
+                ],
+                "antonyms": [
+                    "sympathy"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/antipathy"
+        ]
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "word": "antagonize",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To work against; to oppose (especially to incite reaction)",
+                        "synonyms": [
+                            "harass",
+                            "oppose",
+                            "pester"
+                        ],
+                        "antonyms": [
+                            "appease",
+                            "quell"
+                        ],
+                        "example": "The other children constantly antagonized Joe to the point of tears."
+                    }
+                ],
+                "synonyms": [
+                    "harass",
+                    "oppose",
+                    "pester"
+                ],
+                "antonyms": [
+                    "appease",
+                    "quell"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/antagonize"
+        ]
+    }
+]

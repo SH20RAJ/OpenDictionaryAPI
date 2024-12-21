@@ -1,0 +1,33 @@
+[
+    {
+        "word": "andragogy",
+        "phonetic": "/\u02c8an.d\u0279\u0259.\u0261\u0252.d\u0292i/",
+        "phonetics": [
+            {
+                "text": "/\u02c8an.d\u0279\u0259.\u0261\u0252.d\u0292i/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The methods or techniques used to teach adults; adult education.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/andragogy"
+        ]
+    }
+]

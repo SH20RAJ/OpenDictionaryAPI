@@ -1,0 +1,42 @@
+[
+    {
+        "word": "anole",
+        "phonetic": "/\u0259\u02c8n\u0259\u028a.li/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8n\u0259\u028a.li/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8no\u028a.li/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anole-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=65146533",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any of the Anolis genus of arboreal American lizards (such as the American chameleon) from the iguana family which feature a brightly colored dewlap and color-changing ability.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anole"
+        ]
+    }
+]

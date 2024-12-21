@@ -1,0 +1,33 @@
+[
+    {
+        "word": "ankus",
+        "phonetic": "/\u02c8a\u014b.k\u0259s/",
+        "phonetics": [
+            {
+                "text": "/\u02c8a\u014b.k\u0259s/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The hooked goad that is used in India to control elephants.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ankus"
+        ]
+    }
+]

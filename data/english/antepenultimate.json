@@ -1,0 +1,51 @@
+[
+    {
+        "word": "antepenultimate",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Two before the last in a series. e.g. (..., antepenultimate, penultimate, ultimate)",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The syllable that comes two before the last in a word.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The words animal, citizen, comedy, dangerous, obvious, and antepenultimate are stressed on the antepenultimate."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Two before the last, i.e., the one immediately before the penultimate, in a series.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "This book has ten chapters \u2014 chapter 8 is the antepenultimate one."
+                    }
+                ],
+                "synonyms": [
+                    "peripenultimate",
+                    "propenultimate",
+                    "third last",
+                    "third to last"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/antepenultimate"
+        ]
+    }
+]

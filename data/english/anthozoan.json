@@ -1,0 +1,33 @@
+[
+    {
+        "word": "anthozoan",
+        "phonetic": "/an\u03b8\u0259(\u028a)\u02c8z\u0259\u028a\u0259n/",
+        "phonetics": [
+            {
+                "text": "/an\u03b8\u0259(\u028a)\u02c8z\u0259\u028a\u0259n/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A marine invertebrate of the class Anthozoa, such as a sea anemone or coral",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anthozoan"
+        ]
+    }
+]

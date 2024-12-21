@@ -1,0 +1,33 @@
+[
+    {
+        "word": "anticodon",
+        "phonetic": "/\u02cc\u00e6nta\u026a-/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6nta\u026a-/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A sequence of three nucleotides in transfer RNA that binds to the complementary triplet (codon) in messenger RNA to specify an amino acid during protein synthesis.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anticodon"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "word": "anthropic",
+        "phonetic": "/\u00e6n\u02c8\u03b8\u0279\u0252p.\u026ak/",
+        "phonetics": [
+            {
+                "text": "/\u00e6n\u02c8\u03b8\u0279\u0252p.\u026ak/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of or pertaining to mankind or humans, or the period of humanity's existence.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anthropic"
+        ]
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "word": "amygdalin",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A glycoside of benzaldehyde and hydrogen cyanide found in bitter almonds, and in the kernels of some other fruit.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "vitamin B17"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amygdalin"
+        ]
+    }
+]

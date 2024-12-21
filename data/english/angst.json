@@ -1,0 +1,63 @@
+[
+    {
+        "word": "angst",
+        "phonetic": "/\u00e6\u014b(k)st/",
+        "phonetics": [
+            {
+                "text": "/\u00e6\u014b(k)st/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/angst-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75729475",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "[e\u026a\u014b(k)st]",
+                "audio": ""
+            },
+            {
+                "text": "[e\u026a\u014b(k)st]",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Emotional turmoil; painful sadness.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A feeling of acute but vague anxiety or apprehension often accompanied by depression, especially philosophical anxiety.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To suffer angst; to fret.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/angst"
+        ]
+    }
+]

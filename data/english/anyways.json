@@ -1,0 +1,38 @@
+[
+    {
+        "word": "anyways",
+        "phonetic": "/\u02c8\u025bn.i\u02ccwe\u026az/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u025bn.i\u02ccwe\u026az/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "In any way.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Anyway, anyhow, in any case.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anyways"
+        ]
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "word": "antebellum",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of the time period prior to a war.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "A renewed sense of national pride arose in Hitler's antebellum Germany."
+                    },
+                    {
+                        "definition": "In the United States of America, of the period prior to the American Civil War, especially in reference to the culture of the southern states.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Slavery was an accepted part of antebellum plantation life."
+                    }
+                ],
+                "synonyms": [
+                    "pre-war"
+                ],
+                "antonyms": [
+                    "post-war",
+                    "postbellum"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/antebellum"
+        ]
+    }
+]

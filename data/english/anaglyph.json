@@ -1,0 +1,32 @@
+[
+    {
+        "word": "anaglyph",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A decorative ornament worked in low relief or bas relief, such as a piece of cameo jewelry.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A matched pair of images designed to produce a three-dimensional effect when viewed using spectacles that have usually one red and one bluish-green lens, corresponding to the colors of the pairs of images.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anaglyph"
+        ]
+    }
+]

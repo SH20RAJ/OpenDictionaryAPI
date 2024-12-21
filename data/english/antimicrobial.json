@@ -1,0 +1,51 @@
+[
+    {
+        "word": "antimicrobial",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An agent that destroys microbes, inhibits their growth, or prevents or counteracts their pathogenic action",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(pharmaceutical effect) tending to destroy or capable of destroying microbes",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(pharmaceutical effect) inhibiting the growth of microbes",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(pharmaceutical effect) preventing or counteracting the pathogenic action of microbes",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "antimicrobic"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/antimicrobial"
+        ]
+    }
+]

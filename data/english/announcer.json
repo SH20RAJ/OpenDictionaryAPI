@@ -1,0 +1,37 @@
+[
+    {
+        "word": "announcer",
+        "phonetic": "/\u0259\u02c8na\u028ans\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8na\u028ans\u0259/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8na\u028ans\u025a/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "One who makes announcements.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/announcer"
+        ]
+    }
+]

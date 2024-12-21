@@ -1,0 +1,43 @@
+[
+    {
+        "word": "anew",
+        "phonetic": "/\u0259\u02c8nju\u02d0/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8nju\u02d0/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0259\u02c8nu/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anew-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1779868",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "Again, once more; afresh, in a new way, newly.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Each morning, opportunity\u2014like the sun\u2014dawns anew."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anew"
+        ]
+    }
+]

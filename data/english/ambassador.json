@@ -1,0 +1,48 @@
+[
+    {
+        "word": "ambassador",
+        "phonetic": "/\u00e6m\u02c8b\u00e6s.\u0259.d\u0259(\u0279)/",
+        "phonetics": [
+            {
+                "text": "/\u00e6m\u02c8b\u00e6s.\u0259.d\u0259(\u0279)/",
+                "audio": ""
+            },
+            {
+                "text": "/\u00e6m\u02c8b\u00e6s.\u0259.d\u025a/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A minister of the highest rank sent to a foreign court to represent there his sovereign or country. (Sometimes called ambassador-in-residence)",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An official messenger and representative.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A corporate representative, often the public face of the company.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "As front hall porter, you are an ambassador for the hotel."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ambassador"
+        ]
+    }
+]

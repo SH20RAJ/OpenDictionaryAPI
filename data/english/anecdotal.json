@@ -1,0 +1,38 @@
+[
+    {
+        "word": "anecdotal",
+        "phonetic": "/\u02cc\u00e6n\u026ak\u02c8do\u028atl\u0329/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6n\u026ak\u02c8do\u028atl\u0329/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of the nature of or relating to an anecdote.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Containing or abounding in anecdotes.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anecdotal"
+        ]
+    }
+]

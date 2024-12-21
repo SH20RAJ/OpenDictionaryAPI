@@ -1,0 +1,70 @@
+[
+    {
+        "word": "ani",
+        "phonetic": "/\u02c8\u0251\u02d0.ni/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u0251\u02d0.ni/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ani-1-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=89259672",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A bird of the genus Crotophaga in the cuckoo family.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ani"
+        ]
+    },
+    {
+        "word": "ani",
+        "phonetic": "/\u02c8e\u026ana\u026a/",
+        "phonetics": [
+            {
+                "text": "/\u02c8e\u026ana\u026a/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The lower orifice of the alimentary canal, through which feces and flatus are ejected.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ani",
+            "https://en.wiktionary.org/wiki/anus"
+        ]
+    }
+]

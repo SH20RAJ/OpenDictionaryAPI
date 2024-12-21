@@ -1,0 +1,67 @@
+[
+    {
+        "word": "amazed",
+        "phonetic": "/\u0259\u02c8me\u026azd/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8me\u026azd/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To fill with wonder and surprise; to astonish, astound, surprise or perplex.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "He was amazed when he found that the girl was a robot."
+                    },
+                    {
+                        "definition": "To undergo amazement; to be astounded.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To stupefy; to knock unconscious.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To bewilder; to stupefy; to bring into a maze.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To terrify, to fill with panic.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Astonished; confounded with fear, surprise, or wonder; greatly surprised. The following adposition may be: at, with or by.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amaze",
+            "https://en.wiktionary.org/wiki/amazed"
+        ]
+    }
+]

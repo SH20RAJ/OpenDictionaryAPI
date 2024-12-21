@@ -1,0 +1,59 @@
+[
+    {
+        "word": "answerable",
+        "phonetic": "/\u02c8\u0251\u02d0ns\u0259\u0279\u0259b(\u0259)l/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u0251\u02d0ns\u0259\u0279\u0259b(\u0259)l/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6n.s\u0259\u0279.\u028c.bl/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Required to justify one's actions (to somebody); accountable, responsible.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(of a question) Able to be answered.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Correspondent, in accordance; comparable (to).",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Proportionate; commensurate in amount; suitable.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(of an argument) Capable of being answered or refuted; admitting a satisfactory answer.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "unanswerable"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/answerable"
+        ]
+    }
+]

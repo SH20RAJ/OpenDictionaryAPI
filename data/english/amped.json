@@ -1,0 +1,46 @@
+[
+    {
+        "word": "amped",
+        "phonetic": "/\u00e6mpt/",
+        "phonetics": [
+            {
+                "text": "/\u00e6mpt/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "(usually with up) To amplify.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "He asked the disk jockey to amp it up."
+                    },
+                    {
+                        "definition": "(usually with up) To excite.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(usually with up) To intensify or increase.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "2014, Andy Paul, Amp Up Your Sales, AMACOM Books"
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amp",
+            "https://en.wiktionary.org/wiki/amped"
+        ]
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "word": "anthracene",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A tricyclic aromatic hydrocarbon (an acene containing three fused rings) obtained from coal tar; used in the manufacture of wood preservatives, insecticides and the dye alizarin; it is isomeric with phenanthrene.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anthracene"
+        ]
+    }
+]

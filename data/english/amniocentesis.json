@@ -1,0 +1,37 @@
+[
+    {
+        "word": "amniocentesis",
+        "phonetic": "/\u02ccamn\u026a\u0259(\u028a)s\u025bn\u02c8ti\u02d0s\u026as/",
+        "phonetics": [
+            {
+                "text": "/\u02ccamn\u026a\u0259(\u028a)s\u025bn\u02c8ti\u02d0s\u026as/",
+                "audio": ""
+            },
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/amniocentesis-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=15177504"
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A procedure for obtaining amniotic fluid from a pregnant animal, by inserting a hollow needle through the abdominal wall and into the amniotic sac. Used in diagnosing possible genetic defects and/or obstetric complications.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amniocentesis"
+        ]
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "word": "ambitious",
+        "phonetic": "/\u00e6m\u02c8b\u026a\u0283.\u0259s/",
+        "phonetics": [
+            {
+                "text": "/\u00e6m\u02c8b\u026a\u0283.\u0259s/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ambitious-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=2453826",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(of a person or their character) Having or showing ambition; wanting a lot of power, honor, respect, superiority, or other distinction.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "an ambitious person"
+                    },
+                    {
+                        "definition": "(followed by \"of\" or the infinitive) Very desirous",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Resulting from, characterized by, or indicating, ambition",
+                        "synonyms": [
+                            "aspiring",
+                            "showy"
+                        ],
+                        "antonyms": [],
+                        "example": "an ambitious attempt to take power"
+                    },
+                    {
+                        "definition": "Hard to achieve.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "aspiring",
+                    "showy"
+                ],
+                "antonyms": [
+                    "nonambitious",
+                    "unambitious"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ambitious"
+        ]
+    }
+]

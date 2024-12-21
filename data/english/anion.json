@@ -1,0 +1,37 @@
+[
+    {
+        "word": "anion",
+        "phonetic": "/\u02c8\u00e6n.a\u026a.\u0252n/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6n.a\u026a.\u0252n/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6n.a\u026a.\u0251n/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A negatively charged ion.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anion"
+        ]
+    }
+]

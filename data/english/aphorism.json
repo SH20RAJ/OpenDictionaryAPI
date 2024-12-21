@@ -1,0 +1,45 @@
+[
+    {
+        "word": "aphorism",
+        "phonetic": "/\u02c8\u00e6.f\u0259.\u0279\u026azm\u0329/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6.f\u0259.\u0279\u026azm\u0329/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An original, laconic phrase conveying some principle or concept of thought.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To speak or write aphorisms.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aphorism"
+        ]
+    }
+]

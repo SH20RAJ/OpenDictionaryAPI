@@ -1,0 +1,39 @@
+[
+    {
+        "word": "anaemia",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A medical condition in which the capacity of the blood to transport oxygen to the tissues is reduced, either because of too few red blood cells, or because of too little hemoglobin, resulting in pallor and fatigue.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A disease or condition that has anemia as a symptom.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Pernicious anemia and sickle-cell anemia are two anemias."
+                    },
+                    {
+                        "definition": "(obsolete) Ischemia.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anaemia",
+            "https://en.wiktionary.org/wiki/anemia"
+        ]
+    }
+]

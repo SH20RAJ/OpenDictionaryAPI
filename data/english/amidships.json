@@ -1,0 +1,56 @@
+[
+    {
+        "word": "amidships",
+        "phonetic": "/\u0259\u02c8m\u026ad.\u0283\u026aps/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8m\u026ad.\u0283\u026aps/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "In the middle of a ship, either longitudinally or laterally.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The main cabin, most amidships, was 8 feet 3 inches broad [...]"
+                    },
+                    {
+                        "definition": "Usually in the line of the keel, but sometimes halfway between bow and stern; often contracted to \u201cmidships.\u201d (FM 55-501).",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "On the flank, at a vulnerable place.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "interjection",
+                "definitions": [
+                    {
+                        "definition": "A helm order, normally shortened to midships!, to centre the helm in the line of the keel.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amidships"
+        ]
+    }
+]

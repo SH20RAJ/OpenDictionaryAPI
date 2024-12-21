@@ -1,0 +1,40 @@
+[
+    {
+        "word": "anaphor",
+        "phonetic": "/\u02c8\u00e6.n\u0259.f\u0259(\u0279)/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6.n\u0259.f\u0259(\u0279)/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u00e6.n\u0259.f\u0254\u02d0(\u0279)/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An expression referring to another expression. In stricter uses, an expression referring to something earlier in the discourse or, even more strictly, only reflexive and reciprocal pronouns.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "cataphor",
+                    "logophor"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anaphor"
+        ]
+    }
+]

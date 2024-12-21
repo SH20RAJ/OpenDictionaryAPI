@@ -1,0 +1,48 @@
+[
+    {
+        "word": "anglicism",
+        "phonetic": "/\u02c8\u00e6\u014b\u0261l\u0259\u02ccs\u026az\u0259m/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u00e6\u014b\u0261l\u0259\u02ccs\u026az\u0259m/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anglicism-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75729466",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A word or other feature originating in the English language that has been borrowed by another language.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A Briticism.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A cultural aspect typical of the English people.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anglicism"
+        ]
+    }
+]

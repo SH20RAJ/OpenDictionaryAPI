@@ -1,0 +1,37 @@
+[
+    {
+        "word": "aphtha",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Candidiasis, oral thrush, thrush (fungal infection of the mucous membranes of the mouth caused by any species of yeast from the genus Candida)",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An oral ulcer, disregarding the cause.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Foot-and-mouth disease",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/aphtha"
+        ]
+    }
+]

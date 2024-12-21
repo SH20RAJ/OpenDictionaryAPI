@@ -1,0 +1,43 @@
+[
+    {
+        "word": "amide",
+        "phonetic": "/\u02c8e\u026a.ma\u026ad/",
+        "phonetics": [
+            {
+                "text": "/\u02c8e\u026a.ma\u026ad/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/amide-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=4470306"
+            },
+            {
+                "text": "/\u02c8\u00e6.ma\u026ad/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any derivative of an oxoacid in which the hydroxyl group has been replaced with an amino or substituted amino group; especially such derivatives of a carboxylic acid, the carboxamides or acid amides",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Any ionic derivative of ammonia in which a hydrogen atom has been replaced with a metal cation (R-NH- or R2N-)",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/amide"
+        ]
+    }
+]

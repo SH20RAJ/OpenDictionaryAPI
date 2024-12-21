@@ -1,0 +1,30 @@
+[
+    {
+        "word": "anechoic",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(acoustics) lacking echoes; that absorbs sound",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The bassoonist settled into the anechoic chamber and prepared for another grueling recording session."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "echoic"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anechoic"
+        ]
+    }
+]

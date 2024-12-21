@@ -1,0 +1,33 @@
+[
+    {
+        "word": "anopheles",
+        "phonetic": "/\u0259\u02c8n\u0252f\u026ali\u02d0z/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8n\u0252f\u026ali\u02d0z/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Loose terminology for species in the Anopheles genus of mosquitoes, some of which may transmit various parasites, Plasmodium, that are the cause of malaria. More strictly speaking, as Anopheles is a proper name it should be capitalised.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anopheles"
+        ]
+    }
+]

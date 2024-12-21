@@ -1,0 +1,33 @@
+[
+    {
+        "word": "ammoniacal",
+        "phonetic": "/am\u0259\u02c8n\u028c\u026a\u0259k\u0259l/",
+        "phonetics": [
+            {
+                "text": "/am\u0259\u02c8n\u028c\u026a\u0259k\u0259l/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Pertaining to or containing ammonia.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ammoniacal"
+        ]
+    }
+]

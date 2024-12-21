@@ -1,0 +1,30 @@
+[
+    {
+        "word": "annualized",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To express (a quantity such as an interest rate, profit, expenditure etc.) as if it applied or were measured over one year.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "To annualise net profit, divide the year-to-date net profit by the number of completed months, and multiply by twelve."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/annualise",
+            "https://en.wiktionary.org/wiki/annualize",
+            "https://en.wiktionary.org/wiki/annualized"
+        ]
+    }
+]

@@ -1,0 +1,43 @@
+[
+    {
+        "word": "antidisestablishmentarianism",
+        "phonetic": "/\u02cc\u00e6n.ti.d\u026as.\u026as\u02cct\u00e6b.l\u026a\u0283.m\u0259n\u02c8t\u025b\u0259.\u0279i.\u0259n\u02cc\u026a.z(\u0259)m/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u00e6n.ti.d\u026as.\u026as\u02cct\u00e6b.l\u026a\u0283.m\u0259n\u02c8t\u025b\u0259.\u0279i.\u0259n\u02cc\u026a.z(\u0259)m/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/antidisestablishmentarianism-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=503472"
+            },
+            {
+                "text": "/\u02cc\u00e6n.tai\u02ccd\u026as.\u025bs\u02cct\u00e6b.l\u026a\u0283.m\u0259nt\u02c8\u025b\u02d0.\u0279i.\u0259n\u02cc\u026a.zm/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/antidisestablishmentarianism-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=658715",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A political philosophy opposed to the separation of a religious group (church) and a government (state), especially the belief held by those in 19th century England opposed to separating the Anglican church from the civil government or to refer to separation of church and state.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/antidisestablishmentarianism"
+        ]
+    }
+]

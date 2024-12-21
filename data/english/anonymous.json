@@ -1,0 +1,73 @@
+[
+    {
+        "word": "anonymous",
+        "phonetic": "/\u0259\u02c8n\u0252n\u0259m\u0259s/",
+        "phonetics": [
+            {
+                "text": "/\u0259\u02c8n\u0252n\u0259m\u0259s/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/anonymous-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=50048964",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Lacking a name; not named, for example an animal not assigned to any species.",
+                        "synonyms": [
+                            "nameless"
+                        ],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Without any name acknowledged of a person responsible",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "an anonymous pamphlet"
+                    },
+                    {
+                        "definition": "Of unknown name; whose name is withheld",
+                        "synonyms": [
+                            "unidentified",
+                            "unknown",
+                            "unnamed"
+                        ],
+                        "antonyms": [],
+                        "example": "No customer personal data will be retained unless it is rendered anonymous."
+                    },
+                    {
+                        "definition": "Lacking individuality.",
+                        "synonyms": [
+                            "faceless"
+                        ],
+                        "antonyms": [],
+                        "example": "an anonymous office block in a soulless industrial estate"
+                    }
+                ],
+                "synonyms": [
+                    "on the merits",
+                    "faceless",
+                    "nameless",
+                    "unidentified",
+                    "unknown",
+                    "unnamed"
+                ],
+                "antonyms": [
+                    "onymous"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/anonymous"
+        ]
+    }
+]

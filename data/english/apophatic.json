@@ -1,0 +1,40 @@
+[
+    {
+        "word": "apophatic",
+        "phonetic": "/ap\u0259(\u028a)\u02c8fat\u026ak/",
+        "phonetics": [
+            {
+                "text": "/ap\u0259(\u028a)\u02c8fat\u026ak/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Pertaining to knowledge of God obtained through negation rather than positive assertions.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(by extension) That which passively defines a thing by describing what it is not characteristic thereof.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "cataphatic"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/apophatic"
+        ]
+    }
+]

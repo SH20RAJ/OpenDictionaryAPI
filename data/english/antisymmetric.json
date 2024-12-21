@@ -1,0 +1,34 @@
+[
+    {
+        "word": "antisymmetric",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(of a binary relation R on a set S) Having the property that, for any two distinct elements of S, at least one is not related to the other via R; equivalently, having the property that, for any x, y \u2208 S, if both xRy and yRx then x=y.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(of certain mathematical objects) Whose sign changes on the application of a matrix transpose or some generalisation thereof:",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "skew-symmetric"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/antisymmetric"
+        ]
+    }
+]
