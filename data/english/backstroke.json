@@ -1,0 +1,53 @@
+[
+    {
+        "word": "backstroke",
+        "phonetic": "/\u02c8b\u00e6k\u02ccst\u0279o\u028ak/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6k\u02ccst\u0279o\u028ak/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/backstroke-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=343482"
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A swimming stroke swum lying on one's back, while rotating both arms through the water as to propel the swimmer backwards.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(bellringing) The pull on the tail of the rope that swings the bell through a full circle (compare handstroke)",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "back crawl"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To swim the backstroke.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/backstroke"
+        ]
+    }
+]

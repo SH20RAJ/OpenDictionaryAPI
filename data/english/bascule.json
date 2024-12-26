@@ -1,0 +1,38 @@
+[
+    {
+        "word": "bascule",
+        "phonetic": "/\u02c8b\u00e6skju\u02d0l/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6skju\u02d0l/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A counterbalanced structure having one end that rises as the other lowers",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The portion of a breech-loading firearm that pivots open in order to allow access to the chamber.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bascule"
+        ]
+    }
+]

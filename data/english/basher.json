@@ -1,0 +1,60 @@
+[
+    {
+        "word": "basher",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/basher-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=79293547",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u02c8b\u00e6\u0283\u0259/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8b\u00e6\u0283\u025a/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "One who bashes something, figuratively or literally.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "One who engages in gratuitous physical or verbal attacks on a group or type of people.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "He was beaten up by a queer-basher."
+                    },
+                    {
+                        "definition": "A trainspotter. http//groups.google.co.uk/groups/search?q=%22bashers%22+uk+railway&btnG=Search&sitesearch=groups.google.com",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A rainproof sheet for sleeping under.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/basher"
+        ]
+    }
+]

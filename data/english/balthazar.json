@@ -1,0 +1,28 @@
+[
+    {
+        "word": "balthazar",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A very large wine bottle with the capacity of about 12 liters, equivalent to 16 standard bottles.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/Balthazar",
+            "https://en.wiktionary.org/wiki/balthazar"
+        ]
+    }
+]

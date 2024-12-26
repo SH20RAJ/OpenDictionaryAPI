@@ -1,0 +1,57 @@
+[
+    {
+        "word": "banquette",
+        "phonetic": "/ba\u014b\u02c8k\u025bt/",
+        "phonetics": [
+            {
+                "text": "/ba\u014b\u02c8k\u025bt/",
+                "audio": ""
+            },
+            {
+                "text": "/b\u00e6\u014b\u02c8k\u025bt/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A narrow area behind a defensive wall's parapet elevated above its terreplein and used by defenders to shoot at attackers.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A bench built into a wall, especially one built into a wall of a defensive trench, used for sitting and for shooting at attackers.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An upholstered bench, e.g., along a wall of a restaurant or lounge area.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A bench or similar seat on top of a diligence or other public vehicle.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A sidewalk.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/banquette"
+        ]
+    }
+]

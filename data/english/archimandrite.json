@@ -1,0 +1,38 @@
+[
+    {
+        "word": "archimandrite",
+        "phonetic": "/\u02cc\u0251\u02d0k\u026a\u02c8m\u00e6nd\u0279a\u026at/",
+        "phonetics": [
+            {
+                "text": "/\u02cc\u0251\u02d0k\u026a\u02c8m\u00e6nd\u0279a\u026at/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The superior of a large monastery, or group of monasteries, in the Orthodox Church.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An honorary title sometimes given to a monastic priest.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/archimandrite"
+        ]
+    }
+]

@@ -1,0 +1,64 @@
+[
+    {
+        "word": "banyan",
+        "phonetic": "/\u02c8b\u00e6n.j\u0259n/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6n.j\u0259n/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8b\u00e6n.j\u0259n/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/banyan-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=5951876",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An Indian trader, merchant, cashier, or money changer.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A tropical Indian fig tree, Ficus benghalensis, that has many aerial roots.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A type of loose gown worn in India.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A vest; an undershirt; a singlet.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(Naval slang) A camping excursion on shore, to give a ship's crew a break from shipboard routine.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "banyan tree"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/banyan"
+        ]
+    }
+]

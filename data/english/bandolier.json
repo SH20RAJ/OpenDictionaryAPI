@@ -1,0 +1,33 @@
+[
+    {
+        "word": "bandolier",
+        "phonetic": "/\u02ccb\u00e6nd\u0259\u02c8l\u026a\u0259(\u0279)/",
+        "phonetics": [
+            {
+                "text": "/\u02ccb\u00e6nd\u0259\u02c8l\u026a\u0259(\u0279)/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An ammunition belt, worn over the shoulder, having loops or pockets for cartridges.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bandolier"
+        ]
+    }
+]

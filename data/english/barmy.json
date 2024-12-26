@@ -1,0 +1,84 @@
+[
+    {
+        "word": "barmy",
+        "phonetic": "/\u02c8b\u0251\u02d0.mi/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u0251\u02d0.mi/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/barmy-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=88676885",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Odd, strange, or crazy.",
+                        "synonyms": [
+                            "balmy",
+                            "dotty",
+                            "goofy",
+                            "wacko"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "balmy",
+                    "dotty",
+                    "goofy",
+                    "wacko"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/barmy"
+        ]
+    },
+    {
+        "word": "barmy",
+        "phonetic": "/\u02c8b\u0251\u02d0.mi/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u0251\u02d0.mi/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/barmy-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=88676885",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Containing barm, i.e. froth from fermented yeast.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/barmy"
+        ]
+    }
+]

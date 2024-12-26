@@ -1,0 +1,33 @@
+[
+    {
+        "word": "basilect",
+        "phonetic": "/\u02c8be\u026as\u026alekt/",
+        "phonetics": [
+            {
+                "text": "/\u02c8be\u026as\u026alekt/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A variety of a language that has diverged greatly from the standard form, and is only considered suitable for very informal contexts by speakers.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/basilect"
+        ]
+    }
+]

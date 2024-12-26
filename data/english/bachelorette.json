@@ -1,0 +1,38 @@
+[
+    {
+        "word": "bachelorette",
+        "phonetic": "/bat\u0283\u0259l\u0259\u02c8\u0279\u025bt/",
+        "phonetics": [
+            {
+                "text": "/bat\u0283\u0259l\u0259\u02c8\u0279\u025bt/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An unmarried woman.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A very small bachelor (single room) apartment.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bachelorette"
+        ]
+    }
+]

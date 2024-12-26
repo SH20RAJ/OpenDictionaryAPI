@@ -1,0 +1,162 @@
+[
+    {
+        "word": "barney",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/barney-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75267150",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u02c8b\u0251\u02d0ni/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8b\u0251\u0279ni/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/barney-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=866329",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A lark, a romp, some fun.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A hoax, a humbug, something that is not genuine, a rigged or unfair sporting contest.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(Harvard University slang) A poor recitation.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A noisy argument.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A minor physical fight.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(Boston) A student at Harvard University.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "(Harvard University slang) To recite badly; to fail.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To argue, to quarrel.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "bicker",
+                    "row",
+                    "squabble"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Insane crazy, loony.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "fisticuffs",
+                    "scuffle",
+                    "quarrel",
+                    "row"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/barney"
+        ]
+    },
+    {
+        "word": "barney",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/barney-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75267150",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u02c8b\u0251\u02d0ni/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8b\u0251\u0279ni/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/barney-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=866329",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "(pejorative slang) A police officer, usually one perceived as inferior or overzealous.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "fed",
+                    "pig"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/barney"
+        ]
+    }
+]

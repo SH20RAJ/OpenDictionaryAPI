@@ -1,0 +1,28 @@
+[
+    {
+        "word": "balkanize",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To break up into small, mutually hostile units, especially on a political basis.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/Balkanize",
+            "https://en.wiktionary.org/wiki/balkanize"
+        ]
+    }
+]

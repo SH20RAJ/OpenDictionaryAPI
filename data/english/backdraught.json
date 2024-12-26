@@ -1,0 +1,34 @@
+[
+    {
+        "word": "backdraught",
+        "phonetic": "/\u02c8b\u00e6k.d\u0279\u0251\u02d0ft/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6k.d\u0279\u0251\u02d0ft/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Sudden, dangerous recombustion that occurs when there is a rapid reintroduction of oxygen to an enclosed space containing a fire.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/backdraft",
+            "https://en.wiktionary.org/wiki/backdraught"
+        ]
+    }
+]

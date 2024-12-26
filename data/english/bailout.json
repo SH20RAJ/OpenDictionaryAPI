@@ -1,0 +1,44 @@
+[
+    {
+        "word": "bailout",
+        "phonetic": "/\u02c8be\u026al\u02ccawt/",
+        "phonetics": [
+            {
+                "text": "/\u02c8be\u026al\u02ccawt/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A rescue, especially a financial rescue.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The government bailout of that corporation is going to cost the taxpayers a hundred billion dollars."
+                    },
+                    {
+                        "definition": "The process of exiting an aircraft while in flight.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(underwater diving) A backup supply of air in scuba diving.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bailout"
+        ]
+    }
+]

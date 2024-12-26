@@ -1,0 +1,43 @@
+[
+    {
+        "word": "bakehouse",
+        "phonetic": "/\u02c8be\u026akha\u028as/",
+        "phonetics": [
+            {
+                "text": "/\u02c8be\u026akha\u028as/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A building or an apartment used for the preparing and baking of bread and other baked goods.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A building principally containing ovens.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Bakery.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bakehouse"
+        ]
+    }
+]

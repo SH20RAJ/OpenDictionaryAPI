@@ -1,0 +1,38 @@
+[
+    {
+        "word": "barbette",
+        "phonetic": "/b\u0251\u02d0\u02c8b\u025bt/",
+        "phonetics": [
+            {
+                "text": "/b\u0251\u02d0\u02c8b\u025bt/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A mound of earth or a platform in a fortification, on which guns are mounted to fire over the parapet.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The inside fixed trunk of a warship's gun-mounting, on which the turret revolves. It contains the hoists for shells and cordite from the shell-room and magazine.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/barbette"
+        ]
+    }
+]

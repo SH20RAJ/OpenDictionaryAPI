@@ -1,0 +1,37 @@
+[
+    {
+        "word": "baryton",
+        "phonetic": "/\u02c8b\u00e6\u0279\u026at\u0252n/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6\u0279\u026at\u0252n/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A viol-like stringed instrument (chordophone) mainly played with a bow but with a set of plucked strings as well, originating in European music prior to the 1800s.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "paradon",
+                    "viola di bordone",
+                    "viola paradon"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/baryton"
+        ]
+    }
+]

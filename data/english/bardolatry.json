@@ -1,0 +1,33 @@
+[
+    {
+        "word": "bardolatry",
+        "phonetic": "/\u02c8b\u0251\u02d0(\u0279).d\u0252l\u0259t\u0279\u026ai/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u0251\u02d0(\u0279).d\u0252l\u0259t\u0279\u026ai/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "(usually derogatory) excessive or religious worship of William Shakespeare",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bardolatry"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "word": "barberry",
+        "phonetic": "/\u02c8b\u0251\u0279b\u025b\u0279i/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u0251\u0279b\u025b\u0279i/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any of the thorny shrubs of genus Berberis, which bear yellow flowers and red or blue-black berries.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/barberry"
+        ]
+    }
+]

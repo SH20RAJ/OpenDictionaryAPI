@@ -1,0 +1,96 @@
+[
+    {
+        "word": "bald",
+        "phonetic": "/b\u0254\u02d0ld/",
+        "phonetics": [
+            {
+                "text": "/b\u0254\u02d0ld/",
+                "audio": ""
+            },
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bald-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1769844",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            },
+            {
+                "text": "/b\u0251ld/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A mountain summit or crest that lacks forest growth despite a warm climate conducive to such, as is found in many places in the Southern Appalachian Mountains.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To become bald.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Having no hair, fur or feathers.",
+                        "synonyms": [],
+                        "antonyms": [
+                            "faxed",
+                            "haired"
+                        ]
+                    },
+                    {
+                        "definition": "(by extension) Denuded of any hair- or fur-like covering.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The bald cypress is a tree that loses its leaves in winter."
+                    },
+                    {
+                        "definition": "Of tyres: whose surface is worn away.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(of a statement or account) Unembellished.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(of a statement) Without evidence or support being provided.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "faxed",
+                    "haired"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bald"
+        ]
+    }
+]

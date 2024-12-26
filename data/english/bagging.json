@@ -1,0 +1,155 @@
+[
+    {
+        "word": "bagging",
+        "phonetic": "/\u02c8b\u00e6\u0261\u026a\u014b/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6\u0261\u026a\u014b/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To put into a bag.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To catch or kill, especially when fishing or hunting.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "We bagged three deer yesterday."
+                    },
+                    {
+                        "definition": "To gain possession of something, or to make first claim on something.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To furnish or load with a bag.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(African American Vernacular) To bring a woman one met on the street with one.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(African American Vernacular) To laugh uncontrollably.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To criticise sarcastically.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To provide with artificial ventilation via a bag valve mask (BVM) resuscitator.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To fit with a bag to collect urine.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To (cause to) swell or hang down like a full bag.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The brisk wind bagged the sails."
+                    },
+                    {
+                        "definition": "To hang like an empty bag.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "His trousers bag at the knees."
+                    },
+                    {
+                        "definition": "To drop away from the correct course.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To swell with arrogance.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To become pregnant.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The act of putting anything into a bag.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Cloth or other material for bags.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "baggings used to cover cotton bales"
+                    },
+                    {
+                        "definition": "Use of BVM to ventilate a patient.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Peak bagging",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bag",
+            "https://en.wiktionary.org/wiki/bagging"
+        ]
+    },
+    {
+        "word": "bagging",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Bootstrap aggregating",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bagging"
+        ]
+    }
+]

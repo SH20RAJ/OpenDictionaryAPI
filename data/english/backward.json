@@ -1,0 +1,184 @@
+[
+    {
+        "word": "backward",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/backward-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75899446",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u02c8b\u00e6k.w\u0259(\u0279)d/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8b\u00e6kw\u025ad/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The state behind or past.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(of motion) In the direction towards the back.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "They left without a backward glance."
+                    },
+                    {
+                        "definition": "(of motion) In the direction reverse of normal.",
+                        "synonyms": [
+                            "retrograde"
+                        ],
+                        "antonyms": [],
+                        "example": "The occasional backward movement of planets is evidence they revolve around the sun."
+                    },
+                    {
+                        "definition": "Reluctant or unable to advance.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Of a culture: undeveloped or unsophisticated.",
+                        "synonyms": [
+                            "Third World",
+                            "developing"
+                        ],
+                        "antonyms": [
+                            "First World",
+                            "developed",
+                            "forward"
+                        ]
+                    },
+                    {
+                        "definition": "Outdated.",
+                        "synonyms": [
+                            "antediluvian",
+                            "antiquated",
+                            "backwards",
+                            "parachronistic",
+                            "retrograde"
+                        ],
+                        "antonyms": [
+                            "progressive"
+                        ]
+                    },
+                    {
+                        "definition": "On that part of the field behind the batsman's popping crease.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Further behind the batsman's popping crease than something else.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Unwilling; averse; reluctant.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Slow to apprehend; having difficulties in learning.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "a backward child"
+                    },
+                    {
+                        "definition": "Late or behindhand.",
+                        "synonyms": [
+                            "overdue",
+                            "tardy"
+                        ],
+                        "antonyms": [],
+                        "example": "a backward season"
+                    },
+                    {
+                        "definition": "Already past or gone; bygone.",
+                        "synonyms": [
+                            "forepast",
+                            "historical"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "Third World",
+                    "developing",
+                    "antediluvian",
+                    "antiquated",
+                    "backwards",
+                    "parachronistic",
+                    "retrograde",
+                    "forepast",
+                    "historical",
+                    "overdue",
+                    "tardy",
+                    "retrograde"
+                ],
+                "antonyms": [
+                    "First World",
+                    "developed",
+                    "forward",
+                    "progressive"
+                ]
+            },
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "(of motion) In the direction towards the back; backwards",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "to throw the arms backward"
+                    },
+                    {
+                        "definition": "Toward, or in, past time or events; ago.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "By way of reflection; reflexively.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "From a better to a worse state, as from honor to shame, from religion to sin.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "backwards"
+                ],
+                "antonyms": [
+                    "forward",
+                    "forwards"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/backward"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "word": "banteng",
+        "phonetic": "/\u02c8b\u00e6n.t\u025b\u014b/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6n.t\u025b\u014b/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A wild ox, Bos javanicus, found in Borneo, Malaysia and the Indochina peninsula.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/banteng"
+        ]
+    }
+]

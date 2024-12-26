@@ -1,0 +1,39 @@
+[
+    {
+        "word": "bampot",
+        "phonetic": "/\u02c8b\u00e6m.p\u0252t/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6m.p\u0252t/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bampot-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=79268275",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Idiot; an objectionable and foolish person.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "No-one up there really believes Scotland is some kind of terrorism magnet, whatever the bampots in London think."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bampot"
+        ]
+    }
+]

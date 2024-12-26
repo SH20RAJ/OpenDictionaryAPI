@@ -1,0 +1,83 @@
+[
+    {
+        "word": "bankrupt",
+        "phonetic": "/\u02c8b\u00e6\u014b.k\u0279\u0259pt/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6\u014b.k\u0279\u0259pt/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bankrupt-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=88675756",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u02c8b\u00e6\u014bk.\u0279\u0259pt/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "One who becomes unable to pay his or her debts; an insolvent person.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A trader who secretes himself, or does certain other acts tending to defraud his creditors.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To force into bankruptcy.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "In a condition of bankruptcy; unable to pay one's debts.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "a bankrupt merchant"
+                    },
+                    {
+                        "definition": "Having been legally declared insolvent.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Destitute of, or wholly lacking (something once possessed, or something one should possess).",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "a morally bankrupt politician"
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bankrupt"
+        ]
+    }
+]

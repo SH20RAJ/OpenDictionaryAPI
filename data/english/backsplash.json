@@ -1,0 +1,37 @@
+[
+    {
+        "word": "backsplash",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/backsplash-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=283131"
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A vertical covering on a wall rising above a countertop or other work surface to protect the wall from spills and to decorate the wall.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The small splash of water that occurs when an oar enters the water to begin a stroke just before the rower reaches the catch.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/backsplash"
+        ]
+    }
+]

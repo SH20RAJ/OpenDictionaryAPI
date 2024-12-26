@@ -1,0 +1,43 @@
+[
+    {
+        "word": "barleycorn",
+        "phonetic": "/\u02c8b\u0251\u02d0(\u0279)li\u02cck\u0254\u02d0(\u0279)n/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u0251\u02d0(\u0279)li\u02cck\u0254\u02d0(\u0279)n/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A grain of barley.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The length of such a grain; a unit of length of approximately one third (or sometimes one quarter) of an inch or eight millimetres, still used as a basis for shoe sizes",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A small groove between two mouldings.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/barleycorn"
+        ]
+    }
+]

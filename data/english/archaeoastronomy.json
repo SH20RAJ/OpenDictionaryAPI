@@ -1,0 +1,28 @@
+[
+    {
+        "word": "archaeoastronomy",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The historical, especially archeological, study of astronomy; the study of the astronomical systems and methods of ancient cultures often embracing the astrology and cosmology of the past.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/archaeastronomy",
+            "https://en.wiktionary.org/wiki/archaeoastronomy"
+        ]
+    }
+]

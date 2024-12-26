@@ -1,0 +1,34 @@
+[
+    {
+        "word": "baler",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A machine for creating bales, e.g., of hay or cotton.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Farmer Jones is in straits because his baler is broken down and he's got three fields of hay ready to bale."
+                    },
+                    {
+                        "definition": "A person who creates bales, either by operating or feeding such a machine, or by creating the bales by hand.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Hank worked as a baler for Farmer Jones part time, to make ends meet."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/baler"
+        ]
+    }
+]

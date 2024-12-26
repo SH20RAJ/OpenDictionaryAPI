@@ -1,0 +1,33 @@
+[
+    {
+        "word": "backer",
+        "phonetic": "/\u02c8b\u00e6k\u0259(\u0279)/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6k\u0259(\u0279)/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "One who, or that which, backs; especially one who backs an entrant in a contest, or who supports an enterprise by funding it.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/backer"
+        ]
+    }
+]

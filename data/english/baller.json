@@ -1,0 +1,61 @@
+[
+    {
+        "word": "baller",
+        "phonetic": "/\u02c8b\u0254\u02d0l\u0259(\u0279)/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u0254\u02d0l\u0259(\u0279)/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/baller-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=79268160",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A person employed to divide molten metal into separate balls before it is hammered out.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "One who plays basketball; a basketballer.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "One who has swag and lives an extravagant lifestyle.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Did you see that car? He\u2019s such a baller."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Very cool, especially due to extravagance.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/baller"
+        ]
+    }
+]

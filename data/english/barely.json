@@ -1,0 +1,55 @@
+[
+    {
+        "word": "barely",
+        "phonetic": "/\u02c8b\u025b\u0259(\u0279).li/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u025b\u0259(\u0279).li/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8b\u025b\u0279.li/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "(degree) By a small margin.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(degree) Almost not at all.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The plane is so far away now I can barely see it."
+                    },
+                    {
+                        "definition": "Merely.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "hardly",
+                    "just",
+                    "only just",
+                    "scarcely",
+                    "hardly",
+                    "scarcely"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/barely"
+        ]
+    }
+]

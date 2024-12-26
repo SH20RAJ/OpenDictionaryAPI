@@ -1,0 +1,91 @@
+[
+    {
+        "word": "bally",
+        "phonetic": "/\u02c8b\u00e6li/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6li/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bally-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=89013501",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Bloody (used as a mild intensifier).",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "He's just a bally idiot."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "Very.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "That was a bally foolish thing to do, old chap!"
+                    }
+                ],
+                "synonyms": [
+                    "blasted",
+                    "dashed"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bally"
+        ]
+    },
+    {
+        "word": "bally",
+        "phonetic": "/\u02c8b\u00e6li/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6li/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bally-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=89013501",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A balaclava.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bally"
+        ]
+    }
+]

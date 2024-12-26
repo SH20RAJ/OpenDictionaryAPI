@@ -1,0 +1,27 @@
+[
+    {
+        "word": "basilosaurus",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any species of several very large extinct cetaceans belonging to the Genus Basilosaurus, of the family Basilosauridae, from the late Eocene. the two species in the genus B.isis (found in Egypt and Tunisia) and cetoides (found in the southern and eastern US).",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/basilosaurus"
+        ]
+    }
+]

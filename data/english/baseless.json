@@ -1,0 +1,42 @@
+[
+    {
+        "word": "baseless",
+        "phonetic": "/\u02c8be\u026asl\u0259s/",
+        "phonetics": [
+            {
+                "text": "/\u02c8be\u026asl\u0259s/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of reasoning: based on something that is not true, or not based on solid reasons or facts.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "baseless accusations; baseless rumors"
+                    },
+                    {
+                        "definition": "Without a physical base.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "groundless",
+                    "unfounded"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/baseless"
+        ]
+    }
+]

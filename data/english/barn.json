@@ -1,0 +1,123 @@
+[
+    {
+        "word": "barn",
+        "phonetic": "[ba\u02d0n]",
+        "phonetics": [
+            {
+                "text": "[ba\u02d0n]",
+                "audio": ""
+            },
+            {
+                "text": "[b\u0250\u02d0n]",
+                "audio": ""
+            },
+            {
+                "text": "[b\u0251\u02d0n]",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/barn-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=88680964",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "[ba\u02d0n]",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A building, often found on a farm, used for storage or keeping animals such as cattle.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A unit of surface area equal to 10\u221228 square metres.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An arena.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Maple Leaf Gardens was a grand old barn."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To lay up in a barn.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/barn"
+        ]
+    },
+    {
+        "word": "barn",
+        "phonetic": "[ba\u02d0n]",
+        "phonetics": [
+            {
+                "text": "[ba\u02d0n]",
+                "audio": ""
+            },
+            {
+                "text": "[b\u0250\u02d0n]",
+                "audio": ""
+            },
+            {
+                "text": "[b\u0251\u02d0n]",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/barn-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=88680964",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "[ba\u02d0n]",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A child.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "bairn"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/barn"
+        ]
+    }
+]

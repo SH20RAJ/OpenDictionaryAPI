@@ -1,0 +1,89 @@
+[
+    {
+        "word": "bareback",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bareback-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=79240986",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u02c8b\u025b\u0259b\u00e6k/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A bird, raised for meat, that lacks feathers, seen as an undesirable trait.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To have sex without a condom.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To have, usually male to male, anal sex without a condom.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Without a saddle.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "bareback riding"
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "Without a saddle.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "I can ride a horse bareback."
+                    },
+                    {
+                        "definition": "Without a condom.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "We had sex bareback."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bareback"
+        ]
+    }
+]

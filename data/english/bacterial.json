@@ -1,0 +1,33 @@
+[
+    {
+        "word": "bacterial",
+        "phonetic": "[b\u00e6k\u02c8t\u026a\u0259\u0279\u026a\u0259\u026b]",
+        "phonetics": [
+            {
+                "text": "[b\u00e6k\u02c8t\u026a\u0259\u0279\u026a\u0259\u026b]",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of, relating to, or caused by bacteria.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bacterial"
+        ]
+    }
+]

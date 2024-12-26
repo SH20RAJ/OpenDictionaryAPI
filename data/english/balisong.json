@@ -1,0 +1,30 @@
+[
+    {
+        "word": "balisong",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A folding pocket knife with two handles counter-rotating around the tang such that, when closed, the blade is concealed within grooves in the handles.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "Batangas knife",
+                    "butterfly knife"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/balisong"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "word": "bankster",
+        "phonetic": "/\u02c8b\u00e6\u014bkst\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6\u014bkst\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A banker who is seen as criminally irresponsible, or as extorting bailout money from the taxpayers.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bankster"
+        ]
+    }
+]

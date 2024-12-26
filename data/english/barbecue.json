@@ -1,0 +1,95 @@
+[
+    {
+        "word": "barbecue",
+        "phonetic": "/\u02c8b\u0251\u02d0b\u026a\u02cckju\u02d0/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u0251\u02d0b\u026a\u02cckju\u02d0/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8b\u0251\u0279b\u026a\u02cckju/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/barbecue-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=873699",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A fireplace or pit for grilling food, typically used outdoors and traditionally employing hot charcoal as the heating medium.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "We cooked our food on the barbecue."
+                    },
+                    {
+                        "definition": "A meal or event highlighted by food cooked in such an apparatus.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "We're having a barbecue on Saturday, and you're invited."
+                    },
+                    {
+                        "definition": "Meat, especially pork or beef, which has been cooked in such an apparatus (i.e. smoked over indirect heat from high-smoke fuels) and then chopped up or shredded.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "She ordered a plate of barbecue with a side of slaw."
+                    },
+                    {
+                        "definition": "A hog, ox, or other large animal roasted or broiled whole for a feast.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A floor on which coffee beans are sun-dried.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A framework of sticks.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "braai",
+                    "cookout",
+                    "braai",
+                    "buccan",
+                    "grill"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To cook food on a barbecue; to smoke it over indirect heat from high-smoke fuels.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To grill.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "braai"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/barbecue"
+        ]
+    }
+]

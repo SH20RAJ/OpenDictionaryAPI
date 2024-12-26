@@ -1,0 +1,39 @@
+[
+    {
+        "word": "backless",
+        "phonetic": "/\u02c8b\u00e6kl\u0259s/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6kl\u0259s/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Having no back, said of things that typically have backs, such as chairs or dresses",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "a backless surgical gown"
+                    },
+                    {
+                        "definition": "(of a person) having an uncovered back, having a back that shows skin",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/backless"
+        ]
+    }
+]

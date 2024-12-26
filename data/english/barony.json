@@ -1,0 +1,50 @@
+[
+    {
+        "word": "barony",
+        "phonetic": "/\u02c8b\u00e6.\u0279\u0259.ni/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6.\u0279\u0259.ni/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The domain of a baron or baroness, usually as part of a larger kingdom or empire.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The baronage: the body of barons in a realm.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Baronship, the rank or position of a baron.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The legal tenure of a baron's land; military tenure.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "hundred"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/barony"
+        ]
+    }
+]

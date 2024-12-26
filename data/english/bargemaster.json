@@ -1,0 +1,28 @@
+[
+    {
+        "word": "bargemaster",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The person in charge of transport on a barge or barges.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "In Tudor days, the royal bargemaster was a notable courtier, responsible for taking the king\u2019s party to many places along the Thames"
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bargemaster"
+        ]
+    }
+]

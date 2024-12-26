@@ -1,0 +1,37 @@
+[
+    {
+        "word": "basicity",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The condition of being basic",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The degree to which a substance is basic",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The number of replaceable hydrogen atoms in a molecule of an acid",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/basicity"
+        ]
+    }
+]

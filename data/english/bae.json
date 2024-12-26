@@ -1,0 +1,130 @@
+[
+    {
+        "word": "bae",
+        "phonetic": "/be\u026a/",
+        "phonetics": [
+            {
+                "text": "/be\u026a/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bae-ca.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=54323302",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Darling (term of endearment).",
+                        "synonyms": [
+                            "babe",
+                            "baby",
+                            "darling",
+                            "dear",
+                            "love",
+                            "loved one",
+                            "significant other",
+                            "special someone",
+                            "sweetheart"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "babe",
+                    "baby",
+                    "darling",
+                    "dear",
+                    "love",
+                    "loved one",
+                    "significant other",
+                    "special someone",
+                    "sweetheart"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bae"
+        ]
+    },
+    {
+        "word": "bae",
+        "phonetic": "/be\u026a/",
+        "phonetics": [
+            {
+                "text": "/be\u026a/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bae-ca.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=54323302",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Asian pear.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bae"
+        ]
+    },
+    {
+        "word": "bae",
+        "phonetic": "/be\u026a/",
+        "phonetics": [
+            {
+                "text": "/be\u026a/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bae-ca.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=54323302",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To make the sound of a wild animal, to bay.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bae"
+        ]
+    }
+]

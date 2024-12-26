@@ -1,0 +1,34 @@
+[
+    {
+        "word": "basinet",
+        "phonetic": "/b\u00e6s\u026a\u02c8n\u025bt/",
+        "phonetics": [
+            {
+                "text": "/b\u00e6s\u026a\u02c8n\u025bt/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A light helmet, at first open, but later made with a visor.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bascinet",
+            "https://en.wiktionary.org/wiki/basinet"
+        ]
+    }
+]

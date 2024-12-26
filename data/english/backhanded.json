@@ -1,0 +1,103 @@
+[
+    {
+        "word": "backhanded",
+        "phonetic": "/\u02c8b\u00e6k\u02cch\u00e6nd\u0259d/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6k\u02cch\u00e6nd\u0259d/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/backhanded-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=297767",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To execute a backhand stroke or throw",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To slap with the back of one's hand",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "With the back of the hand.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Involving a backward flip of the hand.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Insincere, sarcastic, ironic, or self-contradictory.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Indirect.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Backwards, turned around.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(of writing) inclining to the left",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Retrospective, occurring after the fact rather than in advance.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Self-serving, corrupt, slipshod, or neglectful.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "In a backhanded manner.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/backhand",
+            "https://en.wiktionary.org/wiki/backhanded"
+        ]
+    }
+]

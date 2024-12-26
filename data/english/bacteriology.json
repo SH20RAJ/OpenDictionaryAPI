@@ -1,0 +1,33 @@
+[
+    {
+        "word": "bacteriology",
+        "phonetic": "/b\u00e6k\u02cct\u026a\u0259\u0279.\u026a\u02c8\u0252l\u0259d\u0292i/",
+        "phonetics": [
+            {
+                "text": "/b\u00e6k\u02cct\u026a\u0259\u0279.\u026a\u02c8\u0252l\u0259d\u0292i/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The scientific study of bacteria, especially in relation to disease and agriculture.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bacteriology"
+        ]
+    }
+]

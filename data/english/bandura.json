@@ -1,0 +1,50 @@
+[
+    {
+        "word": "bandura",
+        "phonetic": "/b\u00e6n\u02c8d\u028a\u0259\u0279\u0259/",
+        "phonetics": [
+            {
+                "text": "/b\u00e6n\u02c8d\u028a\u0259\u0279\u0259/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bandura-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=81524180",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/b\u00e6n\u02c8du\u0279\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A Ukrainian plucked stringed instrument with a tear-shaped body, like an asymmetrical lute or a vertical zither, which is played with both hands while held upright on the lap.",
+                        "synonyms": [
+                            "bandore",
+                            "kobza",
+                            "pandore"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "bandore",
+                    "kobza",
+                    "pandore"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bandura"
+        ]
+    }
+]

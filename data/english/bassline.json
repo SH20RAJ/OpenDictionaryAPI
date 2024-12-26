@@ -1,0 +1,33 @@
+[
+    {
+        "word": "bassline",
+        "phonetic": "/\u02c8be\u026as\u02ccla\u026an/",
+        "phonetics": [
+            {
+                "text": "/\u02c8be\u026as\u02ccla\u026an/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The low-pitched instrumental part of a piece of popular music.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bassline"
+        ]
+    }
+]

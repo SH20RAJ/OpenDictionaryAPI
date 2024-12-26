@@ -1,0 +1,73 @@
+[
+    {
+        "word": "backboard",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The flat vertical surface to which the basket is attached.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A flat vertical wall with the image of a tennis net drawn or painted on it. Designed to practice hitting against such that the ball bounces back.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(first aid) A spine board.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A board placed at the back of a cart, boat, etc.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/backboard"
+        ]
+    },
+    {
+        "word": "backboard",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The port or larboard side of a ship",
+                        "synonyms": [
+                            "larboard",
+                            "port"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "larboard",
+                    "port"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/backboard"
+        ]
+    }
+]

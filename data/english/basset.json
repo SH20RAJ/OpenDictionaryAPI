@@ -1,0 +1,56 @@
+[
+    {
+        "word": "basset",
+        "phonetic": "/\u02c8b\u00e6s\u026at/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6s\u026at/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The edge of a geological stratum at the surface of the ground; the outcrop.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A basset hound.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A card game resembling faro.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To incline upward so as to appear at the surface.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "A vein of coal bassets."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/basset"
+        ]
+    }
+]

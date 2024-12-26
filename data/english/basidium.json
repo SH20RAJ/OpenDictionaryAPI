@@ -1,0 +1,33 @@
+[
+    {
+        "word": "basidium",
+        "phonetic": "/b\u0259\u02c8s\u026ad\u026a\u0259m/",
+        "phonetics": [
+            {
+                "text": "/b\u0259\u02c8s\u026ad\u026a\u0259m/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A small structure, shaped like a club, found in the Basidiomycota division of fungi, that bears four spores at the tips of small projections.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/basidium"
+        ]
+    }
+]

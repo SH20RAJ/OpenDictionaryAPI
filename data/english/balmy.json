@@ -1,0 +1,63 @@
+[
+    {
+        "word": "balmy",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/balmy-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75729806",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u02c8b\u0251\u02d0.mi/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8b\u0251\u02d0.mi/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Producing balm.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Soothing or fragrant.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Mild and pleasant.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Foolish; slightly crazy or mad; eccentric.",
+                        "synonyms": [
+                            "barmy"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "barmy"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/balmy"
+        ]
+    }
+]

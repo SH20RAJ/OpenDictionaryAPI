@@ -1,0 +1,33 @@
+[
+    {
+        "word": "barchan",
+        "phonetic": "/b\u0251\u02d0(\u0279)\u02c8k\u0251\u02d0n/",
+        "phonetics": [
+            {
+                "text": "/b\u0251\u02d0(\u0279)\u02c8k\u0251\u02d0n/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An arc-shaped sand ridge comprising well-sorted sand.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/barchan"
+        ]
+    }
+]

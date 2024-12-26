@@ -1,0 +1,154 @@
+[
+    {
+        "word": "ballyhoo",
+        "phonetic": "/b\u00e6li\u02c8hu\u02d0/",
+        "phonetics": [
+            {
+                "text": "/b\u00e6li\u02c8hu\u02d0/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ballyhoo-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75729802",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/b\u00e6li\u02c8hu\u02d0/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ballyhoo-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=752813",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Sensational or clamorous advertising or publicity.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Noisy shouting or uproar.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To sensationalise or make grand claims.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ballyhoo"
+        ]
+    },
+    {
+        "word": "ballyhoo",
+        "phonetic": "/b\u00e6li\u02c8hu\u02d0/",
+        "phonetics": [
+            {
+                "text": "/b\u00e6li\u02c8hu\u02d0/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ballyhoo-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75729802",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/b\u00e6li\u02c8hu\u02d0/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ballyhoo-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=752813",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Certain species in family Hemiramphidae, inshore, surface-dwelling needlefish forming sizeable schools.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ballyhoo"
+        ]
+    },
+    {
+        "word": "ballyhoo",
+        "phonetic": "/b\u00e6li\u02c8hu\u02d0/",
+        "phonetics": [
+            {
+                "text": "/b\u00e6li\u02c8hu\u02d0/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ballyhoo-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75729802",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/b\u00e6li\u02c8hu\u02d0/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/ballyhoo-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=752813",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An unseaworthy or slovenly ship.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ballyhoo"
+        ]
+    }
+]

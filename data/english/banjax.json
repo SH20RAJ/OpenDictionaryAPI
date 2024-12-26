@@ -1,0 +1,54 @@
+[
+    {
+        "word": "banjax",
+        "phonetic": "/b\u00e6n\u02c8d\u0361\u0292\u00e6ks/",
+        "phonetics": [
+            {
+                "text": "/b\u00e6n\u02c8d\u0361\u0292\u00e6ks/",
+                "audio": ""
+            },
+            {
+                "text": "/b\u00e6n\u02c8d\u0361\u0292\u00e6ks/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/banjax-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1769845",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A mess or undesirable situation made as a result of incompetence.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "(originally Ireland) To ruin or destroy.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/banjax"
+        ]
+    }
+]

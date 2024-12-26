@@ -1,0 +1,81 @@
+[
+    {
+        "word": "barbed",
+        "phonetic": "/b\u0251\u02d0(\u0279)bd/",
+        "phonetics": [
+            {
+                "text": "/b\u0251\u02d0(\u0279)bd/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To furnish with barbs, or with that which will hold or hurt like barbs, as an arrow, fishhook, spear, etc.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To cover a horse in armor, corrupted from bard.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To cut (hair).",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To shave or dress the beard of.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To clip; to mow.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Having barbs",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Bearded (also applied to roses, referring to the leaves between the petals).",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(of language, etc.) Deliberately hurtful; biting; caustic.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(of a horse) Accoutered with defensive armor; barded.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/barb",
+            "https://en.wiktionary.org/wiki/barbed"
+        ]
+    }
+]

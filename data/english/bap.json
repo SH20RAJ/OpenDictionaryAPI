@@ -1,0 +1,79 @@
+[
+    {
+        "word": "bap",
+        "phonetic": "/b\u00e6p/",
+        "phonetics": [
+            {
+                "text": "/b\u00e6p/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bap-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=79218516",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A soft bread roll, originally from Scotland.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(chiefly in the plural) A woman's breast.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bap"
+        ]
+    },
+    {
+        "word": "bap",
+        "phonetic": "/b\u00e6p/",
+        "phonetics": [
+            {
+                "text": "/b\u00e6p/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bap-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=79218516",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To hit lightly.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bap"
+        ]
+    }
+]

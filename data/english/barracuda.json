@@ -1,0 +1,38 @@
+[
+    {
+        "word": "barracuda",
+        "phonetic": "/\u02ccb\u00e6\u0279\u0259\u02c8ku\u02d0d\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u02ccb\u00e6\u0279\u0259\u02c8ku\u02d0d\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any large marine fish of the genus Sphyraena that have elongated bodies, a projecting lower jaw, displaying prominent fang-shaped teeth, and are aggressive predators.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "One who uses harsh or predatory means to compete.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/barracuda"
+        ]
+    }
+]

@@ -1,0 +1,32 @@
+[
+    {
+        "word": "ballotin",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A small, elegant box (usually containing chocolates).",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An officer in charge of a ballot box.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ballotin"
+        ]
+    }
+]

@@ -1,0 +1,28 @@
+[
+    {
+        "word": "archaeopteryx",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A specimen of the species Archaeopteryx lithographica, being the earliest and most primitive known bird, representing a transition in the evolution of dinosaurs to birds.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/archaeopteryx",
+            "https://en.wiktionary.org/wiki/archeopteryx"
+        ]
+    }
+]

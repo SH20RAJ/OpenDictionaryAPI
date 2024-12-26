@@ -1,0 +1,60 @@
+[
+    {
+        "word": "bagpipe",
+        "phonetic": "/\u02c8b\u00e6\u0261\u02ccpa\u026ap/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6\u0261\u02ccpa\u026ap/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To play the bagpipes.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To lay (the mizzen) aback by bringing the sheet to the mizzen rigging.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To masturbate a person's penis in one's armpit.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A musical wind instrument of Celtic origin, possessing a flexible bag inflated by bellows, a double-reed melody pipe and up to four drone pipes; any aerophone that produces sound using air from a reservoir to vibrate enclosed reeds.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Bagpipes are traditionally played in most Celtic regions and many former parts of the British Empire."
+                    }
+                ],
+                "synonyms": [
+                    "bagpipe",
+                    "pipes"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bagpipe",
+            "https://en.wiktionary.org/wiki/bagpipes"
+        ]
+    }
+]

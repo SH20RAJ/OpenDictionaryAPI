@@ -1,0 +1,52 @@
+[
+    {
+        "word": "backplate",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A plate protecting a fighting person's back.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(underwater diving) A plate harnessed to a diver's back, to which the gas cylinders are attached.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A metal plate on the rear of a computer's casing, used to cover a port or slot.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A wood or metal plate that serves as a backing for an object.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A rigid metal plate inside the brake drum, which supports the wheel cylinder, brake shoes, and other parts of a drum brake.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Part of a condenser microphone that sits behind the diaphragm and which acts, in conjunction with the diaphragm, as a sort of variable capacitor.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/backplate"
+        ]
+    }
+]

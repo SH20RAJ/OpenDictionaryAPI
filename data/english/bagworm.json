@@ -1,0 +1,43 @@
+[
+    {
+        "word": "bagworm",
+        "phonetic": "/\u02c8b\u00e6\u0261.w\u025c\u02d0(\u0279)m/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6\u0261.w\u025c\u02d0(\u0279)m/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A member of the family Psychidae of the Lepidoptera.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Eastern tent caterpillar.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Fall webworm.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bagworm"
+        ]
+    }
+]

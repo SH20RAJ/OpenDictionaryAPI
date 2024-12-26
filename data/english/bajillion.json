@@ -1,0 +1,38 @@
+[
+    {
+        "word": "bajillion",
+        "phonetic": "/b\u0259\u02c8d\u0361\u0292\u026alj\u0259n/",
+        "phonetics": [
+            {
+                "text": "/b\u0259\u02c8d\u0361\u0292\u026alj\u0259n/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bajillion-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=79241314",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An unspecified large number (of).",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bajillion"
+        ]
+    }
+]

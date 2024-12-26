@@ -1,0 +1,33 @@
+[
+    {
+        "word": "balboa",
+        "phonetic": "/b\u00e6l\u02c8b\u0259\u028a\u0259/",
+        "phonetics": [
+            {
+                "text": "/b\u00e6l\u02c8b\u0259\u028a\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The currency of Panama, divided into 100 cent\u00e9simos",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/balboa"
+        ]
+    }
+]

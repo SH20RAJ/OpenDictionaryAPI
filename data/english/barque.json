@@ -1,0 +1,49 @@
+[
+    {
+        "word": "barque",
+        "phonetic": "/b\u0251\u02d0k/",
+        "phonetics": [
+            {
+                "text": "/b\u0251\u02d0k/",
+                "audio": ""
+            },
+            {
+                "text": "/b\u0251\u0279k/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A sailing vessel of three or more masts, with all masts but the sternmost square-rigged, the sternmost being fore-and-aft-rigged",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Any small sailing vessel",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A sailing vessel or boat of any kind",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "boat"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/barque"
+        ]
+    }
+]

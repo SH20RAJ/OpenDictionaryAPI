@@ -1,0 +1,28 @@
+[
+    {
+        "word": "ballplayer",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A player of a ball game; especially a basketball, baseball, or football player.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ball%20player",
+            "https://en.wiktionary.org/wiki/ballplayer"
+        ]
+    }
+]

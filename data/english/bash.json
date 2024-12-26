@@ -1,0 +1,111 @@
+[
+    {
+        "word": "bash",
+        "phonetic": "/b\u00e6\u0283/",
+        "phonetics": [
+            {
+                "text": "/b\u00e6\u0283/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bash-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=79218524",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A large party; gala event.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "They had a big bash to celebrate their tenth anniversary."
+                    },
+                    {
+                        "definition": "An attack that consists of placing all one's weight into a downward attack with one's fists.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To strike heavily.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "He bashed himself against the door."
+                    },
+                    {
+                        "definition": "To collide.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Don't bash into me with that shopping trolley."
+                    },
+                    {
+                        "definition": "To criticize harshly.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "He bashed my ideas."
+                    },
+                    {
+                        "definition": "To masturbate.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "He said that he bashes daily."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bash"
+        ]
+    },
+    {
+        "word": "bash",
+        "phonetic": "/b\u00e6\u0283/",
+        "phonetics": [
+            {
+                "text": "/b\u00e6\u0283/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bash-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=79218524",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To abash; to disconcert or be disconcerted or put out of countenance.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bash"
+        ]
+    }
+]

@@ -1,0 +1,41 @@
+[
+    {
+        "word": "arborio",
+        "phonetic": "/\u0251\u02d0\u02c8b\u0254\u02d0\u0279\u026a.\u0259\u028a/",
+        "phonetics": [
+            {
+                "text": "/\u0251\u02d0\u02c8b\u0254\u02d0\u0279\u026a.\u0259\u028a/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0251\u0279\u02c8b\u0254\u0279i.o\u028a/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A variety of short-grained starchy rice with a white dot at the center of each grain, commonly used in risotto.",
+                        "synonyms": [
+                            "arborio rice"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "arborio rice"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arborio"
+        ]
+    }
+]

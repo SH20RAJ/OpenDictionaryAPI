@@ -1,0 +1,43 @@
+[
+    {
+        "word": "basketwork",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Material woven in the style of a basket.",
+                        "synonyms": [
+                            "wicker",
+                            "wickerwork"
+                        ],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The craft of making such material.",
+                        "synonyms": [
+                            "basket weaving",
+                            "basketry"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "basket weaving",
+                    "basketry",
+                    "wicker",
+                    "wickerwork"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/basketwork"
+        ]
+    }
+]

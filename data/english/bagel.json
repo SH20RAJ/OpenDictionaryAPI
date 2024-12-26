@@ -1,0 +1,72 @@
+[
+    {
+        "word": "bagel",
+        "phonetic": "/b\u00e6.\u0261\u026b\u0329/",
+        "phonetics": [
+            {
+                "text": "/b\u00e6.\u0261\u026b\u0329/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8be\u026a\u0261\u0259l/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bagel-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=50348380",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A toroidal bread roll that is boiled before it is baked.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A score of 6-0 in a set (after the shape of a bagel, which looks like a zero).",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An overly materialistic and selfish young Jewish man.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "JAP",
+                    "kugel"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To achieve a score of 6-0 in a tennis set.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To hold an opponent to a score of zero.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bagel"
+        ]
+    }
+]

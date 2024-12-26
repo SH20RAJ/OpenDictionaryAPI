@@ -1,0 +1,45 @@
+[
+    {
+        "word": "backlist",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A list of older books available from a publisher, as opposed to the frontlist of more recent titles.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To hold back a student's application (to a college etc.) based on whether a preferred candidate declines their offer.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "I have not heard back from the college yet: I must have been backlisted."
+                    },
+                    {
+                        "definition": "To place (a book) on a backlist.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/backlist"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "word": "barranca",
+        "phonetic": "/b\u0259\u02c8\u0279\u00e6\u014bk\u0259/",
+        "phonetics": [
+            {
+                "text": "/b\u0259\u02c8\u0279\u00e6\u014bk\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A steep-sided gulch or arroyo; a canyon or ravine.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/barranca"
+        ]
+    }
+]

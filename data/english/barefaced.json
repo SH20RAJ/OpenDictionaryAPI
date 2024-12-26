@@ -1,0 +1,50 @@
+[
+    {
+        "word": "barefaced",
+        "phonetic": "/\u02c8be\u0259(\u0279)fe\u026ast/",
+        "phonetics": [
+            {
+                "text": "/\u02c8be\u0259(\u0279)fe\u026ast/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Undisguisedly offensive and bold; crude; coarse; brazen",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Open, undisguised",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Unbearded (not having a beard or other facial hair); clean-shaven.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Unmasked (not wearing a mask) or not wearing a face covering",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "bareface"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/barefaced"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "word": "backmost",
+        "phonetic": "/\u02c8b\u00e6k\u02ccmo\u028ast/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6k\u02ccmo\u028ast/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Farthest back",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/backmost"
+        ]
+    }
+]

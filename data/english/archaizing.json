@@ -1,0 +1,36 @@
+[
+    {
+        "word": "archaizing",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To give an archaic quality or character to; make archaic, to suggest the past.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The statue had an archaized quality to it."
+                    },
+                    {
+                        "definition": "To speak, write, etc. in an archaic manner.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "archaicize"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/archaize",
+            "https://en.wiktionary.org/wiki/archaizing"
+        ]
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "word": "arcana",
+        "phonetic": "/\u0251\u0279\u02c8ke\u026an\u0259/",
+        "phonetics": [
+            {
+                "text": "/\u0251\u0279\u02c8ke\u026an\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Specialized knowledge that is mysterious to the uninitiated.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A mystery or deep secret.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An elixir or secret remedy.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arcana",
+            "https://en.wiktionary.org/wiki/arcanum"
+        ]
+    }
+]

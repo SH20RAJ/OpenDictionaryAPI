@@ -1,0 +1,74 @@
+[
+    {
+        "word": "backwash",
+        "phonetic": "/\u02c8b\u00e6k.w\u0252\u0283/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6k.w\u0252\u0283/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8b\u00e6k.w\u0251\u0283/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The backward flow of water from oars or propeller or breaking waves.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The similar flow of air from an aircraft engine.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The result or consequence of an event; an aftermath.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The saliva, spit or food particles that have flowed back into a drink after someone has drunk from it.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To operate a water filter in the reverse direction in order to clean it.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To affect with backwash.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To clean the oil from wool after combing.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/backwash"
+        ]
+    }
+]

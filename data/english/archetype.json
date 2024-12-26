@@ -1,0 +1,76 @@
+[
+    {
+        "word": "archetype",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/archetype-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75729543",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u02c8\u0251\u02d0k\u026ata\u026ap/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u0251\u0279k\u026ata\u026ap/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An original model of which all other similar concepts, objects, or persons are merely copied, derivative, emulated, or patterned; a prototype.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An ideal example of something; a quintessence.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A character, object, or story that is based on a known character, object, or story.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "According to Swiss psychologist Carl Jung: a universal pattern of thought, present in an individual's unconscious, inherited from the past collective experience of humanity.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(textual criticism) A protograph.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To depict as, model using, or otherwise associate an object or subject with an archetype.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/archetype"
+        ]
+    }
+]

@@ -1,0 +1,33 @@
+[
+    {
+        "word": "ballistics",
+        "phonetic": "/b\u0259\u02c8l\u026ast.\u026aks/",
+        "phonetics": [
+            {
+                "text": "/b\u0259\u02c8l\u026ast.\u026aks/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The science of objects that predominantly fly under the effects of gravity, momentum and atmospheric drag, and dealing with details of their behaviour at the origin and destination of their flight, as of bullets or missiles or rockets.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ballistics"
+        ]
+    }
+]

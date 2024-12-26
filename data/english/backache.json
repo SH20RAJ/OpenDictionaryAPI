@@ -1,0 +1,35 @@
+[
+    {
+        "word": "backache",
+        "phonetic": "/\u02c8b\u00e6ke\u026ak/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6ke\u026ak/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any pain or ache in the back.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "back pain"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/backache"
+        ]
+    }
+]

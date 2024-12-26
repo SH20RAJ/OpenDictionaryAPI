@@ -1,0 +1,42 @@
+[
+    {
+        "word": "baculum",
+        "phonetic": "/\u02c8b\u00e6k.j\u0259.l\u0259m/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6k.j\u0259.l\u0259m/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A bone found in the penis of some mammals",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A small rod-like structure found in spores and pollen",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "os penis",
+                    "penile bone",
+                    "penis bone"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/baculum"
+        ]
+    }
+]

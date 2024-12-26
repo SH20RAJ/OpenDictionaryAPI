@@ -1,0 +1,42 @@
+[
+    {
+        "word": "bardo",
+        "phonetic": "/\u02c8b\u0251\u02d0d\u0259\u028a/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u0251\u02d0d\u0259\u028a/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bardo-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=95676192",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u02c8b\u0251\u0279do\u028a/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The state of existence between death and subsequent reincarnation.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bardo"
+        ]
+    }
+]

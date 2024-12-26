@@ -1,0 +1,74 @@
+[
+    {
+        "word": "bakkie",
+        "phonetic": "/\u02c8b\u00e6.ki/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6.ki/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bakkie.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=93117396",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "(Namibia) A pick-up truck or ute, generally open, possibly fitted with a removable canopy or similar accessories, but distinct from a large truck and from a van or similar small utility vehicle.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bakkie"
+        ]
+    },
+    {
+        "word": "bakkie",
+        "phonetic": "/\u02c8b\u00e6.ki/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6.ki/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bakkie.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=93117396",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A covered small bowl, such as a Tupperware container.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bakkie"
+        ]
+    }
+]

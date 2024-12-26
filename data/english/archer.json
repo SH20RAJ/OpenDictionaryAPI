@@ -1,0 +1,97 @@
+[
+    {
+        "word": "archer",
+        "phonetic": "/\u02c8\u0251\u02d0(\u0279).t\u0283\u0259(\u0279)/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u0251\u02d0(\u0279).t\u0283\u0259(\u0279)/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u0251\u0279t\u0283\u025a/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "One who shoots an arrow from a bow or a bolt from a crossbow.",
+                        "synonyms": [
+                            "bowman",
+                            "crossbowman",
+                            "marksman",
+                            "toxophilite",
+                            "toxotes"
+                        ],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The bishop in chess.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "bowman",
+                    "crossbowman",
+                    "marksman",
+                    "toxophilite",
+                    "toxotes"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/archer"
+        ]
+    },
+    {
+        "word": "archer",
+        "phonetic": "/\u02c8\u0251\u02d0(\u0279).t\u0283\u0259(\u0279)/",
+        "phonetics": [
+            {
+                "text": "/\u02c8\u0251\u02d0(\u0279).t\u0283\u0259(\u0279)/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8\u0251\u0279t\u0283\u025a/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Knowing, clever, mischievous.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "I attempted to hide my emotions, but an arch remark escaped my lips."
+                    },
+                    {
+                        "definition": "Principal; primary.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "They were arch enemies."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arch",
+            "https://en.wiktionary.org/wiki/archer"
+        ]
+    }
+]

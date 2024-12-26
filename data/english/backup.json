@@ -1,0 +1,89 @@
+[
+    {
+        "word": "backup",
+        "phonetic": "/\u02c8b\u00e6k\u02cc\u028cp/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6k\u02cc\u028cp/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A reserve or substitute.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "If the goalkeeper is injured, we have a backup."
+                    },
+                    {
+                        "definition": "A copy of a file or record, stored separately from the original, that can be used to recover the original if it is destroyed or damaged.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "After the power failure, we had to restore the database from backup."
+                    },
+                    {
+                        "definition": "An accumulation of material caused by a (partial) obstruction or (complete) blockage of the flow or movement of the material, or an accumulation of material that causes an overflow due to the flow being greater than the maximum possible flow.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The accident caused a mile-long backup on the highway."
+                    },
+                    {
+                        "definition": "(law enforcement) reinforcements",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "He's got a gun! You'd better send for backup."
+                    }
+                ],
+                "synonyms": [
+                    "line",
+                    "tailback",
+                    "reserve",
+                    "spare",
+                    "stand-in",
+                    "substitute"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Standby, reserve or extra.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "I am only a backup player."
+                    },
+                    {
+                        "definition": "That is intended as a backup.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Make a backup copy of that file."
+                    },
+                    {
+                        "definition": "Supporting, reinforcing; of or related to accompaniment",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "extra",
+                    "reserve",
+                    "spare",
+                    "standby",
+                    "backing"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/backup"
+        ]
+    }
+]

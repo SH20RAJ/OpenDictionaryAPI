@@ -1,0 +1,48 @@
+[
+    {
+        "word": "barbarity",
+        "phonetic": "/b\u0251\u02d0(\u0279)\u02c8b\u00e6\u0279\u026ati/",
+        "phonetics": [
+            {
+                "text": "/b\u0251\u02d0(\u0279)\u02c8b\u00e6\u0279\u026ati/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The state of being barbarous; brutality",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A barbaric act",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Crudity",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A crude act",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/barbarity"
+        ]
+    }
+]

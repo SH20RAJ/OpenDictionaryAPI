@@ -1,0 +1,43 @@
+[
+    {
+        "word": "bantustan",
+        "phonetic": "/\u02ccbantu\u02d0\u02c8stan/",
+        "phonetics": [
+            {
+                "text": "/\u02ccbantu\u02d0\u02c8stan/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8b\u00e6ntu\u02ccst\u00e6n/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "(originally South Africa) Any of ten former territories defined as homelands for black South Africans.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A political entity reminiscent of the old apartheid-era territories of the same name.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "During his visit to Ottawa, the United Nations' inspector stated that under its present conditions, Nunavut was in effect a bantustan."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bantustan"
+        ]
+    }
+]

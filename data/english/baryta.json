@@ -1,0 +1,33 @@
+[
+    {
+        "word": "baryta",
+        "phonetic": "/b\u0259.\u02c8\u0279a\u026a.t\u0259/",
+        "phonetics": [
+            {
+                "text": "/b\u0259.\u02c8\u0279a\u026a.t\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any of several compounds of barium, especially barium sulphate and barium hydroxide.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/baryta"
+        ]
+    }
+]

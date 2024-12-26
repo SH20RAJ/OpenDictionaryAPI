@@ -1,0 +1,32 @@
+[
+    {
+        "word": "backline",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Collectively, the players known as backs, whose job it is to create and exploit space.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The imaginary tactical line across the field that passes through the backs, through their primary line of attack/defence (i.e. excluding any players in a more backward defensive position).",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/backline"
+        ]
+    }
+]

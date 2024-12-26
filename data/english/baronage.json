@@ -1,0 +1,48 @@
+[
+    {
+        "word": "baronage",
+        "phonetic": "/\u02c8b\u00e6\u0279\u0259n\u026ad\u0292/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6\u0279\u0259n\u026ad\u0292/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Barons or nobles collectively",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An annotated list of barons or peers",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Barony, the dignity or rank of a baron",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Barony, the land which gives title to a baron",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/baronage"
+        ]
+    }
+]

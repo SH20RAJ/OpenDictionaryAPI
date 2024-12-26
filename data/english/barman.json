@@ -1,0 +1,40 @@
+[
+    {
+        "word": "barman",
+        "phonetic": "/\u02c8b\u0251\u02d0m\u0259n/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u0251\u02d0m\u0259n/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8b\u0251\u0279m\u00e6n/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A man who works in a bar.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "barkeep",
+                    "bartender"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/barman"
+        ]
+    }
+]

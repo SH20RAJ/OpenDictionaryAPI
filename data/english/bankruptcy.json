@@ -1,0 +1,33 @@
+[
+    {
+        "word": "bankruptcy",
+        "phonetic": "/\u02c8b\u00e6\u014bk\u0279\u028cpts\u026a/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6\u014bk\u0279\u028cpts\u026a/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A legally declared or recognized condition of insolvency of a person or organization.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bankruptcy"
+        ]
+    }
+]

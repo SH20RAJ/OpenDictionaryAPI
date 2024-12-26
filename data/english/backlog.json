@@ -1,0 +1,61 @@
+[
+    {
+        "word": "backlog",
+        "phonetic": "/\u02c8b\u00e6k.l\u0252\u0261/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6k.l\u0252\u0261/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A large log to burn at the back of a fire.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A reserve source or supply.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An accumulation or buildup, especially of unfilled orders or unfinished work.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "He went to work on Saturday to try to work through the backlog of papers on his desk."
+                    },
+                    {
+                        "definition": "A log containing text previously read, as in text-based video games or chat rooms.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To acquire something as a backlog, or to become a backlog",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/backlog"
+        ]
+    }
+]

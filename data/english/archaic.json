@@ -1,0 +1,73 @@
+[
+    {
+        "word": "archaic",
+        "phonetic": "/\u0251\u02d0.\u02c8ke\u026a.\u026ak/",
+        "phonetics": [
+            {
+                "text": "/\u0251\u02d0.\u02c8ke\u026a.\u026ak/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0251\u0279.\u02c8ke\u026a.\u026ak/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/archaic-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=49890649",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "(usually capitalized) A general term for the prehistoric period intermediate between the earliest period (\u2018Paleo-Indian\u2019, \u2018Paleo-American\u2019, \u2018American\u2010paleolithic\u2019, &c.) of human presence in the Western Hemisphere, and the most recent prehistoric period (\u2018Woodland\u2019, etc.).",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(paleoanthropology) (A member of) an archaic variety of Homo sapiens.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Of or characterized by antiquity; old-fashioned, quaint, antiquated.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(of words) No longer in ordinary use, though still used occasionally to give a sense of antiquity.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Belonging to the archaic period",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "dated",
+                    "obsolete",
+                    "old fashioned"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/archaic"
+        ]
+    }
+]

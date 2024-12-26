@@ -1,0 +1,33 @@
+[
+    {
+        "word": "baptistery",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A designated space within a church, or a separate room or building associated with a church, where a baptismal font is located, and consequently, where the sacrament of Christian baptism (via aspersion or affusion) is performed.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An indoor pool used for baptism by immersion.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/baptistery",
+            "https://en.wiktionary.org/wiki/baptistry"
+        ]
+    }
+]

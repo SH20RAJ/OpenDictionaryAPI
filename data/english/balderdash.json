@@ -1,0 +1,62 @@
+[
+    {
+        "word": "balderdash",
+        "phonetic": "/\u02c8b\u0254\u02d0ld\u0259.d\u00e6\u0283/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u0254\u02d0ld\u0259.d\u00e6\u0283/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Senseless talk or writing; nonsense.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A worthless mixture, especially of liquors.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Obscene language or writing.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "bunk",
+                    "drivel",
+                    "piffle",
+                    "poppycock",
+                    "rubbish",
+                    "twaddle"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To mix or adulterate.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/balderdash"
+        ]
+    }
+]

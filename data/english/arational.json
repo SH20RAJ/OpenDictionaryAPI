@@ -1,0 +1,35 @@
+[
+    {
+        "word": "arational",
+        "phonetic": "/e\u026a\u02c8\u0279a\u0283(\u0259)n\u0259l/",
+        "phonetics": [
+            {
+                "text": "/e\u026a\u02c8\u0279a\u0283(\u0259)n\u0259l/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Not within the domain of what can be understood or analyzed by reason; not rational, outside the competence of the rules of reason.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "non-rational"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arational"
+        ]
+    }
+]

@@ -1,0 +1,36 @@
+[
+    {
+        "word": "baggie",
+        "phonetic": "/\u02c8b\u00e6\u0261i/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6\u0261i/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A small bag, especially a small, clear, plastic bag.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "sandwich bag",
+                    "ziploc"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/baggie"
+        ]
+    }
+]

@@ -1,0 +1,39 @@
+[
+    {
+        "word": "bamboozle",
+        "phonetic": "/b\u00e6m.\u02c8bu\u02d0.z\u0259l/",
+        "phonetics": [
+            {
+                "text": "/b\u00e6m.\u02c8bu\u02d0.z\u0259l/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To con, defraud, trick, to make a fool of, to humbug or impose on someone.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To confuse, frustrate or perplex.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "He's completely bamboozled by the changes in the computer system."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bamboozle"
+        ]
+    }
+]

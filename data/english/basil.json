@@ -1,0 +1,166 @@
+[
+    {
+        "word": "basil",
+        "phonetic": "/\u02c8b\u00e6z.\u0259l/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6z.\u0259l/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8be\u026az.\u0259l/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8b\u00e6z.\u0259l/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/basil-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=501425"
+            },
+            {
+                "text": "/\u02c8be\u026az.\u0259l/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A plant (Ocimum basilicum).",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The leaves of this plant used as a herb.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Any other species in the genus Ocimum.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "St. Joseph's wort",
+                    "albahaca",
+                    "sweet basil"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/basil"
+        ]
+    },
+    {
+        "word": "basil",
+        "phonetic": "/\u02c8b\u00e6z.\u0259l/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6z.\u0259l/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8be\u026az.\u0259l/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8b\u00e6z.\u0259l/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/basil-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=501425"
+            },
+            {
+                "text": "/\u02c8be\u026az.\u0259l/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The angle to which a joiner's tool is ground away.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To grind the edge of a tool to an acute angle.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "bevel",
+                    "sharpen"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/basil"
+        ]
+    },
+    {
+        "word": "basil",
+        "phonetic": "/\u02c8b\u00e6z.\u0259l/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6z.\u0259l/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8be\u026az.\u0259l/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8b\u00e6z.\u0259l/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/basil-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=501425"
+            },
+            {
+                "text": "/\u02c8be\u026az.\u0259l/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The skin of a sheep tanned with bark.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "basan",
+                    "bazil"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/basil"
+        ]
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "word": "ballpoint",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A ballpoint pen.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Have you seen my ballpoint? I need to sign this form, and a felt-tip won't make carbons."
+                    },
+                    {
+                        "definition": "A kind of needle with a rounded tip.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "biro"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ballpoint"
+        ]
+    }
+]

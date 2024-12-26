@@ -1,0 +1,44 @@
+[
+    {
+        "word": "barbarous",
+        "phonetic": "/\u02c8b\u0251\u02d0(\u0279)b\u0259\u0279\u0259s/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u0251\u02d0(\u0279)b\u0259\u0279\u0259s/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(said of language) Not classical or pure.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Uncivilized, uncultured",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Like a barbarian, especially in sound; noisy, dissonant.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "By the known rules of antient libertie,"
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/barbarous"
+        ]
+    }
+]

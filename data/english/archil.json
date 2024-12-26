@@ -1,0 +1,32 @@
+[
+    {
+        "word": "archil",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Orchil, a violet dye obtained from several species of lichen (Roccella tinctoria, etc.), which grow on maritime rocks in the Canary and Cape Verde Islands, etc.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The plant from which the dye is obtained.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/archil"
+        ]
+    }
+]

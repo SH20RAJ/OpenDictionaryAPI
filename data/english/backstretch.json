@@ -1,0 +1,76 @@
+[
+    {
+        "word": "backstretch",
+        "phonetics": [
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/backstretch-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75729728",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u02c8b\u00e6kst\u0279\u025bt\u0283/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8b\u00e6kst\u0279\u025bt\u0283/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The straight part of a racetrack, running track, etc., opposite the finishing line; the backstretch.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "He got boxed in amongst four African runners in the back straight of the last lap, and was only able to get out into the clear coming into the home straight."
+                    }
+                ],
+                "synonyms": [
+                    "backstretch"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An area next to a racetrack used to stable the racehorses and house employees.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The middle part of an event.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(exercise) An exercise that stretches the muscles of the back.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "back straight"
+                ],
+                "antonyms": [
+                    "frontstretch",
+                    "home stretch",
+                    "homestretch"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/back%20straight",
+            "https://en.wiktionary.org/wiki/backstretch"
+        ]
+    }
+]

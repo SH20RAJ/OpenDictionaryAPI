@@ -1,0 +1,79 @@
+[
+    {
+        "word": "barbie",
+        "phonetic": "/b\u0251\u02d0(\u0279)bi/",
+        "phonetics": [
+            {
+                "text": "/b\u0251\u02d0(\u0279)bi/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/barbie-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75266684",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A barbecue (apparatus for grilling).",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A barbecue (event: cookout).",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/barbie"
+        ]
+    },
+    {
+        "word": "barbie",
+        "phonetic": "/b\u0251\u02d0(\u0279)bi/",
+        "phonetics": [
+            {
+                "text": "/b\u0251\u02d0(\u0279)bi/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/barbie-au.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=75266684",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A barbiturate.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/barbie"
+        ]
+    }
+]

@@ -1,0 +1,59 @@
+[
+    {
+        "word": "basically",
+        "phonetic": "/\u02c8be\u026as\u026ak(\u0259)li/",
+        "phonetics": [
+            {
+                "text": "/\u02c8be\u026as\u026ak(\u0259)li/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8be\u026as\u026ak(\u0259)li/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/basically-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=789604",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adverb",
+                "definitions": [
+                    {
+                        "definition": "In a fundamental, essential or basic manner",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "They've added some fancy features, but it's basically still a car."
+                    },
+                    {
+                        "definition": "Mostly; generally; for the most part",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(filler) used to refer to the most important or fundamental point the speaker is making; sometimes tending towards a meaningless filler word",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "I shouldn't have done it, basically."
+                    }
+                ],
+                "synonyms": [
+                    "chiefly",
+                    "more often than not",
+                    "essentially",
+                    "fundamentally"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/basically"
+        ]
+    }
+]

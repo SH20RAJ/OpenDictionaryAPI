@@ -1,0 +1,33 @@
+[
+    {
+        "word": "badassery",
+        "phonetic": "/b\u00e6d\u02c8\u00e6s\u0259\u0279i/",
+        "phonetics": [
+            {
+                "text": "/b\u00e6d\u02c8\u00e6s\u0259\u0279i/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "(sometimes considered vulgar) The behaviour or quality of a badass; belligerence, audaciousness, etc.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/badassery"
+        ]
+    }
+]

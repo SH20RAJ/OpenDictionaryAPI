@@ -1,0 +1,33 @@
+[
+    {
+        "word": "balletomane",
+        "phonetic": "/b\u00e6\u02c8l\u025bt.\u0259\u02ccme\u026an/",
+        "phonetics": [
+            {
+                "text": "/b\u00e6\u02c8l\u025bt.\u0259\u02ccme\u026an/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A ballet enthusiast.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/balletomane"
+        ]
+    }
+]

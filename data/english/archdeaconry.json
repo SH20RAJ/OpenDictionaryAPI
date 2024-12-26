@@ -1,0 +1,32 @@
+[
+    {
+        "word": "archdeaconry",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The office of an archdeacon, or the term of that office",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The residence, or territorial jurisdiction of an archdeacon",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/archdeaconry"
+        ]
+    }
+]

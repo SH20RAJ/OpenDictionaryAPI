@@ -1,0 +1,111 @@
+[
+    {
+        "word": "bangle",
+        "phonetic": "/\u02c8b\u00e6\u014b.\u0261\u0259l/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6\u014b.\u0261\u0259l/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A rigid bracelet or anklet, especially one with no clasp.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bangle"
+        ]
+    },
+    {
+        "word": "bangle",
+        "phonetic": "/\u02c8b\u00e6\u014b.\u0261\u0259l/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6\u014b.\u0261\u0259l/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To beat about or beat down, as corn by the wind.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To waste away little by little; squander carelessly; fritter (away).",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "If we bangle away the legacy of peace left us by Christ, it is a sign of our want of regard for him. \u2014 Duty of Man."
+                    },
+                    {
+                        "definition": "To beat about in the air; flutter: said of a hawk which does not rise steadily and then swoop down upon its prey.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To flap or hang down loosely, as a hat brim or an animal's ear.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bangle"
+        ]
+    },
+    {
+        "word": "bangle",
+        "phonetic": "/\u02c8b\u00e6\u014b.\u0261\u0259l/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6\u014b.\u0261\u0259l/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The cut branch of a tree; a large, rough stick; the largest piece of wood in a bundle of twigs",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bangle"
+        ]
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+        "word": "bachata",
+        "phonetic": "/b\u0259\u02c8t\u0361\u0283\u0251\u02d0t\u0259/",
+        "phonetics": [
+            {
+                "text": "/b\u0259\u02c8t\u0361\u0283\u0251\u02d0t\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A genre of music originating in the Dominican Republic.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A style of dance accompanying this music.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bachata"
+        ]
+    }
+]

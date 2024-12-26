@@ -1,0 +1,41 @@
+[
+    {
+        "word": "bandaging",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To apply a bandage to something.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Strips of cloth or other material used to create a bandage.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "In the chaos after the bomb went off, I was forced to tear apart my shirt to use as bandaging."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bandage",
+            "https://en.wiktionary.org/wiki/bandaging"
+        ]
+    }
+]

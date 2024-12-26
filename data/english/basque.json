@@ -1,0 +1,38 @@
+[
+    {
+        "word": "basque",
+        "phonetic": "/b\u00e6sk/",
+        "phonetics": [
+            {
+                "text": "/b\u00e6sk/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The part of a waistcoat etc. extending below the waist.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A woman's close-fitting bodice, underbodice, or corset having such a feature.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/basque"
+        ]
+    }
+]

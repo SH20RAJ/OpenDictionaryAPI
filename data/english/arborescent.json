@@ -1,0 +1,48 @@
+[
+    {
+        "word": "arborescent",
+        "phonetic": "/\u0251\u02d0b\u0259\u02c8\u0279\u025bs\u0259nt/",
+        "phonetics": [
+            {
+                "text": "/\u0251\u02d0b\u0259\u02c8\u0279\u025bs\u0259nt/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/arborescent-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=89448115",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            },
+            {
+                "text": "/\u0251\u02d0\u0279b\u0259\u02c8\u0279\u025bs\u0259nt/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Like a tree; having a structure or appearance similar to that of a tree; branching.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Marked by insistence on totalizing principles, binarism and dualism (as opposed to the rhizome theory).",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Gilles Deleuze criticizes the Chomsky hierarchy of formal languages, which he considers a perfect example of arborescent dualistic theory."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arborescent"
+        ]
+    }
+]

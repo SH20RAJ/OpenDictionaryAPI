@@ -1,0 +1,28 @@
+[
+    {
+        "word": "ballboy",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A person, usually male, responsible for retrieving balls from the area of play, and returning them to the players.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ball%20boy",
+            "https://en.wiktionary.org/wiki/ballboy"
+        ]
+    }
+]

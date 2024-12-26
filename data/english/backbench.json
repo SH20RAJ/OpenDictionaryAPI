@@ -1,0 +1,60 @@
+[
+    {
+        "word": "backbench",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A bench at the back of a room or seating area.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A position of secondary importance.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(newspaper) A group of top-level journalists who jointly review submissions and decide on the layout and emphasis of the newspaper.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Relating to the back benches in parliament",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "He prefers to be a backbench MP."
+                    },
+                    {
+                        "definition": "Pertaining to the preparation of a donor organ prior to transplantation.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Secondary or inactive.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/backbench"
+        ]
+    }
+]

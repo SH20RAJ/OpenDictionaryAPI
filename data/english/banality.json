@@ -1,0 +1,47 @@
+[
+    {
+        "word": "banality",
+        "phonetic": "/be\u026a\u02c8n\u00e6l\u0268ti/",
+        "phonetics": [
+            {
+                "text": "/be\u026a\u02c8n\u00e6l\u0268ti/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The quality of being banal.",
+                        "synonyms": [
+                            "bathos"
+                        ],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Something which is banal.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A feudal right or obligation, especially the obligation for a peasant to grind grain at the lord's mill, or the profits accruing from such rights.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "bathos"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/banality"
+        ]
+    }
+]

@@ -1,0 +1,73 @@
+[
+    {
+        "word": "arcane",
+        "phonetic": "/\u0251\u0279\u02c8ke\u026an/",
+        "phonetics": [
+            {
+                "text": "/\u0251\u0279\u02c8ke\u026an/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/arcane-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=49897169",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Understood by only a few.",
+                        "synonyms": [
+                            "esoteric"
+                        ],
+                        "antonyms": [
+                            "mundane"
+                        ],
+                        "example": "arcane rituals"
+                    },
+                    {
+                        "definition": "(by extension) Obscure, mysterious.",
+                        "synonyms": [
+                            "clandestine",
+                            "enigmatic",
+                            "esoteric",
+                            "recondite"
+                        ],
+                        "antonyms": [],
+                        "example": "arcane details"
+                    },
+                    {
+                        "definition": "Requiring secret or mysterious knowledge to understand.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Extremely old (e.g. interpretation or knowledge), and possibly irrelevant.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "An arcane law"
+                    }
+                ],
+                "synonyms": [
+                    "clandestine",
+                    "enigmatic",
+                    "esoteric",
+                    "recondite",
+                    "esoteric"
+                ],
+                "antonyms": [
+                    "mundane"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arcane"
+        ]
+    }
+]

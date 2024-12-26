@@ -1,0 +1,105 @@
+[
+    {
+        "word": "backhand",
+        "phonetic": "/\u02c8b\u00e6kh\u00e6nd/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6kh\u00e6nd/",
+                "audio": ""
+            },
+            {
+                "text": "/\u02c8b\u00e6kh\u00e6nd/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/backhand-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=297765",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A stroke made across the chest from the off-hand side to the racquet hand side; a stroke during which the back of the hand faces the shot.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Handwriting that leans to the left",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(Ultimate Frisbee) the standard throw; a throw during which the disc begins on the off-hand side and travels across the chest to be released from the opposite side.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The reverse side of the human hand.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The hand towards the back of the board.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "forehand",
+                    "palm"
+                ]
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To execute a backhand stroke or throw",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To slap with the back of one's hand",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "(handwriting) Of any left slanting handwriting",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(of strokes or throws) In the backhand style",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Of a play that uses the back side of the hockey stick",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "He scored on a backhand shot."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/backhand"
+        ]
+    }
+]

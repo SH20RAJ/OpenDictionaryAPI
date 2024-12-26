@@ -1,0 +1,56 @@
+[
+    {
+        "word": "backslash",
+        "phonetic": "/\u02c8b\u00e6k\u02ccsl\u00e6\u0283/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6k\u02ccsl\u00e6\u0283/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The punctuation mark \\.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Used erroneously in reference to, or in reading out, the ordinary slash, that is, the punctuation mark /.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "reverse solidus",
+                    "slosh",
+                    "whack"
+                ],
+                "antonyms": [
+                    "slash"
+                ]
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To escape (a metacharacter) by prepending a backslash that serves as an escape character, thereby forming an escape sequence.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/backslash"
+        ]
+    }
+]

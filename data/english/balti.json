@@ -1,0 +1,38 @@
+[
+    {
+        "word": "balti",
+        "phonetic": "/\u02c8b\u0254\u02d0l.ti/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u0254\u02d0l.ti/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A style of Pakistani cooking in which the food is cooked in an iron pan having two handles.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A dish cooked in this style.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/balti"
+        ]
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "word": "backchat",
+        "phonetic": "/\u02c8b\u00e6k.t\u0283\u00e6t/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6k.t\u0283\u00e6t/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Cheeky or impertinent responses, especially to criticism.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "backtalk"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To respond in a disputative, often sarcastic manner.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Peter was sent to detention for backchatting the teacher."
+                    }
+                ],
+                "synonyms": [
+                    "mouth off",
+                    "sass"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/backchat"
+        ]
+    }
+]

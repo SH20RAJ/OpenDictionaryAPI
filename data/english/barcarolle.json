@@ -1,0 +1,33 @@
+[
+    {
+        "word": "barcarolle",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A Venetian folk song traditionally sung by gondoliers, often in 6/8 or 12/8 time with alternating strong and weak beats imitating a rowing motion.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A piece of music composed in imitation of such a song.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/barcarole",
+            "https://en.wiktionary.org/wiki/barcarolle"
+        ]
+    }
+]

@@ -1,0 +1,51 @@
+[
+    {
+        "word": "backslide",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A backward regression; a reverting back to a worse state.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A dance move in which the feet are alternately slid back and the heels lifted, giving the illusion of walking forwards while actually moving backwards; later popularly called the moonwalk.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To regress; to slip backwards or revert to a previous, worse state.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "He felt better for a little while, before his condition started to backslide."
+                    },
+                    {
+                        "definition": "To shirk responsibility; to renege on one's obligations or commitments.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Rich countries are backsliding on their commitment to agree to new WTO measures to help people in poor countries gain access to affordable medicines. \u2014 Oxfam press release, 24 June 2002"
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/backslide"
+        ]
+    }
+]

@@ -1,0 +1,47 @@
+[
+    {
+        "word": "arcade",
+        "phonetic": "/\u0251\u02d0\u02c8ke\u026ad/",
+        "phonetics": [
+            {
+                "text": "/\u0251\u02d0\u02c8ke\u026ad/",
+                "audio": ""
+            },
+            {
+                "text": "/\u0251\u0279\u02c8ke\u026ad/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A row of arches.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A covered passage, usually with shops on both sides.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An establishment that runs coin-operated games.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arcade"
+        ]
+    }
+]

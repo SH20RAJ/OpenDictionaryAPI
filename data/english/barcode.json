@@ -1,0 +1,38 @@
+[
+    {
+        "word": "barcode",
+        "phonetic": "/\u02c8b\u0251\u02d0(\u0279)k\u0259\u028ad/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u0251\u02d0(\u0279)k\u0259\u028ad/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Any set of machine-readable parallel bars or concentric circles, varying in width, spacing, or height, encoding information according to a symbology",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A portion of a gene that identifies a particular species",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/barcode"
+        ]
+    }
+]

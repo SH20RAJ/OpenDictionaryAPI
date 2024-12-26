@@ -1,0 +1,33 @@
+[
+    {
+        "word": "baryon",
+        "phonetic": "/\u02c8b\u00e6\u0279i\u0252n/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6\u0279i\u0252n/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A heavy subatomic particle created by the binding of quarks by gluons; a hadron containing three quarks. Baryons have half-odd integral spin and are thus fermions. This category includes the common proton and neutron of the atomic nucleus.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/baryon"
+        ]
+    }
+]

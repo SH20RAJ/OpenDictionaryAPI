@@ -1,0 +1,82 @@
+[
+    {
+        "word": "backfire",
+        "phonetic": "/b\u00e6k\u02c8fa\u026a\u0259(\u0279)/",
+        "phonetics": [
+            {
+                "text": "/b\u00e6k\u02c8fa\u026a\u0259(\u0279)/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A small, controlled fire set in the path of a larger uncontrolled fire, in order to limit the spread of the large fire by removing its fuel.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An explosion produced either by a running internal combustion engine that occurs in the air intake or exhaust system rather than inside the combustion chamber or unburned fuel or hydrocarbons ignited somewhere in the exhaust system.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A premature explosion in the cylinder of a gas or oil engine during the exhaust or the compression stroke, tending to drive the piston in the wrong direction.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "An explosion in the exhaust passages of an internal combustion engine.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "knock",
+                    "ping"
+                ],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "(of a gun, cannon, Bunsen burner, etc.) To fire in the opposite direction, for example due to an obstruction in the barrel.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(of an engine) To experience a premature ignition of fuel or an ignition of exhaust gases, making a popping sound.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To fail in a manner that brings down further misfortune.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "His attempt to make money by importing luxury cars backfired horribly when fuel prices tripled."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/back%20fire",
+            "https://en.wiktionary.org/wiki/backfire"
+        ]
+    }
+]

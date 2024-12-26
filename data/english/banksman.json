@@ -1,0 +1,33 @@
+[
+    {
+        "word": "banksman",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The person who directs the operation of a crane or larger vehicle from the point near where loads are attached and detached.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "dogman",
+                    "lookout",
+                    "observer",
+                    "signalman",
+                    "spotter"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/banksman"
+        ]
+    }
+]

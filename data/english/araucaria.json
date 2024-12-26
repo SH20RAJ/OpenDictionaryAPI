@@ -1,0 +1,33 @@
+[
+    {
+        "word": "araucaria",
+        "phonetic": "/ar\u0254\u02d0\u02c8k\u025b\u02d0ri.\u0259/",
+        "phonetics": [
+            {
+                "text": "/ar\u0254\u02d0\u02c8k\u025b\u02d0ri.\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An individual plant (tree) of the genus Araucaria.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/araucaria"
+        ]
+    }
+]

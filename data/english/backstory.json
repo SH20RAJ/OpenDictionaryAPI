@@ -1,0 +1,52 @@
+[
+    {
+        "word": "backstory",
+        "phonetic": "/\u02c8b\u00e6k\u02ccst\u0254\u02d0\u0279i/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6k\u02ccst\u0254\u02d0\u0279i/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/backstory-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=95142966",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The previous life and experiences of a person, especially a character in a dramatic work, but also a real-life person.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A fictitious account of a person's history designed to conceal their actual history and motives.",
+                        "synonyms": [
+                            "cover story"
+                        ],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A prequel.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "cover story"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/backstory"
+        ]
+    }
+]

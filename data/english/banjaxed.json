@@ -1,0 +1,60 @@
+[
+    {
+        "word": "banjaxed",
+        "phonetic": "/\u02c8b\u00e6n.d\u0292\u00e6kst/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6n.d\u0292\u00e6kst/",
+                "audio": ""
+            },
+            {
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/banjaxed-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=5288336",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "(originally Ireland) To ruin or destroy.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Broken, ruined, shattered; confounded.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Tired, sleepy, cream crackered.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "I'm completely banjaxed!"
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/banjax",
+            "https://en.wiktionary.org/wiki/banjaxed"
+        ]
+    }
+]

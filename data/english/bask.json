@@ -1,0 +1,49 @@
+[
+    {
+        "word": "bask",
+        "phonetic": "/b\u00e6sk/",
+        "phonetics": [
+            {
+                "text": "/b\u00e6sk/",
+                "audio": ""
+            },
+            {
+                "text": "/b\u00e6sk/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/bask-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=51104630",
+                "license": {
+                    "name": "BY-SA 4.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/4.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To bathe in warmth; to be exposed to pleasant heat.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "to bask in the sun"
+                    },
+                    {
+                        "definition": "To take great pleasure or satisfaction; to feel warmth or happiness. (This verb is usually followed by \"in\").",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "I basked in her love."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bask"
+        ]
+    }
+]

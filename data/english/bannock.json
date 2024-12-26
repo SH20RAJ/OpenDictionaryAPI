@@ -1,0 +1,38 @@
+[
+    {
+        "word": "bannock",
+        "phonetic": "/\u02c8b\u00e6.n\u0259k/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6.n\u0259k/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "An unleavened bread made with barley, wheat, or oatmeal.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A biscuit bread made of wheat flour or cornmeal, fat, and sometimes baking powder, typically baked over a fire, wrapped around a stick or in a pan.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bannock"
+        ]
+    }
+]

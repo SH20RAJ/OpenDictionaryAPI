@@ -1,0 +1,33 @@
+[
+    {
+        "word": "balalaika",
+        "phonetic": "/b\u00e6l\u0259\u02c8la\u026ak\u0259/",
+        "phonetics": [
+            {
+                "text": "/b\u00e6l\u0259\u02c8la\u026ak\u0259/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A plucked stringed instrument with a triangular body, short neck and three strings, of Russian origin.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/balalaika"
+        ]
+    }
+]

@@ -1,0 +1,48 @@
+[
+    {
+        "word": "balconette",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A small balcony.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A half-cup bra, generally with a low horizontal cut, designed to be worn under a low-cut top.",
+                        "synonyms": [
+                            "balconette",
+                            "balconette bra",
+                            "shelf bra"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "balconette",
+                    "balconette bra",
+                    "shelf bra"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/balconette",
+            "https://en.wiktionary.org/wiki/balcony%20bra"
+        ]
+    }
+]

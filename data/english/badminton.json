@@ -1,0 +1,45 @@
+[
+    {
+        "word": "badminton",
+        "phonetic": "/\u02c8b\u00e6d.m\u026an.t\u0259n/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6d.m\u026an.t\u0259n/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/badminton-us.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1317935",
+                "license": {
+                    "name": "BY-SA 3.0",
+                    "url": "https://creativecommons.org/licenses/by-sa/3.0"
+                }
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A racquet sport played indoors on a court by two opposing players (singles) or two opposing pairs of players (doubles), in which a shuttlecock is volleyed over a net and the competitions are presided by an umpire in British English and a referee in American English.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A cooling summer drink made with claret, sugar and soda water.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "badders"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/badminton"
+        ]
+    }
+]

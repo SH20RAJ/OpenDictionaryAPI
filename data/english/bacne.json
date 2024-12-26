@@ -1,0 +1,34 @@
+[
+    {
+        "word": "bacne",
+        "phonetic": "/\u02c8b\u00e6kni/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6kni/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "Acne on the back.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "Bacne seems to be suffered more by men than by women, though women do have outbreaks of acne on their backs as well. - Acne Resource Center"
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bacne"
+        ]
+    }
+]

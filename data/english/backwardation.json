@@ -1,0 +1,35 @@
+[
+    {
+        "word": "backwardation",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The situation in a futures market where prices for future delivery are lower than prices for immediate (or nearer) delivery, generally arising from a near-term shortage of a commodity.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(London Stock Exchange) A fee paid by a seller on settlement day either to the buyer or to a third party who lends stock, when the seller wishes to defer settlement until the next settlement day.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "contango",
+                    "forwardation"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/backwardation"
+        ]
+    }
+]

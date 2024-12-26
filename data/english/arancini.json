@@ -1,0 +1,34 @@
+[
+    {
+        "word": "arancini",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A baked rice ball, filled with cheese or other sauce, originally from Sicily.",
+                        "synonyms": [
+                            "Italian rice ball",
+                            "rice ball"
+                        ],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "Italian rice ball",
+                    "rice ball"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arancini",
+            "https://en.wiktionary.org/wiki/arancino"
+        ]
+    }
+]

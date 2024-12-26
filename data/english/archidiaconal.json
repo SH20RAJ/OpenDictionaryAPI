@@ -1,0 +1,33 @@
+[
+    {
+        "word": "archidiaconal",
+        "phonetic": "/\u0251\u02d0k\u026ad\u028c\u026a\u02c8ak\u0259n\u0259l/",
+        "phonetics": [
+            {
+                "text": "/\u0251\u02d0k\u026ad\u028c\u026a\u02c8ak\u0259n\u0259l/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Pertaining to an archdeacon.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/archidiaconal"
+        ]
+    }
+]

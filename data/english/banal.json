@@ -1,0 +1,51 @@
+[
+    {
+        "word": "banal",
+        "phonetic": "/b\u0259\u02c8n\u00e6l/",
+        "phonetics": [
+            {
+                "text": "/b\u0259\u02c8n\u00e6l/",
+                "audio": "https://api.dictionaryapi.dev/media/pronunciations/en/banal-uk.mp3",
+                "sourceUrl": "https://commons.wikimedia.org/w/index.php?curid=1869614"
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Common in a boring way, to the point of being predictable; containing nothing new or fresh.",
+                        "synonyms": [
+                            "everyday",
+                            "prosaic"
+                        ],
+                        "antonyms": [
+                            "new",
+                            "original"
+                        ]
+                    },
+                    {
+                        "definition": "(history) Relating to a type of feudal jurisdiction or service.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "everyday",
+                    "prosaic"
+                ],
+                "antonyms": [
+                    "new",
+                    "original"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/banal"
+        ]
+    }
+]

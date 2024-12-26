@@ -1,0 +1,40 @@
+[
+    {
+        "word": "baldy",
+        "phonetic": "/\u02c8b\u0254\u02d0l.di/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u0254\u02d0l.di/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "(sometimes derogatory) Someone who is bald.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "baldhead",
+                    "baldpate",
+                    "chrome dome",
+                    "cue ball",
+                    "follicly challenged",
+                    "slaphead"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/baldy"
+        ]
+    }
+]

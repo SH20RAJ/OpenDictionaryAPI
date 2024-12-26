@@ -1,0 +1,97 @@
+[
+    {
+        "word": "ballooning",
+        "phonetic": "/b\u0259\u02c8lu\u02d0n\u026a\u014b/",
+        "phonetics": [
+            {
+                "text": "/b\u0259\u02c8lu\u02d0n\u026a\u014b/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To increase or expand rapidly.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "His stomach ballooned from eating such a large meal."
+                    },
+                    {
+                        "definition": "To go up or voyage in a balloon.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To take up in, or as if in, a balloon.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To inflate like a balloon.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To strike (a ball) so that it flies high in the air.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "The act of something that swells or expands.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "The sport or hobby of flying in a balloon.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "When he retired, he took up ballooning."
+                    },
+                    {
+                        "definition": "The mechanical kiting used by spiders, mites, caterpillars, etc. to travel through the air.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Growing rapidly as a balloon.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The ballooning economy was out of control."
+                    },
+                    {
+                        "definition": "Rising high in the air.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The cricketer hit a ballooning shot for six runs."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/balloon",
+            "https://en.wiktionary.org/wiki/ballooning"
+        ]
+    }
+]

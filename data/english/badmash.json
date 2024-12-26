@@ -1,0 +1,33 @@
+[
+    {
+        "word": "badmash",
+        "phonetic": "/b\u028cd\u02c8m\u0251\u02d0\u0283/",
+        "phonetics": [
+            {
+                "text": "/b\u028cd\u02c8m\u0251\u02d0\u0283/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A rogue, ruffian or miscreant.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/badmash"
+        ]
+    }
+]

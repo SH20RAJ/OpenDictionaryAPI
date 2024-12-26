@@ -1,0 +1,48 @@
+[
+    {
+        "word": "baroque",
+        "phonetic": "/b\u00e6\u02c8\u0279\u0252k/",
+        "phonetics": [
+            {
+                "text": "/b\u00e6\u02c8\u0279\u0252k/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Ornate, intricate, decorated, laden with detail.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Complex and beautiful, despite an outward irregularity.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Chiseled from stone, or shaped from wood, in a garish, crooked, twisted, or slanted sort of way, grotesque.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "Embellished with figures and forms such that every level of relief gives way to more details and contrasts.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/baroque"
+        ]
+    }
+]

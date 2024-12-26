@@ -1,0 +1,32 @@
+[
+    {
+        "word": "bantamweight",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A weight class in boxing and other sports, intermediate between flyweight and featherweight. In boxing it ranges from 112 to 118 pounds (51 to 54 kg).",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A boxer or other competitor of this weight.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bantamweight"
+        ]
+    }
+]

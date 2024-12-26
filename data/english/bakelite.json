@@ -1,0 +1,30 @@
+[
+    {
+        "word": "bakelite",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A heat-resisting chemically inert phenol formaldehyde resin (an early thermosetting plastic).",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "polyoxybenzylmethylenglycolanhydride"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/Bakelite",
+            "https://en.wiktionary.org/wiki/bakelite"
+        ]
+    }
+]

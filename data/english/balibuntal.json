@@ -1,0 +1,32 @@
+[
+    {
+        "word": "balibuntal",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A fine, woven straw used for making hats",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "A straw hat made from this material",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/balibuntal"
+        ]
+    }
+]

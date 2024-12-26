@@ -1,0 +1,35 @@
+[
+    {
+        "word": "basmati",
+        "phonetic": "/b\u00e6z\u02c8m\u0251\u02d0ti/",
+        "phonetics": [
+            {
+                "text": "/b\u00e6z\u02c8m\u0251\u02d0ti/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A variety of long-grain rice, notable for its fragrance.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [
+                    "basmati rice"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/basmati"
+        ]
+    }
+]

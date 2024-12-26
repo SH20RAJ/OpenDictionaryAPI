@@ -1,0 +1,36 @@
+[
+    {
+        "word": "backasswards",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Oriented backwards, particularly after a mishap.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The car spun out of control and I ended up ass-backwards in a ditch."
+                    },
+                    {
+                        "definition": "Hopelessly misguided; contrary to what is normal, expected, or logical; having taken the utterly wrong choice.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "No wonder it doesn't work. The whole design is ass-backwards."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/ass-backwards",
+            "https://en.wiktionary.org/wiki/back-asswards",
+            "https://en.wiktionary.org/wiki/backasswards"
+        ]
+    }
+]

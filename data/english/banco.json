@@ -1,0 +1,40 @@
+[
+    {
+        "word": "banco",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A bank, especially that of Venice; formerly used to indicate bank money, as distinguished from the current money when it has become depreciated.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "banco money"
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Being or relating to a type of court involving a bench of judges. Quite often, the Banco Court is an appeals court.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/banco"
+        ]
+    }
+]

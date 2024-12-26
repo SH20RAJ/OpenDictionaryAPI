@@ -1,0 +1,31 @@
+[
+    {
+        "word": "bagsy",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To make a verbal claim to.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "I bagsy the top bunk of the bed."
+                    }
+                ],
+                "synonyms": [
+                    "bags",
+                    "shotgun"
+                ],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bagsy"
+        ]
+    }
+]

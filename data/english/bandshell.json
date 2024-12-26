@@ -1,0 +1,27 @@
+[
+    {
+        "word": "bandshell",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A large, outdoor performing venue typically used by bands and orchestras, with the roof protecting musicians from the elements and reflecting the sound towards the audience.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bandshell"
+        ]
+    }
+]

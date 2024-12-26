@@ -1,0 +1,55 @@
+[
+    {
+        "word": "balder",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "adjective",
+                "definitions": [
+                    {
+                        "definition": "Having no hair, fur or feathers.",
+                        "synonyms": [],
+                        "antonyms": [
+                            "faxed",
+                            "haired"
+                        ]
+                    },
+                    {
+                        "definition": "(by extension) Denuded of any hair- or fur-like covering.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "The bald cypress is a tree that loses its leaves in winter."
+                    },
+                    {
+                        "definition": "Of tyres: whose surface is worn away.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(of a statement or account) Unembellished.",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "(of a statement) Without evidence or support being provided.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": [
+                    "faxed",
+                    "haired"
+                ]
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/bald",
+            "https://en.wiktionary.org/wiki/balder"
+        ]
+    }
+]

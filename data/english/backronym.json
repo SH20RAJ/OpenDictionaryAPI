@@ -1,0 +1,45 @@
+[
+    {
+        "word": "backronym",
+        "phonetic": "/\u02c8b\u00e6k.\u0279\u0259\u02ccn\u026am/",
+        "phonetics": [
+            {
+                "text": "/\u02c8b\u00e6k.\u0279\u0259\u02ccn\u026am/",
+                "audio": ""
+            }
+        ],
+        "meanings": [
+            {
+                "partOfSpeech": "noun",
+                "definitions": [
+                    {
+                        "definition": "A word that is originally not an acronym but is turned into one by devising a full form for it, sometimes as a folk etymology, sometimes as a contrived acronym to name a new organization, proposal, or other entity.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            },
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To create a backronym.",
+                        "synonyms": [],
+                        "antonyms": []
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/backronym"
+        ]
+    }
+]

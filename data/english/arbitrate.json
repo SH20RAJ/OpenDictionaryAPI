@@ -1,0 +1,39 @@
+[
+    {
+        "word": "arbitrate",
+        "phonetics": [],
+        "meanings": [
+            {
+                "partOfSpeech": "verb",
+                "definitions": [
+                    {
+                        "definition": "To make a judgment (on a dispute) as an arbitrator or arbiter",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "to arbitrate a disputed case"
+                    },
+                    {
+                        "definition": "To submit (a dispute) to such judgment",
+                        "synonyms": [],
+                        "antonyms": []
+                    },
+                    {
+                        "definition": "To assign an arbitrary value to, or otherwise determine arbitrarily.",
+                        "synonyms": [],
+                        "antonyms": [],
+                        "example": "We wish to show f is continuous. Arbitrate epsilon greater than zero..."
+                    }
+                ],
+                "synonyms": [],
+                "antonyms": []
+            }
+        ],
+        "license": {
+            "name": "CC BY-SA 3.0",
+            "url": "https://creativecommons.org/licenses/by-sa/3.0"
+        },
+        "sourceUrls": [
+            "https://en.wiktionary.org/wiki/arbitrate"
+        ]
+    }
+]
